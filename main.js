@@ -2,8 +2,12 @@
 // 設定
 // =====================
 const PROGRESS_KEY = 'vocabProgress_v3';
+
+// レベル→次回までの日数
 const INTERVALS = { 0: 1, 1: 3, 2: 7, 3: 14, 4: 30 };
-const LEARNED_LEVEL_THRESHOLD = 3; // ★ 1週間レベル以上 = level>=2
+
+// 覚えた判定：レベル3以上（2週間以上）
+const LEARNED_LEVEL_THRESHOLD = 3;
 
 // =====================
 // DOM
@@ -30,7 +34,6 @@ const okBtn = document.getElementById('okBtn');
 const ngBtn = document.getElementById('ngBtn');
 const messageEl = document.getElementById('message');
 
-// ★統計表示
 const learnedCountEl = document.getElementById('learnedCount');
 const totalCountEl = document.getElementById('totalCount');
 const learnedPctEl = document.getElementById('learnedPct');
@@ -57,18 +60,6 @@ function addDays(dateStr, days) {
   return d.toISOString().slice(0, 10);
 }
 
-function shuffle(arr) {
-  const a = arr.slice();
-  for (let i = a.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [a[i], a[j]] = [a[j], a[i]];
-  }
-  return a;
-}
-
-// =====================
-// 発音（音声データ不要）
-// =====================
 function speakWord(text) {
   if (!('speechSynthesis' in window)) return;
   window.speechSynthesis.cancel();
@@ -115,34 +106,40 @@ function normalizeWords(raw) {
   return out;
 }
 
+/**
+ * progress を words と整合させる（新規単語の初期化 + 旧データの拡張）
+ * - streakForgot: 連続で「忘れてた」が押された回数（覚えてたで0に戻す）
+ */
 function mergeProgress() {
   const t = todayStr();
   for (const w of words) {
     if (!progress[w.word]) {
-      progress[w.word] = { level: 0, nextDue: t, lastReviewed: null };
+      progress[w.word] = { level: 0, nextDue: t, lastReviewed: null, streakForgot: 0 };
+    } else {
+      if (typeof progress[w.word].streakForgot !== 'number') progress[w.word].streakForgot = 0;
+      if (typeof progress[w.word].level !== 'number') progress[w.word].level = 0;
+      if (!progress[w.word].nextDue) progress[w.word].nextDue = t;
     }
   }
   saveProgress();
 }
 
 // =====================
-// ★統計更新（憶えた単語：level>=2）
+// 覚えた単語（Lv>=3）カウント
 // =====================
 function updateStats() {
   const total = words.length;
-
   let learned = 0;
+
   for (const w of words) {
     const p = progress[w.word];
     const lv = (p && typeof p.level === 'number') ? p.level : 0;
     if (lv >= LEARNED_LEVEL_THRESHOLD) learned += 1;
   }
 
-  learnedCountEl.textContent = String(learned);
-  totalCountEl.textContent = String(total);
-
-  const pct = total > 0 ? Math.round((learned / total) * 100) : 0;
-  learnedPctEl.textContent = String(pct);
+  if (learnedCountEl) learnedCountEl.textContent = String(learned);
+  if (totalCountEl) totalCountEl.textContent = String(total);
+  if (learnedPctEl) learnedPctEl.textContent = String(total > 0 ? Math.round((learned / total) * 100) : 0);
 }
 
 // =====================
@@ -164,17 +161,32 @@ async function loadWordsJson() {
 }
 
 // =====================
-// 「覚えてない単語」＝ nextDue <= 今日（新規も含む）
-// 全部出す・ランダム
+// 出題キュー構築
+// - due（nextDue<=今日）のみ
+// - streakForgot が多いほど優先
+// - 同点はランダム
 // =====================
 function buildQueue() {
   const t = todayStr();
+
   const due = words.filter(w => {
     const p = progress[w.word];
     if (!p || !p.nextDue) return true;
     return p.nextDue <= t;
   });
-  return shuffle(due);
+
+  const withRand = due.map(w => {
+    const p = progress[w.word] || {};
+    const streak = (typeof p.streakForgot === 'number') ? p.streakForgot : 0;
+    return { w, streak, r: Math.random() };
+  });
+
+  withRand.sort((a, b) => {
+    if (b.streak !== a.streak) return b.streak - a.streak;
+    return a.r - b.r;
+  });
+
+  return withRand.map(x => x.w);
 }
 
 // =====================
@@ -216,6 +228,7 @@ function showQuestion() {
   enableQuestionButtons();
 }
 
+// ★答え表示と同時に自動発音（ボタン発音も残す）
 function showAnswer() {
   if (idx < 0 || idx >= queue.length) return;
   const q = queue[idx];
@@ -235,6 +248,7 @@ function showAnswer() {
 
   answerBox.style.display = 'block';
 
+  // ボタン/タップでの発音も維持
   setTimeout(() => {
     const btn = document.getElementById('speakBtn');
     const wordTap = document.getElementById('wordTap');
@@ -244,6 +258,9 @@ function showAnswer() {
 
   okBtn.disabled = false;
   ngBtn.disabled = false;
+
+  // 自動発音（「答えを表示」クリックの直後なので通りやすい）
+  speakWord(q.word);
 }
 
 // =====================
@@ -253,7 +270,7 @@ function markOK() {
   if (idx < 0 || idx >= queue.length) return;
   const q = queue[idx];
   const t = todayStr();
-  const p = progress[q.word] || { level: 0, nextDue: t, lastReviewed: null };
+  const p = progress[q.word] || { level: 0, nextDue: t, lastReviewed: null, streakForgot: 0 };
 
   const prev = typeof p.level === 'number' ? p.level : 0;
   const nextLevel = Math.min(prev + 1, 4);
@@ -262,12 +279,14 @@ function markOK() {
   p.lastReviewed = t;
   p.nextDue = addDays(t, INTERVALS[nextLevel]);
 
+  // 一度「覚えてた」を押したら連続忘れ回数をリセット
+  p.streakForgot = 0;
+
   progress[q.word] = p;
   saveProgress();
 
   messageEl.textContent = `OK：レベル ${prev} → ${nextLevel}（次回 ${p.nextDue}）`;
 
-  // ★統計を即更新
   updateStats();
 
   idx += 1;
@@ -278,18 +297,25 @@ function markNG() {
   if (idx < 0 || idx >= queue.length) return;
   const q = queue[idx];
   const t = todayStr();
-  const p = progress[q.word] || { level: 0, nextDue: t, lastReviewed: null };
+  const p = progress[q.word] || { level: 0, nextDue: t, lastReviewed: null, streakForgot: 0 };
 
+  // 忘れたらレベル0
   p.level = 0;
   p.lastReviewed = t;
-  p.nextDue = addDays(t, 1); // 翌日
+
+  // ★要求：レベル0は同日中でも出る
+  // nextDue を「今日」にすることで、同日中も due 条件(nextDue<=today)を満たす
+  p.nextDue = t;
+
+  // ★連続忘れ回数を加算（優先出題に使う）
+  const cur = (typeof p.streakForgot === 'number') ? p.streakForgot : 0;
+  p.streakForgot = cur + 1;
 
   progress[q.word] = p;
   saveProgress();
 
-  messageEl.textContent = `NG：レベル 0（翌日 ${p.nextDue}）`;
+  messageEl.textContent = `NG：レベル 0（同日中も再出題） / 連続忘れ: ${p.streakForgot}`;
 
-  // ★統計を即更新
   updateStats();
 
   idx += 1;
@@ -306,7 +332,7 @@ function startSession() {
   }
 
   mergeProgress();
-  updateStats(); // ★開始時にも更新
+  updateStats();
 
   queue = buildQueue();
   idx = 0;
@@ -324,11 +350,11 @@ function startSession() {
 // 進捗リセット
 // =====================
 function resetProgress() {
-  if (!confirm('この端末の復習履歴（level/次回日付）をすべて削除します。よろしいですか？')) return;
+  if (!confirm('この端末の復習履歴（level/次回日付/連続忘れ）をすべて削除します。よろしいですか？')) return;
   localStorage.removeItem(PROGRESS_KEY);
   loadProgress();
   mergeProgress();
-  updateStats(); // ★リセット後にも更新
+  updateStats();
   sessionStatus.textContent = '準備完了（復習履歴をリセットしました）';
   resetQuizUI();
 }
@@ -349,7 +375,7 @@ ngBtn.addEventListener('click', markNG);
   loadProgress();
   await loadWordsJson();
   mergeProgress();
-  updateStats(); // ★初期表示
+  updateStats();
   sessionStatus.textContent = words.length > 0 ? '準備完了（セッション開始できます）' : '単語データなし';
   resetQuizUI();
 })();
