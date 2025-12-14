@@ -34,14 +34,13 @@
       <option value="meaning-to-en">意味 → 英</option>
     </select>
 
-    <button class="primary" id="startBtn">セッション開始（覚えてない単語を全部・ランダム）</button>
+    <button class="primary" id="startBtn">セッション開始（覚えてない単語を全部・優先＋ランダム）</button>
     <button class="secondary" id="resetBtn">復習履歴をリセット（この端末のみ）</button>
 
     <div class="status" id="setupStatus">準備中...</div>
 
-    <!-- ★追加：統計表示 -->
     <div class="stats" id="statsLine">
-      憶えた単語（1週間以上）: <b id="learnedCount">0</b> / <span id="totalCount">0</span>
+      憶えた単語（2週間以上）: <b id="learnedCount">0</b> / <span id="totalCount">0</span>
       （<span id="learnedPct">0</span>%）
     </div>
 
@@ -52,7 +51,7 @@
     <div class="status" id="sessionStatus">-</div>
     <div class="prompt" id="prompt"></div>
 
-    <button class="secondary" id="showAnswerBtn" disabled>答えを表示</button>
+    <button class="secondary" id="showAnswerBtn" disabled>答えを表示（同時に発音）</button>
 
     <div class="answer" id="answerBox">
       <div id="answerWord"></div>
