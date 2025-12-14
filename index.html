@@ -21,6 +21,7 @@
     .answer { border-top: 1px solid #ddd; padding-top: 10px; margin-top: 10px; display: none; }
     .answer div { margin: 6px 0; word-break: break-word; }
     .mini { font-size: 0.85rem; color: #666; margin-top: 6px; }
+    .stats { font-size: 0.95rem; color: #444; margin-top: 8px; }
   </style>
 </head>
 <body>
@@ -37,6 +38,13 @@
     <button class="secondary" id="resetBtn">復習履歴をリセット（この端末のみ）</button>
 
     <div class="status" id="setupStatus">準備中...</div>
+
+    <!-- ★追加：統計表示 -->
+    <div class="stats" id="statsLine">
+      憶えた単語（1週間以上）: <b id="learnedCount">0</b> / <span id="totalCount">0</span>
+      （<span id="learnedPct">0</span>%）
+    </div>
+
     <div class="mini">ExcelはGitHubにアップロードすると自動で反映されます（data/words.xlsx → words.json）。</div>
   </div>
 
