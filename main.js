@@ -47,19 +47,33 @@ let queue = [];
 let idx = -1;
 
 // =====================
-// ユーティリティ
+// 日付（重要：JST/ローカル基準）
 // =====================
+function pad2(n) { return String(n).padStart(2, '0'); }
+
+// ★ローカル（日本時間）の YYYY-MM-DD
 function todayStr() {
   const d = new Date();
-  return d.toISOString().slice(0, 10); // YYYY-MM-DD
+  const y = d.getFullYear();
+  const m = pad2(d.getMonth() + 1);
+  const day = pad2(d.getDate());
+  return `${y}-${m}-${day}`;
 }
 
+// ★YYYY-MM-DD をローカル日付として解釈して days 日後を返す
 function addDays(dateStr, days) {
-  const d = new Date(dateStr);
-  d.setDate(d.getDate() + days);
-  return d.toISOString().slice(0, 10);
+  const [y, m, d] = dateStr.split('-').map(Number);
+  const dt = new Date(y, m - 1, d); // ローカル
+  dt.setDate(dt.getDate() + days);
+  const yy = dt.getFullYear();
+  const mm = pad2(dt.getMonth() + 1);
+  const dd = pad2(dt.getDate());
+  return `${yy}-${mm}-${dd}`;
 }
 
+// =====================
+// 発音（音声データ不要）
+// =====================
 function speakWord(text) {
   if (!('speechSynthesis' in window)) return;
   window.speechSynthesis.cancel();
@@ -248,7 +262,6 @@ function showAnswer() {
 
   answerBox.style.display = 'block';
 
-  // ボタン/タップでの発音も維持
   setTimeout(() => {
     const btn = document.getElementById('speakBtn');
     const wordTap = document.getElementById('wordTap');
@@ -304,7 +317,7 @@ function markNG() {
   p.lastReviewed = t;
 
   // ★要求：レベル0は同日中でも出る
-  // nextDue を「今日」にすることで、同日中も due 条件(nextDue<=today)を満たす
+  // nextDue を「今日」にする（due判定 nextDue<=today を満たす）
   p.nextDue = t;
 
   // ★連続忘れ回数を加算（優先出題に使う）
