@@ -13,12 +13,12 @@ OUT_JSON  = ROOT / "words.json"
 
 # 列名のゆらぎを吸収するマッピング
 COL_CANDIDATES = {
-    "word": ["単語", "word", "Word", "WORD"],
+    "word": ["单词", "単語", "word", "Word", "WORD"],
     "pos": ["词性", "品詞", "pos", "POS"],
     "phonetic": ["音标", "phonetic", "Phonetic"],
     "meaning": ["词义", "意味", "meaning", "Meaning"],
     "example": ["例句", "例文", "example", "Example"],
-    "position": ["单词量", "单词量位置", "位置", "position", "Position"],
+    "position": ["单词量", "単語量", "单词量位置", "位置", "position", "Position"],
 }
 
 
