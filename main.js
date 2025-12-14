@@ -1,15 +1,48 @@
 // =====================
-// 定数
+// 設定
 // =====================
-const STORAGE_KEY = 'vocabProgress_v1';
+const PROGRESS_KEY = 'vocabProgress_v3';
 const INTERVALS = { 0: 1, 1: 3, 2: 7, 3: 14, 4: 30 };
+
+// =====================
+// DOM
+// =====================
+const modeSelect = document.getElementById('modeSelect');
+const startBtn = document.getElementById('startBtn');
+const resetBtn = document.getElementById('resetBtn');
+
+const setupStatus = document.getElementById('setupStatus');
+const sessionStatus = document.getElementById('sessionStatus');
+const promptEl = document.getElementById('prompt');
+
+const showAnswerBtn = document.getElementById('showAnswerBtn');
+const answerBox = document.getElementById('answerBox');
+
+const answerWord = document.getElementById('answerWord');
+const answerPos = document.getElementById('answerPos');
+const answerPhonetic = document.getElementById('answerPhonetic');
+const answerMeaning = document.getElementById('answerMeaning');
+const answerExample = document.getElementById('answerExample');
+const answerPosition = document.getElementById('answerPosition');
+
+const okBtn = document.getElementById('okBtn');
+const ngBtn = document.getElementById('ngBtn');
+const messageEl = document.getElementById('message');
+
+// =====================
+// 状態
+// =====================
+let words = [];
+let progress = {};
+let queue = [];
+let idx = -1;
 
 // =====================
 // ユーティリティ
 // =====================
-function today() {
+function todayStr() {
   const d = new Date();
-  return d.toISOString().slice(0, 10);
+  return d.toISOString().slice(0, 10); // YYYY-MM-DD
 }
 
 function addDays(dateStr, days) {
@@ -19,197 +52,270 @@ function addDays(dateStr, days) {
 }
 
 function shuffle(arr) {
-  return arr.slice().sort(() => Math.random() - 0.5);
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
 }
 
 // =====================
-// 発音（Web Speech API）
+// 発音（音声データ不要）
 // =====================
 function speakWord(text) {
   if (!('speechSynthesis' in window)) return;
-  speechSynthesis.cancel();
+  window.speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
   u.lang = 'en-US';
   u.rate = 0.9;
-  speechSynthesis.speak(u);
+  u.pitch = 1.0;
+  window.speechSynthesis.speak(u);
 }
 
 // =====================
-// グローバル状態
-// =====================
-let words = [];
-let progress = {};
-let queue = [];
-let index = 0;
-
-// =====================
-// DOM
-// =====================
-const modeSelect = document.getElementById('modeSelect');
-const maxQ = document.getElementById('maxQuestions');
-const posFrom = document.getElementById('posFrom');
-const posTo = document.getElementById('posTo');
-const startBtn = document.getElementById('startBtn');
-const setupStatus = document.getElementById('setupStatus');
-
-const sessionStatus = document.getElementById('sessionStatus');
-const prompt = document.getElementById('prompt');
-const showAnswerBtn = document.getElementById('showAnswerBtn');
-const answerBox = document.getElementById('answerBox');
-const answerWord = document.getElementById('answerWord');
-const answerPhonetic = document.getElementById('answerPhonetic');
-const answerMeaning = document.getElementById('answerMeaning');
-const answerExample = document.getElementById('answerExample');
-const okBtn = document.getElementById('okBtn');
-const ngBtn = document.getElementById('ngBtn');
-const message = document.getElementById('message');
-
-// =====================
-// 進捗管理
+// 進捗
 // =====================
 function loadProgress() {
-  progress = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+  try {
+    progress = JSON.parse(localStorage.getItem(PROGRESS_KEY) || '{}');
+  } catch {
+    progress = {};
+  }
 }
 
 function saveProgress() {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+  localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
 }
 
 // =====================
-// 単語ロード
+// words 正規化
 // =====================
-async function loadWords() {
-  try {
-    const res = await fetch('words.json');
-    words = await res.json();
-    loadProgress();
-
-    const t = today();
-    let maxPos = 1;
-
-    words.forEach(w => {
-      if (!progress[w.word]) {
-        progress[w.word] = { level: 0, next: t };
-      }
-      if (w.position > maxPos) maxPos = w.position;
+function normalizeWords(raw) {
+  const out = [];
+  for (const w of raw) {
+    if (!w) continue;
+    const word = String(w.word ?? '').trim();
+    if (!word) continue;
+    out.push({
+      word,
+      pos: String(w.pos ?? '').trim(),
+      phonetic: String(w.phonetic ?? '').trim(),
+      meaning: String(w.meaning ?? '').trim(),
+      example: String(w.example ?? '').trim(),
+      position: (w.position === null || w.position === undefined || w.position === '') ? null : Number(w.position)
     });
-
-    posTo.value = maxPos;
-    saveProgress();
-    sessionStatus.textContent = '準備完了';
-  } catch {
-    sessionStatus.textContent = 'words.json 読み込み失敗';
   }
+  return out;
+}
+
+function mergeProgress() {
+  const t = todayStr();
+  for (const w of words) {
+    if (!progress[w.word]) {
+      progress[w.word] = { level: 0, nextDue: t, lastReviewed: null };
+    }
+  }
+  saveProgress();
+}
+
+// =====================
+// データロード（words.json）
+// =====================
+async function loadWordsJson() {
+  setupStatus.textContent = 'words.json 読み込み中...';
+  try {
+    // GitHub Pages のキャッシュを避けたいので no-store
+    const res = await fetch('words.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    words = normalizeWords(Array.isArray(data) ? data : []);
+    setupStatus.textContent = `準備完了：${words.length}語（GitHubの最新 words.json）`;
+  } catch (e) {
+    console.error(e);
+    words = [];
+    setupStatus.textContent = 'words.json の読み込みに失敗しました。Actionsで生成できているか確認してください。';
+  }
+}
+
+// =====================
+// 「覚えてない単語」＝ nextDue <= 今日（新規も含む）
+// 全部出す・ランダム
+// =====================
+function buildQueue() {
+  const t = todayStr();
+  const due = words.filter(w => {
+    const p = progress[w.word];
+    if (!p || !p.nextDue) return true;
+    return p.nextDue <= t;
+  });
+  return shuffle(due);
+}
+
+// =====================
+// UI
+// =====================
+function resetQuizUI() {
+  promptEl.textContent = '';
+  answerBox.style.display = 'none';
+  messageEl.textContent = '';
+  showAnswerBtn.disabled = true;
+  okBtn.disabled = true;
+  ngBtn.disabled = true;
+}
+
+function enableQuestionButtons() {
+  showAnswerBtn.disabled = false;
+  okBtn.disabled = true;
+  ngBtn.disabled = true;
+}
+
+function showQuestion() {
+  answerBox.style.display = 'none';
+  messageEl.textContent = '';
+
+  if (idx < 0 || idx >= queue.length) {
+    sessionStatus.textContent = 'セッション終了（今日の復習対象はすべて完了）';
+    resetQuizUI();
+    return;
+  }
+
+  const q = queue[idx];
+  sessionStatus.textContent = `復習対象：${queue.length}語（${idx + 1}/${queue.length}）`;
+
+  promptEl.textContent =
+    modeSelect.value === 'en-to-meaning'
+      ? q.word
+      : (q.meaning || '(意味未設定)');
+
+  enableQuestionButtons();
+}
+
+function showAnswer() {
+  if (idx < 0 || idx >= queue.length) return;
+  const q = queue[idx];
+
+  answerWord.innerHTML = `単語: <b id="wordTap">${q.word}</b> <button id="speakBtn">🔊</button>`;
+  answerPos.textContent = q.pos ? `词性: ${q.pos}` : '';
+  answerPhonetic.textContent = q.phonetic ? `音标: ${q.phonetic}` : '';
+  answerMeaning.textContent = q.meaning ? `词义: ${q.meaning}` : '';
+  answerExample.textContent = q.example ? `例句: ${q.example}` : '';
+  answerPosition.textContent = (q.position !== null && !Number.isNaN(q.position)) ? `单词量位置: ${q.position}` : '';
+
+  answerPos.style.display = q.pos ? '' : 'none';
+  answerPhonetic.style.display = q.phonetic ? '' : 'none';
+  answerMeaning.style.display = q.meaning ? '' : 'none';
+  answerExample.style.display = q.example ? '' : 'none';
+  answerPosition.style.display = (q.position !== null && !Number.isNaN(q.position)) ? '' : 'none';
+
+  answerBox.style.display = 'block';
+
+  // iOS対策：必ずユーザー操作で speak を呼ぶ
+  setTimeout(() => {
+    const btn = document.getElementById('speakBtn');
+    const wordTap = document.getElementById('wordTap');
+    if (btn) btn.onclick = () => speakWord(q.word);
+    if (wordTap) wordTap.onclick = () => speakWord(q.word);
+  }, 0);
+
+  okBtn.disabled = false;
+  ngBtn.disabled = false;
+}
+
+// =====================
+// SRS 更新
+// =====================
+function markOK() {
+  if (idx < 0 || idx >= queue.length) return;
+  const q = queue[idx];
+  const t = todayStr();
+  const p = progress[q.word] || { level: 0, nextDue: t, lastReviewed: null };
+
+  const prev = typeof p.level === 'number' ? p.level : 0;
+  const nextLevel = Math.min(prev + 1, 4);
+
+  p.level = nextLevel;
+  p.lastReviewed = t;
+  p.nextDue = addDays(t, INTERVALS[nextLevel]);
+
+  progress[q.word] = p;
+  saveProgress();
+
+  messageEl.textContent = `OK：レベル ${prev} → ${nextLevel}（次回 ${p.nextDue}）`;
+
+  idx += 1;
+  showQuestion();
+}
+
+function markNG() {
+  if (idx < 0 || idx >= queue.length) return;
+  const q = queue[idx];
+  const t = todayStr();
+  const p = progress[q.word] || { level: 0, nextDue: t, lastReviewed: null };
+
+  p.level = 0;
+  p.lastReviewed = t;
+  p.nextDue = addDays(t, 1); // 翌日
+
+  progress[q.word] = p;
+  saveProgress();
+
+  messageEl.textContent = `NG：レベル 0（翌日 ${p.nextDue}）`;
+
+  idx += 1;
+  showQuestion();
 }
 
 // =====================
 // セッション開始
 // =====================
 function startSession() {
-  const from = Number(posFrom.value);
-  const to = Number(posTo.value);
-  const max = Number(maxQ.value);
-  const t = today();
-
-  let candidates = words.filter(w =>
-    w.position >= from && w.position <= to &&
-    progress[w.word].next <= t
-  );
-
-  if (candidates.length === 0) {
-    candidates = words.filter(w => w.position >= from && w.position <= to);
-    setupStatus.textContent = '復習期限の単語なし。範囲内から出題します。';
+  if (!words || words.length === 0) {
+    setupStatus.textContent = '単語データがありません。data/words.xlsx をアップしてActionsで words.json を生成してください。';
+    return;
   }
 
-  queue = shuffle(candidates).slice(0, max);
-  index = 0;
+  mergeProgress();
+  queue = buildQueue();
+  idx = 0;
 
   if (queue.length === 0) {
-    sessionStatus.textContent = '出題単語なし';
+    sessionStatus.textContent = '今日は復習期限の単語がありません（新規も含め0）';
+    resetQuizUI();
     return;
   }
 
-  next();
+  showQuestion();
 }
 
 // =====================
-// 出題
+// 進捗リセット
 // =====================
-function next() {
-  answerBox.style.display = 'none';
-  okBtn.disabled = ngBtn.disabled = true;
-  showAnswerBtn.disabled = false;
-  message.textContent = '';
-
-  if (index >= queue.length) {
-    sessionStatus.textContent = 'セッション終了';
-    prompt.textContent = '';
-    return;
-  }
-
-  const q = queue[index];
-  sessionStatus.textContent = `問題 ${index + 1} / ${queue.length}`;
-
-  prompt.textContent =
-    modeSelect.value === 'en-to-meaning' ? q.word : q.meaning;
-}
-
-// =====================
-// 答え表示（発音付き）
-// =====================
-function showAnswer() {
-  const q = queue[index];
-
-  answerWord.innerHTML =
-    `単語: <b>${q.word}</b> <button id="speakBtn">🔊</button>`;
-  answerPhonetic.textContent = q.phonetic ? `音标: ${q.phonetic}` : '';
-  answerMeaning.textContent = q.meaning ? `意义: ${q.meaning}` : '';
-  answerExample.textContent = q.example ? `例句: ${q.example}` : '';
-
-  answerBox.style.display = 'block';
-
-  document.getElementById('speakBtn').onclick = () => speakWord(q.word);
-
-  okBtn.disabled = ngBtn.disabled = false;
-}
-
-// =====================
-// 正解
-// =====================
-function markOK() {
-  const q = queue[index];
-  const p = progress[q.word];
-  p.level = Math.min(p.level + 1, 4);
-  p.next = addDays(today(), INTERVALS[p.level]);
-  saveProgress();
-
-  message.textContent = `次回: ${p.next}`;
-  index++;
-  next();
-}
-
-// =====================
-// 不正解
-// =====================
-function markNG() {
-  const q = queue[index];
-  const p = progress[q.word];
-  p.level = 0;
-  p.next = addDays(today(), 1);
-  saveProgress();
-
-  message.textContent = `翌日再出題`;
-  index++;
-  next();
+function resetProgress() {
+  if (!confirm('この端末の復習履歴（level/次回日付）をすべて削除します。よろしいですか？')) return;
+  localStorage.removeItem(PROGRESS_KEY);
+  loadProgress();
+  mergeProgress();
+  sessionStatus.textContent = '準備完了（復習履歴をリセットしました）';
+  resetQuizUI();
 }
 
 // =====================
 // イベント
 // =====================
-startBtn.onclick = startSession;
-showAnswerBtn.onclick = showAnswer;
-okBtn.onclick = markOK;
-ngBtn.onclick = markNG;
+startBtn.addEventListener('click', startSession);
+resetBtn.addEventListener('click', resetProgress);
+showAnswerBtn.addEventListener('click', showAnswer);
+okBtn.addEventListener('click', markOK);
+ngBtn.addEventListener('click', markNG);
 
 // =====================
-loadWords();
+// 初期化
+// =====================
+(async function init() {
+  loadProgress();
+  await loadWordsJson();
+  mergeProgress();
+  sessionStatus.textContent = words.length > 0 ? '準備完了（セッション開始できます）' : '単語データなし';
+  resetQuizUI();
+})();
