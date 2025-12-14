@@ -1,144 +1,66 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>英単語復習アプリ</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
-    body {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      margin: 0;
-      padding: 16px;
-      background: #f5f5f5;
-      color: #333;
-    }
-    h1 {
-      font-size: 1.4rem;
-      margin-bottom: 8px;
-      text-align: center;
-    }
-    .card {
-      background: #fff;
-      border-radius: 8px;
-      padding: 12px 16px;
-      margin-bottom: 12px;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-    }
-    label {
-      display: block;
-      margin-bottom: 6px;
-      font-size: 0.9rem;
-    }
-    input, select {
-      width: 100%;
-      padding: 6px 8px;
-      margin-top: 2px;
-      box-sizing: border-box;
-      font-size: 0.9rem;
-    }
-    .row {
-      display: flex;
-      gap: 8px;
-      margin-bottom: 8px;
-    }
-    .row > div {
-      flex: 1;
-    }
-    button {
-      width: 100%;
-      padding: 10px;
-      margin-top: 8px;
-      font-size: 1rem;
-      border: none;
-      border-radius: 6px;
-      cursor: pointer;
-    }
+    body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; margin: 0; padding: 16px; background: #f5f5f5; color: #333; }
+    h1 { font-size: 1.4rem; margin: 10px 0 14px; text-align: center; }
+    .card { background: #fff; border-radius: 10px; padding: 12px 16px; margin-bottom: 12px; box-shadow: 0 1px 4px rgba(0,0,0,0.08); }
+    label { display: block; font-size: 0.9rem; margin-bottom: 6px; }
+    select { width: 100%; padding: 10px; font-size: 1rem; box-sizing: border-box; border-radius: 8px; border: 1px solid #ccc; background: #fff; }
+    button { width: 100%; padding: 12px; margin-top: 10px; font-size: 1.05rem; border: none; border-radius: 8px; cursor: pointer; }
     button.primary { background: #1976d2; color: #fff; }
-    button.secondary { background: #eeeeee; }
-    button.correct { background: #388e3c; color: #fff; }
-    button.wrong { background: #d32f2f; color: #fff; }
-    button:disabled { opacity: 0.6; }
-
-    .prompt {
-      font-size: 1.3rem;
-      font-weight: bold;
-      text-align: center;
-      margin: 12px 0;
-      word-break: break-word;
-    }
-    .answer {
-      border-top: 1px solid #ddd;
-      padding-top: 8px;
-      margin-top: 8px;
-    }
-    .status, .message {
-      font-size: 0.85rem;
-      color: #555;
-      min-height: 1.5em;
-    }
+    button.secondary { background: #eee; color: #333; }
+    button.correct { background: #2e7d32; color: #fff; }
+    button.wrong { background: #c62828; color: #fff; }
+    button:disabled { opacity: 0.6; cursor: default; }
+    .status, .message { font-size: 0.9rem; color: #555; min-height: 1.4em; margin-top: 6px; }
+    .prompt { font-size: 1.35rem; font-weight: 700; text-align: center; margin: 14px 0 10px; word-break: break-word; min-height: 2.2em; }
+    .answer { border-top: 1px solid #ddd; padding-top: 10px; margin-top: 10px; display: none; }
+    .answer div { margin: 6px 0; word-break: break-word; }
+    .mini { font-size: 0.85rem; color: #666; margin-top: 6px; }
   </style>
 </head>
 <body>
+  <h1>英単語復習アプリ</h1>
 
-<h1>英単語復習アプリ</h1>
+  <div class="card">
+    <label>出題方向</label>
+    <select id="modeSelect">
+      <option value="en-to-meaning">英 → 意味</option>
+      <option value="meaning-to-en">意味 → 英</option>
+    </select>
 
-<div class="card">
-  <div class="row">
-    <div>
-      <label>
-        出題方向
-        <select id="modeSelect">
-          <option value="en-to-meaning">英 → 意味</option>
-          <option value="meaning-to-en">意味 → 英</option>
-        </select>
-      </label>
-    </div>
-    <div>
-      <label>
-        出題数
-        <input type="number" id="maxQuestions" value="20" min="1">
-      </label>
-    </div>
+    <button class="primary" id="startBtn">セッション開始（覚えてない単語を全部・ランダム）</button>
+    <button class="secondary" id="resetBtn">復習履歴をリセット（この端末のみ）</button>
+
+    <div class="status" id="setupStatus">準備中...</div>
+    <div class="mini">ExcelはGitHubにアップロードすると自動で反映されます（data/words.xlsx → words.json）。</div>
   </div>
 
-  <div class="row">
-    <div>
-      <label>
-        position From
-        <input type="number" id="posFrom" value="1" min="1">
-      </label>
+  <div class="card">
+    <div class="status" id="sessionStatus">-</div>
+    <div class="prompt" id="prompt"></div>
+
+    <button class="secondary" id="showAnswerBtn" disabled>答えを表示</button>
+
+    <div class="answer" id="answerBox">
+      <div id="answerWord"></div>
+      <div id="answerPos"></div>
+      <div id="answerPhonetic"></div>
+      <div id="answerMeaning"></div>
+      <div id="answerExample"></div>
+      <div id="answerPosition"></div>
     </div>
-    <div>
-      <label>
-        position To
-        <input type="number" id="posTo" value="9999" min="1">
-      </label>
-    </div>
+
+    <button class="correct" id="okBtn" disabled>覚えてた</button>
+    <button class="wrong" id="ngBtn" disabled>忘れてた</button>
+
+    <div class="message" id="message"></div>
   </div>
 
-  <button class="primary" id="startBtn">セッション開始</button>
-  <div class="status" id="setupStatus"></div>
-</div>
-
-<div class="card">
-  <div class="status" id="sessionStatus">単語データ読み込み中...</div>
-  <div class="prompt" id="prompt"></div>
-
-  <button class="secondary" id="showAnswerBtn" disabled>答えを表示</button>
-
-  <div class="answer" id="answerBox" style="display:none;">
-    <div id="answerWord"></div>
-    <div id="answerPhonetic"></div>
-    <div id="answerMeaning"></div>
-    <div id="answerExample"></div>
-  </div>
-
-  <button class="correct" id="okBtn" disabled>覚えてた</button>
-  <button class="wrong" id="ngBtn" disabled>忘れてた</button>
-
-  <div class="message" id="message"></div>
-</div>
-
-<script src="main.js"></script>
+  <script src="main.js"></script>
 </body>
 </html>
