@@ -18,7 +18,7 @@ COL_CANDIDATES = {
     "phonetic": ["音标", "phonetic", "Phonetic"],
     "meaning": ["词义", "意味", "meaning", "Meaning"],
     "example": ["例句", "例文", "example", "Example"],
-    "position": ["单词量位置", "位置", "position", "Position"],
+    "position": ["单词量", "单词量位置", "位置", "position", "Position"],
 }
 
 
