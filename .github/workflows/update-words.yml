@@ -44,3 +44,4 @@ jobs:
           git add words.json
           git commit -m "Update words.json from Excel"
           git push
+
