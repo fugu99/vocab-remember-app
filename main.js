@@ -3,6 +3,7 @@
 // =====================
 const PROGRESS_KEY = 'vocabProgress_v3';
 const INTERVALS = { 0: 1, 1: 3, 2: 7, 3: 14, 4: 30 };
+const LEARNED_LEVEL_THRESHOLD = 3; // ★ 1週間レベル以上 = level>=2
 
 // =====================
 // DOM
@@ -28,6 +29,11 @@ const answerPosition = document.getElementById('answerPosition');
 const okBtn = document.getElementById('okBtn');
 const ngBtn = document.getElementById('ngBtn');
 const messageEl = document.getElementById('message');
+
+// ★統計表示
+const learnedCountEl = document.getElementById('learnedCount');
+const totalCountEl = document.getElementById('totalCount');
+const learnedPctEl = document.getElementById('learnedPct');
 
 // =====================
 // 状態
@@ -120,12 +126,31 @@ function mergeProgress() {
 }
 
 // =====================
+// ★統計更新（憶えた単語：level>=2）
+// =====================
+function updateStats() {
+  const total = words.length;
+
+  let learned = 0;
+  for (const w of words) {
+    const p = progress[w.word];
+    const lv = (p && typeof p.level === 'number') ? p.level : 0;
+    if (lv >= LEARNED_LEVEL_THRESHOLD) learned += 1;
+  }
+
+  learnedCountEl.textContent = String(learned);
+  totalCountEl.textContent = String(total);
+
+  const pct = total > 0 ? Math.round((learned / total) * 100) : 0;
+  learnedPctEl.textContent = String(pct);
+}
+
+// =====================
 // データロード（words.json）
 // =====================
 async function loadWordsJson() {
   setupStatus.textContent = 'words.json 読み込み中...';
   try {
-    // GitHub Pages のキャッシュを避けたいので no-store
     const res = await fetch('words.json', { cache: 'no-store' });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
@@ -210,7 +235,6 @@ function showAnswer() {
 
   answerBox.style.display = 'block';
 
-  // iOS対策：必ずユーザー操作で speak を呼ぶ
   setTimeout(() => {
     const btn = document.getElementById('speakBtn');
     const wordTap = document.getElementById('wordTap');
@@ -243,6 +267,9 @@ function markOK() {
 
   messageEl.textContent = `OK：レベル ${prev} → ${nextLevel}（次回 ${p.nextDue}）`;
 
+  // ★統計を即更新
+  updateStats();
+
   idx += 1;
   showQuestion();
 }
@@ -262,6 +289,9 @@ function markNG() {
 
   messageEl.textContent = `NG：レベル 0（翌日 ${p.nextDue}）`;
 
+  // ★統計を即更新
+  updateStats();
+
   idx += 1;
   showQuestion();
 }
@@ -276,6 +306,8 @@ function startSession() {
   }
 
   mergeProgress();
+  updateStats(); // ★開始時にも更新
+
   queue = buildQueue();
   idx = 0;
 
@@ -296,6 +328,7 @@ function resetProgress() {
   localStorage.removeItem(PROGRESS_KEY);
   loadProgress();
   mergeProgress();
+  updateStats(); // ★リセット後にも更新
   sessionStatus.textContent = '準備完了（復習履歴をリセットしました）';
   resetQuizUI();
 }
@@ -316,6 +349,7 @@ ngBtn.addEventListener('click', markNG);
   loadProgress();
   await loadWordsJson();
   mergeProgress();
+  updateStats(); // ★初期表示
   sessionStatus.textContent = words.length > 0 ? '準備完了（セッション開始できます）' : '単語データなし';
   resetQuizUI();
 })();
