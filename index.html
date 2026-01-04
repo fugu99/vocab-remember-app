@@ -22,6 +22,9 @@
     .answer div { margin: 6px 0; word-break: break-word; }
     .mini { font-size: 0.85rem; color: #666; margin-top: 6px; }
     .stats { font-size: 0.95rem; color: #444; margin-top: 8px; }
+    .kv { background:#fafafa; border:1px solid #eee; border-radius:8px; padding:8px 10px; }
+    .kv-item { margin: 6px 0; }
+    .kv-key { font-weight: 700; }
   </style>
 </head>
 <body>
@@ -60,6 +63,9 @@
       <div id="answerMeaning"></div>
       <div id="answerExample"></div>
       <div id="answerPosition"></div>
+
+      <!-- ★追加：増えた情報（extra） -->
+      <div id="answerExtra" class="kv"></div>
     </div>
 
     <button class="correct" id="okBtn" disabled>覚えてた</button>
