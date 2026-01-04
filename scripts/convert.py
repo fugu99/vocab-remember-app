@@ -6,17 +6,16 @@ import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_XLSX = ROOT / "data" / "words.xlsx"
-DATA_CSV  = ROOT / "data" / "words.csv"   # 任意（xlsxが無い場合）
+DATA_CSV  = ROOT / "data" / "words.csv"   # 任意
 OUT_JSON  = ROOT / "words.json"
 
+# 既知の列名揺れ（ここは従来どおり）
 COL_CANDIDATES = {
-    # 単語列：中/日/英を許容
     "word": ["单词", "單詞", "単語", "word", "Word", "WORD"],
     "pos": ["词性", "詞性", "品詞", "pos", "POS"],
     "phonetic": ["音标", "音標", "phonetic", "Phonetic"],
     "meaning": ["词义", "詞義", "意味", "meaning", "Meaning"],
     "example": ["例句", "例文", "example", "Example"],
-    # 単語量（位置）
     "position": ["单词量", "單詞量", "単語量", "单词量位置", "位置", "position", "Position"],
 }
 
@@ -40,8 +39,16 @@ def clean_number(x):
     except Exception:
         return None
 
+def is_blank(x) -> bool:
+    if x is None:
+        return True
+    if isinstance(x, float) and math.isnan(x):
+        return True
+    s = str(x).strip()
+    return (s == "" or s.lower() == "nan")
+
 def read_excel_with_header_guess(path: Path) -> pd.DataFrame:
-    # header 行がズレていても拾えるように 0,1,2 行目を試す
+    # header行ズレ対策：0,1,2行目を試す
     last_err = None
     for hdr in [0, 1, 2]:
         try:
@@ -51,7 +58,10 @@ def read_excel_with_header_guess(path: Path) -> pd.DataFrame:
                 return df
         except Exception as e:
             last_err = e
-    raise ValueError("Excelのヘッダ行を特定できませんでした（0〜2行目を試行）。最上段付近に『单词/単語/word』があるか確認してください。") from last_err
+    raise ValueError(
+        "Excelのヘッダ行を特定できませんでした（0〜2行目を試行）。"
+        "最上段付近に『单词/単語/word』があるか確認してください。"
+    ) from last_err
 
 def main():
     if DATA_XLSX.exists():
@@ -62,6 +72,9 @@ def main():
     else:
         raise FileNotFoundError("data/words.xlsx（または data/words.csv）が見つかりません。")
 
+    # 列名strip
+    df.columns = [str(c).strip() for c in df.columns]
+
     col_word = pick_column(df, COL_CANDIDATES["word"])
     if col_word is None:
         raise ValueError("単語列（单词/単語/word）が見つかりません。Excelのヘッダを確認してください。")
@@ -71,6 +84,8 @@ def main():
     col_mean  = pick_column(df, COL_CANDIDATES["meaning"])
     col_ex    = pick_column(df, COL_CANDIDATES["example"])
     col_posi  = pick_column(df, COL_CANDIDATES["position"])
+
+    known_cols = {c for c in [col_word, col_pos, col_pho, col_mean, col_ex, col_posi] if c is not None}
 
     records = []
     for _, row in df.iterrows():
@@ -85,16 +100,28 @@ def main():
             "meaning": "" if col_mean is None else str(row.get(col_mean, "")).strip(),
             "example": "" if col_ex is None else str(row.get(col_ex, "")).strip(),
             "position": None if col_posi is None else clean_number(row.get(col_posi, None)),
+            # ★追加：増えた列は全部ここに入れる（空は除外）
+            "extra": {}
         }
+
+        # 既知以外の列を extra へ
+        for col in df.columns:
+            if col in known_cols:
+                continue
+            v = row.get(col, None)
+            if is_blank(v):
+                continue
+            rec["extra"][str(col).strip()] = str(v).strip()
+
         records.append(rec)
 
-    # word 重複は後勝ち（Excelで後の行を優先）
+    # word重複は後勝ち（Excelで後の行を優先）
     dedup = {}
     for r in records:
         dedup[r["word"]] = r
     records = list(dedup.values())
 
-    # position があるものは position順 → ないものは最後 → word順
+    # positionがあるものはposition順 → ないものは最後 → word順
     records.sort(key=lambda r: (r["position"] is None, r["position"] if r["position"] is not None else 10**18, r["word"].lower()))
 
     OUT_JSON.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
