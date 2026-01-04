@@ -1,21 +1,24 @@
 import json
 import math
 from pathlib import Path
-
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_XLSX = ROOT / "data" / "words.xlsx"
-DATA_CSV  = ROOT / "data" / "words.csv"   # 任意
+DATA_CSV  = ROOT / "data" / "words.csv"   # 任意（xlsxが無い場合）
 OUT_JSON  = ROOT / "words.json"
 
-# 既知の列名揺れ（ここは従来どおり）
+# 既知の列名揺れ（今回の新ヘッダもここに追加）
 COL_CANDIDATES = {
     "word": ["单词", "單詞", "単語", "word", "Word", "WORD"],
     "pos": ["词性", "詞性", "品詞", "pos", "POS"],
     "phonetic": ["音标", "音標", "phonetic", "Phonetic"],
     "meaning": ["词义", "詞義", "意味", "meaning", "Meaning"],
-    "example": ["例句", "例文", "example", "Example"],
+    "example": ["例句或情景", "例句", "例文", "example", "Example"],
+    "collocation": ["常见搭配", "常用搭配", "搭配", "collocation", "Collocation"],
+    "roots": ["词根词缀,词词尾", "词根词缀", "詞根詞綴", "词根词缀/词尾", "词根词缀・词尾", "roots", "Roots"],
+    "inflection": ["单词变形", "變形", "活用", "inflection", "Inflection"],
+    "related": ["相关词", "相關詞", "関連語", "related", "Related"],
     "position": ["单词量", "單詞量", "単語量", "单词量位置", "位置", "position", "Position"],
 }
 
@@ -48,7 +51,7 @@ def is_blank(x) -> bool:
     return (s == "" or s.lower() == "nan")
 
 def read_excel_with_header_guess(path: Path) -> pd.DataFrame:
-    # header行ズレ対策：0,1,2行目を試す
+    # header 行ズレ対策：0,1,2行目を試す
     last_err = None
     for hdr in [0, 1, 2]:
         try:
@@ -72,39 +75,49 @@ def main():
     else:
         raise FileNotFoundError("data/words.xlsx（または data/words.csv）が見つかりません。")
 
-    # 列名strip
     df.columns = [str(c).strip() for c in df.columns]
 
-    col_word = pick_column(df, COL_CANDIDATES["word"])
-    if col_word is None:
+    c_word = pick_column(df, COL_CANDIDATES["word"])
+    if c_word is None:
         raise ValueError("単語列（单词/単語/word）が見つかりません。Excelのヘッダを確認してください。")
 
-    col_pos   = pick_column(df, COL_CANDIDATES["pos"])
-    col_pho   = pick_column(df, COL_CANDIDATES["phonetic"])
-    col_mean  = pick_column(df, COL_CANDIDATES["meaning"])
-    col_ex    = pick_column(df, COL_CANDIDATES["example"])
-    col_posi  = pick_column(df, COL_CANDIDATES["position"])
+    c_pos        = pick_column(df, COL_CANDIDATES["pos"])
+    c_phonetic   = pick_column(df, COL_CANDIDATES["phonetic"])
+    c_meaning    = pick_column(df, COL_CANDIDATES["meaning"])
+    c_example    = pick_column(df, COL_CANDIDATES["example"])
+    c_colloc     = pick_column(df, COL_CANDIDATES["collocation"])
+    c_roots      = pick_column(df, COL_CANDIDATES["roots"])
+    c_inflect    = pick_column(df, COL_CANDIDATES["inflection"])
+    c_related    = pick_column(df, COL_CANDIDATES["related"])
+    c_position   = pick_column(df, COL_CANDIDATES["position"])
 
-    known_cols = {c for c in [col_word, col_pos, col_pho, col_mean, col_ex, col_posi] if c is not None}
+    known_cols = {c for c in [c_word, c_pos, c_phonetic, c_meaning, c_example, c_colloc, c_roots, c_inflect, c_related, c_position] if c is not None}
 
     records = []
     for _, row in df.iterrows():
-        word = str(row.get(col_word, "")).strip()
+        word = str(row.get(c_word, "")).strip()
         if not word or word.lower() == "nan":
             continue
 
         rec = {
             "word": word,
-            "pos": "" if col_pos is None else str(row.get(col_pos, "")).strip(),
-            "phonetic": "" if col_pho is None else str(row.get(col_pho, "")).strip(),
-            "meaning": "" if col_mean is None else str(row.get(col_mean, "")).strip(),
-            "example": "" if col_ex is None else str(row.get(col_ex, "")).strip(),
-            "position": None if col_posi is None else clean_number(row.get(col_posi, None)),
-            # ★追加：増えた列は全部ここに入れる（空は除外）
+            "pos": "" if c_pos is None else str(row.get(c_pos, "")).strip(),
+            "phonetic": "" if c_phonetic is None else str(row.get(c_phonetic, "")).strip(),
+            "meaning": "" if c_meaning is None else str(row.get(c_meaning, "")).strip(),
+            "example": "" if c_example is None else str(row.get(c_example, "")).strip(),
+
+            # ★新ヘッダ対応（専用フィールド化）
+            "collocation": "" if c_colloc is None else str(row.get(c_colloc, "")).strip(),
+            "roots": "" if c_roots is None else str(row.get(c_roots, "")).strip(),
+            "inflection": "" if c_inflect is None else str(row.get(c_inflect, "")).strip(),
+            "related": "" if c_related is None else str(row.get(c_related, "")).strip(),
+
+            "position": None if c_position is None else clean_number(row.get(c_position, None)),
+
+            # 将来の列追加に備えて extra も残す（既知列以外はここへ）
             "extra": {}
         }
 
-        # 既知以外の列を extra へ
         for col in df.columns:
             if col in known_cols:
                 continue
@@ -121,7 +134,7 @@ def main():
         dedup[r["word"]] = r
     records = list(dedup.values())
 
-    # positionがあるものはposition順 → ないものは最後 → word順
+    # positionがあるものは position順 → ないものは最後 → word順
     records.sort(key=lambda r: (r["position"] is None, r["position"] if r["position"] is not None else 10**18, r["word"].lower()))
 
     OUT_JSON.write_text(json.dumps(records, ensure_ascii=False, indent=2), encoding="utf-8")
