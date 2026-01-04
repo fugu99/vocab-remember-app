@@ -2,1846 +2,3736 @@
   {
     "word": "a bit of",
     "pos": "phrase",
-    "phonetic": "BrE /ə bɪt əv/；AmE /ə bɪt əv/",
-    "meaning": "一点点；一些",
-    "example": "I need a bit of help.",
-    "position": 1000,
-    "extra": {}
-  },
-  {
-    "word": "direct",
-    "pos": "v./adj.",
-    "phonetic": "BrE /daɪˈrekt/；AmE /dɪˈrɛkt/",
-    "meaning": "指导；直接的",
-    "example": "He directed the team to follow the plan.",
-    "position": 1000,
-    "extra": {}
-  },
-  {
-    "word": "expect",
-    "pos": "v.",
-    "phonetic": "BrE /ɪkˈspekt/；AmE /ɪkˈspɛkt/",
-    "meaning": "期望；预计",
-    "example": "We expect the results tomorrow.",
-    "position": 1000,
-    "extra": {}
-  },
-  {
-    "word": "extremely",
-    "pos": "adv.",
-    "phonetic": "BrE /ɪkˈstriːmli/；AmE /ɪkˈstriːmli/",
-    "meaning": "极其",
-    "example": "The test was extremely difficult.",
-    "position": 1000,
-    "extra": {}
-  },
-  {
-    "word": "provide",
-    "pos": "v.",
-    "phonetic": "BrE /prəˈvaɪd/；AmE /prəˈvaɪd/",
-    "meaning": "提供",
-    "example": "They provide free meals for employees.",
-    "position": 1000,
-    "extra": {}
-  },
-  {
-    "word": "supposed to",
-    "pos": "phrase",
-    "phonetic": "BrE /səˈpəʊzd tuː/；AmE /səˈpoʊzd tuː/",
-    "meaning": "应当；被期望",
-    "example": "You’re supposed to arrive on time.",
-    "position": 1000,
-    "extra": {}
-  },
-  {
-    "word": "throughout",
-    "pos": "prep./adv.",
-    "phonetic": "BrE /θruːˈaʊt/；AmE /θruːˈaʊt/",
-    "meaning": "遍及；自始至终",
-    "example": "It rained throughout the night.",
-    "position": 1000,
-    "extra": {}
-  },
-  {
-    "word": "board",
-    "pos": "n./v.",
-    "phonetic": "BrE /bɔːd/；AmE /bɔːrd/",
-    "meaning": "董事会；板；登机",
-    "example": "The board approved the plan.",
-    "position": 1500,
-    "extra": {}
-  },
-  {
-    "word": "plenty",
-    "pos": "n./pron.",
-    "phonetic": "BrE /ˈplenti/；AmE /ˈplɛnti/",
-    "meaning": "大量",
-    "example": "There is plenty of time.",
-    "position": 1500,
-    "extra": {}
-  },
-  {
-    "word": "significant",
-    "pos": "adj.",
-    "phonetic": "BrE /sɪɡˈnɪfɪkənt/；AmE /sɪɡˈnɪfɪkənt/",
-    "meaning": "重要的；显著的",
-    "example": "There is a significant difference.",
-    "position": 1500,
-    "extra": {}
+    "phonetic": "BrE /ə ˈbɪt əv/；AmE /ə ˈbɪt əv/",
+    "meaning": "一点儿；些许",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I need a bit of help. / A: Busy? B: A bit of.",
+      "常见搭配": "a bit of time/help；a bit too（有点太…）",
+      "词根词缀,词头词尾": "bit（小块/一点）固定短语",
+      "单词变形": "—",
+      "Unnamed: 9": "1000"
+    }
   },
   {
     "word": "a great deal of",
     "pos": "phrase",
-    "phonetic": "/ə ɡreɪt diːl əv/",
-    "meaning": "大量的",
-    "example": "He has a great deal of experience.",
-    "position": 2000,
-    "extra": {}
+    "phonetic": "BrE /ə ɡreɪt ˈdiːl əv/；AmE /ə ɡreɪt ˈdiːl əv/",
+    "meaning": "大量（多修饰不可数名词）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "A great deal of time was wasted. / A: Is there much interest? B: Yes, a great deal of interest.",
+      "常见搭配": "a great deal of time/money；a great deal more/less；deal with（另义：处理）",
+      "词根词缀,词头词尾": "deal（量/交易）固定短语，不拆词缀",
+      "单词变形": "—",
+      "Unnamed: 9": "800"
+    }
+  },
+  {
+    "word": "accurate",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈækjərət/；AmE /ˈækjərət/",
+    "meaning": "准确的；精确的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The information is accurate. / A: Numbers right? B: Yes, accurate.",
+      "常见搭配": "accurate information/data；accurate to + 数值；highly accurate",
+      "词根词缀,词头词尾": "派生常用：accuracy/accurately",
+      "单词变形": "形容词：comparative more accurate / superlative most accurate",
+      "Unnamed: 9": "3000"
+    }
   },
   {
     "word": "acknowledge",
     "pos": "v.",
     "phonetic": "BrE /əkˈnɒlɪdʒ/；AmE /əkˈnɑːlɪdʒ/",
-    "meaning": "承认；致谢",
-    "example": "She acknowledged the mistake.",
-    "position": 2000,
-    "extra": {}
+    "meaning": "承认；确认收到；致谢",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She acknowledged her mistake. / A: Did you get my email? B: Yes, I acknowledge receipt.",
+      "常见搭配": "acknowledge that；acknowledge receipt；acknowledge a mistake；acknowledge someone",
+      "词根词缀,词头词尾": "ac-（加强）+ knowledge（知道）",
+      "单词变形": "3rd acknowledges / past acknowledged / pp acknowledged / ing acknowledging",
+      "Unnamed: 9": "5000"
+    }
   },
   {
     "word": "additional",
     "pos": "adj.",
-    "phonetic": "/əˈdɪʃənəl/",
+    "phonetic": "BrE /əˈdɪʃənl/；AmE /əˈdɪʃənl/",
     "meaning": "额外的；附加的",
-    "example": "Additional information is available online.",
-    "position": 2000,
-    "extra": {}
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "There is an additional charge. / A: Anything else? B: No additional questions.",
+      "常见搭配": "additional information；additional cost/fee；in addition to",
+      "词根词缀,词头词尾": "add（加）+ -ition（名词化语源）+ -al（形容词后缀）",
+      "单词变形": "形容词：comparative more additional（少用）/ superlative most additional（少用）",
+      "Unnamed: 9": "2000"
+    }
   },
   {
-    "word": "agency",
-    "pos": "n.",
-    "phonetic": "/ˈeɪdʒənsi/",
-    "meaning": "代理机构；政府部门",
-    "example": "She works for an advertising agency.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "agent",
-    "pos": "n.",
-    "phonetic": "/ˈeɪdʒənt/",
-    "meaning": "代理人；中介",
-    "example": "The agent showed us the house.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "arrange",
-    "pos": "v.",
-    "phonetic": "/əˈreɪndʒ/",
-    "meaning": "安排",
-    "example": "I will arrange a meeting.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "attend",
-    "pos": "v.",
-    "phonetic": "/əˈtend/",
-    "meaning": "参加；出席",
-    "example": "He will attend the meeting tomorrow.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "bend",
-    "pos": "v./n.",
-    "phonetic": "BrE /bend/；AmE /bend/",
-    "meaning": "弯曲；拐弯",
-    "example": "Bend your knees slightly.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "bend down",
-    "pos": "phr.v.",
-    "phonetic": "BrE /bend daʊn/；AmE /bend daʊn/",
-    "meaning": "弯腰",
-    "example": "She bent down to tie her shoes.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "colleague",
-    "pos": "n.",
-    "phonetic": "BrE /ˈkɒliːɡ/；AmE /ˈkɑːliːɡ/",
-    "meaning": "同事",
-    "example": "I discussed it with a colleague.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "complain",
-    "pos": "v.",
-    "phonetic": "BrE /kəmˈpleɪn/；AmE /kəmˈpleɪn/",
-    "meaning": "抱怨；投诉",
-    "example": "She complained about the noise.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "concern",
-    "pos": "n./v.",
-    "phonetic": "BrE /kənˈsɜːn/；AmE /kənˈsɜːrn/",
-    "meaning": "担心；涉及",
-    "example": "Safety is our main concern.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "conduct",
-    "pos": "v./n.",
-    "phonetic": "/kənˈdʌkt/",
-    "meaning": "实施；行为",
-    "example": "They conducted an experiment.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "contract",
-    "pos": "n./v.",
-    "phonetic": "/ˈkɒntrækt/ (n.), /kənˈtrækt/ (v.)",
-    "meaning": "合同；收缩；感染",
-    "example": "They signed a two-year contract.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "degree",
-    "pos": "n.",
-    "phonetic": "/dɪˈɡriː/",
-    "meaning": "学位；程度",
-    "example": "She has a degree in engineering.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "department",
-    "pos": "n.",
-    "phonetic": "BrE /dɪˈpɑːtmənt/；AmE /dɪˈpɑːrtmənt/",
-    "meaning": "部门；系；（商店）部",
-    "example": "She works in the marketing department.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "director",
-    "pos": "n.",
-    "phonetic": "BrE /dɪˈrektə/；AmE /dɪˈrɛktər/",
-    "meaning": "主管；导演",
-    "example": "She is the director of the company.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "equipment",
-    "pos": "n.",
-    "phonetic": "/ɪˈkwɪpmənt/",
-    "meaning": "设备，装备",
-    "example": "The gym has new equipment.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "firm",
-    "pos": "n./adj.",
-    "phonetic": "/fɜːrm/",
-    "meaning": "公司；坚定的",
-    "example": "She works at a law firm.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "furniture",
-    "pos": "n.",
-    "phonetic": "/ˈfɜːrnɪtʃər/",
-    "meaning": "家具",
-    "example": "The room has new furniture.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "hang",
-    "pos": "v.",
-    "phonetic": "/hæŋ/",
-    "meaning": "悬挂，挂起",
-    "example": "Please hang your coat on the hook.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "hold on",
-    "pos": "phr.v.",
-    "phonetic": "BrE /həʊld ɒn/；AmE /hoʊld ɑːn/",
-    "meaning": "等一下；抓牢",
-    "example": "Please hold on while I transfer your call.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "instruction",
-    "pos": "n.",
-    "phonetic": "BrE /ɪnˈstrʌkʃən/；AmE /ɪnˈstrʌkʃən/",
-    "meaning": "指示；说明",
-    "example": "Follow the instructions carefully.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "insurance",
-    "pos": "n.",
-    "phonetic": "BrE /ɪnˈʃʊərəns/；AmE /ɪnˈʃʊrəns/",
-    "meaning": "保险",
-    "example": "Do you have health insurance?",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "leave for",
-    "pos": "phr.v.",
-    "phonetic": "BrE /liːv fɔː/；AmE /liːv fɔːr/",
-    "meaning": "前往；动身去",
-    "example": "She left for London this morning.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "property",
-    "pos": "n.",
-    "phonetic": "/ˈprɒpərti/",
-    "meaning": "财产；房地产",
-    "example": "They bought a property near the river.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "raise",
-    "pos": "v.",
-    "phonetic": "/reɪz/",
-    "meaning": "举起；提高；筹集",
-    "example": "They raised money for charity.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "require",
-    "pos": "v.",
-    "phonetic": "BrE /rɪˈkwaɪə/；AmE /rɪˈkwaɪr/",
-    "meaning": "需要；要求",
-    "example": "This task requires attention.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "revenue",
-    "pos": "n.",
-    "phonetic": "BrE /ˈrevənjuː/；AmE /ˈrɛvənjuː/",
-    "meaning": "收入；营收",
-    "example": "The company increased its revenue.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "statement",
-    "pos": "n.",
-    "phonetic": "/ˈsteɪtmənt/",
-    "meaning": "陈述，声明",
-    "example": "His statement was clear and direct.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "suppose",
-    "pos": "v.",
-    "phonetic": "BrE /səˈpəʊz/；AmE /səˈpoʊz/",
-    "meaning": "假设；认为",
-    "example": "I suppose you’re right.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "tend",
-    "pos": "v.",
-    "phonetic": "BrE /tend/；AmE /tɛnd/",
-    "meaning": "倾向于；易于",
-    "example": "People tend to forget small details.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "tire",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈtaɪə/；AmE /ˈtaɪər/",
-    "meaning": "轮胎；使疲倦",
-    "example": "I need to replace the front tire.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "vehicle",
-    "pos": "n.",
-    "phonetic": "BrE /ˈviːɪkəl/；AmE /ˈviːəkəl/",
-    "meaning": "车辆；交通工具",
-    "example": "This vehicle runs on electricity.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "whereas",
-    "pos": "conj.",
-    "phonetic": "BrE /ˌweərˈæz/；AmE /ˌwerˈæz/",
-    "meaning": "然而；而",
-    "example": "He is rich, whereas she is poor.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "work in",
-    "pos": "phr.v.",
-    "phonetic": "/wɜːrk ɪn/",
-    "meaning": "从事……行业；加入",
-    "example": "She works in finance.",
-    "position": 2000,
-    "extra": {}
-  },
-  {
-    "word": "accurate",
-    "pos": "adj.",
-    "phonetic": "/ˈækjərət/",
-    "meaning": "准确的",
-    "example": "The results are highly accurate.",
-    "position": 3000,
-    "extra": {}
+    "word": "advert",
+    "pos": "n. (UK)",
+    "phonetic": "BrE /ˈædvɜːt/；AmE /ˈædvɝːt/（较少）",
+    "meaning": "广告（英式）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I saw an advert for a new phone. / A: Where? B: In a TV advert.",
+      "常见搭配": "an advert for；place/put an advert；online/TV advert",
+      "词根词缀,词头词尾": "同 advertise（ad- + vert）",
+      "单词变形": "plural adverts",
+      "Unnamed: 9": "8000"
+    }
   },
   {
     "word": "advertise",
     "pos": "v.",
     "phonetic": "BrE /ˈædvətaɪz/；AmE /ˈædvərtaɪz/",
-    "meaning": "做广告",
-    "example": "The company advertises online.",
-    "position": 3000,
-    "extra": {}
+    "meaning": "做广告；登广告；宣传",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They advertise on social media. / A: How to attract customers? B: Advertise locally.",
+      "常见搭配": "advertise for（登广告招…）；advertise on（平台）；advertise a product",
+      "词根词缀,词头词尾": "ad-（向…）+ vert（转向）+ -ise/-ize（动词后缀）",
+      "单词变形": "3rd advertises / past advertised / pp advertised / ing advertising",
+      "Unnamed: 9": "3000"
+    }
   },
   {
-    "word": "annual",
+    "word": "advisable",
     "pos": "adj.",
-    "phonetic": "BrE /ˈænjuəl/；AmE /ˈænjuəl/",
-    "meaning": "每年的；年度的",
-    "example": "The annual meeting will be held in July.",
-    "position": 3000,
-    "extra": {}
+    "phonetic": "/ədˈvaɪzəbl/",
+    "meaning": "明智的；可取的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "It is advisable to back up your files regularly.\nA: Should we leave now? B: Yes—it's advisable.",
+      "常见搭配": "advisable to do; advisable for; highly advisable; it is advisable that...",
+      "词根词缀,词头词尾": "advise（建议，v.）+ -able（形容词后缀：可…的；常用于形容词）",
+      "单词变形": "comparative more advisable; superlative most advisable",
+      "Unnamed: 9": "8000"
+    }
   },
   {
-    "word": "approximately",
-    "pos": "adv.",
-    "phonetic": "/əˈprɒksɪmətli/",
-    "meaning": "大约，近似",
-    "example": "The cost is approximately $200.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "assembly",
+    "word": "agency",
     "pos": "n.",
-    "phonetic": "BrE /əˈsembli/；AmE /əˈsɛmbli/",
-    "meaning": "集会；装配",
-    "example": "The parts are ready for assembly.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "avenue",
-    "pos": "n.",
-    "phonetic": "BrE /ˈævənjuː/；AmE /ˈævəˌnuː/",
-    "meaning": "大街；途径；手段",
-    "example": "They walked down Fifth Avenue.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "budget",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈbʌdʒɪt/；AmE /ˈbʌdʒɪt/",
-    "meaning": "预算；安排预算",
-    "example": "We must reduce our budget this year.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "cabinet",
-    "pos": "n.",
-    "phonetic": "BrE /ˈkæbɪnət/；AmE /ˈkæbɪnət/",
-    "meaning": "橱柜；内阁",
-    "example": "The cups are in the kitchen cabinet.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "commit",
-    "pos": "v.",
-    "phonetic": "BrE /kəˈmɪt/；AmE /kəˈmɪt/",
-    "meaning": "承诺；投入；犯（错）",
-    "example": "He committed to finishing the task on time.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "conference",
-    "pos": "n.",
-    "phonetic": "/ˈkɒnfərəns/",
-    "meaning": "会议；讨论会",
-    "example": "She attended a business conference.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "consequently",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈkɒnsɪkwəntli/；AmE /ˈkɑːnsɪkwəntli/",
-    "meaning": "因此；结果",
-    "example": "He was ill; consequently, he stayed home.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "construction",
-    "pos": "n.",
-    "phonetic": "/kənˈstrʌkʃən/",
-    "meaning": "建造；施工",
-    "example": "Construction will finish next year.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "destination",
-    "pos": "n.",
-    "phonetic": "BrE /ˌdestɪˈneɪʃən/；AmE /ˌdɛstəˈneɪʃən/",
-    "meaning": "目的地",
-    "example": "Paris is a popular travel destination.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "draft",
-    "pos": "n./v.",
-    "phonetic": "/dræft/",
-    "meaning": "草稿；起草；征兵",
-    "example": "Please send me the first draft of the report.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "efficient",
-    "pos": "adj.",
-    "phonetic": "/ɪˈfɪʃənt/",
-    "meaning": "高效的",
-    "example": "This machine is more efficient than the old one.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "enthusiastic",
-    "pos": "adj.",
-    "phonetic": "BrE /ɪnˌθjuːziˈæstɪk/；AmE /ɪnˌθuːziˈæstɪk/",
-    "meaning": "热情的",
-    "example": "She is enthusiastic about learning.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "estate",
-    "pos": "n.",
-    "phonetic": "/ɪˈsteɪt/",
-    "meaning": "房地产；遗产；庄园",
-    "example": "He inherited a large estate.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "estimate",
-    "pos": "v./n.",
-    "phonetic": "BrE /ˈestɪmeɪt/；AmE /ˈɛstəmeɪt/",
-    "meaning": "估计；估算",
-    "example": "They estimated the total cost to be $500.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "executive",
-    "pos": "adj./n.",
-    "phonetic": "/ɪɡˈzekjətɪv/",
-    "meaning": "管理的；主管",
-    "example": "She is an executive at the company.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "expand",
-    "pos": "v.",
-    "phonetic": "/ɪkˈspænd/",
-    "meaning": "扩大；扩展",
-    "example": "The company plans to expand overseas.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "extend",
-    "pos": "v.",
-    "phonetic": "/ɪkˈstend/",
-    "meaning": "延伸；扩大；延长",
-    "example": "We plan to extend the building next year.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "facility",
-    "pos": "n.",
-    "phonetic": "/fəˈsɪləti/",
-    "meaning": "设施，场所",
-    "example": "The sports facility is open to everyone.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "garage",
-    "pos": "n.",
-    "phonetic": "/ɡəˈrɑːʒ/",
-    "meaning": "车库；汽车修理厂",
-    "example": "The car is parked in the garage.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "generous",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈdʒenərəs/；AmE /ˈdʒenərəs/",
-    "meaning": "慷慨的",
-    "example": "He is generous with his time.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "identify",
-    "pos": "v.",
-    "phonetic": "/aɪˈdentɪfaɪ/",
-    "meaning": "识别，确定",
-    "example": "Can you identify the problem?",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "imply",
-    "pos": "v.",
-    "phonetic": "/ɪmˈplaɪ/",
-    "meaning": "暗示；意味着",
-    "example": "What are you implying?",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "launch",
-    "pos": "n./v.",
-    "phonetic": "/lɔːntʃ/",
-    "meaning": "启动；发射；推出",
-    "example": "They will launch a new product.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "obtain",
-    "pos": "v.",
-    "phonetic": "/əbˈteɪn/",
-    "meaning": "获得，取得",
-    "example": "You must obtain permission first.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "overlook",
-    "pos": "v.",
-    "phonetic": "BrE /ˌəʊvəˈlʊk/；AmE /ˌoʊvərˈlʊk/",
-    "meaning": "忽视；俯瞰",
-    "example": "He overlooked a key detail.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "permit",
-    "pos": "v./n.",
-    "phonetic": "/pərˈmɪt/",
-    "meaning": "允许；许可证",
-    "example": "Smoking is not permitted here.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "presence",
-    "pos": "n.",
-    "phonetic": "BrE /ˈprezəns/；AmE /ˈprezəns/",
-    "meaning": "出席；存在感",
-    "example": "His presence made everyone feel better.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "procedure",
-    "pos": "n.",
-    "phonetic": "/prəˈsiːdʒər/",
-    "meaning": "程序；步骤；手续",
-    "example": "Please follow the safety procedure.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "profitable",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈprɒfɪtəbl/；AmE /ˈprɑːfɪtəbl/",
-    "meaning": "有利润的",
-    "example": "The business is highly profitable.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "promote",
-    "pos": "v.",
-    "phonetic": "/prəˈmoʊt/",
-    "meaning": "促进；宣传；晋升",
-    "example": "They promoted her to manager.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "propose",
-    "pos": "v.",
-    "phonetic": "BrE /prəˈpəʊz/；AmE /prəˈpoʊz/",
-    "meaning": "提议；求婚",
-    "example": "She proposed a new plan for the project.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "prospect",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈprɒspekt/；AmE /ˈprɑːspekt/",
-    "meaning": "前景；潜在客户",
-    "example": "Job prospects are improving.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "reasonable",
-    "pos": "adj.",
-    "phonetic": "/ˈriːzənəbl/",
-    "meaning": "合理的；公道的",
-    "example": "The price is reasonable.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "recommend",
-    "pos": "v.",
-    "phonetic": "BrE /ˌrekəˈmend/；AmE /ˌrekəˈmɛnd/",
-    "meaning": "推荐；建议",
-    "example": "Can you recommend a good restaurant?",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "refer",
-    "pos": "v.",
-    "phonetic": "BrE /rɪˈfɜː/；AmE /rɪˈfɜːr/",
-    "meaning": "提及；查阅；指的是",
-    "example": "Please refer to the manual.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "register",
-    "pos": "v./n.",
-    "phonetic": "BrE /ˈredʒɪstə/；AmE /ˈredʒɪstər/",
-    "meaning": "注册；登记；收银机",
-    "example": "You must register before the event starts.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "server",
-    "pos": "n.",
-    "phonetic": "BrE /ˈsɜːvə/；AmE /ˈsɜːrvər/",
-    "meaning": "服务员；服务器",
-    "example": "The server brought our drinks.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "session",
-    "pos": "n.",
-    "phonetic": "BrE /ˈseʃən/；AmE /ˈsɛʃən/",
-    "meaning": "会期；课程；会议",
-    "example": "The training session begins at 3 PM.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "shelf",
-    "pos": "n.",
-    "phonetic": "BrE /ʃelf/；AmE /ʃɛlf/",
-    "meaning": "架子；搁板",
-    "example": "The vase is on the top shelf.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "sign up for",
-    "pos": "phr.v.",
-    "phonetic": "BrE /saɪn ʌp fɔː/；AmE /saɪn ʌp fɔːr/",
-    "meaning": "报名参加",
-    "example": "She signed up for a cooking class.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "under somebody’s name",
-    "pos": "phrase",
-    "phonetic": "—",
-    "meaning": "以某人名字登记",
-    "example": "The reservation is under my name.",
-    "position": 3000,
-    "extra": {}
-  },
-  {
-    "word": "architect",
-    "pos": "n.",
-    "phonetic": "/ˈɑːrkɪtekt/",
-    "meaning": "建筑师",
-    "example": "The architect designed the new museum.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "biscuit",
-    "pos": "n.",
-    "phonetic": "BrE /ˈbɪskɪt/；AmE /ˈbɪskɪt/（美式中指软饼）",
-    "meaning": "饼干（英）；软面包（美）",
-    "example": "She bought a box of biscuits.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "commitment",
-    "pos": "n.",
-    "phonetic": "BrE /kəˈmɪtmənt/；AmE /kəˈmɪtmənt/",
-    "meaning": "承诺；投入；义务",
-    "example": "She has a strong commitment to her job.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "construct",
-    "pos": "v.",
-    "phonetic": "BrE /kənˈstrʌkt/；AmE /kənˈstrʌkt/",
-    "meaning": "建造；构建",
-    "example": "They constructed a new bridge.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "corporate",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈkɔːpərət/；AmE /ˈkɔːrpərət/",
-    "meaning": "企业的；公司的",
-    "example": "Corporate culture varies across industries.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "distribute",
-    "pos": "v.",
-    "phonetic": "/dɪˈstrɪbjuːt/",
-    "meaning": "分配，分发",
-    "example": "They distribute food to the homeless.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "enthusiasm",
-    "pos": "n.",
-    "phonetic": "BrE /ɪnˈθjuːziæzəm/；AmE /ɪnˈθuːziæzəm/",
-    "meaning": "热情",
-    "example": "She showed great enthusiasm for the project.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "execute",
-    "pos": "v.",
-    "phonetic": "/ˈeksɪkjuːt/",
-    "meaning": "执行；实施；处决",
-    "example": "The program executes the commands automatically.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "extension",
-    "pos": "n.",
-    "phonetic": "/ɪkˈstenʃən/",
-    "meaning": "延期；扩建；延伸",
-    "example": "I applied for an extension of the deadline.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "globe",
-    "pos": "n.",
-    "phonetic": "/ɡloʊb/",
-    "meaning": "地球；地球仪",
-    "example": "The news spread around the globe.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "grocery",
-    "pos": "n.",
-    "phonetic": "/ˈɡroʊsəri/",
-    "meaning": "食品杂货店；食品杂货",
-    "example": "I went to the grocery to buy milk.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "implement",
-    "pos": "v.",
-    "phonetic": "/ˈɪmpləˌment/",
-    "meaning": "实施；执行",
-    "example": "The policy was implemented last year.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "insight",
-    "pos": "n.",
-    "phonetic": "BrE /ˈɪnsaɪt/；AmE /ˈɪnsaɪt/",
-    "meaning": "洞察力；见解",
-    "example": "The data provides valuable insight.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "inspect",
-    "pos": "v.",
-    "phonetic": "BrE /ɪnˈspekt/；AmE /ɪnˈspɛkt/",
-    "meaning": "检查；查看",
-    "example": "They inspected the equipment carefully.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "inspection",
-    "pos": "n.",
-    "phonetic": "BrE /ɪnˈspekʃən/；AmE /ɪnˈspɛkʃən/",
-    "meaning": "检查；视察",
-    "example": "The building passed the safety inspection.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "interior",
-    "pos": "n./adj.",
-    "phonetic": "/ɪnˈtɪriər/",
-    "meaning": "内部；内饰",
-    "example": "The interior of the house is modern.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "keen",
-    "pos": "adj.",
-    "phonetic": "BrE /kiːn/；AmE /kiːn/",
-    "meaning": "渴望的；敏锐的",
-    "example": "She is keen to learn new skills.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "lean against",
-    "pos": "phr.v.",
-    "phonetic": "BrE /liːn əˈɡenst/；AmE /liːn əˈɡenst/",
-    "meaning": "靠在……上",
-    "example": "She leaned against the wall.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "manufacture",
-    "pos": "v./n.",
-    "phonetic": "/ˌmænjuˈfæktʃər/",
-    "meaning": "制造；生产",
-    "example": "The company manufactures cars.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "participate",
-    "pos": "v.",
-    "phonetic": "BrE /pɑːˈtɪsɪpeɪt/；AmE /pɑːrˈtɪsɪpeɪt/",
-    "meaning": "参加",
-    "example": "Many people participated in the event.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "preference",
-    "pos": "n.",
-    "phonetic": "BrE /ˈprefrəns/；AmE /ˈprɛfrəns/",
-    "meaning": "偏好；偏爱",
-    "example": "Do you have any food preferences?",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "promotion",
-    "pos": "n.",
-    "phonetic": "/prəˈmoʊʃən/",
-    "meaning": "升职；促销",
-    "example": "She received a promotion last month.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "purchase",
-    "pos": "n./v.",
-    "phonetic": "/ˈpɜːrtʃəs/",
-    "meaning": "采购；买",
-    "example": "He made a large purchase online.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "qualification",
-    "pos": "n.",
-    "phonetic": "/ˌkwɒlɪfɪˈkeɪʃən/",
-    "meaning": "资格，资历",
-    "example": "You need qualifications to apply.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "qualify",
-    "pos": "v.",
-    "phonetic": "BrE /ˈkwɒlɪfaɪ/；AmE /ˈkwɑːləfaɪ/",
-    "meaning": "使具资格；符合",
-    "example": "You must pass the exam to qualify.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "resemble",
-    "pos": "v.",
-    "phonetic": "BrE /rɪˈzembl/；AmE /rɪˈzɛmbl/",
-    "meaning": "像；类似",
-    "example": "The child resembles his father.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "revise",
-    "pos": "v.",
-    "phonetic": "BrE /rɪˈvaɪz/；AmE /rɪˈvaɪz/",
-    "meaning": "修改；复习（英）",
-    "example": "Please revise the report before submitting it.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "sign up for four hours of work",
-    "pos": "phrase",
-    "phonetic": "—",
-    "meaning": "报名参加四小时的工作",
-    "example": "He signed up for four hours of work on Saturday.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "suspicious",
-    "pos": "adj.",
-    "phonetic": "BrE /səˈspɪʃəs/；AmE /səˈspɪʃəs/",
-    "meaning": "可疑的",
-    "example": "His behavior seemed suspicious.",
-    "position": 4000,
-    "extra": {}
-  },
-  {
-    "word": "warehouse",
-    "pos": "n.",
-    "phonetic": "/ˈwerhaʊs/",
-    "meaning": "仓库",
-    "example": "Goods are stored in the warehouse.",
-    "position": 4000,
-    "extra": {}
+    "phonetic": "BrE /ˈeɪdʒənsi/；AmE /ˈeɪdʒənsi/",
+    "meaning": "机构；代理公司",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We hired an agency to handle marketing. / A: Who booked it? B: A travel agency.",
+      "常见搭配": "agency for；advertising/travel agency；government agency",
+      "词根词缀,词头词尾": "agent + -cy（名词后缀：状态/机构）",
+      "单词变形": "plural agencies",
+      "Unnamed: 9": "3000"
+    }
   },
   {
     "word": "agenda",
     "pos": "n.",
-    "phonetic": "BrE /əˈdʒendə/；AmE /əˈdʒɛndə/",
-    "meaning": "议程；待办事项",
-    "example": "What's on the agenda today?",
-    "position": 5000,
-    "extra": {}
+    "phonetic": "BrE /əˈdʒendə/；AmE /əˈdʒendə/",
+    "meaning": "议程；（隐含）目的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The agenda includes three items. / A: What’s first? B: Check the agenda.",
+      "常见搭配": "agenda for；set/follow an agenda；hidden agenda",
+      "词根词缀,词头词尾": "拉丁语源；现代固定名词",
+      "单词变形": "plural agendas",
+      "Unnamed: 9": "3000"
+    }
   },
   {
-    "word": "brake",
-    "pos": "n./v.",
-    "phonetic": "BrE /breɪk/；AmE /breɪk/",
-    "meaning": "刹车；制动",
-    "example": "He pressed the brake suddenly.",
-    "position": 5000,
-    "extra": {}
-  },
-  {
-    "word": "breach",
-    "pos": "n./v.",
-    "phonetic": "BrE /briːtʃ/；AmE /briːtʃ/",
-    "meaning": "违反；裂口",
-    "example": "The company reported a data breach.",
-    "position": 5000,
-    "extra": {}
-  },
-  {
-    "word": "clay",
+    "word": "agent",
     "pos": "n.",
-    "phonetic": "/kleɪ/",
-    "meaning": "黏土",
-    "example": "The artist shaped the clay into a pot.",
-    "position": 5000,
-    "extra": {}
+    "phonetic": "BrE /ˈeɪdʒənt/；AmE /ˈeɪdʒənt/",
+    "meaning": "代理人；经纪人；（化学）剂",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "A travel agent booked the tickets. / A: Who represents you? B: My agent.",
+      "常见搭配": "agent for；real estate agent；travel agent；acting agent",
+      "词根词缀,词头词尾": "ag-（做/行动）语源 + -ent（名词/形容词后缀：…的人/…的）",
+      "单词变形": "plural agents",
+      "Unnamed: 9": "2000"
+    }
   },
   {
-    "word": "fabric",
+    "word": "analysis",
     "pos": "n.",
-    "phonetic": "/ˈfæbrɪk/",
-    "meaning": "布料；结构",
-    "example": "The dress is made of soft fabric.",
-    "position": 5000,
-    "extra": {}
+    "phonetic": "/əˈnæləsɪs/",
+    "meaning": "分析；解析",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The analysis shows a clear trend.\nA: Any findings? B: The analysis is still in progress.",
+      "常见搭配": "analysis of; data analysis; statistical analysis; in-depth analysis",
+      "词根词缀,词头词尾": "ana-（分开）+ -lysis（分解）",
+      "单词变形": "plural analyses",
+      "Unnamed: 9": "4000"
+    }
   },
   {
-    "word": "fountain",
-    "pos": "n.",
-    "phonetic": "BrE /ˈfaʊntɪn/；AmE /ˈfaʊntən/",
-    "meaning": "喷泉",
-    "example": "The fountain is located in the center square.",
-    "position": 5000,
-    "extra": {}
-  },
-  {
-    "word": "hood",
-    "pos": "n.",
-    "phonetic": "BrE /hʊd/；AmE /hʊd/",
-    "meaning": "车盖；兜帽",
-    "example": "He opened the hood to check the engine.",
-    "position": 5000,
-    "extra": {}
-  },
-  {
-    "word": "insignificant",
+    "word": "analytical",
     "pos": "adj.",
-    "phonetic": "BrE /ˌɪnsɪɡˈnɪfɪkənt/；AmE /ˌɪnsɪɡˈnɪfɪkənt/",
-    "meaning": "微不足道的",
-    "example": "The error was insignificant.",
-    "position": 5000,
-    "extra": {}
+    "phonetic": "/ˌænəˈlɪtɪkəl/",
+    "meaning": "分析的；善于分析的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She has strong analytical skills.\nA: How do you solve it? B: With an analytical approach.",
+      "常见搭配": "analytical skills; analytical method; analytical thinking; analytical approach",
+      "词根词缀,词头词尾": "analysis + -ical（形容词后缀：…的）",
+      "单词变形": "comparative more analytical; superlative most analytical",
+      "Unnamed: 9": "7000"
+    }
   },
   {
-    "word": "inspector",
-    "pos": "n.",
-    "phonetic": "/ɪnˈspektər/",
-    "meaning": "检查员；督察",
-    "example": "The inspector found several problems.",
-    "position": 5000,
-    "extra": {}
-  },
-  {
-    "word": "inventory",
-    "pos": "n.",
-    "phonetic": "/ˈɪnvəntɔːri/",
-    "meaning": "库存；清单",
-    "example": "The store checks inventory weekly.",
-    "position": 5000,
-    "extra": {}
-  },
-  {
-    "word": "modify",
+    "word": "analyze",
     "pos": "v.",
-    "phonetic": "BrE /ˈmɒdɪfaɪ/；AmE /ˈmɑːdəfaɪ/",
-    "meaning": "修改；更改",
-    "example": "We need to modify the design.",
-    "position": 5000,
-    "extra": {}
+    "phonetic": "/ˈænəlaɪz/",
+    "meaning": "分析",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We need to analyze the results.\nA: What’s the problem? B: Let’s analyze it step by step.",
+      "常见搭配": "analyze data; analyze results; analyze for; analyze how/why",
+      "词根词缀,词头词尾": "ana-（分开）+ -lyze（分解/分析语源）",
+      "单词变形": "3rd analyzes; past analyzed; pp analyzed; ing analyzing",
+      "Unnamed: 9": "4000"
+    }
   },
   {
-    "word": "refund",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈriːfʌnd/；AmE /ˈriːfʌnd/",
-    "meaning": "退款；退还",
-    "example": "They issued a full refund.",
-    "position": 5000,
-    "extra": {}
+    "word": "annual",
+    "pos": "adj./n.",
+    "phonetic": "BrE /ˈænjuəl/；AmE /ˈænjuəl/",
+    "meaning": "每年的；年度的；年刊",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Our annual report is ready. / A: How often? B: It’s an annual event.",
+      "常见搭配": "annual report；annual meeting；annual fee",
+      "词根词缀,词头词尾": "ann（年，见 anniversary）+ -ual（形容词后缀）",
+      "单词变形": "形容词：一般不做比较级；名词：plural annuals（年刊/一年生植物）",
+      "Unnamed: 9": "2000"
+    }
   },
   {
-    "word": "sent over",
-    "pos": "phr.v.",
-    "phonetic": "—",
-    "meaning": "被寄送过去；传送",
-    "example": "The documents were sent over yesterday.",
-    "position": 5000,
-    "extra": {}
-  },
-  {
-    "word": "shortage",
+    "word": "approval",
     "pos": "n.",
-    "phonetic": "BrE /ˈʃɔːtɪdʒ/；AmE /ˈʃɔːrtɪdʒ/",
-    "meaning": "缺乏；短缺",
-    "example": "There is a shortage of nurses.",
-    "position": 5000,
-    "extra": {}
+    "phonetic": "/əˈpruːvəl/",
+    "meaning": "批准；同意；赞成",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We’re waiting for approval.\nA: Is it confirmed? B: Not without formal approval.",
+      "常见搭配": "approval of; get approval; give approval; subject to approval; approval process",
+      "词根词缀,词头词尾": "approve + -al（名词后缀：行为/结果）",
+      "单词变形": "plural approvals",
+      "Unnamed: 9": "3000"
+    }
   },
   {
-    "word": "underwent",
-    "pos": "v. (过去式)",
-    "phonetic": "BrE /ˌʌndəˈwent/；AmE /ˌʌndərˈwent/",
-    "meaning": "经历；接受（治疗）",
-    "example": "He underwent surgery last year.",
-    "position": 5000,
-    "extra": {}
-  },
-  {
-    "word": "withstand",
+    "word": "approve",
     "pos": "v.",
-    "phonetic": "BrE /wɪðˈstænd/；AmE /wɪðˈstænd/",
-    "meaning": "经受；承受",
-    "example": "The bridge can withstand strong winds.",
-    "position": 5000,
-    "extra": {}
+    "phonetic": "/əˈpruːv/",
+    "meaning": "批准；同意；赞成；认可",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The manager approved the request.\nA: Can we proceed? B: Not until it’s approved.",
+      "常见搭配": "approve of; approve a plan; approve a budget; approve for; get approved",
+      "词根词缀,词头词尾": "ap-（加强）+ prove（证明/认可）",
+      "单词变形": "3rd approves; past approved; pp approved; ing approving",
+      "Unnamed: 9": "2000"
+    }
   },
   {
-    "word": "audit",
-    "pos": "n./v.",
-    "phonetic": "/ˈɔːdɪt/",
-    "meaning": "审计；查账",
-    "example": "The company will audit its finances.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "brochure",
-    "pos": "n.",
-    "phonetic": "BrE /ˈbrəʊʃə/；AmE /broʊˈʃʊr/",
-    "meaning": "小册子",
-    "example": "Please take a brochure for more information.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "clarify",
-    "pos": "v.",
-    "phonetic": "/ˈklærəfaɪ/",
-    "meaning": "澄清；说明",
-    "example": "Please clarify your question.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "consultation",
-    "pos": "n.",
-    "phonetic": "/ˌkɒnslˈteɪʃən/",
-    "meaning": "咨询；会诊",
-    "example": "You need a consultation with the doctor.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "curb",
-    "pos": "n./v.",
-    "phonetic": "BrE /kɜːb/；AmE /kɜːrb/",
-    "meaning": "路缘；抑制",
-    "example": "Please park close to the curb.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "editorial",
-    "pos": "n./adj.",
-    "phonetic": "BrE /ˌedɪˈtɔːriəl/；AmE /ˌedɪˈtɔːriəl/",
-    "meaning": "社论；编辑的",
-    "example": "She writes editorial articles.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "exceptionally",
+    "word": "approximately",
     "pos": "adv.",
-    "phonetic": "BrE /ɪkˈsepʃənəli/；AmE /ɪkˈsɛpʃənəli/",
-    "meaning": "非常；例外地",
-    "example": "She performed exceptionally well.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "expertise",
-    "pos": "n.",
-    "phonetic": "BrE /ˌekspɜːˈtiːz/；AmE /ˌekspərˈtiːz/",
-    "meaning": "专业知识；专长",
-    "example": "She has expertise in finance.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "generously",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈdʒenərəsli/；AmE /ˈdʒenərəsli/",
-    "meaning": "慷慨地",
-    "example": "She generously donated money.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "investor",
-    "pos": "n.",
-    "phonetic": "/ɪnˈvestər/",
-    "meaning": "投资者",
-    "example": "Investors are concerned about the market.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "knock over",
-    "pos": "v. phr.",
-    "phonetic": "BrE /nɒk ˈəʊvə/；AmE /nɑːk ˈoʊvər/",
-    "meaning": "撞倒；打翻",
-    "example": "He accidentally knocked over the chair.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "luxuries",
-    "pos": "n. (pl.)",
-    "phonetic": "BrE /ˈlʌkʃəriz/；AmE /ˈlʌkʃəriz/",
-    "meaning": "奢侈品",
-    "example": "We cannot afford such luxuries.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "luxurious",
-    "pos": "adj.",
-    "phonetic": "BrE /lʌɡˈʒʊərɪəs/；AmE /lʌɡˈʒʊriəs/",
-    "meaning": "奢华的",
-    "example": "They stayed in a luxurious hotel.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "owing",
-    "pos": "adj./prep.",
-    "phonetic": "BrE /ˈəʊɪŋ/；AmE /ˈoʊɪŋ/",
-    "meaning": "由于；欠着的",
-    "example": "The delay was owing to bad weather.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "pricing",
-    "pos": "n.",
-    "phonetic": "/ˈpraɪsɪŋ/",
-    "meaning": "定价",
-    "example": "The company changed its pricing strategy.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "toss",
-    "pos": "v./n.",
-    "phonetic": "BrE /tɒs/；AmE /tɔːs/",
-    "meaning": "扔；抛；翻动",
-    "example": "He tossed the keys onto the table.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "visualize",
-    "pos": "v.",
-    "phonetic": "BrE /ˈvɪʒuəlaɪz/；AmE /ˈvɪʒuəlaɪz/",
-    "meaning": "想象；使可视化",
-    "example": "Try to visualize your success.",
-    "position": 6000,
-    "extra": {}
-  },
-  {
-    "word": "bundle",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈbʌndl/；AmE /ˈbʌndl/",
-    "meaning": "捆；捆绑；一包",
-    "example": "She carried a bundle of clothes.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "certify",
-    "pos": "v.",
-    "phonetic": "BrE /ˈsɜːtɪfaɪ/；AmE /ˈsɜːrtəfaɪ/",
-    "meaning": "证明；认证",
-    "example": "Only trained staff are certified to operate the machine.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "confer",
-    "pos": "v.",
-    "phonetic": "/kənˈfɜːr/",
-    "meaning": "商议；授予（学位/荣誉）",
-    "example": "The committee will confer with experts.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "dedication",
-    "pos": "n.",
-    "phonetic": "/ˌdedɪˈkeɪʃən/",
-    "meaning": "奉献；投入",
-    "example": "Her dedication to work is impressive.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "embark",
-    "pos": "v.",
-    "phonetic": "BrE /ɪmˈbɑːk/；AmE /ɪmˈbɑːrk/",
-    "meaning": "上船；开始（新事业）",
-    "example": "They embarked on a long journey.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "enthusiast",
-    "pos": "n.",
-    "phonetic": "BrE /ɪnˈθjuːziæst/；AmE /ɪnˈθuːziæst/",
-    "meaning": "爱好者",
-    "example": "He is a photography enthusiast.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "foam",
-    "pos": "n.",
-    "phonetic": "BrE /fəʊm/；AmE /foʊm/",
-    "meaning": "泡沫",
-    "example": "The waves were covered with foam.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "mentor",
-    "pos": "n./v.",
-    "phonetic": "/ˈmentɔːr/",
-    "meaning": "导师；指导",
-    "example": "She mentors new employees.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "portrait",
-    "pos": "n.",
-    "phonetic": "BrE /ˈpɔːtrɪt/；AmE /ˈpɔːrtrɪt/",
-    "meaning": "肖像；画像",
-    "example": "The portrait hangs in the gallery.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "pottery",
-    "pos": "n.",
-    "phonetic": "BrE /ˈpɒtəri/；AmE /ˈpɑːtəri/",
-    "meaning": "陶器",
-    "example": "She makes pottery as a hobby.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "quarterly",
-    "pos": "adj./adv.",
-    "phonetic": "BrE /ˈkwɔːtəli/；AmE /ˈkwɔːrtərli/",
-    "meaning": "季度的；按季度",
-    "example": "We publish a quarterly report.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "ranger",
-    "pos": "n.",
-    "phonetic": "/ˈreɪndʒər/",
-    "meaning": "护林员；巡逻员",
-    "example": "The ranger guided us through the forest.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "renovation",
-    "pos": "n.",
-    "phonetic": "BrE /ˌrenəˈveɪʃən/；AmE /ˌrenəˈveɪʃən/",
-    "meaning": "翻新；装修",
-    "example": "The hotel is closed for renovation.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "right to your in-box",
-    "pos": "phrase",
-    "phonetic": "—",
-    "meaning": "直接送达你的收件箱",
-    "example": "The newsletter comes right to your in-box.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "suspiciously",
-    "pos": "adv.",
-    "phonetic": "BrE /səˈspɪʃəsli/；AmE /səˈspɪʃəsli/",
-    "meaning": "怀疑地",
-    "example": "She looked at him suspiciously.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "thrive",
-    "pos": "v.",
-    "phonetic": "BrE /θraɪv/；AmE /θraɪv/",
-    "meaning": "兴旺；繁荣",
-    "example": "Small businesses can thrive online.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "warranty",
-    "pos": "n.",
-    "phonetic": "/ˈwɒrənti/",
-    "meaning": "保修，保证书",
-    "example": "The product comes with a one-year warranty.",
-    "position": 7000,
-    "extra": {}
-  },
-  {
-    "word": "advert",
-    "pos": "n.",
-    "phonetic": "/ˈædvɜːt/ (UK)",
-    "meaning": "广告",
-    "example": "I saw an advert for a new phone.",
-    "position": 8000,
-    "extra": {}
+    "phonetic": "BrE /əˈprɒksɪmətli/；AmE /əˈprɑːksɪmətli/",
+    "meaning": "大约；近似",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "It takes approximately two hours. / A: How much? B: Approximately 200 dollars.",
+      "常见搭配": "approximately + 数字/时间/金额；approximately equal to；approximately the same as",
+      "词根词缀,词头词尾": "-ly：副词后缀“以……方式”（常 adj.→adv.）",
+      "单词变形": "形/副：无比较级（一般不变形）",
+      "Unnamed: 9": "3000"
+    }
   },
   {
     "word": "apron",
     "pos": "n.",
     "phonetic": "BrE /ˈeɪprən/；AmE /ˈeɪprən/",
-    "meaning": "围裙",
-    "example": "She put on an apron before cooking.",
-    "position": 8000,
-    "extra": {}
+    "meaning": "围裙；（机场）停机坪",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Put on an apron before cooking. / A: Kitchen duty? B: Wear an apron.",
+      "常见搭配": "wear an apron；kitchen apron；airport apron",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "plural aprons",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "architect",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɑːkɪtekt/；AmE /ˈɑːrkɪtekt/",
+    "meaning": "建筑师；设计者（比喻）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The architect designed the building. / A: Who planned it? B: The project architect.",
+      "常见搭配": "architect of（…的缔造者）；software architect；chief architect",
+      "词根词缀,词头词尾": "archi-（主要）+ tect（建造）",
+      "单词变形": "plural architects",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "arrange",
+    "pos": "v.",
+    "phonetic": "BrE /əˈreɪndʒ/；AmE /əˈreɪndʒ/",
+    "meaning": "安排；布置；整理",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I arranged a meeting with the client. / A: When can we meet? B: I’ll arrange it.",
+      "常见搭配": "arrange for；arrange to do；arrange a meeting；arrange with（与…协调）",
+      "词根词缀,词头词尾": "arrangement 名词高频；-ment 常见名词后缀",
+      "单词变形": "动词：3rd arranges / past arranged / pp arranged / ing arranging",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "assembly",
+    "pos": "n.",
+    "phonetic": "BrE /əˈsembli/；AmE /əˈsɛmbli/",
+    "meaning": "集会；装配；议会",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The school held an assembly. / A: How is it made? B: On the assembly line.",
+      "常见搭配": "assembly line；assemble parts；legislative assembly",
+      "词根词缀,词头词尾": "assemble（集合/装配）+ -y（名词后缀）",
+      "单词变形": "plural assemblies",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "attain",
+    "pos": "v.",
+    "phonetic": "/əˈteɪn/",
+    "meaning": "达到；获得（目标/水平）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She attained a high level of fluency.\nA: Is it possible? B: Yes, we can attain the target.",
+      "常见搭配": "attain a goal; attain success; attain a level",
+      "词根词缀,词头词尾": "at-（向）+ tain（抓住/保持）",
+      "单词变形": "3rd attains; past attained; pp attained; ing attaining",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "attend",
+    "pos": "v.",
+    "phonetic": "BrE /əˈtend/；AmE /əˈtend/",
+    "meaning": "出席；参加；照料",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She attended the meeting. / A: Will you attend? B: Yes.",
+      "常见搭配": "attend a meeting/class；attend to（处理/照料）",
+      "词根词缀,词头词尾": "tend 语源“趋向/照料”；attendance 高频派生",
+      "单词变形": "动词：3rd attends / past attended / pp attended / ing attending",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "audit",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈɔːdɪt/；AmE /ˈɔːdɪt/",
+    "meaning": "审计；审查",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The company underwent an audit. / A: Why the documents? B: We’re auditing the accounts.",
+      "常见搭配": "audit of；financial audit；audit trail；conduct an audit",
+      "词根词缀,词头词尾": "aud（听，见 audience）→“听取/审查”",
+      "单词变形": "名词：plural audits；动词：3rd audits / past audited / pp audited / ing auditing",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "avenue",
+    "pos": "n.",
+    "phonetic": "BrE /ˈævənjuː/；AmE /ˈævənuː/",
+    "meaning": "大街；途径/手段",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Turn left onto Fifth Avenue. / A: Any solution? B: That’s one avenue to explore.",
+      "常见搭配": "an avenue for；a new avenue；pursue/explore an avenue",
+      "词根词缀,词头词尾": "借词；抽象义“途径”常见于学术/商务",
+      "单词变形": "plural avenues",
+      "Unnamed: 9": "4000"
+    }
   },
   {
     "word": "banquet",
     "pos": "n.",
     "phonetic": "BrE /ˈbæŋkwɪt/；AmE /ˈbæŋkwɪt/",
     "meaning": "宴会",
-    "example": "The annual banquet will be held tonight.",
-    "position": 8000,
-    "extra": {}
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "A banquet was held after the ceremony. / A: Formal dinner? B: Yes, a banquet.",
+      "常见搭配": "banquet for；hold/host a banquet；banquet hall",
+      "词根词缀,词头词尾": "借词（不常拆词缀）",
+      "单词变形": "plural banquets",
+      "Unnamed: 9": "7000"
+    }
   },
   {
-    "word": "durable",
-    "pos": "adj.",
-    "phonetic": "/ˈdʊrəbl/",
-    "meaning": "耐用的",
-    "example": "The material is very durable.",
-    "position": 8000,
-    "extra": {}
+    "word": "bend",
+    "pos": "v./n.",
+    "phonetic": "BrE /bend/；AmE /bend/",
+    "meaning": "弯曲；转弯；弯道",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Bend your knees slightly. / A: Where is it? B: Just past the bend.",
+      "常见搭配": "bend down；bend over；bend a pipe；a sharp bend",
+      "词根词缀,词头词尾": "词缀不典型；不规则过去式",
+      "单词变形": "名词：plural bends；动词：3rd bends / past bent / pp bent / ing bending",
+      "Unnamed: 9": "2000"
+    }
   },
   {
-    "word": "hourly",
-    "pos": "adj./adv.",
-    "phonetic": "/ˈaʊərli/",
-    "meaning": "每小时的；频繁的",
-    "example": "The bus runs hourly.",
-    "position": 8000,
-    "extra": {}
+    "word": "bend down",
+    "pos": "phr.v.",
+    "phonetic": "BrE /bend daʊn/；AmE /bend daʊn/",
+    "meaning": "弯下腰",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He bent down to pick it up. / A: Can you see it? B: Bend down a little.",
+      "常见搭配": "bend down to do；bend down and + 动作",
+      "词根词缀,词头词尾": "bend + down（向下）",
+      "单词变形": "bend：3rd bends / past bent / pp bent / ing bending",
+      "Unnamed: 9": "4000"
+    }
   },
   {
-    "word": "meadow",
+    "word": "biscuit",
     "pos": "n.",
-    "phonetic": "BrE /ˈmedəʊ/；AmE /ˈmɛdoʊ/",
-    "meaning": "草地；牧场",
-    "example": "Cows are grazing in the meadow.",
-    "position": 8000,
-    "extra": {}
+    "phonetic": "BrE /ˈbɪskɪt/；AmE /ˈbɪskɪt/",
+    "meaning": "饼干（BrE）；（AmE）松软小面饼",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Have a biscuit with your tea. / A: Snack? B: A biscuit, please.",
+      "常见搭配": "a biscuit with tea；chocolate biscuit",
+      "词根词缀,词头词尾": "借词；食品词汇",
+      "单词变形": "plural biscuits",
+      "Unnamed: 9": "5000"
+    }
   },
   {
-    "word": "refreshment",
+    "word": "board",
+    "pos": "n./v.",
+    "phonetic": "BrE /bɔːd/；AmE /bɔːrd/",
+    "meaning": "董事会；板；登机/上车；食宿",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The board approved the plan. / A: Time to go. B: Let’s board the train.",
+      "常见搭配": "board of directors；on board；board a plane；room and board",
+      "词根词缀,词头词尾": "词缀不典型；多义高频",
+      "单词变形": "名词：plural boards；动词：3rd boards / past boarded / pp boarded / ing boarding",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "brake",
+    "pos": "n./v.",
+    "phonetic": "BrE /breɪk/；AmE /breɪk/",
+    "meaning": "刹车；制动",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The brakes need checking. / A: Slow down! B: I’m braking.",
+      "常见搭配": "brake pedal；brake lights；apply the brakes",
+      "词根词缀,词头词尾": "同形异义：break（打破）注意区分",
+      "单词变形": "名词：plural brakes；动词：3rd brakes / past braked / pp braked / ing braking",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "breach",
+    "pos": "n./v.",
+    "phonetic": "BrE /briːtʃ/；AmE /briːtʃ/",
+    "meaning": "违约；违反；漏洞；突破",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "A data breach was reported. / A: Contract broken? B: That’s a breach.",
+      "常见搭配": "breach of contract；data/security breach；breach a rule",
+      "词根词缀,词头词尾": "词缀不典型；法律/安全语域",
+      "单词变形": "名词：plural breaches；动词：3rd breaches / past breached / pp breached / ing breaching",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "brochure",
     "pos": "n.",
-    "phonetic": "/rɪˈfreʃmənt/",
-    "meaning": "茶点；恢复精力",
-    "example": "Light refreshments will be served.",
-    "position": 8000,
-    "extra": {}
+    "phonetic": "BrE /ˈbrəʊʃə/；AmE /broʊˈʃʊr/",
+    "meaning": "宣传册；小册子",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Pick up a brochure at the desk. / A: More info? B: Here’s a brochure.",
+      "常见搭配": "brochure about/on；travel brochure；product brochure",
+      "词根词缀,词头词尾": "借词；商业宣传语域常见",
+      "单词变形": "plural brochures",
+      "Unnamed: 9": "6000"
+    }
   },
   {
-    "word": "reluctance",
+    "word": "budget",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈbʌdʒɪt/；AmE /ˈbʌdʒɪt/",
+    "meaning": "预算；做预算",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We’re over budget. / A: Can we afford it? B: It’s not in the budget.",
+      "常见搭配": "on/over/under budget；budget for；annual budget",
+      "词根词缀,词头词尾": "词缀不典型；商务高频",
+      "单词变形": "名词：plural budgets；动词：3rd budgets / past budgeted / pp budgeted / ing budgeting",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "bundle",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈbʌndl/；AmE /ˈbʌndl/",
+    "meaning": "捆；包；捆绑",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He carried a bundle of newspapers. / A: Any deal? B: It comes in a bundle.",
+      "常见搭配": "a bundle of；bundle up（穿暖/包好）；bundle deal",
+      "词根词缀,词头词尾": "词缀不典型；软件/通信也用“bundle”",
+      "单词变形": "名词：plural bundles；动词：3rd bundles / past bundled / pp bundled / ing bundling",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "cabinet",
     "pos": "n.",
-    "phonetic": "BrE /rɪˈlʌktəns/；AmE /rɪˈlʌktəns/",
-    "meaning": "勉强；不情愿",
-    "example": "He agreed with some reluctance.",
-    "position": 8000,
-    "extra": {}
-  },
-  {
-    "word": "renovate",
-    "pos": "v.",
-    "phonetic": "BrE /ˈrenəveɪt/；AmE /ˈrenəveɪt/",
-    "meaning": "翻新；修复",
-    "example": "They renovated the old building.",
-    "position": 8000,
-    "extra": {}
-  },
-  {
-    "word": "spacious",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈspeɪʃəs/；AmE /ˈspeɪʃəs/",
-    "meaning": "宽敞的",
-    "example": "The living room is bright and spacious.",
-    "position": 8000,
-    "extra": {}
-  },
-  {
-    "word": "watering",
-    "pos": "n.",
-    "phonetic": "/ˈwɔːtərɪŋ/",
-    "meaning": "浇水",
-    "example": "Watering the plants is important.",
-    "position": 8000,
-    "extra": {}
-  },
-  {
-    "word": "woven",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈwəʊvən/；AmE /ˈwoʊvən/",
-    "meaning": "编织的",
-    "example": "She bought a woven basket.",
-    "position": 8000,
-    "extra": {}
+    "phonetic": "BrE /ˈkæbɪnət/；AmE /ˈkæbɪnət/",
+    "meaning": "橱柜；内阁；（飞机）客舱",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Put the plates in the cabinet. / A: Who resigned? B: A cabinet minister.",
+      "常见搭配": "kitchen cabinet；cabinet maker；the Cabinet（内阁）",
+      "词根词缀,词头词尾": "cabin（小室）语源 + -et（名词后缀：小/物件）",
+      "单词变形": "plural cabinets",
+      "Unnamed: 9": "4000"
+    }
   },
   {
     "word": "caterer",
     "pos": "n.",
-    "phonetic": "/ˈkeɪtərər/",
-    "meaning": "餐饮供应者",
-    "example": "The caterer prepared food for the event.",
-    "position": 9000,
-    "extra": {}
+    "phonetic": "BrE /ˈkeɪtərə/；AmE /ˈkeɪtərər/",
+    "meaning": "餐饮供应商；承办宴会者",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We hired a caterer. / A: Food ready? B: Caterer arrives at 5.",
+      "常见搭配": "caterer for；hire/book a caterer；catering service；cater to",
+      "词根词缀,词头词尾": "-er：做……的人/物（常 v.→n.）",
+      "单词变形": "名词：plural caterers",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "certify",
+    "pos": "v.",
+    "phonetic": "BrE /ˈsɜːtɪfaɪ/；AmE /ˈsɝːrtɪfaɪ/",
+    "meaning": "证明；认证；颁发合格证",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The lab certified the results. / A: Is it official? B: It’s certified.",
+      "常见搭配": "certify that；certify as；certify someone；certified by",
+      "词根词缀,词头词尾": "cert（确定/证明）+ -ify（使…化，动词后缀）",
+      "单词变形": "3rd certifies / past certified / pp certified / ing certifying",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "clarify",
+    "pos": "v.",
+    "phonetic": "BrE /ˈklærɪfaɪ/；AmE /ˈklærɪfaɪ/",
+    "meaning": "澄清；阐明",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Could you clarify your point? / A: So you mean Monday? B: Yes, let me clarify.",
+      "常见搭配": "clarify that；clarify a misunderstanding；clarify with（与…核实澄清）",
+      "词根词缀,词头词尾": "-fy：动词后缀“使……”（常 v.）",
+      "单词变形": "3rd clarifies / past clarified / pp clarified / ing clarifying",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "clay",
+    "pos": "n.",
+    "phonetic": "BrE /kleɪ/；AmE /kleɪ/",
+    "meaning": "黏土；陶土",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The pot is made of clay. / A: What material? B: Clay.",
+      "常见搭配": "clay soil；modeling clay；clay pot",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "名词：plural clays（多指种类）",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "Co.",
+    "pos": "abbr. (n.)",
+    "phonetic": "/kəʊ/",
+    "meaning": "（公司名称后缀）Company：公司",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "ABC Co. supplies office equipment.\nA: What does 'Co.' mean? B: It’s short for 'Company'.",
+      "常见搭配": "Company Name + Co.; Co., Ltd.; trading company",
+      "词根词缀,词头词尾": "company（公司）→ Co.（缩写）",
+      "单词变形": "—",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "colleague",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkɒliːɡ/；AmE /ˈkɑːliːɡ/",
+    "meaning": "同事",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She spoke with a colleague. / A: Who’s joining? B: My colleague from HR.",
+      "常见搭配": "colleague at/from；close colleague",
+      "词根词缀,词头词尾": "co-（共同）+ league（团体/联盟）",
+      "单词变形": "plural colleagues",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "commit",
+    "pos": "v.",
+    "phonetic": "/kəˈmɪt/",
+    "meaning": "承诺；投入；犯（错/罪）；提交",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He committed to the plan.\nA: Did you update the code? B: I committed the changes.",
+      "常见搭配": "commit to; commit a crime; commit resources; commit changes",
+      "词根词缀,词头词尾": "com-（一起）+ mit（送/放）",
+      "单词变形": "3rd commits; past committed; pp committed; ing committing",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "commitment",
+    "pos": "n.",
+    "phonetic": "/kəˈmɪtmənt/",
+    "meaning": "承诺；投入；义务",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Thank you for your commitment.\nA: Weekly meetings? B: That’s a big commitment.",
+      "常见搭配": "commitment to; make a commitment; long-term commitment; commitment level",
+      "词根词缀,词头词尾": "commit + -ment（名词后缀）",
+      "单词变形": "plural commitments",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "committed",
+    "pos": "adj./pp.",
+    "phonetic": "/kəˈmɪtɪd/",
+    "meaning": "坚定投入的；已承诺的；（pp）commit 的过去分词",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She is committed to improving quality.\nA: Are you joining the project? B: Yes, I'm committed.",
+      "常见搭配": "committed to; committed member; fully committed; be committed",
+      "词根词缀,词头词尾": "commit + -ed（过去分词/形容词化；常用于形容词）",
+      "单词变形": "commit: 3rd commits; past committed; pp committed; ing committing",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "complain",
+    "pos": "v.",
+    "phonetic": "BrE /kəmˈpleɪn/；AmE /kəmˈpleɪn/",
+    "meaning": "抱怨；投诉",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Customers complained about the delay. / A: What should I do? B: Complain to customer service.",
+      "常见搭配": "complain about；complain to；complain that",
+      "词根词缀,词头词尾": "com-（一起）+ plain（喊/诉说语源）",
+      "单词变形": "3rd complains / past complained / pp complained / ing complaining",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "complainer",
+    "pos": "n.",
+    "phonetic": "/kəmˈpleɪnə/",
+    "meaning": "爱抱怨的人；投诉者",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He’s a constant complainer.\nA: Another complaint? B: He’s just a complainer.",
+      "常见搭配": "constant complainer; serial complainer; complainer about; customer complainer",
+      "词根词缀,词头词尾": "complain（抱怨）+ -er（名词后缀：人）",
+      "单词变形": "plural complainers",
+      "Unnamed: 9": "12000"
+    }
+  },
+  {
+    "word": "complian (→ compliant)",
+    "pos": "adj.",
+    "phonetic": "/kəmˈplaɪənt/",
+    "meaning": "拼写误写：通常应为 compliant（合规的；顺从的）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "A: Is this spelling right? B: 'complian' is usually written as 'compliant'.\nThe system must be compliant with the policy.",
+      "常见搭配": "compliant with; fully compliant",
+      "词根词缀,词头词尾": "同上（compliant）",
+      "单词变形": "同上（compliant）",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "compliant",
+    "pos": "adj.",
+    "phonetic": "/kəmˈplaɪənt/",
+    "meaning": "遵从的；顺从的；（法规）合规的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The device is compliant with safety standards.\nA: Are we following the rules? B: Yes, we're compliant.",
+      "常见搭配": "compliant with; fully compliant; regulation-compliant; compliance requirements",
+      "词根词缀,词头词尾": "compli-（顺从/完成）+ -ant（形容词后缀）",
+      "单词变形": "comparative more compliant; superlative most compliant",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "concern",
+    "pos": "n./v.",
+    "phonetic": "BrE /kənˈsɜːn/；AmE /kənˈsɝːn/",
+    "meaning": "担忧；关切；涉及",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "There is growing concern about safety. / A: Is it about me? B: It concerns the whole team.",
+      "常见搭配": "concern about/over；raise concerns；as far as … is concerned",
+      "词根词缀,词头词尾": "con-（一起）+ cern（分辨/筛选语源）",
+      "单词变形": "名词：plural concerns；动词：3rd concerns / past concerned / pp concerned / ing concerning",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "conduct",
+    "pos": "v./n.",
+    "phonetic": "BrE /kənˈdʌkt/（v.）, /ˈkɒndʌkt/（n.）；AmE /kənˈdʌkt/（v.）, /ˈkɑːndʌkt/（n.）",
+    "meaning": "v. 进行；实施；n. 行为；举止",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They conducted an experiment. / A: Who ran the interview? B: I conducted it.",
+      "常见搭配": "conduct a survey/interview；conduct research；code of conduct",
+      "词根词缀,词头词尾": "con-（一起）+ duct（引导，见 product）",
+      "单词变形": "名词：plural conducts（少用）；动词：3rd conducts / past conducted / pp conducted / ing conducting",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "confer",
+    "pos": "v.",
+    "phonetic": "BrE /kənˈfɜː/；AmE /kənˈfɝːr/",
+    "meaning": "授予；商议",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The award confers special status. / A: Can we decide now? B: Let’s confer first.",
+      "常见搭配": "confer on/upon（授予）；confer with（商议）",
+      "词根词缀,词头词尾": "con-（一起）+ fer（带来/携带，见 transfer）",
+      "单词变形": "3rd confers / past conferred / pp conferred / ing conferring",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "conference",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkɒnfərəns/；AmE /ˈkɑːnfərəns/",
+    "meaning": "会议；研讨会",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She attended an international conference. / A: Are you free? B: No, I’m at a conference.",
+      "常见搭配": "conference on/about；attend a conference；press conference",
+      "词根词缀,词头词尾": "con-（一起）+ fer（带来）+ -ence（名词后缀：状态/事件）",
+      "单词变形": "plural conferences",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "consequently",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈkɒnsɪkwəntli/；AmE /ˈkɑːnsɪkwəntli/",
+    "meaning": "因此；结果",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "It rained; consequently, the match was cancelled. / A: So what happened? B: Consequently, we postponed.",
+      "常见搭配": "and consequently；consequently, + 句子",
+      "词根词缀,词头词尾": "consequent + -ly（副词后缀）",
+      "单词变形": "—",
+      "Unnamed: 9": "5000"
+    }
   },
   {
     "word": "consolidate",
     "pos": "v.",
     "phonetic": "BrE /kənˈsɒlɪdeɪt/；AmE /kənˈsɑːlɪdeɪt/",
-    "meaning": "合并；巩固",
-    "example": "The company consolidated its branches.",
-    "position": 9000,
-    "extra": {}
+    "meaning": "合并；巩固；整合",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We consolidated the files into one folder. / A: Too many reports. B: Let’s consolidate them.",
+      "常见搭配": "consolidate into；consolidate with；consolidate data/debt",
+      "词根词缀,词头词尾": "con-（一起）+ solid（坚固）+ -ate（动词后缀）",
+      "单词变形": "3rd consolidates / past consolidated / pp consolidated / ing consolidating",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "construct",
+    "pos": "v./n.",
+    "phonetic": "BrE /kənˈstrʌkt/；AmE /kənˈstrʌkt/",
+    "meaning": "建造；构建；（n.）概念/构想",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They constructed a bridge. / A: Is it a real thing? B: It’s a social construct.",
+      "常见搭配": "construct a building；construct from/of；social construct",
+      "词根词缀,词头词尾": "con-（一起）+ struct（建造，见 structure）",
+      "单词变形": "名词：plural constructs；动词：3rd constructs / past constructed / pp constructed / ing constructing",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "construction",
+    "pos": "n.",
+    "phonetic": "BrE /kənˈstrʌkʃən/；AmE /kənˈstrʌkʃən/",
+    "meaning": "建造；施工；（语法）结构",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The road is closed due to construction. / A: Why noisy? B: Construction next door.",
+      "常见搭配": "under construction；construction site；construction of",
+      "词根词缀,词头词尾": "construct（建造）+ -ion（名词后缀：过程/结果）",
+      "单词变形": "plural constructions（少用；多为不可数）",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "consultation",
+    "pos": "n.",
+    "phonetic": "BrE /ˌkɒnsəlˈteɪʃən/；AmE /ˌkɑːnsəlˈteɪʃən/",
+    "meaning": "咨询；会诊；商议",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "You can book a free consultation. / A: Should we decide now? B: Let’s have a consultation first.",
+      "常见搭配": "consultation with；book/schedule a consultation；legal/medical consultation",
+      "词根词缀,词头词尾": "consult（咨询）+ -ation（名词后缀：过程/结果）",
+      "单词变形": "名词：plural consultations",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "contract",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈkɒntrækt/（n.）, /kənˈtrækt/（v.）；AmE /ˈkɑːntrækt/（n.）, /kənˈtrækt/（v.）",
+    "meaning": "n. 合同；v. 收缩；感染（病）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Sign the contract before Friday. / A: Why absent? B: He contracted the flu.",
+      "常见搭配": "sign/terminate a contract；contract with（与…订合同）; contract a disease",
+      "词根词缀,词头词尾": "con-（一起）+ tract（拉，见 traction）",
+      "单词变形": "名词：plural contracts；动词：3rd contracts / past contracted / pp contracted / ing contracting",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "corporate",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈkɔːpərət/；AmE /ˈkɔːrpərət/",
+    "meaning": "公司的；企业的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Corporate policy is strict. / A: Dress code? B: Corporate style.",
+      "常见搭配": "corporate culture；corporate headquarters；corporate finance",
+      "词根词缀,词头词尾": "corpor（身体/团体）语源 + -ate（形容词化）",
+      "单词变形": "形容词：comparative more corporate / superlative most corporate（少用）",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "curb",
+    "pos": "n./v.",
+    "phonetic": "BrE /kɜːb/；AmE /kɝːb/",
+    "meaning": "路缘；抑制",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Park next to the curb. / A: How to reduce it? B: We need to curb spending.",
+      "常见搭配": "curb spending/inflation；at the curb；curb appeal",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "名词：plural curbs；动词：3rd curbs / past curbed / pp curbed / ing curbing",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "dedication",
+    "pos": "n.",
+    "phonetic": "BrE /ˌdedɪˈkeɪʃən/；AmE /ˌdɛdɪˈkeɪʃən/",
+    "meaning": "奉献；投入；题献/献辞",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Her dedication to the job is admirable. / A: How did you finish? B: With dedication and discipline.",
+      "常见搭配": "dedication to；show dedication；a dedication page",
+      "词根词缀,词头词尾": "dedicate（奉献/题献）+ -ion（名词后缀）",
+      "单词变形": "plural dedications",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "degree",
+    "pos": "n.",
+    "phonetic": "BrE /dɪˈɡriː/；AmE /dɪˈɡriː/",
+    "meaning": "学位；程度；度数",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She has a degree in biology. / A: How hot? B: About 30 degrees.",
+      "常见搭配": "degree in；to a certain degree；a high/low degree of",
+      "词根词缀,词头词尾": "学术语域常见；词缀不规则",
+      "单词变形": "名词：plural degrees",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "deliver",
+    "pos": "v.",
+    "phonetic": "/dɪˈlɪvə/",
+    "meaning": "递送；交付；发表（演讲）；（产科）分娩",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The package was delivered this morning.\nA: Will you speak? B: Yes, I’ll deliver a short speech.",
+      "常见搭配": "deliver to; deliver a speech; deliver results; deliver on a promise",
+      "词根词缀,词头词尾": "de-（向下/离开）+ liver（释放语源相关）",
+      "单词变形": "3rd delivers; past delivered; pp delivered; ing delivering",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "demonstrat (→ demonstrate)",
+    "pos": "v.",
+    "phonetic": "/ˈdemənstreɪt/",
+    "meaning": "展示；证明；演示；示威",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He demonstrated how the device works.\nA: Any evidence? B: The data demonstrate a clear pattern.",
+      "常见搭配": "demonstrate that; demonstrate how; demonstrate against; demonstrate a product",
+      "词根词缀,词头词尾": "de- + monstr（展示）+ -ate（动词后缀）",
+      "单词变形": "3rd demonstrates; past demonstrated; pp demonstrated; ing demonstrating",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "department",
+    "pos": "n.",
+    "phonetic": "BrE /dɪˈpɑːtmənt/；AmE /dɪˈpɑːrtmənt/",
+    "meaning": "部门；（大学）系；百货商店的部",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The sales department is hiring. / A: Who handles it? B: The HR department.",
+      "常见搭配": "department of；in the department；department store",
+      "词根词缀,词头词尾": "depart（分开）语源 + -ment（名词后缀：机构/结果）",
+      "单词变形": "plural departments",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "destination",
+    "pos": "n.",
+    "phonetic": "BrE /ˌdestɪˈneɪʃən/；AmE /ˌdɛstɪˈneɪʃən/",
+    "meaning": "目的地",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Paris is a popular destination. / A: Where to? B: Destination: Kyoto.",
+      "常见搭配": "tourist destination；final destination；destination for",
+      "词根词缀,词头词尾": "destin（目的/命运）+ -ation（名词后缀）",
+      "单词变形": "plural destinations",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "direct",
+    "pos": "v./adj./adv.",
+    "phonetic": "BrE /dɪˈrekt/（v./adj.）；AmE /dɪˈrɛkt/（常见）",
+    "meaning": "v. 指导；指向；导演；adj. 直接的；adv. 直接地",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He directed the team. / A: Any flights? B: Yes, a direct flight.",
+      "常见搭配": "direct to；direct someone to；direct contact；go directly",
+      "词根词缀,词头词尾": "di-（分开/指向）+ rect（直）语源",
+      "单词变形": "动词：3rd directs / past directed / pp directed / ing directing；形容词：more direct/most direct",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "director",
+    "pos": "n.",
+    "phonetic": "BrE /dɪˈrektə/；AmE /dɪˈrektər/",
+    "meaning": "主管；负责人；董事；导演",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She is a director at the firm. / A: Who approved? B: The director.",
+      "常见搭配": "director of；board of directors；executive/managing director",
+      "词根词缀,词头词尾": "direct + -or（人/职业后缀）",
+      "单词变形": "plural directors",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "distribute",
+    "pos": "v.",
+    "phonetic": "BrE /dɪˈstrɪbjuːt/；AmE /dɪˈstrɪbjuːt/",
+    "meaning": "分发；分配；配送",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They distribute food to families. / A: How share? B: Distribute by email.",
+      "常见搭配": "distribute to；distribute among；distribution of；distributor",
+      "词根词缀,词头词尾": "dis-：分开/向四处 + tribute（分配）",
+      "单词变形": "动词：3rd distributes / past distributed / pp distributed / ing distributing",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "distribution",
+    "pos": "n.",
+    "phonetic": "/ˌdɪstrɪˈbjuːʃən/",
+    "meaning": "分配；分发；（统计）分布；配送",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The distribution of income is uneven.\nA: Who handles distribution? B: The logistics team.",
+      "常见搭配": "distribution of; distribution center; income distribution; normal distribution",
+      "词根词缀,词头词尾": "distribute + -ion（名词后缀：过程/结果；常用于名词）",
+      "单词变形": "plural distributions",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "distributor",
+    "pos": "n.",
+    "phonetic": "/dɪˈstrɪbjətə/",
+    "meaning": "经销商；分销商；分配者/分发者",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We need a local distributor.\nA: Who supplies the stores? B: A regional distributor.",
+      "常见搭配": "authorized distributor; local distributor; distributor for; distribution network",
+      "词根词缀,词头词尾": "distribute + -or（名词后缀：人/机构；常用于名词）",
+      "单词变形": "plural distributors",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "dlstribute (→ distribute)",
+    "pos": "v.",
+    "phonetic": "/dɪˈstrɪbjuːt/",
+    "meaning": "分发；分配；散布；配送",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They distribute food to families in need.\nA: Can you distribute the handouts? B: Sure.",
+      "常见搭配": "distribute to; distribute among; distribute evenly; distribute copies",
+      "词根词缀,词头词尾": "dis-（分开）+ tribute（给予/贡献语源）",
+      "单词变形": "3rd distributes; past distributed; pp distributed; ing distributing",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "dlstributive (→ distributive)",
+    "pos": "adj.",
+    "phonetic": "/dɪˈstrɪbjətɪv/",
+    "meaning": "分配的；分发的；（数）分配律的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Tax policy has distributive effects.\nA: In algebra? B: It's the distributive property.",
+      "常见搭配": "distributive justice; distributive effect; distributive property; distributive law",
+      "词根词缀,词头词尾": "distribute + -ive（形容词后缀：具有…性质的；常用于形容词）",
+      "单词变形": "comparative more distributive; superlative most distributive",
+      "Unnamed: 9": "12000"
+    }
+  },
+  {
+    "word": "draft",
+    "pos": "n./v.",
+    "phonetic": "BrE /drɑːft/；AmE /dræft/",
+    "meaning": "草稿；起草；穿堂风",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I’ll send you a draft tomorrow. / A: Final? B: No, first draft.",
+      "常见搭配": "first/final draft；draft a report/contract；draft version",
+      "词根词缀,词头词尾": "drafting 常见为名词“起草/制图”",
+      "单词变形": "名词：plural drafts；动词：3rd drafts / past drafted / pp drafted / ing drafting",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "durable",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈdjʊərəbl/；AmE /ˈdʊrəbl/",
+    "meaning": "耐用的；持久的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "This fabric is very durable. / A: Will it last? B: Yes, it’s durable.",
+      "常见搭配": "durable materials；highly durable；durable goods",
+      "词根词缀,词头词尾": "dur（持续，见 endure）+ -able（可……的，常 adj.）",
+      "单词变形": "形容词：comparative more durable / superlative most durable",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "each of",
+    "pos": "phrase",
+    "phonetic": "/iːtʃ əv/",
+    "meaning": "每一个……（后接复数名词/代词）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Each of the students has a badge.\nA: How many forms? B: One for each of you.",
+      "常见搭配": "each of + plural noun; each of them/us; each of the + plural noun",
+      "词根词缀,词头词尾": "固定结构：each（限定词）+ of（介词）",
+      "单词变形": "—",
+      "Unnamed: 9": "1000"
+    }
+  },
+  {
+    "word": "editorial",
+    "pos": "n./adj.",
+    "phonetic": "BrE /ˌedɪˈtɔːriəl/；AmE /ˌedɪˈtɔːriəl/",
+    "meaning": "社论；编辑的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I read an editorial in today’s paper. / A: Opinion piece? B: It’s an editorial.",
+      "常见搭配": "editorial board；editorial policy；write an editorial",
+      "词根词缀,词头词尾": "editor + -ial（形容词/名词后缀）",
+      "单词变形": "plural editorials",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "efficient",
+    "pos": "adj.",
+    "phonetic": "BrE /ɪˈfɪʃənt/；AmE /ɪˈfɪʃənt/",
+    "meaning": "高效的；效率高的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The new system is efficient. / A: How’s the workflow? B: Much more efficient now.",
+      "常见搭配": "efficient use of；energy-efficient；efficient at（做…高效）",
+      "词根词缀,词头词尾": "ef-/ex-（向外）+ fic（做）+ -ient（形容词后缀）",
+      "单词变形": "形容词：comparative more efficient / superlative most efficient",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "embark",
+    "pos": "v.",
+    "phonetic": "BrE /ɪmˈbɑːk/；AmE /ɪmˈbɑːrk/",
+    "meaning": "登船/登机；着手开始",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They embarked on a new project. / A: Ready? B: We’re about to embark.",
+      "常见搭配": "embark on/upon；embark for（前往…启程）",
+      "词根词缀,词头词尾": "em-（使进入）+ bark（船语源相关）",
+      "单词变形": "3rd embarks / past embarked / pp embarked / ing embarking",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "emporium",
+    "pos": "n.",
+    "phonetic": "BrE /ɛmˈpɔːriəm/；AmE /ɛmˈpɔːriəm/",
+    "meaning": "大商场；（尤指）综合商店",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The city has a famous book emporium. / A: Where did you get it? B: From an emporium downtown.",
+      "常见搭配": "an emporium for/of；shopping emporium",
+      "词根词缀,词头词尾": "-ium 常见名词后缀（多用于场所/物质名词）",
+      "单词变形": "plural emporiums",
+      "Unnamed: 9": "12000"
+    }
+  },
+  {
+    "word": "enthusiasm",
+    "pos": "n.（不可数）",
+    "phonetic": "BrE /ɪnˈθjuːziæzəm/；AmE /ɪnˈθuːziæzəm/",
+    "meaning": "热情；热忱",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She spoke with enthusiasm. / A: Interested? B: With great enthusiasm.",
+      "常见搭配": "enthusiasm for；show enthusiasm；full of enthusiasm",
+      "词根词缀,词头词尾": "enthuse（激发热情）+ -asm（名词后缀）",
+      "单词变形": "通常不可数",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "enthusiast",
+    "pos": "n.",
+    "phonetic": "BrE /ɪnˈθjuːziæst/；AmE /ɪnˈθuːziæst/",
+    "meaning": "爱好者；热衷者",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He’s a fitness enthusiast. / A: Cars? B: I’m an enthusiast.",
+      "常见搭配": "an enthusiast for/of；sports/tech enthusiast",
+      "词根词缀,词头词尾": "enthuse + -ast（名词后缀：人）",
+      "单词变形": "plural enthusiasts",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "enthusiastic",
+    "pos": "adj.",
+    "phonetic": "BrE /ɪnˌθjuːziˈæstɪk/；AmE /ɪnˌθuːziˈæstɪk/",
+    "meaning": "热情的；热衷的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She’s enthusiastic about the plan. / A: Join us? B: I’m enthusiastic!",
+      "常见搭配": "enthusiastic about；enthusiastic to do；enthusiastic support",
+      "词根词缀,词头词尾": "-ic（形容词后缀：…的）",
+      "单词变形": "comparative more enthusiastic / superlative most enthusiastic",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "equipment",
+    "pos": "n.（不可数）",
+    "phonetic": "BrE /ɪˈkwɪpmənt/；AmE /ɪˈkwɪpmənt/",
+    "meaning": "设备；器材",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Safety equipment is required. / A: Tools ready? B: Equipment is ready.",
+      "常见搭配": "equipment for；protective equipment；office/lab equipment",
+      "词根词缀,词头词尾": "equip + -ment（名词后缀：结果/事物）",
+      "单词变形": "名词：不可数（无 plural 形式）",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "estate",
+    "pos": "n.",
+    "phonetic": "BrE /ɪˈsteɪt/；AmE /ɪˈsteɪt/",
+    "meaning": "房地产；（死者）遗产；庄园",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She works in real estate. / A: Who handles the inheritance? B: The estate lawyer does.",
+      "常见搭配": "real estate；estate agent（英）；estate sale；the deceased’s estate",
+      "词根词缀,词头词尾": "词缀不典型；法律/房地产高频",
+      "单词变形": "plural estates",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "estimate",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈestɪmeɪt/；AmE /ˈestɪmeɪt/",
+    "meaning": "估算；估计；报价",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Can you estimate the cost? / A: How much? B: That’s my estimate.",
+      "常见搭配": "estimate at；estimate of；rough estimate；cost estimate",
+      "词根词缀,词头词尾": "-ate 动词；-ion（estimation）派生",
+      "单词变形": "名词：plural estimates；动词：3rd estimates / past estimated / pp estimated / ing estimating",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "etiquette",
+    "pos": "n.",
+    "phonetic": "/ˈetɪket/",
+    "meaning": "礼仪；规矩（社交/商务礼节）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Business etiquette matters in meetings.\nA: Should I shake hands? B: It’s good etiquette.",
+      "常见搭配": "proper etiquette; social/business etiquette; etiquette for; email etiquette",
+      "词根词缀,词头词尾": "借词；常作名词",
+      "单词变形": "—（不可数为主；可说 rules of etiquette）",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "exceptionally",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪkˈsepʃənəli/；AmE /ɪkˈsɛpʃənəli/",
+    "meaning": "格外地；异常地",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She is exceptionally talented. / A: Good? B: Exceptionally.",
+      "常见搭配": "exceptionally good/high；exceptionally difficult",
+      "词根词缀,词头词尾": "exception + -ally（副词化）",
+      "单词变形": "—",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "execute",
+    "pos": "v.",
+    "phonetic": "BrE /ˈeksɪkjuːt/；AmE /ˈeksɪkjuːt/",
+    "meaning": "执行；实施；（法律）处决",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They executed the plan successfully. / A: What’s next? B: Execute the strategy.",
+      "常见搭配": "execute a plan/strategy；execute an order；execute a contract（正式：签署并生效）",
+      "词根词缀,词头词尾": "ex-（向外）+ secu（跟随）语源；-e 动词固定",
+      "单词变形": "3rd executes / past executed / pp executed / ing executing",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "executive",
+    "pos": "n./adj.",
+    "phonetic": "BrE /ɪɡˈzekjətɪv/；AmE /ɪɡˈzekjətɪv/",
+    "meaning": "高管；行政的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She is an executive at the bank. / A: Who decided? B: The executive team.",
+      "常见搭配": "executive team；executive director；executive summary",
+      "词根词缀,词头词尾": "execute（执行）+ -ive（形容词/名词后缀：…的/…的人）",
+      "单词变形": "plural executives",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "expand",
+    "pos": "v.",
+    "phonetic": "BrE /ɪkˈspænd/；AmE /ɪkˈspænd/",
+    "meaning": "扩大；扩展；详述",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The company expanded into Asia. / A: Can you explain? B: I’ll expand on that.",
+      "常见搭配": "expand into；expand on（详述）；expand the business",
+      "词根词缀,词头词尾": "ex-（向外）+ pand（展开）",
+      "单词变形": "3rd expands / past expanded / pp expanded / ing expanding",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "expect",
+    "pos": "v.",
+    "phonetic": "BrE /ɪkˈspekt/；AmE /ɪkˈspɛkt/",
+    "meaning": "期待；预期；认为会发生",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I expect it will rain. / A: Is he coming? B: I expect so.",
+      "常见搭配": "expect to do；expect that；expect from；as expected",
+      "词根词缀,词头词尾": "ex-（向外）+ spect（看）",
+      "单词变形": "3rd expects / past expected / pp expected / ing expecting",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "expertise",
+    "pos": "n.（不可数）",
+    "phonetic": "BrE /ˌekspɜːˈtiːz/；AmE /ˌekspɝːˈtiːz/",
+    "meaning": "专业知识；专长",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She has expertise in finance. / A: Who can help? B: We need expertise.",
+      "常见搭配": "expertise in；technical expertise；area of expertise",
+      "词根词缀,词头词尾": "expert（专家）+ -ise/-ise（名词化痕迹）",
+      "单词变形": "不可数（一般无 plural；口语偶见 expertises）",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "extend",
+    "pos": "v.",
+    "phonetic": "BrE /ɪkˈstend/；AmE /ɪkˈstend/",
+    "meaning": "延长；扩展；伸出",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They extended the deadline. / A: Can we stay longer? B: They’ll extend it.",
+      "常见搭配": "extend to；extend by（延长…）；extend an offer/invitation",
+      "词根词缀,词头词尾": "ex-：向外 + tend（伸展）",
+      "单词变形": "动词：3rd extends / past extended / pp extended / ing extending",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "extension",
+    "pos": "n.",
+    "phonetic": "BrE /ɪkˈstenʃən/；AmE /ɪkˈstenʃən/",
+    "meaning": "延期；延长；扩建；分机",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I asked for an extension of the deadline. / A: More time? B: Get an extension.",
+      "常见搭配": "extension of；deadline extension；phone extension；file extension",
+      "词根词缀,词头词尾": "ex-：向外 + -sion：名词后缀“行为/结果”",
+      "单词变形": "名词：plural extensions",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "extremely",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪkˈstriːmli/；AmE /ɪkˈstriːmli/",
+    "meaning": "极其；非常",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The test is extremely difficult. / A: Hot? B: Extremely.",
+      "常见搭配": "extremely important；extremely careful",
+      "词根词缀,词头词尾": "extreme + -ly（副词后缀）",
+      "单词变形": "—",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "fabric",
+    "pos": "n.",
+    "phonetic": "BrE /ˈfæbrɪk/；AmE /ˈfæbrɪk/",
+    "meaning": "布料；（社会等）结构",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Choose a durable fabric. / A: What’s it made of? B: A soft fabric.",
+      "常见搭配": "fabric of society（社会结构）；cotton/synthetic fabric",
+      "词根词缀,词头词尾": "词根 fab-（制作）语源相关（如 fabricate）",
+      "单词变形": "名词：plural fabrics",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "facility",
+    "pos": "n.",
+    "phonetic": "BrE /fəˈsɪləti/；AmE /fəˈsɪləti/",
+    "meaning": "设施；机构；（复数）设备",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The facility is open 24 hours. / A: Where’s the lab? B: In that facility.",
+      "常见搭配": "medical/training facility；facility for；use the facilities",
+      "词根词缀,词头词尾": "facil（容易，见 facile）+ -ity（名词后缀：性质/状态）",
+      "单词变形": "plural facilities",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "failed to",
+    "pos": "phrase",
+    "phonetic": "/feɪld tuː/",
+    "meaning": "未能……；没有做到……",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He failed to reply in time.\nA: Did it work? B: No, it failed to start.",
+      "常见搭配": "fail to do; fail to meet; fail to notice; fail to comply",
+      "词根词缀,词头词尾": "fail + to do（固定结构）",
+      "单词变形": "fail: 3rd fails; past failed; pp failed; ing failing",
+      "Unnamed: 9": "2000"
+    }
   },
   {
     "word": "fern",
     "pos": "n.",
-    "phonetic": "BrE /fɜːn/；AmE /fɜːrn/",
+    "phonetic": "BrE /fɜːn/；AmE /fɝːn/",
     "meaning": "蕨类植物",
-    "example": "A fern grows well in shady areas.",
-    "position": 9000,
-    "extra": {}
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Ferns grow well in shade. / A: What plant is this? B: A fern.",
+      "常见搭配": "a fern plant；ferns in the garden",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "plural ferns",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "firm",
+    "pos": "n./adj.",
+    "phonetic": "BrE /fɜːm/；AmE /fɝːm/",
+    "meaning": "n. 公司；adj. 牢固的；坚定的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She works for a law firm. / A: Should we agree? B: Be firm and say no.",
+      "常见搭配": "a law/accounting/consulting firm；stand firm；firm belief；firm up",
+      "词根词缀,词头词尾": "firmly/firmness 派生常见",
+      "单词变形": "名词：plural firms；形容词：comparative firmer / superlative firmest",
+      "Unnamed: 9": "2000"
+    }
   },
   {
     "word": "fixture",
     "pos": "n.",
     "phonetic": "BrE /ˈfɪkstʃə/；AmE /ˈfɪkstʃər/",
-    "meaning": "固定装置；固定物",
-    "example": "The ceiling fixture needs repair.",
-    "position": 9000,
-    "extra": {}
-  },
-  {
-    "word": "podium",
-    "pos": "n.",
-    "phonetic": "BrE /ˈpəʊdiəm/；AmE /ˈpoʊdiəm/",
-    "meaning": "讲台；领奖台",
-    "example": "She spoke confidently from the podium.",
-    "position": 9000,
-    "extra": {}
-  },
-  {
-    "word": "rave",
-    "pos": "v./adj.",
-    "phonetic": "BrE /reɪv/；AmE /reɪv/",
-    "meaning": "热烈称赞；极好的",
-    "example": "The restaurant received rave reviews.",
-    "position": 9000,
-    "extra": {}
-  },
-  {
-    "word": "reimburse",
-    "pos": "v.",
-    "phonetic": "BrE /ˌriːɪmˈbɜːs/；AmE /ˌriːɪmˈbɜːrs/",
-    "meaning": "报销；偿还",
-    "example": "The company will reimburse your travel expenses.",
-    "position": 9000,
-    "extra": {}
-  },
-  {
-    "word": "stairway",
-    "pos": "n.",
-    "phonetic": "BrE /ˈsteəweɪ/；AmE /ˈsterweɪ/",
-    "meaning": "楼梯",
-    "example": "They walked up the stairway quietly.",
-    "position": 9000,
-    "extra": {}
-  },
-  {
-    "word": "televise",
-    "pos": "v.",
-    "phonetic": "/ˈtelɪvaɪz/",
-    "meaning": "电视播出",
-    "example": "The match was televised live.",
-    "position": 9000,
-    "extra": {}
-  },
-  {
-    "word": "waive",
-    "pos": "v.",
-    "phonetic": "BrE /weɪv/；AmE /weɪv/",
-    "meaning": "放弃；免除（权利/费用）",
-    "example": "The bank waived the service fee.",
-    "position": 9000,
-    "extra": {}
-  },
-  {
-    "word": "Emporium",
-    "pos": "n. (专有名词/普通名词)",
-    "phonetic": "/ɛmˈpɔːriəm/",
-    "meaning": "大百货商店；商场",
-    "example": "The old emporium sells antiques.",
+    "meaning": "固定装置；（常）灯具；固定设施",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "The bathroom fixtures are new. / A: Is the light included? B: Yes, it’s a fixture.",
+      "常见搭配": "light fixture；fixed fixture；a permanent fixture",
+      "词根词缀,词头词尾": "fix（固定）+ -ture（名词后缀：事物/结果）",
+      "单词变形": "plural fixtures",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "foam",
+    "pos": "n./v.",
+    "phonetic": "BrE /fəʊm/；AmE /foʊm/",
+    "meaning": "泡沫；起泡",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Shaving foam is on the shelf. / A: What’s that on the water? B: Foam.",
+      "常见搭配": "foam rubber；sea foam；foam up",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "名词：plural foams；动词：3rd foams / past foamed / pp foamed / ing foaming",
+      "Unnamed: 9": "7000"
+    }
   },
   {
     "word": "forklift",
     "pos": "n.",
     "phonetic": "BrE /ˈfɔːklɪft/；AmE /ˈfɔːrklɪft/",
     "meaning": "叉车",
-    "example": "He operates a forklift at the warehouse.",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "A forklift moved the pallets. / A: Heavy load? B: Use a forklift.",
+      "常见搭配": "forklift truck；forklift operator；on a forklift",
+      "词根词缀,词头词尾": "fork + lift（复合名词）",
+      "单词变形": "plural forklifts",
+      "Unnamed: 9": "9000"
+    }
   },
   {
-    "word": "Greyrock",
-    "pos": "n. (专有名词)",
-    "phonetic": "/ˈɡreɪ.rɒk/",
-    "meaning": "灰岩（公司/地名）",
-    "example": "Greyrock announced a new project.",
-    "position": null,
-    "extra": {}
-  },
-  {
-    "word": "Grove",
-    "pos": "n. (专有名词)",
-    "phonetic": "/ɡroʊv/",
-    "meaning": "小树林；街区名",
-    "example": "He lives in Maple Grove.",
-    "position": null,
-    "extra": {}
-  },
-  {
-    "word": "headquarter",
+    "word": "found",
     "pos": "v.",
-    "phonetic": "/ˈhedˌkwɔːrtər/",
-    "meaning": "设总部于（注意：n. 形式为 headquarters）",
-    "example": "The company is headquartered in Tokyo.",
+    "phonetic": "/faʊnd/",
+    "meaning": "建立；创立；（也可作 find 的过去式/过去分词：找到）",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "They founded the company in 1998.\nA: Did you find it? B: Yes—I found it.",
+      "常见搭配": "found a company/organization; be founded on; found a school; find/found + object",
+      "词根词缀,词头词尾": "found（创立，v.）←源自 foundation（基础）；注意与 find 的 found 同形",
+      "单词变形": "found(创立): 3rd founds; past founded; pp founded; ing founding\nfind(找到): 3rd finds; past found; pp found; ing finding",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "foundation",
+    "pos": "n.",
+    "phonetic": "/faʊnˈdeɪʃən/",
+    "meaning": "基础；地基；基金会；（化妆）粉底",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The report provides a solid foundation.\nA: Who funded it? B: A private foundation.",
+      "常见搭配": "foundation of; lay the foundation; solid foundation; charitable foundation; foundation course",
+      "词根词缀,词头词尾": "found（创立/奠基）+ -ation（名词后缀：过程/结果；常用于名词）",
+      "单词变形": "plural foundations",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "founder",
+    "pos": "n./v.",
+    "phonetic": "/ˈfaʊndə/",
+    "meaning": "创办人；创立者；（v）失败；（船）进水下沉",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The founder welcomed new employees.\nA: Why did it collapse? B: The project foundered.",
+      "常见搭配": "company founder; founder of; co-founder; foundered on（因…失败）",
+      "词根词缀,词头词尾": "found + -er（名词后缀：人/物；常用于名词）",
+      "单词变形": "n. plural founders; v. 3rd founders / past foundered / pp foundered / ing foundering",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "founding",
+    "pos": "adj./n.",
+    "phonetic": "/ˈfaʊndɪŋ/",
+    "meaning": "创立的；成立时的；（n.）创立；建立",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He is a founding member of the team.\nA: When did it start? B: At the founding of the company.",
+      "常见搭配": "founding member; founding father; founding of; founding principles",
+      "词根词缀,词头词尾": "found + -ing（现在分词/动名词；可作名词/形容词）",
+      "单词变形": "found: 3rd founds; past founded; pp founded; ing founding",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "fountain",
+    "pos": "n.",
+    "phonetic": "BrE /ˈfaʊntɪn/；AmE /ˈfaʊntən/",
+    "meaning": "喷泉；饮水机（饮水台）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Children played near the fountain. / A: Water? B: There’s a drinking fountain.",
+      "常见搭配": "drinking fountain；fountain pen；fountain of（源泉，比喻）",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "plural fountains",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "furniture",
+    "pos": "n.（不可数）",
+    "phonetic": "BrE /ˈfɜːnɪtʃə/；AmE /ˈfɝːnɪtʃər/",
+    "meaning": "家具",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The apartment comes with basic furniture. / A: Need a sofa? B: We’re buying new furniture.",
+      "常见搭配": "a piece of furniture；office furniture；furniture store",
+      "词根词缀,词头词尾": "furnish（布置/配备）+ -ture（名词后缀：事物/结果）",
+      "单词变形": "不可数（无 plural）；可说 pieces of furniture",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "garage",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɡærɑːʒ/；AmE /ɡəˈrɑːʒ/",
+    "meaning": "车库；修车厂",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The car is in the garage. / A: Toolbox? B: In the garage.",
+      "常见搭配": "parking garage；garage door；garage sale",
+      "词根词缀,词头词尾": "借词（不常拆）；相关：garaged",
+      "单词变形": "名词：plural garages",
+      "Unnamed: 9": "3500"
+    }
+  },
+  {
+    "word": "generous",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈdʒenərəs/；AmE /ˈdʒenərəs/",
+    "meaning": "慷慨的；大量的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He is generous with his time. / A: Portions? B: Very generous.",
+      "常见搭配": "generous with；generous of someone；a generous amount",
+      "词根词缀,词头词尾": "gener（出生/种类）语源；-ous（形容词后缀：充满…的）",
+      "单词变形": "comparative more generous / superlative most generous",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "generously",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈdʒenərəsli/；AmE /ˈdʒenərəsli/",
+    "meaning": "慷慨地；大量地",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She donated generously. / A: How much did he give? B: Generously.",
+      "常见搭配": "donate/give generously；be generously sized",
+      "词根词缀,词头词尾": "-ly（副词后缀）",
+      "单词变形": "—",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "globe",
+    "pos": "n.",
+    "phonetic": "BrE /ɡləʊb/；AmE /ɡloʊb/",
+    "meaning": "地球；地球仪；全球",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He traveled around the globe. / A: Where is it? B: On the globe.",
+      "常见搭配": "around the globe；across the globe；global market",
+      "词根词缀,词头词尾": "glob（圆球）语源；-e 名词固定",
+      "单词变形": "plural globes",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "grocery",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɡrəʊsəri/；AmE /ˈɡroʊsəri/",
+    "meaning": "食品杂货；杂货店",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I need to buy some groceries. / A: Where are you? B: At the grocery store.",
+      "常见搭配": "grocery store；grocery shopping；buy/get groceries",
+      "词根词缀,词头词尾": "-y：名词后缀“……相关的事物/集合”（常 n.）",
+      "单词变形": "名词：plural groceries（常用复数）",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "grove",
+    "pos": "n.",
+    "phonetic": "BrE /ɡrəʊv/；AmE /ɡroʊv/",
+    "meaning": "小树林；果树林",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "There’s a grove of olive trees. / A: Where are we meeting? B: Near the grove.",
+      "常见搭配": "a grove of trees；olive/orange grove",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "plural groves",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "hang",
+    "pos": "v.",
+    "phonetic": "BrE /hæŋ/；AmE /hæŋ/",
+    "meaning": "悬挂；挂；闲逛（hang out）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Hang your coat on the hook. / A: Where’s my jacket? B: It’s hanging in the closet.",
+      "常见搭配": "hang on（等一下/别挂电话/抓牢）；hang up；hang out；hang over",
+      "词根词缀,词头词尾": "非规则动词；注意“绞死”用 hanged",
+      "单词变形": "动词：3rd hangs / past hung / pp hung / ing hanging；（绞死义）past/pp hanged",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "headquarter(s)",
+    "pos": "n.（常用 headquarters）",
+    "phonetic": "BrE /ˈhedˌkwɔːtəz/；AmE /ˈhedˌkwɔːrtərz/",
+    "meaning": "总部",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The company’s headquarters is in Tokyo. / A: Where’s the HQ? B: At headquarters downtown.",
+      "常见搭配": "company headquarters；at headquarters；headquarters staff",
+      "词根词缀,词头词尾": "head + quarter（驻扎处）+ -s（固定形式）",
+      "单词变形": "常用 headquarters（单复同形用法居多）",
+      "Unnamed: 9": "5000"
+    }
   },
   {
     "word": "Herald",
     "pos": "n.",
-    "phonetic": "BrE /ˈherəld/；AmE /ˈhɛrəld/",
-    "meaning": "先驱；《先驱报》（常用作报纸名）",
-    "example": "The Herald reported the incident yesterday.",
+    "phonetic": "BrE /ˈherəld/；AmE /ˈherəld/",
+    "meaning": "预兆；先驱；报信者；（报刊名）",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "The event heralded a new era. / A: Is it a sign? B: It may be a herald of change.",
+      "常见搭配": "herald of；herald a change（动词用法常见）",
+      "词根词缀,词头词尾": "古义“使者/报信者”",
+      "单词变形": "plural heralds",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "hold on",
+    "pos": "phr.v.",
+    "phonetic": "BrE /həʊld ɒn/；AmE /hoʊld ɑːn/",
+    "meaning": "等一下；别挂电话；坚持住",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Hold on a second. / A: I’m calling. B: Hold on—I’ll check.",
+      "常见搭配": "hold on to（抓牢/保留）；hold on a second；hold on tight",
+      "词根词缀,词头词尾": "hold + on 固定搭配",
+      "单词变形": "hold：3rd holds / past held / pp held / ing holding",
+      "Unnamed: 9": "1000"
+    }
+  },
+  {
+    "word": "hood",
+    "pos": "n.",
+    "phonetic": "BrE /hʊd/；AmE /hʊd/",
+    "meaning": "兜帽；（车）引擎盖",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Pull up your hood. / A: Where’s the engine? B: Under the hood.",
+      "常见搭配": "under the hood；hooded jacket；car hood",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "plural hoods",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "hourly",
+    "pos": "adj./adv.",
+    "phonetic": "BrE /ˈaʊəli/；AmE /ˈaʊrli/",
+    "meaning": "每小时的；按小时地",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The service charges an hourly rate. / A: How are you paid? B: Hourly.",
+      "常见搭配": "hourly rate；paid hourly；hourly wage",
+      "词根词缀,词头词尾": "hour + -ly（形容词/副词后缀：……的/地）",
+      "单词变形": "—（一般不做比较级）",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "identify",
+    "pos": "v.",
+    "phonetic": "BrE /aɪˈdentɪfaɪ/；AmE /aɪˈdentɪfaɪ/",
+    "meaning": "识别；确认；认定",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Police identified the suspect. / A: Which file is it? B: I can’t identify it yet.",
+      "常见搭配": "identify as；identify with（认同）；identify the cause/problem",
+      "词根词缀,词头词尾": "-fy：动词后缀“使……化/使成为”（常 v.）",
+      "单词变形": "动词：3rd identifies / past identified / pp identified / ing identifying",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "implement",
+    "pos": "v./n.",
+    "phonetic": "BrE /ˈɪmplɪment/（n.）/ˈɪmplɪment/（v.）；AmE /ˈɪmplɪment/",
+    "meaning": "实施；工具（较少）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We need to implement the new policy. / A: Is it decided? B: Now we implement it.",
+      "常见搭配": "implement a plan/policy/system；implementation of",
+      "词根词缀,词头词尾": "im-（向内）+ ple（填满）语源；-ment 名词后缀",
+      "单词变形": "名词：plural implements；动词：3rd implements / past implemented / pp implemented / ing implementing",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "imply",
+    "pos": "v.",
+    "phonetic": "BrE /ɪmˈplaɪ/；AmE /ɪmˈplaɪ/",
+    "meaning": "暗示；意味着",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "His tone implied that he was angry. / A: Are you accusing me? B: No, I didn’t imply that.",
+      "常见搭配": "imply that；imply a connection；be implied by",
+      "词根词缀,词头词尾": "im-（向内/加强）+ ply（折叠/编织语源，延伸为“含在里面”）",
+      "单词变形": "3rd implies / past implied / pp implied / ing implying",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "Inc.",
+    "pos": "abbr. (n.)",
+    "phonetic": "/ɪŋk/",
+    "meaning": "（公司名称后缀）Incorporated：股份有限公司/法人化公司",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Acme Inc. announced a new product.\nA: Is it a company? B: Yes—'Inc.' indicates incorporated.",
+      "常见搭配": "Company Name + Inc.; Inc. vs Ltd./PLC（不同法域）",
+      "词根词缀,词头词尾": "incorporate（并入/法人化）→ Inc.（缩写，名词性质）",
+      "单词变形": "—",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "initiative",
+    "pos": "n.",
+    "phonetic": "/ɪˈnɪʃətɪv/",
+    "meaning": "主动性；倡议；举措",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She showed great initiative at work.\nA: Any new plan? B: Yes, a new initiative.",
+      "常见搭配": "take the initiative; show initiative; launch an initiative; initiative to do",
+      "词根词缀,词头词尾": "init（开始）+ -ive（名词后缀：事物/行动）",
+      "单词变形": "plural initiatives",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "insight",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɪnsaɪt/；AmE /ˈɪnsaɪt/",
+    "meaning": "洞察；见解",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The report offers valuable insight. / A: Any takeaway? B: A key insight is…",
+      "常见搭配": "insight into；gain insight；provide insight",
+      "词根词缀,词头词尾": "in-（内）+ sight（看）",
+      "单词变形": "plural insights",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "insignificant",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌɪnsɪɡˈnɪfɪkənt/；AmE /ˌɪnsɪɡˈnɪfɪkənt/",
+    "meaning": "不重要的；微不足道的；（统计）不显著的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The difference is insignificant. / A: Big issue? B: It’s insignificant.",
+      "常见搭配": "statistically insignificant；insignificant difference",
+      "词根词缀,词头词尾": "in-（否定）+ significant（重要的）",
+      "单词变形": "comparative more insignificant / superlative most insignificant",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "inspect",
+    "pos": "v.",
+    "phonetic": "BrE /ɪnˈspekt/；AmE /ɪnˈspɛkt/",
+    "meaning": "检查；视察",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Inspect the equipment before use. / A: Is it safe? B: It has been inspected.",
+      "常见搭配": "inspect for；inspect a site/building",
+      "词根词缀,词头词尾": "in-（向内）+ spect（看）",
+      "单词变形": "3rd inspects / past inspected / pp inspected / ing inspecting",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "inspection",
+    "pos": "n.",
+    "phonetic": "BrE /ɪnˈspekʃən/；AmE /ɪnˈspekʃən/",
+    "meaning": "检查；视察",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The building passed inspection. / A: Why delayed? B: Inspection takes time.",
+      "常见搭配": "inspection of；safety inspection；on inspection（一经检查）",
+      "词根词缀,词头词尾": "inspect（检查）+ -ion（名词后缀：过程/结果）",
+      "单词变形": "plural inspections",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "inspector",
+    "pos": "n.",
+    "phonetic": "BrE /ɪnˈspektə/；AmE /ɪnˈspektər/",
+    "meaning": "检查员；视察员",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "An inspector visited the factory. / A: Who approved it? B: The safety inspector.",
+      "常见搭配": "safety/health/building inspector；inspector general",
+      "词根词缀,词头词尾": "inspect + -or（做…的人）",
+      "单词变形": "plural inspectors",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "instruction",
+    "pos": "n.",
+    "phonetic": "BrE /ɪnˈstrʌkʃən/；AmE /ɪnˈstrʌkʃən/",
+    "meaning": "指示；说明；教学",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Follow the instructions carefully. / A: How to use it? B: Read the instructions.",
+      "常见搭配": "instructions for；give instructions；on instructions（按指示）",
+      "词根词缀,词头词尾": "instruct（教/指示）+ -ion（名词后缀）",
+      "单词变形": "plural instructions（常用复数）",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "insurance",
+    "pos": "n.（不可数）",
+    "phonetic": "BrE /ɪnˈʃʊərəns/；AmE /ɪnˈʃʊrəns/",
+    "meaning": "保险；保险业",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Do you have health insurance? / A: Covered? B: Yes, by insurance.",
+      "常见搭配": "insurance policy；health/car insurance；insurance company",
+      "词根词缀,词头词尾": "insure（投保）+ -ance（名词后缀：状态/结果）",
+      "单词变形": "不可数；可数用法：policies/plans",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "interest",
+    "pos": "n./v.",
+    "phonetic": "/ˈɪntrəst/",
+    "meaning": "兴趣；关注；利益；利息；（v）使感兴趣",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I have a strong interest in AI.\nA: What’s the rate? B: The interest is 3%.",
+      "常见搭配": "interest in; take an interest in; interest rate; conflict of interest; interest someone in",
+      "词根词缀,词头词尾": "inter-（在…之间）+ est（存在/是）语源；现代多作名词/动词",
+      "单词变形": "n. plural interests; v. 3rd interests / past interested / pp interested / ing interesting",
+      "Unnamed: 9": "1000"
+    }
+  },
+  {
+    "word": "interested",
+    "pos": "adj./pp.",
+    "phonetic": "/ˈɪntrəstɪd/",
+    "meaning": "感兴趣的；关心的；（pp）interest 的过去分词",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I’m interested in data science.\nA: Want to join? B: Yes, I’m interested.",
+      "常见搭配": "interested in; interested to do; be interested; interested party（利害关系方）",
+      "词根词缀,词头词尾": "interest + -ed（过去分词/形容词化：感到…的）",
+      "单词变形": "interest: 3rd interests; past interested; pp interested; ing interesting",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "interesting",
+    "pos": "adj.",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "meaning": "有趣的；有吸引力的；引人关注的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "That’s an interesting idea.\nA: How was the lecture? B: Very interesting.",
+      "常见搭配": "interesting idea; interesting to note; find something interesting",
+      "词根词缀,词头词尾": "interest + -ing（形容词化：令人…的）",
+      "单词变形": "comparative more interesting; superlative most interesting",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "interior",
+    "pos": "n./adj.",
+    "phonetic": "BrE /ɪnˈtɪəriə/；AmE /ɪnˈtɪriər/",
+    "meaning": "内部；室内；内部的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The interior of the car is spacious. / A: Any changes? B: We redesigned the interior.",
+      "常见搭配": "interior design；interior of；interior space",
+      "词根词缀,词头词尾": "inter-（在……之间/内部相关）+ -ior（形容词比较义语源，固定形式）",
+      "单词变形": "名词：plural interiors",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "inventory",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɪnvəntəri/；AmE /ˈɪnvəntɔːri/",
+    "meaning": "库存；存货清单；盘点",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We need to check the inventory. / A: Is it in stock? B: I’ll look at the inventory.",
+      "常见搭配": "inventory management；inventory levels；in inventory；take inventory",
+      "词根词缀,词头词尾": "invent（发明/编制）语源相关；-ory 常见名词/形容词后缀",
+      "单词变形": "plural inventories",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "investor",
+    "pos": "n.",
+    "phonetic": "BrE /ɪnˈvestə/；AmE /ɪnˈvestər/",
+    "meaning": "投资者",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Investors are cautious. / A: Who funded it? B: Investors.",
+      "常见搭配": "investor in；private/institutional investor；investor relations",
+      "词根词缀,词头词尾": "invest + -or（人）",
+      "单词变形": "名词：plural investors",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "keen",
+    "pos": "adj.",
+    "phonetic": "BrE /kiːn/；AmE /kiːn/",
+    "meaning": "渴望的；热衷的；敏锐的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She is keen to learn. / A: Interested? B: Very keen.",
+      "常见搭配": "keen on；keen to do；keen interest；keen eye",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "形容词：comparative keener / superlative keenest",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "knock over",
+    "pos": "phr.v.",
+    "phonetic": "BrE /nɒk ˈəʊvə/；AmE /nɑːk ˈoʊvər/",
+    "meaning": "撞倒；打翻",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He knocked over a chair. / A: What happened? B: I knocked it over by accident.",
+      "常见搭配": "knock over a glass；knock someone over；be knocked over",
+      "词根词缀,词头词尾": "knock（敲/撞）+ over（向倒下）",
+      "单词变形": "knock：3rd knocks / past knocked / pp knocked / ing knocking",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "launch",
+    "pos": "v./n.",
+    "phonetic": "BrE /lɔːntʃ/；AmE /lɔːntʃ/",
+    "meaning": "发起；推出；发射；（产品）上市",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They launched a new app. / A: When is it released? B: It launches next week.",
+      "常见搭配": "launch a product/campaign；product launch；launch into（突然开始）",
+      "词根词缀,词头词尾": "词缀不典型；商业语域高频",
+      "单词变形": "名词：plural launches；动词：3rd launches / past launched / pp launched / ing launching",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "lean against",
+    "pos": "phr.v.",
+    "phonetic": "BrE /liːn əˈɡenst/；AmE /liːn əˈɡenst/",
+    "meaning": "倚靠在……上",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He leaned against the wall. / A: Are you tired? B: I’m leaning against the railing.",
+      "常见搭配": "lean against a wall；lean on（相近）",
+      "词根词缀,词头词尾": "lean + against（介词搭配固定）",
+      "单词变形": "lean：3rd leans / past leaned/leant（BrE 常 leant） / pp leaned/leant / ing leaning",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "leave for",
+    "pos": "phr.v.",
+    "phonetic": "BrE /liːv fɔː/；AmE /liːv fɔːr/",
+    "meaning": "动身去……",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We leave for Osaka tomorrow. / A: When are you leaving? B: I leave for the airport at 6.",
+      "常见搭配": "leave for + 目的地；leave at + 时间；leave from + 出发地",
+      "词根词缀,词头词尾": "leave（离开）+ for（前往）固定搭配",
+      "单词变形": "leave：3rd leaves / past left / pp left / ing leaving",
+      "Unnamed: 9": "1000"
+    }
+  },
+  {
+    "word": "loyalty",
+    "pos": "n.",
+    "phonetic": "/ˈlɔɪəlti/",
+    "meaning": "忠诚；忠心",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Customer loyalty is hard to build.\nA: Why stay? B: Out of loyalty to the team.",
+      "常见搭配": "loyalty to; brand loyalty; show loyalty; loyalty program",
+      "词根词缀,词头词尾": "loyal + -ty（名词后缀）",
+      "单词变形": "plural loyalties（少用/特定语境）",
+      "Unnamed: 9": "4000"
+    }
   },
   {
     "word": "luxuriate",
     "pos": "v.",
-    "phonetic": "BrE /lʌɡˈʒʊərɪeɪt/；AmE /lʌɡˈʒʊrieɪt/",
-    "meaning": "沉溺于享乐",
-    "example": "They luxuriated in comfort.",
+    "phonetic": "BrE /lʌɡˈʒʊərieɪt/；AmE /lʌɡˈʒʊrieɪt/",
+    "meaning": "享受奢华；沉浸于舒适",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "They luxuriated in the warm sun. / A: Relaxing? B: Yes, we’re luxuriating in comfort.",
+      "常见搭配": "luxuriate in；luxuriate with（较少）",
+      "词根词缀,词头词尾": "luxur（奢华）+ -ate（动词后缀）",
+      "单词变形": "3rd luxuriates / past luxuriated / pp luxuriated / ing luxuriating",
+      "Unnamed: 9": "12000"
+    }
+  },
+  {
+    "word": "luxuries",
+    "pos": "n.（复数）",
+    "phonetic": "BrE /ˈlʌkʃəriz/；AmE /ˈlʌkʃəriz/",
+    "meaning": "奢侈品；享受（复数）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We can’t afford luxuries right now. / A: Essentials only? B: Yes—no luxuries.",
+      "常见搭配": "afford luxuries；little luxuries；the luxuries of life",
+      "词根词缀,词头词尾": "luxury + -ies（复数变化 y→ies）",
+      "单词变形": "单数 luxury；复数 luxuries",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "luxurious",
+    "pos": "adj.",
+    "phonetic": "BrE /lʌɡˈʒʊəriəs/；AmE /lʌɡˈʒʊriəs/",
+    "meaning": "豪华的；奢华的；舒适的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The room is luxurious. / A: Feel? B: Luxurious and soft.",
+      "常见搭配": "luxurious hotel；luxurious interior；luxurious feel",
+      "词根词缀,词头词尾": "luxur（奢华）+ -ious（形容词后缀：充满…的）",
+      "单词变形": "comparative more luxurious / superlative most luxurious",
+      "Unnamed: 9": "6000"
+    }
   },
   {
     "word": "luxuriously",
     "pos": "adv.",
-    "phonetic": "BrE /lʌɡˈʒʊərɪəsli/；AmE /lʌɡˈʒʊriəsli/",
-    "meaning": "奢华地",
-    "example": "The room is luxuriously furnished.",
+    "phonetic": "BrE /lʌɡˈʒʊəriəsli/；AmE /lʌɡˈʒʊriəsli/",
+    "meaning": "奢华地；豪华地",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "The hotel is luxuriously furnished. / A: How was the trip? B: We traveled luxuriously.",
+      "常见搭配": "luxuriously furnished；live/travel luxuriously",
+      "词根词缀,词头词尾": "luxurious + -ly（副词后缀）",
+      "单词变形": "—",
+      "Unnamed: 9": "12000"
+    }
+  },
+  {
+    "word": "manufacture",
+    "pos": "v./n.",
+    "phonetic": "BrE /ˌmænjuˈfæktʃə/；AmE /ˌmænjuˈfæktʃər/",
+    "meaning": "制造；生产；（捏造）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They manufacture medical devices. / A: Where is it made? B: It’s manufactured locally.",
+      "常见搭配": "manufacture of；manufacture a product；manufacturing plant",
+      "词根词缀,词头词尾": "manu（手）+ fact（做）→“手工制作”语源；-ure 常见名词后缀",
+      "单词变形": "名词：plural manufactures（少用）；动词：3rd manufactures / past manufactured / pp manufactured / ing manufacturing",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "meadow",
+    "pos": "n.",
+    "phonetic": "BrE /ˈmedəʊ/；AmE /ˈmedoʊ/",
+    "meaning": "草地；牧场",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Wildflowers grow in the meadow. / A: Where are they? B: In the meadow.",
+      "常见搭配": "in a meadow；flower meadow",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "plural meadows",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "mentor",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈmentɔː/；AmE /ˈmentɔːr/",
+    "meaning": "导师；指导",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She found a mentor at work. / A: Can you help me? B: I’ll mentor you.",
+      "常见搭配": "mentor someone；mentor for（较少）；mentoring program",
+      "词根词缀,词头词尾": "词源专名 Mentor；现代多作名词/动词",
+      "单词变形": "名词：plural mentors；动词：3rd mentors / past mentored / pp mentored / ing mentoring",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "modify",
+    "pos": "v.",
+    "phonetic": "BrE /ˈmɒdɪfaɪ/；AmE /ˈmɑːdɪfaɪ/",
+    "meaning": "修改；调整",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We modified the schedule. / A: Same design? B: Slightly modified.",
+      "常见搭配": "modify a plan/design；modify to suit；modified version",
+      "词根词缀,词头词尾": "mod（方式）+ -ify（使…化）",
+      "单词变形": "3rd modifies / past modified / pp modified / ing modifying",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "obtain",
+    "pos": "v.",
+    "phonetic": "BrE /əbˈteɪn/；AmE /əbˈteɪn/",
+    "meaning": "获得；取得",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "You need to obtain permission first. / A: How did you get it? B: I obtained it from HR.",
+      "常见搭配": "obtain permission/approval；obtain from；obtain access",
+      "词根词缀,词头词尾": "ob-（向/朝）+ tain（握住，见 retain/contain）",
+      "单词变形": "动词：3rd obtains / past obtained / pp obtained / ing obtaining",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "overlook",
+    "pos": "v.",
+    "phonetic": "BrE /ˌəʊvəˈlʊk/；AmE /ˌoʊvərˈlʊk/",
+    "meaning": "忽视；俯瞰",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Don’t overlook the risks. / A: Nice view? B: Our room overlooks the sea.",
+      "常见搭配": "overlook a problem/detail；overlook the sea/city",
+      "词根词缀,词头词尾": "over-（过度/在上方）+ look（看）",
+      "单词变形": "3rd overlooks / past overlooked / pp overlooked / ing overlooking",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "owing",
+    "pos": "adj./prep.（常见 owing to）",
+    "phonetic": "BrE /ˈəʊɪŋ/；AmE /ˈoʊɪŋ/",
+    "meaning": "由于；欠（债）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Owing to bad weather, the flight was cancelled. / A: Anything unpaid? B: Yes, money owing.",
+      "常见搭配": "owing to；money owing",
+      "词根词缀,词头词尾": "owe（欠）+ -ing（分词/形容词化）",
+      "单词变形": "owe：3rd owes / past owed / pp owed / ing owing",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "participate",
+    "pos": "v.",
+    "phonetic": "BrE /pɑːˈtɪsɪpeɪt/；AmE /pɑːrˈtɪsɪpeɪt/",
+    "meaning": "参加；参与",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Students are encouraged to participate. / A: Joining us? B: Yes, I’ll participate.",
+      "常见搭配": "participate in；participate actively",
+      "词根词缀,词头词尾": "part（部分）+ -icipate（参与）语源",
+      "单词变形": "3rd participates / past participated / pp participated / ing participating",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "perform",
+    "pos": "v.",
+    "phonetic": "/pəˈfɔːm/",
+    "meaning": "执行；履行；表演；表现",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The team performed well under pressure.\nA: Can you perform the test now? B: Yes, I'll perform it today.",
+      "常见搭配": "perform a task; perform well/badly; perform an operation; perform on stage",
+      "词根词缀,词头词尾": "per-（完全）+ form（形态/形式）",
+      "单词变形": "3rd performs; past performed; pp performed; ing performing",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "performance",
+    "pos": "n.",
+    "phonetic": "/pəˈfɔːməns/",
+    "meaning": "表现；绩效；表演；演出",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Sales performance improved this quarter.\nA: How was the performance? B: Outstanding.",
+      "常见搭配": "high/poor performance; performance review; live performance; performance of",
+      "词根词缀,词头词尾": "perform + -ance（名词后缀：行为/结果；常用于名词）",
+      "单词变形": "plural performances",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "performeor (→ performer)",
+    "pos": "n.",
+    "phonetic": "/pəˈfɔːmə/",
+    "meaning": "表演者；演出者；（广义）执行者",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She is a talented performer.\nA: Who's on stage tonight? B: A new performer.",
+      "常见搭配": "stage performer; live performer; top performer（绩效语境）",
+      "词根词缀,词头词尾": "perform（执行/表演）+ -er（名词后缀：人/物；常用于名词）",
+      "单词变形": "plural performers",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "permit",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈpɜːmɪt/（n.）, /pəˈmɪt/（v.）；AmE /ˈpɝːmɪt/（n.）, /pərˈmɪt/（v.）",
+    "meaning": "许可证；允许",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "You need a permit to park here. / A: Can we enter? B: It’s not permitted.",
+      "常见搭配": "permit for；permit to do；permit someone to do；parking/work permit",
+      "词根词缀,词头词尾": "per-（通过/完全）+ mit（送/放，见 submit/permit）",
+      "单词变形": "名词：plural permits；动词：3rd permits / past permitted / pp permitted / ing permitting",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "plenty",
+    "pos": "pron./n.",
+    "phonetic": "BrE /ˈplenti/；AmE /ˈplɛnti/",
+    "meaning": "大量；充足",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "There’s plenty of time. / A: Enough seats? B: Plenty.",
+      "常见搭配": "plenty of；plenty more；have plenty",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "—",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "podium",
+    "pos": "n.",
+    "phonetic": "BrE /ˈpəʊdiəm/；AmE /ˈpoʊdiəm/",
+    "meaning": "讲台；领奖台",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She stepped up to the podium. / A: Where will he speak? B: At the podium.",
+      "常见搭配": "on the podium；podium finish；podium speech",
+      "词根词缀,词头词尾": "-ium 名词后缀（场所/物体名词常见）",
+      "单词变形": "plural podiums",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "portrait",
+    "pos": "n.",
+    "phonetic": "BrE /ˈpɔːtrɪt/；AmE /ˈpɔːrtrɪt/",
+    "meaning": "肖像；画像；（比喻）写照",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She painted a portrait of her mother. / A: What’s that? B: A portrait.",
+      "常见搭配": "a portrait of；family portrait；portrait photography",
+      "词根词缀,词头词尾": "借词；-trait（特征）语源相关",
+      "单词变形": "plural portraits",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "pottery",
+    "pos": "n.（不可数/集合）",
+    "phonetic": "BrE /ˈpɒtəri/；AmE /ˈpɑːtəri/",
+    "meaning": "陶器；制陶工艺",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She collects pottery. / A: What class? B: Pottery class.",
+      "常见搭配": "pottery shop；pottery studio；piece of pottery",
+      "词根词缀,词头词尾": "pot（陶罐）+ -ery（名词后缀：行业/集合）",
+      "单词变形": "通常不可数；可说 pieces of pottery",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "preference",
+    "pos": "n.",
+    "phonetic": "BrE /ˈprefərəns/；AmE /ˈprefərəns/",
+    "meaning": "偏好；优先权",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She has a preference for tea. / A: Any seating preference? B: Window seat.",
+      "常见搭配": "preference for；personal preference；in preference to（优先于）",
+      "词根词缀,词头词尾": "prefer（更喜欢）+ -ence（名词后缀：状态）",
+      "单词变形": "plural preferences",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "presence",
+    "pos": "n.",
+    "phonetic": "BrE /ˈprezəns/；AmE /ˈprezəns/",
+    "meaning": "出席；在场；存在感/影响力",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Thank you for your presence today. / A: Is he here? B: Yes, in my presence.",
+      "常见搭配": "presence at；in the presence of；online presence",
+      "词根词缀,词头词尾": "present（在场）+ -ence（名词后缀：状态）",
+      "单词变形": "plural presences（少用；多不可数）",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "pricing",
+    "pos": "n.",
+    "phonetic": "BrE /ˈpraɪsɪŋ/；AmE /ˈpraɪsɪŋ/",
+    "meaning": "定价；价格体系",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We need to review our pricing. / A: Why so expensive? B: It’s our new pricing strategy.",
+      "常见搭配": "pricing strategy；competitive pricing；pricing model；price point",
+      "词根词缀,词头词尾": "price + -ing（名词化：活动/体系）",
+      "单词变形": "名词：通常不可数；（有时）plural pricings（少见）",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "procedure",
+    "pos": "n.",
+    "phonetic": "BrE /prəˈsiːdʒə/；AmE /prəˈsiːdʒər/",
+    "meaning": "程序；步骤；（医疗/法律）手续",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Follow the procedure carefully. / A: What’s step one? B: It’s in the procedure guide.",
+      "常见搭配": "procedure for；standard procedure；operating procedure；medical procedure",
+      "词根词缀,词头词尾": "proced（前进，见 proceed）+ -ure（名词后缀：过程/结果）",
+      "单词变形": "plural procedures",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "profitable",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈprɒfɪtəbl/；AmE /ˈprɑːfɪtəbl/",
+    "meaning": "有利润的；盈利的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The business is profitable. / A: Worth it? B: Yes, it’s profitable.",
+      "常见搭配": "profitable business；highly profitable；profitable to do",
+      "词根词缀,词头词尾": "profit（利润）+ -able（可…的，形容词后缀）",
+      "单词变形": "comparative more profitable / superlative most profitable",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "promote",
+    "pos": "v.",
+    "phonetic": "BrE /prəˈməʊt/；AmE /prəˈmoʊt/",
+    "meaning": "促进；宣传；晋升",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They promoted her to manager. / A: How to sell it? B: Promote it online.",
+      "常见搭配": "promote to（晋升到）；promote a product；promote health",
+      "词根词缀,词头词尾": "pro-（向前）+ mot（动，见 motion）",
+      "单词变形": "3rd promotes / past promoted / pp promoted / ing promoting",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "promotion",
+    "pos": "n.",
+    "phonetic": "BrE /prəˈməʊʃən/；AmE /prəˈmoʊʃən/",
+    "meaning": "晋升；促销；推广",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She got a promotion last month. / A: Any discount? B: It’s a promotion this week.",
+      "常见搭配": "promotion to；get/receive a promotion；sales promotion；promotional offer",
+      "词根词缀,词头词尾": "promote + -ion（名词后缀：过程/结果）",
+      "单词变形": "plural promotions",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "property",
+    "pos": "n.",
+    "phonetic": "BrE /ˈprɒpəti/；AmE /ˈprɑːpərti/",
+    "meaning": "财产；房产；性质/属性",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "This property is for sale. / A: Who owns it? B: It’s my property.",
+      "常见搭配": "property of；real property；intellectual property；property tax",
+      "词根词缀,词头词尾": "proper（适当/自身）+ -ty（名词后缀：性质/状态）",
+      "单词变形": "plural properties",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "propose",
+    "pos": "v.",
+    "phonetic": "BrE /prəˈpəʊz/；AmE /prəˈpoʊz/",
+    "meaning": "提议；求婚",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I propose a new schedule. / A: Big news? B: He proposed last night.",
+      "常见搭配": "propose to（求婚/提议）；propose that；propose a plan",
+      "词根词缀,词头词尾": "pro-（向前）+ pose（放置）→“提出”",
+      "单词变形": "3rd proposes / past proposed / pp proposed / ing proposing",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "prospect",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈprɒspekt/（n.）/prəˈspekt/（v.）；AmE /ˈprɑːspɛkt/（n.）/prəˈspɛkt/（v.）",
+    "meaning": "n. 前景；可能性；潜在客户；v. 勘探",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Job prospects are improving. / A: Any chance? B: There’s a good prospect of success.",
+      "常见搭配": "prospects for；prospect of；sales prospect；prospect for oil",
+      "词根词缀,词头词尾": "pro-（向前）+ spect（看）→“向前看/前景”",
+      "单词变形": "名词：plural prospects；动词：3rd prospects / past prospected / pp prospected / ing prospecting",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "provide",
+    "pos": "v.",
+    "phonetic": "BrE /prəˈvaɪd/；AmE /prəˈvaɪd/",
+    "meaning": "提供；供给；（正式）规定",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The hotel provides free breakfast. / A: Any support? B: They provide it.",
+      "常见搭配": "provide with；provide for；provide that",
+      "词根词缀,词头词尾": "pro-（向前）+ vide（看，见 video）",
+      "单词变形": "3rd provides / past provided / pp provided / ing providing",
+      "Unnamed: 9": "1000"
+    }
+  },
+  {
+    "word": "purchase",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈpɜːtʃəs/；AmE /ˈpɝːtʃəs/",
+    "meaning": "购买；采购",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Proof of purchase is required. / A: Did you buy it? B: I purchased it online.",
+      "常见搭配": "purchase from；make a purchase；purchase order (PO)；purchase price",
+      "词根词缀,词头词尾": "purchaser/purchasing 派生常见",
+      "单词变形": "名词：plural purchases；动词：3rd purchases / past purchased / pp purchased / ing purchasing",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "qualification",
+    "pos": "n.",
+    "phonetic": "BrE /ˌkwɒlɪfɪˈkeɪʃən/；AmE /ˌkwɑːlɪfɪˈkeɪʃən/",
+    "meaning": "资格；资历；（限制性）条件",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Do you have the required qualifications? / A: Can I apply? B: Only if you meet the qualifications.",
+      "常见搭配": "qualification for；professional qualification；meet/lack qualifications",
+      "词根词缀,词头词尾": "qualify（使合格）+ -ation（名词后缀：过程/结果）",
+      "单词变形": "名词：plural qualifications",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "qualify",
+    "pos": "v.",
+    "phonetic": "BrE /ˈkwɒlɪfaɪ/；AmE /ˈkwɑːlɪfaɪ/",
+    "meaning": "使具备资格；符合条件；（比赛）晋级",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Do you qualify for a refund? / A: Did they make it? B: They qualified for the finals.",
+      "常见搭配": "qualify for；qualify as；qualify to do",
+      "词根词缀,词头词尾": "quali-（性质）+ -fy（使…化，动词后缀）",
+      "单词变形": "3rd qualifies / past qualified / pp qualified / ing qualifying",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "quarterly",
+    "pos": "adj./adv.",
+    "phonetic": "BrE /ˈkwɔːtəli/；AmE /ˈkwɔːrtərli/",
+    "meaning": "每季度的；按季度地",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We publish quarterly reports. / A: How often? B: Quarterly.",
+      "常见搭配": "quarterly report；quarterly earnings；paid quarterly",
+      "词根词缀,词头词尾": "quarter + -ly（形/副后缀）",
+      "单词变形": "—（一般不做比较级）",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "raise",
+    "pos": "v./n.",
+    "phonetic": "BrE /reɪz/；AmE /reɪz/",
+    "meaning": "提高；举起；筹集；抚养；加薪",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They raised the price again. / A: Any questions? B: Please raise your hand.",
+      "常见搭配": "raise prices/salaries；raise money；raise a child；raise awareness",
+      "词根词缀,词头词尾": "词缀不典型；注意与 rise（上升，不及物）区分",
+      "单词变形": "动词：3rd raises / past raised / pp raised / ing raising",
+      "Unnamed: 9": "1000"
+    }
+  },
+  {
+    "word": "ranger",
+    "pos": "n.",
+    "phonetic": "BrE /ˈreɪndʒə/；AmE /ˈreɪndʒər/",
+    "meaning": "护林员；巡逻员；游骑兵",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "A park ranger gave us directions. / A: Who patrols here? B: The rangers.",
+      "常见搭配": "park/forest ranger；Texas Rangers（专名）",
+      "词根词缀,词头词尾": "range（范围/巡逻）+ -er（人）",
+      "单词变形": "plural rangers",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "rave",
+    "pos": "v./n.",
+    "phonetic": "BrE /reɪv/；AmE /reɪv/",
+    "meaning": "热烈称赞；（n.）狂欢派对",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Critics raved about the film. / A: How was it? B: Everyone was raving about it.",
+      "常见搭配": "rave about/over；rave review；go to a rave",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "名词：plural raves；动词：3rd raves / past raved / pp raved / ing raving",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "reasonable",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈriːzənəbl/；AmE /ˈriːzənəbl/",
+    "meaning": "合理的；价格公道的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The price seems reasonable. / A: Can you lower it? B: That’s a reasonable request.",
+      "常见搭配": "reasonable price；reasonable to do；within reason",
+      "词根词缀,词头词尾": "reason（理由）+ -able（可……的，常 adj.）",
+      "单词变形": "形容词：comparative more reasonable / superlative most reasonable",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "receipt",
+    "pos": "n.",
+    "phonetic": "/rɪˈsiːt/",
+    "meaning": "收据；收到（正式用语）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Keep the receipt in case you need a refund.\nA: Proof of payment? B: Here’s the receipt.",
+      "常见搭配": "sales receipt; receipt for; on receipt of; acknowledge receipt",
+      "词根词缀,词头词尾": "receive + -pt（历史拼写保留）",
+      "单词变形": "plural receipts",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "receive",
+    "pos": "v.",
+    "phonetic": "/rɪˈsiːv/",
+    "meaning": "收到；接到；接待；遭受（批评等）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I received your email.\nA: Did you get the package? B: Yes, I received it today.",
+      "常见搭配": "receive from; receive a call; receive payment; receive criticism; receive a visitor",
+      "词根词缀,词头词尾": "re-（回/再）+ ceive（拿/取，见 conceive/deceive）",
+      "单词变形": "3rd receives; past received; pp received; ing receiving",
+      "Unnamed: 9": "1000"
+    }
+  },
+  {
+    "word": "reception",
+    "pos": "n.",
+    "phonetic": "/rɪˈsepʃən/",
+    "meaning": "接待；接待处；欢迎/反响；（无线电）接收",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Please leave your key at reception.\nA: How was the talk received? B: It got a warm reception.",
+      "常见搭配": "at reception; reception desk; wedding reception; public reception; radio reception",
+      "词根词缀,词头词尾": "receive（接收）+ -tion（名词后缀：行为/结果）",
+      "单词变形": "plural receptions",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "receptionist",
+    "pos": "n.",
+    "phonetic": "/rɪˈsepʃənɪst/",
+    "meaning": "接待员；前台",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The receptionist answered the phone.\nA: Where do I check in? B: Ask the receptionist.",
+      "常见搭配": "front-desk receptionist; receptionist at; speak to the receptionist",
+      "词根词缀,词头词尾": "reception + -ist（名词后缀：从事…的人；常用于名词）",
+      "单词变形": "plural receptionists",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "recommend",
+    "pos": "v.",
+    "phonetic": "BrE /ˌrekəˈmend/；AmE /ˌrekəˈmend/",
+    "meaning": "推荐；建议",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Can you recommend a good restaurant? / A: Which one? B: I recommend this one.",
+      "常见搭配": "recommend that；recommend to（推荐给）；recommend for（推荐用于）",
+      "词根词缀,词头词尾": "re-（再）+ commend（称赞/推荐）",
+      "单词变形": "3rd recommends / past recommended / pp recommended / ing recommending",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "refer",
+    "pos": "v.",
+    "phonetic": "BrE /rɪˈfɜː/；AmE /rɪˈfɝːr/",
+    "meaning": "提到；参考；指向；转诊",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Please refer to page 10. / A: Who’s that? B: I was referring to your colleague.",
+      "常见搭配": "refer to；refer someone to（转介/转诊）；as referred to",
+      "词根词缀,词头词尾": "re-（回/再）+ fer（带来/携带）",
+      "单词变形": "3rd refers / past referred / pp referred / ing referring",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "refreshment",
+    "pos": "n.（多用复数）",
+    "phonetic": "BrE /rɪˈfreʃmənt/；AmE /rɪˈfrɛʃmənt/",
+    "meaning": "茶点；饮料；提神之物",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Refreshments will be served after the meeting. / A: Coffee? B: Yes, refreshments are outside.",
+      "常见搭配": "light refreshments；serve refreshments；refreshment break",
+      "词根词缀,词头词尾": "refresh（使恢复）+ -ment（名词后缀：结果/事物）",
+      "单词变形": "plural refreshments（更常见）",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "refund",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈriːfʌnd/；AmE /ˈriːfʌnd/",
+    "meaning": "退款；退还",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "You can request a refund within 30 days. / A: It’s broken. B: We’ll issue a refund.",
+      "常见搭配": "refund for；get/request a refund；full/partial refund；refund policy",
+      "词根词缀,词头词尾": "re-（回/再）+ fund（资金）",
+      "单词变形": "名词：plural refunds；动词：3rd refunds / past refunded / pp refunded / ing refunding",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "register",
+    "pos": "v./n.",
+    "phonetic": "BrE /ˈredʒɪstə/；AmE /ˈredʒɪstər/",
+    "meaning": "登记；注册；登记簿；（仪器）显示",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Please register for the event. / A: Did it go through? B: It registered on the system.",
+      "常见搭配": "register for；register a complaint；cash register；register with（登记在…）",
+      "词根词缀,词头词尾": "re-（回/再）+ gister（记录）语源；registry 名词派生常见",
+      "单词变形": "名词：plural registers；动词：3rd registers / past registered / pp registered / ing registering",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "reimburse",
+    "pos": "v.",
+    "phonetic": "BrE /ˌriːɪmˈbɜːs/；AmE /ˌriːɪmˈbɝːs/",
+    "meaning": "报销；偿还",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We will reimburse your travel expenses. / A: Can I claim it? B: Yes, they’ll reimburse you.",
+      "常见搭配": "reimburse for；reimburse someone；reimburse expenses/costs",
+      "词根词缀,词头词尾": "re-（回/再）+ imburse（投入资金语源）",
+      "单词变形": "3rd reimburses / past reimbursed / pp reimbursed / ing reimbursing",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "reluctance",
+    "pos": "n.",
+    "phonetic": "BrE /rɪˈlʌktəns/；AmE /rɪˈlʌktəns/",
+    "meaning": "不情愿；勉强",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She agreed with reluctance. / A: Why not join? B: Reluctance to speak.",
+      "常见搭配": "reluctance to；with reluctance；show reluctance",
+      "词根词缀,词头词尾": "re-（回）+ luct（挣扎）+ -ance（名词后缀：状态）",
+      "单词变形": "plural reluctances（少用）",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "renovate",
+    "pos": "v.",
+    "phonetic": "BrE /ˈrenəveɪt/；AmE /ˈrenəveɪt/",
+    "meaning": "翻新；整修",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They renovated the lobby. / A: Why closed? B: It’s being renovated.",
+      "常见搭配": "renovate a building/room；under renovation；renovation of",
+      "词根词缀,词头词尾": "re-（再）+ nov（新）+ -ate（动词后缀）",
+      "单词变形": "3rd renovates / past renovated / pp renovated / ing renovating",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "renovation",
+    "pos": "n.",
+    "phonetic": "BrE /ˌrenəˈveɪʃən/；AmE /ˌrɛnəˈveɪʃən/",
+    "meaning": "翻新；装修",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The office is closed for renovation. / A: New look? B: Yes, after renovation.",
+      "常见搭配": "under renovation；renovation of；major renovation",
+      "词根词缀,词头词尾": "renovate + -ion（名词后缀：过程/结果）",
+      "单词变形": "plural renovations",
+      "Unnamed: 9": "8000"
+    }
   },
   {
     "word": "repave",
     "pos": "v.",
     "phonetic": "BrE /ˌriːˈpeɪv/；AmE /ˌriːˈpeɪv/",
-    "meaning": "重新铺路",
-    "example": "The road will be repaved next month.",
+    "meaning": "重新铺路（路面）",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "They repaved the road last week. / A: Why detour? B: They’re repaving this street.",
+      "常见搭配": "repave a road/street；repaving work",
+      "词根词缀,词头词尾": "re-（再）+ pave（铺路）",
+      "单词变形": "3rd repaves / past repaved / pp repaved / ing repaving",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "represent",
+    "pos": "v.",
+    "phonetic": "/ˌreprɪˈzent/",
+    "meaning": "代表；象征；表示；描绘",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "This chart represents last year’s sales.\nA: Who will attend? B: She will represent our team.",
+      "常见搭配": "represent as; represent in; represent a company; represent an idea",
+      "词根词缀,词头词尾": "re-（再）+ present（呈现）",
+      "单词变形": "3rd represents; past represented; pp represented; ing representing",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "representable",
+    "pos": "adj.",
+    "phonetic": "/ˌreprɪˈzentəbl/",
+    "meaning": "可表示的；可被代表/表达的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The data must be representable in a table.\nA: Can it be shown symbolically? B: Yes, it’s representable.",
+      "常见搭配": "representable as; representable in; representable by",
+      "词根词缀,词头词尾": "represent + -able（形容词后缀：可…的）",
+      "单词变形": "comparative more representable; superlative most representable",
+      "Unnamed: 9": "12000"
+    }
+  },
+  {
+    "word": "representation",
+    "pos": "n.",
+    "phonetic": "/ˌreprɪzenˈteɪʃən/",
+    "meaning": "代表；表现；陈述；（数/图）表示；（法律）代理",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "We need fair representation.\nA: Is this accurate? B: It’s a good representation of the data.",
+      "常见搭配": "representation of; representation in; legal representation; graphical representation",
+      "词根词缀,词头词尾": "represent + -ation（名词后缀：行为/结果）",
+      "单词变形": "plural representations",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "representative",
+    "pos": "n./adj.",
+    "phonetic": "/ˌreprɪˈzentətɪv/",
+    "meaning": "代表；代理人；（adj.）有代表性的；典型的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "A representative will contact you shortly.\nA: Is this sample typical? B: Yes, it’s representative.",
+      "常见搭配": "sales representative; representative of; representative sample; union representative",
+      "词根词缀,词头词尾": "represent + -ative（名词/形容词后缀）",
+      "单词变形": "n. plural representatives; adj. comparative more representative; superlative most representative",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "require",
+    "pos": "v.",
+    "phonetic": "BrE /rɪˈkwaɪə/；AmE /rɪˈkwaɪr/",
+    "meaning": "需要；要求",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "This job requires experience. / A: Is ID needed? B: It’s required.",
+      "常见搭配": "require that；require to do（较少，常用 be required to）；require someone to do",
+      "词根词缀,词头词尾": "re-（回/再）+ quir（询问/寻求）语源",
+      "单词变形": "3rd requires / past required / pp required / ing requiring",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "resemble",
+    "pos": "v.",
+    "phonetic": "BrE /rɪˈzembəl/；AmE /rɪˈzembəl/",
+    "meaning": "像；类似",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The child resembles her mother. / A: Same model? B: It resembles the old one.",
+      "常见搭配": "resemble someone/something；closely resemble",
+      "词根词缀,词头词尾": "re-（回/再）+ sembl（相似，见 similar）",
+      "单词变形": "3rd resembles / past resembled / pp resembled / ing resembling",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "revenue",
+    "pos": "n.（不可数）",
+    "phonetic": "BrE /ˈrevənjuː/；AmE /ˈrevənuː/",
+    "meaning": "收入；营业额；税收",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Advertising is a major source of revenue. / A: How did we do? B: Revenue increased.",
+      "常见搭配": "revenue from；generate revenue；annual revenue；revenue stream",
+      "词根词缀,词头词尾": "re-（回）+ ven（来，见 convene）语源",
+      "单词变形": "通常不可数；可用 revenue streams（复数）",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "revise",
+    "pos": "v.",
+    "phonetic": "BrE /rɪˈvaɪz/；AmE /rɪˈvaɪz/",
+    "meaning": "修改；复习",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I revised the report last night. / A: Exam tomorrow? B: I’m revising now.",
+      "常见搭配": "revise a plan/document；revise for an exam（BrE 常用）",
+      "词根词缀,词头词尾": "re-（再）+ vis（看）→“再看一遍→修改/复习”",
+      "单词变形": "3rd revises / past revised / pp revised / ing revising",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "right to your in-box",
+    "pos": "phrase",
+    "phonetic": "BrE /raɪt tuː jɔː ˈɪnbɒks/；AmE /raɪt tuː jʊr ˈɪnbɑːks/",
+    "meaning": "（字面）直接到你的收件箱",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "It will be delivered right to your inbox. / A: Where will it go? B: Right to your inbox.",
+      "常见搭配": "更标准：right in your inbox；delivered to your inbox；sent to your inbox",
+      "词根词缀,词头词尾": "right（直接地）+ inbox（收件箱）",
+      "单词变形": "—",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "satisfactorily",
+    "pos": "adv.",
+    "phonetic": "/ˌsætɪsˈfæktərəli/",
+    "meaning": "令人满意地；圆满地",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The issue was resolved satisfactorily.\nA: Is it okay now? B: Yes, it’s working satisfactorily.",
+      "常见搭配": "perform satisfactorily; resolve satisfactorily; satisfactorily completed",
+      "词根词缀,词头词尾": "satisfactory + -ly（副词后缀）",
+      "单词变形": "—",
+      "Unnamed: 9": "9000"
+    }
+  },
+  {
+    "word": "satisfactory",
+    "pos": "adj.",
+    "phonetic": "/ˌsætɪsˈfæktəri/",
+    "meaning": "令人满意的；合格的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Your progress is satisfactory.\nA: Is this acceptable? B: Yes, it’s satisfactory.",
+      "常见搭配": "satisfactory result; satisfactory performance; satisfactory solution",
+      "词根词缀,词头词尾": "satisfy + -ory（形容词后缀）",
+      "单词变形": "comparative more satisfactory; superlative most satisfactory",
+      "Unnamed: 9": "7000"
+    }
   },
   {
     "word": "scape",
-    "pos": "n.",
-    "phonetic": "/skeɪp/",
-    "meaning": "景色；茎柄（较罕见）",
-    "example": "The mountain scape was beautiful.",
+    "pos": "n./v.（多作构词成分）",
+    "phonetic": "BrE /skeɪp/；AmE /skeɪp/",
+    "meaning": "（多见）景观；……景（后缀）；（较少）逃脱",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "A desert scape stretched ahead. / A: What’s a seascape? B: A sea view/scene.",
+      "常见搭配": "landscape/seascape/cityscape（构词）",
+      "词根词缀,词头词尾": "-scape：后缀“景观/场景”（多构成名词）；源自 -escape 语源相关",
+      "单词变形": "名词：plural scapes；动词（少用）：3rd scapes / past scaped / pp scaped / ing scaping",
+      "Unnamed: 9": "9000"
+    }
   },
   {
-    "word": "Stelco",
-    "pos": "n. (专有名词)",
-    "phonetic": "/ˈstelkoʊ/",
-    "meaning": "斯泰尔科（公司名）",
-    "example": "Stelco is a major steel manufacturer.",
+    "word": "sent over",
+    "pos": "phrase (pp.)",
+    "phonetic": "BrE /sent ˈəʊvə/；AmE /sent ˈoʊvər/",
+    "meaning": "（已）发过来/送过来",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "I’ve sent it over by email. / A: Did you get it? B: Yes, it was sent over.",
+      "常见搭配": "send over a file/document；send it over",
+      "词根词缀,词头词尾": "send + over（方向/传递）",
+      "单词变形": "send：3rd sends / past sent / pp sent / ing sending",
+      "Unnamed: 9": "1500"
+    }
+  },
+  {
+    "word": "server",
+    "pos": "n.",
+    "phonetic": "BrE /ˈsɜːvə/；AmE /ˈsɝːvər/",
+    "meaning": "服务员；服务器",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The server brought our drinks. / A: Site is down. B: The server crashed.",
+      "常见搭配": "restaurant server；web/file server；server room",
+      "词根词缀,词头词尾": "serve（服务）+ -er（人/物）",
+      "单词变形": "plural servers",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "session",
+    "pos": "n.",
+    "phonetic": "BrE /ˈseʃən/；AmE /ˈseʃən/",
+    "meaning": "（会议/课/训练）一段时间；（法庭/议会）开会期",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The training session starts at 2. / A: Are you free? B: I’m in a session.",
+      "常见搭配": "session on；a Q&A session；in session；study session",
+      "词根词缀,词头词尾": "sess（坐，见 session/sit）+ -ion（名词后缀）",
+      "单词变形": "plural sessions",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "shelf",
+    "pos": "n.",
+    "phonetic": "BrE /ʃelf/；AmE /ʃelf/",
+    "meaning": "架子；搁板",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Put it on the shelf. / A: Where is it? B: Top shelf.",
+      "常见搭配": "on the shelf；bookshelf；off the shelf（现成的）",
+      "词根词缀,词头词尾": "不规则复数变化：f→ves",
+      "单词变形": "名词：plural shelves",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "shortage",
+    "pos": "n.",
+    "phonetic": "BrE /ˈʃɔːtɪdʒ/；AmE /ˈʃɔːrtɪdʒ/",
+    "meaning": "短缺；不足",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "There is a shortage of staff. / A: Why no stock? B: A supply shortage.",
+      "常见搭配": "shortage of；severe shortage；water/staff shortage",
+      "词根词缀,词头词尾": "short + -age（名词后缀：状态/总称）",
+      "单词变形": "plural shortages",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "sign up for",
+    "pos": "phr.v.",
+    "phonetic": "BrE /saɪn ʌp fɔː/；AmE /saɪn ʌp fɔːr/",
+    "meaning": "报名参加；注册",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I signed up for a workshop. / A: Are you joining? B: I’ll sign up for it.",
+      "常见搭配": "sign up for a course/event；sign up online",
+      "词根词缀,词头词尾": "sign + up + for（固定结构）",
+      "单词变形": "sign：3rd signs / past signed / pp signed / ing signing（短语：signing up）",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "sign up for four hours of work",
+    "pos": "phrase",
+    "phonetic": "BrE /…/；AmE /…/",
+    "meaning": "报名参加四小时的工作/志愿服务",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I signed up for four hours of work. / A: How long? B: Four hours—I signed up.",
+      "常见搭配": "sign up for X hours of work；sign up for a shift",
+      "词根词缀,词头词尾": "按 sign up for 的结构扩展",
+      "单词变形": "同 sign up（见上）",
+      "Unnamed: 9": "2500"
+    }
+  },
+  {
+    "word": "significant",
+    "pos": "adj.",
+    "phonetic": "BrE /sɪɡˈnɪfɪkənt/；AmE /sɪɡˈnɪfɪkənt/",
+    "meaning": "重要的；显著的（统计）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "There was a significant improvement. / A: Real change? B: Yes, significant.",
+      "常见搭配": "significant difference；statistically significant；significant increase",
+      "词根词缀,词头词尾": "sign（标记）+ -fic（做/产生）+ -ant（形容词后缀）",
+      "单词变形": "comparative more significant / superlative most significant",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "spacious",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈspeɪʃəs/；AmE /ˈspeɪʃəs/",
+    "meaning": "宽敞的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The room is spacious. / A: Small apartment? B: No, it’s quite spacious.",
+      "常见搭配": "spacious room；spacious interior；spacious enough to",
+      "词根词缀,词头词尾": "space（空间）+ -ious（形容词后缀：充满…的）",
+      "单词变形": "comparative more spacious / superlative most spacious",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "stairway",
+    "pos": "n.",
+    "phonetic": "BrE /ˈsteəweɪ/；AmE /ˈstɛrweɪ/",
+    "meaning": "楼梯；阶梯通道",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The stairway leads to the roof. / A: Elevator? B: Use the stairway.",
+      "常见搭配": "stairway to；emergency stairway",
+      "词根词缀,词头词尾": "stair + way（路径）复合名词",
+      "单词变形": "plural stairways",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "statement",
+    "pos": "n.",
+    "phonetic": "BrE /ˈsteɪtmənt/；AmE /ˈsteɪtmənt/",
+    "meaning": "陈述；声明；对账单",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The police released a statement. / A: Any response? B: They issued a statement.",
+      "常见搭配": "statement about/on；make/issue/release a statement；bank statement",
+      "词根词缀,词头词尾": "-ment：名词后缀“行为/结果”（常 v.→n.）",
+      "单词变形": "名词：plural statements",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "subject",
+    "pos": "n./v./adj.",
+    "phonetic": "/ˈsʌbdʒɪkt/（n./adj.）; /səbˈdʒekt/（v.）",
+    "meaning": "n. 主题；学科；对象；v. 使遭受；adj. 受…支配的/取决于",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Math is my favorite subject.\nA: Is it guaranteed? B: No—subject to approval.",
+      "常见搭配": "subject to; subject of; main subject; subject someone to; on the subject of",
+      "词根词缀,词头词尾": "sub-（在下）+ ject（投掷/放置）",
+      "单词变形": "n. plural subjects; v. 3rd subjects / past subjected / pp subjected / ing subjecting",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "suppose",
+    "pos": "v.",
+    "phonetic": "/səˈpəʊz/",
+    "meaning": "认为；推测；假设",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "I suppose he’s busy.\nA: Are we late? B: I suppose so.",
+      "常见搭配": "suppose that; suppose so; suppose you...; be supposed to",
+      "词根词缀,词头词尾": "sup-（在下）+ pose（放置/假定）",
+      "单词变形": "3rd supposes; past supposed; pp supposed; ing supposing",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "supposed to",
+    "pos": "phrase (adj. + to)",
+    "phonetic": "BrE /səˈpəʊzd tuː/；AmE /səˈpoʊzd tuː/",
+    "meaning": "应该；本该",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "You’re supposed to be here at 9. / A: Do I need to call? B: Yes, you’re supposed to.",
+      "常见搭配": "be supposed to do；be supposed to be；not supposed to",
+      "词根词缀,词头词尾": "suppose 的过去分词作形容词用法",
+      "单词变形": "—（固定结构）",
+      "Unnamed: 9": "1500"
+    }
+  },
+  {
+    "word": "suspicious",
+    "pos": "adj.",
+    "phonetic": "BrE /səˈspɪʃəs/；AmE /səˈspɪʃəs/",
+    "meaning": "可疑的；怀疑的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "That sounds suspicious. / A: Trust him? B: I’m suspicious of him.",
+      "常见搭配": "suspicious of；look suspicious；suspicious activity",
+      "词根词缀,词头词尾": "suspic（怀疑）+ -ious（形容词后缀）",
+      "单词变形": "comparative more suspicious / superlative most suspicious",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "suspiciously",
+    "pos": "adv.",
+    "phonetic": "BrE /səˈspɪʃəsli/；AmE /səˈspɪʃəsli/",
+    "meaning": "可疑地；令人怀疑地",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He smiled suspiciously. / A: Normal? B: Suspiciously quiet.",
+      "常见搭配": "behave/look suspiciously；suspiciously quiet",
+      "词根词缀,词头词尾": "-ly（副词后缀）",
+      "单词变形": "—",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "televise",
+    "pos": "v.",
+    "phonetic": "BrE /ˈtelɪvaɪz/；AmE /ˈtɛlɪvaɪz/",
+    "meaning": "电视播出；转播",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The event will be televised live. / A: Can we watch it? B: Yes, it’s televised tonight.",
+      "常见搭配": "televise live；be televised on + 频道",
+      "词根词缀,词头词尾": "tele-（远程）+ vis（看，见 vision）+ -ise/-ize（动词后缀）",
+      "单词变形": "3rd televises / past televised / pp televised / ing televising",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "tend",
+    "pos": "v.",
+    "phonetic": "BrE /tend/；AmE /tend/",
+    "meaning": "往往会；倾向；照料（tend to）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Prices tend to rise over time. / A: Is he okay? B: A nurse is tending to him.",
+      "常见搭配": "tend to（倾向于/照料）；tend toward(s)（趋向）",
+      "词根词缀,词头词尾": "词根 tend（趋向/伸展）",
+      "单词变形": "3rd tends / past tended / pp tended / ing tending",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "thrive",
+    "pos": "v.",
+    "phonetic": "BrE /θraɪv/；AmE /θraɪv/",
+    "meaning": "茁壮成长；兴旺；繁荣",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Plants thrive in sunlight. / A: How’s business? B: It’s thriving.",
+      "常见搭配": "thrive on（依靠…而兴旺）；thrive in（在…环境中成长）",
+      "词根词缀,词头词尾": "词缀不典型；不规则过去式存在变体",
+      "单词变形": "3rd thrives / past throve/thrived / pp thrived / ing thriving",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "throughout",
+    "pos": "prep./adv.",
+    "phonetic": "BrE /θruːˈaʊt/；AmE /θruːˈaʊt/",
+    "meaning": "遍及；贯穿始终",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The festival is celebrated throughout the country. / A: All day? B: Yes, throughout.",
+      "常见搭配": "throughout the year/day；throughout the world",
+      "词根词缀,词头词尾": "through + out（贯穿到外）",
+      "单词变形": "—",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "tire",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈtaɪə/（n. 轮胎）, /ˈtaɪə/（v. 使疲劳）；AmE /ˈtaɪr/（n. 轮胎）, /ˈtaɪr/",
+    "meaning": "轮胎；使疲倦",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The tire is flat. / A: Are you okay? B: I’m tired.",
+      "常见搭配": "flat tire；spare tire；tire of（厌倦）",
+      "词根词缀,词头词尾": "与 tired（疲倦的）同源；注意拼写：tire/tired",
+      "单词变形": "名词：plural tires；动词：3rd tires / past tired / pp tired / ing tiring",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "toss",
+    "pos": "v./n.",
+    "phonetic": "BrE /tɒs/；AmE /tɔːs/",
+    "meaning": "扔；抛；掷硬币",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He tossed the keys onto the table. / A: Who decides? B: Let’s toss a coin.",
+      "常见搭配": "toss into/onto；toss away；toss a coin",
+      "词根词缀,词头词尾": "词缀不典型",
+      "单词变形": "名词：plural tosses；动词：3rd tosses / past tossed / pp tossed / ing tossing",
+      "Unnamed: 9": "3000"
+    }
+  },
+  {
+    "word": "under somebody’s name",
+    "pos": "phrase",
+    "phonetic": "BrE /ˈʌndə … neɪm/；AmE /ˈʌndər … neɪm/",
+    "meaning": "以某人名义；登记在某人名下",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The booking is under my name. / A: Is the account yours? B: No, it’s under his name.",
+      "常见搭配": "under my/your/his name；register under a name；book/reserve under a name",
+      "词根词缀,词头词尾": "under（在…之下→名义/登记项下）固定表达",
+      "单词变形": "—",
+      "Unnamed: 9": "1500"
+    }
+  },
+  {
+    "word": "underwent",
+    "pos": "v.（undergo 的过去式）",
+    "phonetic": "BrE /ˌʌndəˈɡəʊ/；AmE /ˌʌndərˈɡoʊ/",
+    "meaning": "经历；经受（undergo）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She underwent surgery. / A: Any changes? B: The system underwent testing.",
+      "常见搭配": "undergo surgery/testing；undergo a change",
+      "词根词缀,词头词尾": "under + go（经历/经受）",
+      "单词变形": "undergo：3rd undergoes / past underwent / pp undergone / ing undergoing",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "vehicle",
+    "pos": "n.",
+    "phonetic": "BrE /ˈviːɪkl/；AmE /ˈviːək(ə)l/",
+    "meaning": "车辆；（比喻）媒介",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The vehicle was parked outside. / A: How do we deliver? B: Use a company vehicle.",
+      "常见搭配": "motor vehicle；vehicle for（媒介：a vehicle for ideas）",
+      "词根词缀,词头词尾": "veh（运送）语源相关",
+      "单词变形": "plural vehicles",
+      "Unnamed: 9": "2000"
+    }
+  },
+  {
+    "word": "vice",
+    "pos": "n./adj.",
+    "phonetic": "/vaɪs/",
+    "meaning": "（n）恶习；（n/adj）副—（如副总统）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "He warned against vice and corruption.\nA: Who’s next in charge? B: The vice president.",
+      "常见搭配": "vice president; vice chair; vice versa; a vice（一个坏习惯）",
+      "词根词缀,词头词尾": "来自拉丁语“缺陷/过失”语源；在职位中 vice- 作前缀=“副”",
+      "单词变形": "plural vices",
+      "Unnamed: 9": "6000"
+    }
+  },
+  {
+    "word": "visualize",
+    "pos": "v.",
+    "phonetic": "BrE /ˈvɪʒuəlaɪz/；AmE /ˈvɪʒuəlaɪz/",
+    "meaning": "想象；使形象化；可视化",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Try to visualize the final result. / A: Can you explain it? B: I’ll visualize it with a chart.",
+      "常见搭配": "visualize a scene；visualize how/what；visualize with a diagram",
+      "词根词缀,词头词尾": "vis（看，见 vision）+ -ual（形容词化）+ -ize（动词后缀：使…）",
+      "单词变形": "3rd visualizes / past visualized / pp visualized / ing visualizing",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "waive",
+    "pos": "v.",
+    "phonetic": "BrE /weɪv/；AmE /weɪv/",
+    "meaning": "放弃（权利/要求）；免除（费用）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "They waived the fee. / A: Do I have to pay? B: We can waive it.",
+      "常见搭配": "waive a fee；waive the right to；fee waiver",
+      "词根词缀,词头词尾": "词缀不典型；法律/正式语域",
+      "单词变形": "3rd waives / past waived / pp waived / ing waiving",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "warehouse",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈweəhaʊs/；AmE /ˈwerhaʊs/",
+    "meaning": "仓库；把…存入仓库",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The goods are stored in a warehouse. / A: Where’s the stock? B: In the warehouse.",
+      "常见搭配": "warehouse worker；warehouse inventory；store in a warehouse",
+      "词根词缀,词头词尾": "ware（货物）+ house（房屋）",
+      "单词变形": "名词：plural warehouses；动词：3rd warehouses / past warehoused / pp warehoused / ing warehousing",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "warranty",
+    "pos": "n.",
+    "phonetic": "BrE /ˈwɒrənti/；AmE /ˈwɔːrənti/",
+    "meaning": "保修；担保",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The phone comes with a one-year warranty. / A: Is it covered? B: Yes, under warranty.",
+      "常见搭配": "warranty on/for；under warranty；void the warranty；warranty period",
+      "词根词缀,词头词尾": "词缀不典型；法律/商业高频",
+      "单词变形": "名词：plural warranties",
+      "Unnamed: 9": "5000"
+    }
+  },
+  {
+    "word": "watering",
+    "pos": "n./adj.",
+    "phonetic": "BrE /ˈwɔːtərɪŋ/；AmE /ˈwɔːtərɪŋ/",
+    "meaning": "浇水；（watering eyes）流泪的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "Regular watering helps plants. / A: Leaves drooping. B: Needs watering.",
+      "常见搭配": "watering can；watering schedule；watering eyes",
+      "词根词缀,词头词尾": "-ing：动名词/现在分词（常作 n./adj.）",
+      "单词变形": "动词原形 water：3rd waters / past watered / pp watered / ing watering",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "whereas",
+    "pos": "conj.",
+    "phonetic": "BrE /weərˈæz/；AmE /werˈæz/",
+    "meaning": "然而；而（对比）",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She likes tea, whereas I prefer coffee. / A: Same? B: No—whereas mine is different.",
+      "常见搭配": "whereas + 从句；（正式）whereas… , …",
+      "词根词缀,词头词尾": "where + as（固定连词）",
+      "单词变形": "—",
+      "Unnamed: 9": "4000"
+    }
+  },
+  {
+    "word": "withstand",
+    "pos": "v.",
+    "phonetic": "BrE /wɪðˈstænd/；AmE /wɪðˈstænd/",
+    "meaning": "经受住；抵挡",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "This material can withstand heat. / A: Will it last? B: It can withstand pressure.",
+      "常见搭配": "withstand pressure/heat；withstand a test",
+      "词根词缀,词头词尾": "with（对抗/承受）+ stand（站立）",
+      "单词变形": "3rd withstands / past withstood / pp withstood / ing withstanding",
+      "Unnamed: 9": "7000"
+    }
+  },
+  {
+    "word": "work in",
+    "pos": "phr.v.",
+    "phonetic": "BrE /wɜːk ɪn/；AmE /wɝːk ɪn/",
+    "meaning": "在……工作；从事于……行业/领域",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "She works in finance. / A: What do you do? B: I work in IT.",
+      "常见搭配": "work in + 行业/地点；work at + 公司；work as + 职业",
+      "词根词缀,词头词尾": "work（工作）+ in（介词：在……里/在……领域）",
+      "单词变形": "work：3rd works / past worked / pp worked / ing working",
+      "Unnamed: 9": "500"
+    }
   },
   {
     "word": "worksite",
     "pos": "n.",
-    "phonetic": "/ˈwɜːrk.saɪt/",
-    "meaning": "工地；工作场所",
-    "example": "Hard hats are required on the worksite.",
+    "phonetic": "BrE /ˈwɜːksaɪt/；AmE /ˈwɝːksaɪt/",
+    "meaning": "工地；工作现场",
+    "example": "",
     "position": null,
-    "extra": {}
+    "extra": {
+      "例句或情景": "Hard hats are required at the worksite. / A: Where’s the crew? B: At the worksite.",
+      "常见搭配": "at/on the worksite；worksite safety；worksite inspection",
+      "词根词缀,词头词尾": "work + site（地点）；复合名词",
+      "单词变形": "plural worksites",
+      "Unnamed: 9": "8000"
+    }
+  },
+  {
+    "word": "woven",
+    "pos": "adj.（过去分词）",
+    "phonetic": "BrE /ˈwəʊvən/；AmE /ˈwoʊvən/",
+    "meaning": "编织的",
+    "example": "",
+    "position": null,
+    "extra": {
+      "例句或情景": "The basket is woven from grass. / A: Is it handmade? B: Yes, it’s woven.",
+      "常见搭配": "woven from/of；woven fabric",
+      "词根词缀,词头词尾": "weave（编织）不规则过去分词；-en 形容词化痕迹",
+      "单词变形": "weave：3rd weaves / past wove / pp woven / ing weaving",
+      "Unnamed: 9": "8000"
+    }
   }
 ]
