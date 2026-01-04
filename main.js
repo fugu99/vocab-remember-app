@@ -30,6 +30,9 @@ const answerMeaning = document.getElementById('answerMeaning');
 const answerExample = document.getElementById('answerExample');
 const answerPosition = document.getElementById('answerPosition');
 
+// ★追加：増えた情報（extra）表示先
+const answerExtra = document.getElementById('answerExtra');
+
 const okBtn = document.getElementById('okBtn');
 const ngBtn = document.getElementById('ngBtn');
 const messageEl = document.getElementById('message');
@@ -47,28 +50,20 @@ let queue = [];
 let idx = -1;
 
 // =====================
-// 日付（重要：JST/ローカル基準）
+// 日付（ローカル/JST）
 // =====================
 function pad2(n) { return String(n).padStart(2, '0'); }
 
-// ★ローカル（日本時間）の YYYY-MM-DD
 function todayStr() {
   const d = new Date();
-  const y = d.getFullYear();
-  const m = pad2(d.getMonth() + 1);
-  const day = pad2(d.getDate());
-  return `${y}-${m}-${day}`;
+  return `${d.getFullYear()}-${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`;
 }
 
-// ★YYYY-MM-DD をローカル日付として解釈して days 日後を返す
 function addDays(dateStr, days) {
   const [y, m, d] = dateStr.split('-').map(Number);
-  const dt = new Date(y, m - 1, d); // ローカル
+  const dt = new Date(y, m - 1, d);
   dt.setDate(dt.getDate() + days);
-  const yy = dt.getFullYear();
-  const mm = pad2(dt.getMonth() + 1);
-  const dd = pad2(dt.getDate());
-  return `${yy}-${mm}-${dd}`;
+  return `${dt.getFullYear()}-${pad2(dt.getMonth() + 1)}-${pad2(dt.getDate())}`;
 }
 
 // =====================
@@ -108,21 +103,26 @@ function normalizeWords(raw) {
     if (!w) continue;
     const word = String(w.word ?? '').trim();
     if (!word) continue;
+
+    const extraObj = (w.extra && typeof w.extra === 'object') ? w.extra : {};
+
     out.push({
       word,
       pos: String(w.pos ?? '').trim(),
       phonetic: String(w.phonetic ?? '').trim(),
       meaning: String(w.meaning ?? '').trim(),
       example: String(w.example ?? '').trim(),
-      position: (w.position === null || w.position === undefined || w.position === '') ? null : Number(w.position)
+      position: (w.position === null || w.position === undefined || w.position === '') ? null : Number(w.position),
+      // ★追加情報（増えた列）
+      extra: extraObj
     });
   }
   return out;
 }
 
 /**
- * progress を words と整合させる（新規単語の初期化 + 旧データの拡張）
- * - streakForgot: 連続で「忘れてた」が押された回数（覚えてたで0に戻す）
+ * progress を words と整合させる
+ * - streakForgot: 連続で「忘れてた」が押された回数（覚えてたで0）
  */
 function mergeProgress() {
   const t = todayStr();
@@ -151,9 +151,9 @@ function updateStats() {
     if (lv >= LEARNED_LEVEL_THRESHOLD) learned += 1;
   }
 
-  if (learnedCountEl) learnedCountEl.textContent = String(learned);
-  if (totalCountEl) totalCountEl.textContent = String(total);
-  if (learnedPctEl) learnedPctEl.textContent = String(total > 0 ? Math.round((learned / total) * 100) : 0);
+  learnedCountEl.textContent = String(learned);
+  totalCountEl.textContent = String(total);
+  learnedPctEl.textContent = String(total > 0 ? Math.round((learned / total) * 100) : 0);
 }
 
 // =====================
@@ -175,20 +175,19 @@ async function loadWordsJson() {
 }
 
 // =====================
-// 出題キュー構築
-// - due（nextDue<=今日）のみ
-// - streakForgot が多いほど優先
-// - 同点はランダム
+// 出題キュー構築（優先＋同順位ランダム）
 // =====================
 function buildQueue() {
   const t = todayStr();
 
+  // due（nextDue<=今日）のみ
   const due = words.filter(w => {
     const p = progress[w.word];
     if (!p || !p.nextDue) return true;
     return p.nextDue <= t;
   });
 
+  // 優先度：streakForgot DESC / 同点ランダム
   const withRand = due.map(w => {
     const p = progress[w.word] || {};
     const streak = (typeof p.streakForgot === 'number') ? p.streakForgot : 0;
@@ -242,12 +241,49 @@ function showQuestion() {
   enableQuestionButtons();
 }
 
+// extraをHTMLにする（キー:値を一覧表示）
+function renderExtra(extra) {
+  if (!answerExtra) return;
+  const keys = extra && typeof extra === 'object' ? Object.keys(extra) : [];
+  if (keys.length === 0) {
+    answerExtra.style.display = 'none';
+    answerExtra.innerHTML = '';
+    return;
+  }
+  // 表示順はキー順（必要ならここで並び替えルールを追加可能）
+  keys.sort((a, b) => a.localeCompare(b, 'ja'));
+  const items = keys.map(k => {
+    const v = String(extra[k] ?? '').trim();
+    if (!v) return '';
+    return `<div class="kv-item"><span class="kv-key">${escapeHtml(k)}:</span> ${escapeHtml(v)}</div>`;
+  }).filter(Boolean);
+
+  if (items.length === 0) {
+    answerExtra.style.display = 'none';
+    answerExtra.innerHTML = '';
+    return;
+  }
+
+  answerExtra.style.display = '';
+  answerExtra.innerHTML = items.join('');
+}
+
+// XSS対策（最低限）
+function escapeHtml(s) {
+  return String(s)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
 // ★答え表示と同時に自動発音（ボタン発音も残す）
 function showAnswer() {
   if (idx < 0 || idx >= queue.length) return;
   const q = queue[idx];
 
-  answerWord.innerHTML = `単語: <b id="wordTap">${q.word}</b> <button id="speakBtn">🔊</button>`;
+  answerWord.innerHTML = `単語: <b id="wordTap">${escapeHtml(q.word)}</b> <button id="speakBtn">🔊</button>`;
   answerPos.textContent = q.pos ? `词性: ${q.pos}` : '';
   answerPhonetic.textContent = q.phonetic ? `音标: ${q.phonetic}` : '';
   answerMeaning.textContent = q.meaning ? `词义: ${q.meaning}` : '';
@@ -259,6 +295,9 @@ function showAnswer() {
   answerMeaning.style.display = q.meaning ? '' : 'none';
   answerExample.style.display = q.example ? '' : 'none';
   answerPosition.style.display = (q.position !== null && !Number.isNaN(q.position)) ? '' : 'none';
+
+  // ★追加：増えた情報（extra）
+  renderExtra(q.extra);
 
   answerBox.style.display = 'block';
 
@@ -272,7 +311,7 @@ function showAnswer() {
   okBtn.disabled = false;
   ngBtn.disabled = false;
 
-  // 自動発音（「答えを表示」クリックの直後なので通りやすい）
+  // 自動発音
   speakWord(q.word);
 }
 
@@ -292,14 +331,13 @@ function markOK() {
   p.lastReviewed = t;
   p.nextDue = addDays(t, INTERVALS[nextLevel]);
 
-  // 一度「覚えてた」を押したら連続忘れ回数をリセット
+  // 覚えてた→連続忘れリセット
   p.streakForgot = 0;
 
   progress[q.word] = p;
   saveProgress();
 
   messageEl.textContent = `OK：レベル ${prev} → ${nextLevel}（次回 ${p.nextDue}）`;
-
   updateStats();
 
   idx += 1;
@@ -312,23 +350,21 @@ function markNG() {
   const t = todayStr();
   const p = progress[q.word] || { level: 0, nextDue: t, lastReviewed: null, streakForgot: 0 };
 
-  // 忘れたらレベル0
+  // 忘れた→レベル0
   p.level = 0;
   p.lastReviewed = t;
 
-  // ★要求：レベル0は同日中でも出る
-  // nextDue を「今日」にする（due判定 nextDue<=today を満たす）
+  // ★要求：レベル0は同日中でも due
   p.nextDue = t;
 
-  // ★連続忘れ回数を加算（優先出題に使う）
+  // 連続忘れ回数 +1
   const cur = (typeof p.streakForgot === 'number') ? p.streakForgot : 0;
   p.streakForgot = cur + 1;
 
   progress[q.word] = p;
   saveProgress();
 
-  messageEl.textContent = `NG：レベル 0（同日中も再出題） / 連続忘れ: ${p.streakForgot}`;
-
+  messageEl.textContent = `NG：レベル 0（同日中も再出題対象） / 連続忘れ: ${p.streakForgot}`;
   updateStats();
 
   idx += 1;
