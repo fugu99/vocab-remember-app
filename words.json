@@ -5,7 +5,8 @@
     "phonetic": "BrE /ə bɪt əv/；AmE /ə bɪt əv/",
     "meaning": "一点点；一些",
     "example": "I need a bit of help.",
-    "position": 1000
+    "position": 1000,
+    "extra": {}
   },
   {
     "word": "direct",
@@ -13,7 +14,8 @@
     "phonetic": "BrE /daɪˈrekt/；AmE /dɪˈrɛkt/",
     "meaning": "指导；直接的",
     "example": "He directed the team to follow the plan.",
-    "position": 1000
+    "position": 1000,
+    "extra": {}
   },
   {
     "word": "expect",
@@ -21,7 +23,8 @@
     "phonetic": "BrE /ɪkˈspekt/；AmE /ɪkˈspɛkt/",
     "meaning": "期望；预计",
     "example": "We expect the results tomorrow.",
-    "position": 1000
+    "position": 1000,
+    "extra": {}
   },
   {
     "word": "extremely",
@@ -29,7 +32,8 @@
     "phonetic": "BrE /ɪkˈstriːmli/；AmE /ɪkˈstriːmli/",
     "meaning": "极其",
     "example": "The test was extremely difficult.",
-    "position": 1000
+    "position": 1000,
+    "extra": {}
   },
   {
     "word": "provide",
@@ -37,7 +41,8 @@
     "phonetic": "BrE /prəˈvaɪd/；AmE /prəˈvaɪd/",
     "meaning": "提供",
     "example": "They provide free meals for employees.",
-    "position": 1000
+    "position": 1000,
+    "extra": {}
   },
   {
     "word": "supposed to",
@@ -45,7 +50,8 @@
     "phonetic": "BrE /səˈpəʊzd tuː/；AmE /səˈpoʊzd tuː/",
     "meaning": "应当；被期望",
     "example": "You’re supposed to arrive on time.",
-    "position": 1000
+    "position": 1000,
+    "extra": {}
   },
   {
     "word": "throughout",
@@ -53,7 +59,8 @@
     "phonetic": "BrE /θruːˈaʊt/；AmE /θruːˈaʊt/",
     "meaning": "遍及；自始至终",
     "example": "It rained throughout the night.",
-    "position": 1000
+    "position": 1000,
+    "extra": {}
   },
   {
     "word": "board",
@@ -61,7 +68,8 @@
     "phonetic": "BrE /bɔːd/；AmE /bɔːrd/",
     "meaning": "董事会；板；登机",
     "example": "The board approved the plan.",
-    "position": 1500
+    "position": 1500,
+    "extra": {}
   },
   {
     "word": "plenty",
@@ -69,7 +77,8 @@
     "phonetic": "BrE /ˈplenti/；AmE /ˈplɛnti/",
     "meaning": "大量",
     "example": "There is plenty of time.",
-    "position": 1500
+    "position": 1500,
+    "extra": {}
   },
   {
     "word": "significant",
@@ -77,7 +86,8 @@
     "phonetic": "BrE /sɪɡˈnɪfɪkənt/；AmE /sɪɡˈnɪfɪkənt/",
     "meaning": "重要的；显著的",
     "example": "There is a significant difference.",
-    "position": 1500
+    "position": 1500,
+    "extra": {}
   },
   {
     "word": "a great deal of",
@@ -85,7 +95,8 @@
     "phonetic": "/ə ɡreɪt diːl əv/",
     "meaning": "大量的",
     "example": "He has a great deal of experience.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "acknowledge",
@@ -93,7 +104,8 @@
     "phonetic": "BrE /əkˈnɒlɪdʒ/；AmE /əkˈnɑːlɪdʒ/",
     "meaning": "承认；致谢",
     "example": "She acknowledged the mistake.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "additional",
@@ -101,7 +113,8 @@
     "phonetic": "/əˈdɪʃənəl/",
     "meaning": "额外的；附加的",
     "example": "Additional information is available online.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "agency",
@@ -109,7 +122,8 @@
     "phonetic": "/ˈeɪdʒənsi/",
     "meaning": "代理机构；政府部门",
     "example": "She works for an advertising agency.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "agent",
@@ -117,7 +131,8 @@
     "phonetic": "/ˈeɪdʒənt/",
     "meaning": "代理人；中介",
     "example": "The agent showed us the house.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "arrange",
@@ -125,7 +140,8 @@
     "phonetic": "/əˈreɪndʒ/",
     "meaning": "安排",
     "example": "I will arrange a meeting.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "attend",
@@ -133,7 +149,8 @@
     "phonetic": "/əˈtend/",
     "meaning": "参加；出席",
     "example": "He will attend the meeting tomorrow.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "bend",
@@ -141,7 +158,8 @@
     "phonetic": "BrE /bend/；AmE /bend/",
     "meaning": "弯曲；拐弯",
     "example": "Bend your knees slightly.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "bend down",
@@ -149,7 +167,8 @@
     "phonetic": "BrE /bend daʊn/；AmE /bend daʊn/",
     "meaning": "弯腰",
     "example": "She bent down to tie her shoes.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "colleague",
@@ -157,7 +176,8 @@
     "phonetic": "BrE /ˈkɒliːɡ/；AmE /ˈkɑːliːɡ/",
     "meaning": "同事",
     "example": "I discussed it with a colleague.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "complain",
@@ -165,7 +185,8 @@
     "phonetic": "BrE /kəmˈpleɪn/；AmE /kəmˈpleɪn/",
     "meaning": "抱怨；投诉",
     "example": "She complained about the noise.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "concern",
@@ -173,7 +194,8 @@
     "phonetic": "BrE /kənˈsɜːn/；AmE /kənˈsɜːrn/",
     "meaning": "担心；涉及",
     "example": "Safety is our main concern.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "conduct",
@@ -181,7 +203,8 @@
     "phonetic": "/kənˈdʌkt/",
     "meaning": "实施；行为",
     "example": "They conducted an experiment.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "contract",
@@ -189,7 +212,8 @@
     "phonetic": "/ˈkɒntrækt/ (n.), /kənˈtrækt/ (v.)",
     "meaning": "合同；收缩；感染",
     "example": "They signed a two-year contract.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "degree",
@@ -197,7 +221,8 @@
     "phonetic": "/dɪˈɡriː/",
     "meaning": "学位；程度",
     "example": "She has a degree in engineering.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "department",
@@ -205,7 +230,8 @@
     "phonetic": "BrE /dɪˈpɑːtmənt/；AmE /dɪˈpɑːrtmənt/",
     "meaning": "部门；系；（商店）部",
     "example": "She works in the marketing department.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "director",
@@ -213,7 +239,8 @@
     "phonetic": "BrE /dɪˈrektə/；AmE /dɪˈrɛktər/",
     "meaning": "主管；导演",
     "example": "She is the director of the company.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "equipment",
@@ -221,7 +248,8 @@
     "phonetic": "/ɪˈkwɪpmənt/",
     "meaning": "设备，装备",
     "example": "The gym has new equipment.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "firm",
@@ -229,7 +257,8 @@
     "phonetic": "/fɜːrm/",
     "meaning": "公司；坚定的",
     "example": "She works at a law firm.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "furniture",
@@ -237,7 +266,8 @@
     "phonetic": "/ˈfɜːrnɪtʃər/",
     "meaning": "家具",
     "example": "The room has new furniture.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "hang",
@@ -245,7 +275,8 @@
     "phonetic": "/hæŋ/",
     "meaning": "悬挂，挂起",
     "example": "Please hang your coat on the hook.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "hold on",
@@ -253,7 +284,8 @@
     "phonetic": "BrE /həʊld ɒn/；AmE /hoʊld ɑːn/",
     "meaning": "等一下；抓牢",
     "example": "Please hold on while I transfer your call.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "instruction",
@@ -261,7 +293,8 @@
     "phonetic": "BrE /ɪnˈstrʌkʃən/；AmE /ɪnˈstrʌkʃən/",
     "meaning": "指示；说明",
     "example": "Follow the instructions carefully.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "insurance",
@@ -269,7 +302,8 @@
     "phonetic": "BrE /ɪnˈʃʊərəns/；AmE /ɪnˈʃʊrəns/",
     "meaning": "保险",
     "example": "Do you have health insurance?",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "leave for",
@@ -277,7 +311,8 @@
     "phonetic": "BrE /liːv fɔː/；AmE /liːv fɔːr/",
     "meaning": "前往；动身去",
     "example": "She left for London this morning.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "property",
@@ -285,7 +320,8 @@
     "phonetic": "/ˈprɒpərti/",
     "meaning": "财产；房地产",
     "example": "They bought a property near the river.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "raise",
@@ -293,7 +329,8 @@
     "phonetic": "/reɪz/",
     "meaning": "举起；提高；筹集",
     "example": "They raised money for charity.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "require",
@@ -301,7 +338,8 @@
     "phonetic": "BrE /rɪˈkwaɪə/；AmE /rɪˈkwaɪr/",
     "meaning": "需要；要求",
     "example": "This task requires attention.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "revenue",
@@ -309,7 +347,8 @@
     "phonetic": "BrE /ˈrevənjuː/；AmE /ˈrɛvənjuː/",
     "meaning": "收入；营收",
     "example": "The company increased its revenue.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "statement",
@@ -317,7 +356,8 @@
     "phonetic": "/ˈsteɪtmənt/",
     "meaning": "陈述，声明",
     "example": "His statement was clear and direct.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "suppose",
@@ -325,7 +365,8 @@
     "phonetic": "BrE /səˈpəʊz/；AmE /səˈpoʊz/",
     "meaning": "假设；认为",
     "example": "I suppose you’re right.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "tend",
@@ -333,7 +374,8 @@
     "phonetic": "BrE /tend/；AmE /tɛnd/",
     "meaning": "倾向于；易于",
     "example": "People tend to forget small details.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "tire",
@@ -341,7 +383,8 @@
     "phonetic": "BrE /ˈtaɪə/；AmE /ˈtaɪər/",
     "meaning": "轮胎；使疲倦",
     "example": "I need to replace the front tire.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "vehicle",
@@ -349,7 +392,8 @@
     "phonetic": "BrE /ˈviːɪkəl/；AmE /ˈviːəkəl/",
     "meaning": "车辆；交通工具",
     "example": "This vehicle runs on electricity.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "whereas",
@@ -357,7 +401,8 @@
     "phonetic": "BrE /ˌweərˈæz/；AmE /ˌwerˈæz/",
     "meaning": "然而；而",
     "example": "He is rich, whereas she is poor.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "work in",
@@ -365,7 +410,8 @@
     "phonetic": "/wɜːrk ɪn/",
     "meaning": "从事……行业；加入",
     "example": "She works in finance.",
-    "position": 2000
+    "position": 2000,
+    "extra": {}
   },
   {
     "word": "accurate",
@@ -373,7 +419,8 @@
     "phonetic": "/ˈækjərət/",
     "meaning": "准确的",
     "example": "The results are highly accurate.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "advertise",
@@ -381,7 +428,8 @@
     "phonetic": "BrE /ˈædvətaɪz/；AmE /ˈædvərtaɪz/",
     "meaning": "做广告",
     "example": "The company advertises online.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "annual",
@@ -389,7 +437,8 @@
     "phonetic": "BrE /ˈænjuəl/；AmE /ˈænjuəl/",
     "meaning": "每年的；年度的",
     "example": "The annual meeting will be held in July.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "approximately",
@@ -397,7 +446,8 @@
     "phonetic": "/əˈprɒksɪmətli/",
     "meaning": "大约，近似",
     "example": "The cost is approximately $200.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "assembly",
@@ -405,7 +455,8 @@
     "phonetic": "BrE /əˈsembli/；AmE /əˈsɛmbli/",
     "meaning": "集会；装配",
     "example": "The parts are ready for assembly.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "avenue",
@@ -413,7 +464,8 @@
     "phonetic": "BrE /ˈævənjuː/；AmE /ˈævəˌnuː/",
     "meaning": "大街；途径；手段",
     "example": "They walked down Fifth Avenue.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "budget",
@@ -421,7 +473,8 @@
     "phonetic": "BrE /ˈbʌdʒɪt/；AmE /ˈbʌdʒɪt/",
     "meaning": "预算；安排预算",
     "example": "We must reduce our budget this year.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "cabinet",
@@ -429,7 +482,8 @@
     "phonetic": "BrE /ˈkæbɪnət/；AmE /ˈkæbɪnət/",
     "meaning": "橱柜；内阁",
     "example": "The cups are in the kitchen cabinet.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "commit",
@@ -437,7 +491,8 @@
     "phonetic": "BrE /kəˈmɪt/；AmE /kəˈmɪt/",
     "meaning": "承诺；投入；犯（错）",
     "example": "He committed to finishing the task on time.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "conference",
@@ -445,7 +500,8 @@
     "phonetic": "/ˈkɒnfərəns/",
     "meaning": "会议；讨论会",
     "example": "She attended a business conference.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "consequently",
@@ -453,7 +509,8 @@
     "phonetic": "BrE /ˈkɒnsɪkwəntli/；AmE /ˈkɑːnsɪkwəntli/",
     "meaning": "因此；结果",
     "example": "He was ill; consequently, he stayed home.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "construction",
@@ -461,7 +518,8 @@
     "phonetic": "/kənˈstrʌkʃən/",
     "meaning": "建造；施工",
     "example": "Construction will finish next year.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "destination",
@@ -469,7 +527,8 @@
     "phonetic": "BrE /ˌdestɪˈneɪʃən/；AmE /ˌdɛstəˈneɪʃən/",
     "meaning": "目的地",
     "example": "Paris is a popular travel destination.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "draft",
@@ -477,7 +536,8 @@
     "phonetic": "/dræft/",
     "meaning": "草稿；起草；征兵",
     "example": "Please send me the first draft of the report.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "efficient",
@@ -485,7 +545,8 @@
     "phonetic": "/ɪˈfɪʃənt/",
     "meaning": "高效的",
     "example": "This machine is more efficient than the old one.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "enthusiastic",
@@ -493,7 +554,8 @@
     "phonetic": "BrE /ɪnˌθjuːziˈæstɪk/；AmE /ɪnˌθuːziˈæstɪk/",
     "meaning": "热情的",
     "example": "She is enthusiastic about learning.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "estate",
@@ -501,7 +563,8 @@
     "phonetic": "/ɪˈsteɪt/",
     "meaning": "房地产；遗产；庄园",
     "example": "He inherited a large estate.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "estimate",
@@ -509,7 +572,8 @@
     "phonetic": "BrE /ˈestɪmeɪt/；AmE /ˈɛstəmeɪt/",
     "meaning": "估计；估算",
     "example": "They estimated the total cost to be $500.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "executive",
@@ -517,7 +581,8 @@
     "phonetic": "/ɪɡˈzekjətɪv/",
     "meaning": "管理的；主管",
     "example": "She is an executive at the company.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "expand",
@@ -525,7 +590,8 @@
     "phonetic": "/ɪkˈspænd/",
     "meaning": "扩大；扩展",
     "example": "The company plans to expand overseas.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "extend",
@@ -533,7 +599,8 @@
     "phonetic": "/ɪkˈstend/",
     "meaning": "延伸；扩大；延长",
     "example": "We plan to extend the building next year.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "facility",
@@ -541,7 +608,8 @@
     "phonetic": "/fəˈsɪləti/",
     "meaning": "设施，场所",
     "example": "The sports facility is open to everyone.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "garage",
@@ -549,7 +617,8 @@
     "phonetic": "/ɡəˈrɑːʒ/",
     "meaning": "车库；汽车修理厂",
     "example": "The car is parked in the garage.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "generous",
@@ -557,7 +626,8 @@
     "phonetic": "BrE /ˈdʒenərəs/；AmE /ˈdʒenərəs/",
     "meaning": "慷慨的",
     "example": "He is generous with his time.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "identify",
@@ -565,7 +635,8 @@
     "phonetic": "/aɪˈdentɪfaɪ/",
     "meaning": "识别，确定",
     "example": "Can you identify the problem?",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "imply",
@@ -573,7 +644,8 @@
     "phonetic": "/ɪmˈplaɪ/",
     "meaning": "暗示；意味着",
     "example": "What are you implying?",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "launch",
@@ -581,7 +653,8 @@
     "phonetic": "/lɔːntʃ/",
     "meaning": "启动；发射；推出",
     "example": "They will launch a new product.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "obtain",
@@ -589,7 +662,8 @@
     "phonetic": "/əbˈteɪn/",
     "meaning": "获得，取得",
     "example": "You must obtain permission first.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "overlook",
@@ -597,7 +671,8 @@
     "phonetic": "BrE /ˌəʊvəˈlʊk/；AmE /ˌoʊvərˈlʊk/",
     "meaning": "忽视；俯瞰",
     "example": "He overlooked a key detail.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "permit",
@@ -605,7 +680,8 @@
     "phonetic": "/pərˈmɪt/",
     "meaning": "允许；许可证",
     "example": "Smoking is not permitted here.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "presence",
@@ -613,7 +689,8 @@
     "phonetic": "BrE /ˈprezəns/；AmE /ˈprezəns/",
     "meaning": "出席；存在感",
     "example": "His presence made everyone feel better.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "procedure",
@@ -621,7 +698,8 @@
     "phonetic": "/prəˈsiːdʒər/",
     "meaning": "程序；步骤；手续",
     "example": "Please follow the safety procedure.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "profitable",
@@ -629,7 +707,8 @@
     "phonetic": "BrE /ˈprɒfɪtəbl/；AmE /ˈprɑːfɪtəbl/",
     "meaning": "有利润的",
     "example": "The business is highly profitable.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "promote",
@@ -637,7 +716,8 @@
     "phonetic": "/prəˈmoʊt/",
     "meaning": "促进；宣传；晋升",
     "example": "They promoted her to manager.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "propose",
@@ -645,7 +725,8 @@
     "phonetic": "BrE /prəˈpəʊz/；AmE /prəˈpoʊz/",
     "meaning": "提议；求婚",
     "example": "She proposed a new plan for the project.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "prospect",
@@ -653,7 +734,8 @@
     "phonetic": "BrE /ˈprɒspekt/；AmE /ˈprɑːspekt/",
     "meaning": "前景；潜在客户",
     "example": "Job prospects are improving.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "reasonable",
@@ -661,7 +743,8 @@
     "phonetic": "/ˈriːzənəbl/",
     "meaning": "合理的；公道的",
     "example": "The price is reasonable.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "recommend",
@@ -669,7 +752,8 @@
     "phonetic": "BrE /ˌrekəˈmend/；AmE /ˌrekəˈmɛnd/",
     "meaning": "推荐；建议",
     "example": "Can you recommend a good restaurant?",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "refer",
@@ -677,7 +761,8 @@
     "phonetic": "BrE /rɪˈfɜː/；AmE /rɪˈfɜːr/",
     "meaning": "提及；查阅；指的是",
     "example": "Please refer to the manual.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "register",
@@ -685,7 +770,8 @@
     "phonetic": "BrE /ˈredʒɪstə/；AmE /ˈredʒɪstər/",
     "meaning": "注册；登记；收银机",
     "example": "You must register before the event starts.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "server",
@@ -693,7 +779,8 @@
     "phonetic": "BrE /ˈsɜːvə/；AmE /ˈsɜːrvər/",
     "meaning": "服务员；服务器",
     "example": "The server brought our drinks.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "session",
@@ -701,7 +788,8 @@
     "phonetic": "BrE /ˈseʃən/；AmE /ˈsɛʃən/",
     "meaning": "会期；课程；会议",
     "example": "The training session begins at 3 PM.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "shelf",
@@ -709,7 +797,8 @@
     "phonetic": "BrE /ʃelf/；AmE /ʃɛlf/",
     "meaning": "架子；搁板",
     "example": "The vase is on the top shelf.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "sign up for",
@@ -717,7 +806,8 @@
     "phonetic": "BrE /saɪn ʌp fɔː/；AmE /saɪn ʌp fɔːr/",
     "meaning": "报名参加",
     "example": "She signed up for a cooking class.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "under somebody’s name",
@@ -725,7 +815,8 @@
     "phonetic": "—",
     "meaning": "以某人名字登记",
     "example": "The reservation is under my name.",
-    "position": 3000
+    "position": 3000,
+    "extra": {}
   },
   {
     "word": "architect",
@@ -733,7 +824,8 @@
     "phonetic": "/ˈɑːrkɪtekt/",
     "meaning": "建筑师",
     "example": "The architect designed the new museum.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "biscuit",
@@ -741,7 +833,8 @@
     "phonetic": "BrE /ˈbɪskɪt/；AmE /ˈbɪskɪt/（美式中指软饼）",
     "meaning": "饼干（英）；软面包（美）",
     "example": "She bought a box of biscuits.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "commitment",
@@ -749,7 +842,8 @@
     "phonetic": "BrE /kəˈmɪtmənt/；AmE /kəˈmɪtmənt/",
     "meaning": "承诺；投入；义务",
     "example": "She has a strong commitment to her job.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "construct",
@@ -757,7 +851,8 @@
     "phonetic": "BrE /kənˈstrʌkt/；AmE /kənˈstrʌkt/",
     "meaning": "建造；构建",
     "example": "They constructed a new bridge.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "corporate",
@@ -765,7 +860,8 @@
     "phonetic": "BrE /ˈkɔːpərət/；AmE /ˈkɔːrpərət/",
     "meaning": "企业的；公司的",
     "example": "Corporate culture varies across industries.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "distribute",
@@ -773,7 +869,8 @@
     "phonetic": "/dɪˈstrɪbjuːt/",
     "meaning": "分配，分发",
     "example": "They distribute food to the homeless.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "enthusiasm",
@@ -781,7 +878,8 @@
     "phonetic": "BrE /ɪnˈθjuːziæzəm/；AmE /ɪnˈθuːziæzəm/",
     "meaning": "热情",
     "example": "She showed great enthusiasm for the project.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "execute",
@@ -789,7 +887,8 @@
     "phonetic": "/ˈeksɪkjuːt/",
     "meaning": "执行；实施；处决",
     "example": "The program executes the commands automatically.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "extension",
@@ -797,7 +896,8 @@
     "phonetic": "/ɪkˈstenʃən/",
     "meaning": "延期；扩建；延伸",
     "example": "I applied for an extension of the deadline.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "globe",
@@ -805,7 +905,8 @@
     "phonetic": "/ɡloʊb/",
     "meaning": "地球；地球仪",
     "example": "The news spread around the globe.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "grocery",
@@ -813,7 +914,8 @@
     "phonetic": "/ˈɡroʊsəri/",
     "meaning": "食品杂货店；食品杂货",
     "example": "I went to the grocery to buy milk.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "implement",
@@ -821,7 +923,8 @@
     "phonetic": "/ˈɪmpləˌment/",
     "meaning": "实施；执行",
     "example": "The policy was implemented last year.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "insight",
@@ -829,7 +932,8 @@
     "phonetic": "BrE /ˈɪnsaɪt/；AmE /ˈɪnsaɪt/",
     "meaning": "洞察力；见解",
     "example": "The data provides valuable insight.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "inspect",
@@ -837,7 +941,8 @@
     "phonetic": "BrE /ɪnˈspekt/；AmE /ɪnˈspɛkt/",
     "meaning": "检查；查看",
     "example": "They inspected the equipment carefully.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "inspection",
@@ -845,7 +950,8 @@
     "phonetic": "BrE /ɪnˈspekʃən/；AmE /ɪnˈspɛkʃən/",
     "meaning": "检查；视察",
     "example": "The building passed the safety inspection.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "interior",
@@ -853,7 +959,8 @@
     "phonetic": "/ɪnˈtɪriər/",
     "meaning": "内部；内饰",
     "example": "The interior of the house is modern.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "keen",
@@ -861,7 +968,8 @@
     "phonetic": "BrE /kiːn/；AmE /kiːn/",
     "meaning": "渴望的；敏锐的",
     "example": "She is keen to learn new skills.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "lean against",
@@ -869,7 +977,8 @@
     "phonetic": "BrE /liːn əˈɡenst/；AmE /liːn əˈɡenst/",
     "meaning": "靠在……上",
     "example": "She leaned against the wall.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "manufacture",
@@ -877,7 +986,8 @@
     "phonetic": "/ˌmænjuˈfæktʃər/",
     "meaning": "制造；生产",
     "example": "The company manufactures cars.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "participate",
@@ -885,7 +995,8 @@
     "phonetic": "BrE /pɑːˈtɪsɪpeɪt/；AmE /pɑːrˈtɪsɪpeɪt/",
     "meaning": "参加",
     "example": "Many people participated in the event.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "preference",
@@ -893,7 +1004,8 @@
     "phonetic": "BrE /ˈprefrəns/；AmE /ˈprɛfrəns/",
     "meaning": "偏好；偏爱",
     "example": "Do you have any food preferences?",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "promotion",
@@ -901,7 +1013,8 @@
     "phonetic": "/prəˈmoʊʃən/",
     "meaning": "升职；促销",
     "example": "She received a promotion last month.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "purchase",
@@ -909,7 +1022,8 @@
     "phonetic": "/ˈpɜːrtʃəs/",
     "meaning": "采购；买",
     "example": "He made a large purchase online.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "qualification",
@@ -917,7 +1031,8 @@
     "phonetic": "/ˌkwɒlɪfɪˈkeɪʃən/",
     "meaning": "资格，资历",
     "example": "You need qualifications to apply.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "qualify",
@@ -925,7 +1040,8 @@
     "phonetic": "BrE /ˈkwɒlɪfaɪ/；AmE /ˈkwɑːləfaɪ/",
     "meaning": "使具资格；符合",
     "example": "You must pass the exam to qualify.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "resemble",
@@ -933,7 +1049,8 @@
     "phonetic": "BrE /rɪˈzembl/；AmE /rɪˈzɛmbl/",
     "meaning": "像；类似",
     "example": "The child resembles his father.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "revise",
@@ -941,7 +1058,8 @@
     "phonetic": "BrE /rɪˈvaɪz/；AmE /rɪˈvaɪz/",
     "meaning": "修改；复习（英）",
     "example": "Please revise the report before submitting it.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "sign up for four hours of work",
@@ -949,7 +1067,8 @@
     "phonetic": "—",
     "meaning": "报名参加四小时的工作",
     "example": "He signed up for four hours of work on Saturday.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "suspicious",
@@ -957,7 +1076,8 @@
     "phonetic": "BrE /səˈspɪʃəs/；AmE /səˈspɪʃəs/",
     "meaning": "可疑的",
     "example": "His behavior seemed suspicious.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "warehouse",
@@ -965,7 +1085,8 @@
     "phonetic": "/ˈwerhaʊs/",
     "meaning": "仓库",
     "example": "Goods are stored in the warehouse.",
-    "position": 4000
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "agenda",
@@ -973,7 +1094,8 @@
     "phonetic": "BrE /əˈdʒendə/；AmE /əˈdʒɛndə/",
     "meaning": "议程；待办事项",
     "example": "What's on the agenda today?",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "brake",
@@ -981,7 +1103,8 @@
     "phonetic": "BrE /breɪk/；AmE /breɪk/",
     "meaning": "刹车；制动",
     "example": "He pressed the brake suddenly.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "breach",
@@ -989,7 +1112,8 @@
     "phonetic": "BrE /briːtʃ/；AmE /briːtʃ/",
     "meaning": "违反；裂口",
     "example": "The company reported a data breach.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "clay",
@@ -997,7 +1121,8 @@
     "phonetic": "/kleɪ/",
     "meaning": "黏土",
     "example": "The artist shaped the clay into a pot.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "fabric",
@@ -1005,7 +1130,8 @@
     "phonetic": "/ˈfæbrɪk/",
     "meaning": "布料；结构",
     "example": "The dress is made of soft fabric.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "fountain",
@@ -1013,7 +1139,8 @@
     "phonetic": "BrE /ˈfaʊntɪn/；AmE /ˈfaʊntən/",
     "meaning": "喷泉",
     "example": "The fountain is located in the center square.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "hood",
@@ -1021,7 +1148,8 @@
     "phonetic": "BrE /hʊd/；AmE /hʊd/",
     "meaning": "车盖；兜帽",
     "example": "He opened the hood to check the engine.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "insignificant",
@@ -1029,7 +1157,8 @@
     "phonetic": "BrE /ˌɪnsɪɡˈnɪfɪkənt/；AmE /ˌɪnsɪɡˈnɪfɪkənt/",
     "meaning": "微不足道的",
     "example": "The error was insignificant.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "inspector",
@@ -1037,7 +1166,8 @@
     "phonetic": "/ɪnˈspektər/",
     "meaning": "检查员；督察",
     "example": "The inspector found several problems.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "inventory",
@@ -1045,7 +1175,8 @@
     "phonetic": "/ˈɪnvəntɔːri/",
     "meaning": "库存；清单",
     "example": "The store checks inventory weekly.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "modify",
@@ -1053,7 +1184,8 @@
     "phonetic": "BrE /ˈmɒdɪfaɪ/；AmE /ˈmɑːdəfaɪ/",
     "meaning": "修改；更改",
     "example": "We need to modify the design.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "refund",
@@ -1061,7 +1193,8 @@
     "phonetic": "BrE /ˈriːfʌnd/；AmE /ˈriːfʌnd/",
     "meaning": "退款；退还",
     "example": "They issued a full refund.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "sent over",
@@ -1069,7 +1202,8 @@
     "phonetic": "—",
     "meaning": "被寄送过去；传送",
     "example": "The documents were sent over yesterday.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "shortage",
@@ -1077,7 +1211,8 @@
     "phonetic": "BrE /ˈʃɔːtɪdʒ/；AmE /ˈʃɔːrtɪdʒ/",
     "meaning": "缺乏；短缺",
     "example": "There is a shortage of nurses.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "underwent",
@@ -1085,7 +1220,8 @@
     "phonetic": "BrE /ˌʌndəˈwent/；AmE /ˌʌndərˈwent/",
     "meaning": "经历；接受（治疗）",
     "example": "He underwent surgery last year.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "withstand",
@@ -1093,7 +1229,8 @@
     "phonetic": "BrE /wɪðˈstænd/；AmE /wɪðˈstænd/",
     "meaning": "经受；承受",
     "example": "The bridge can withstand strong winds.",
-    "position": 5000
+    "position": 5000,
+    "extra": {}
   },
   {
     "word": "audit",
@@ -1101,7 +1238,8 @@
     "phonetic": "/ˈɔːdɪt/",
     "meaning": "审计；查账",
     "example": "The company will audit its finances.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "brochure",
@@ -1109,7 +1247,8 @@
     "phonetic": "BrE /ˈbrəʊʃə/；AmE /broʊˈʃʊr/",
     "meaning": "小册子",
     "example": "Please take a brochure for more information.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "clarify",
@@ -1117,7 +1256,8 @@
     "phonetic": "/ˈklærəfaɪ/",
     "meaning": "澄清；说明",
     "example": "Please clarify your question.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "consultation",
@@ -1125,7 +1265,8 @@
     "phonetic": "/ˌkɒnslˈteɪʃən/",
     "meaning": "咨询；会诊",
     "example": "You need a consultation with the doctor.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "curb",
@@ -1133,7 +1274,8 @@
     "phonetic": "BrE /kɜːb/；AmE /kɜːrb/",
     "meaning": "路缘；抑制",
     "example": "Please park close to the curb.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "editorial",
@@ -1141,7 +1283,8 @@
     "phonetic": "BrE /ˌedɪˈtɔːriəl/；AmE /ˌedɪˈtɔːriəl/",
     "meaning": "社论；编辑的",
     "example": "She writes editorial articles.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "exceptionally",
@@ -1149,7 +1292,8 @@
     "phonetic": "BrE /ɪkˈsepʃənəli/；AmE /ɪkˈsɛpʃənəli/",
     "meaning": "非常；例外地",
     "example": "She performed exceptionally well.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "expertise",
@@ -1157,7 +1301,8 @@
     "phonetic": "BrE /ˌekspɜːˈtiːz/；AmE /ˌekspərˈtiːz/",
     "meaning": "专业知识；专长",
     "example": "She has expertise in finance.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "generously",
@@ -1165,7 +1310,8 @@
     "phonetic": "BrE /ˈdʒenərəsli/；AmE /ˈdʒenərəsli/",
     "meaning": "慷慨地",
     "example": "She generously donated money.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "investor",
@@ -1173,7 +1319,8 @@
     "phonetic": "/ɪnˈvestər/",
     "meaning": "投资者",
     "example": "Investors are concerned about the market.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "knock over",
@@ -1181,7 +1328,8 @@
     "phonetic": "BrE /nɒk ˈəʊvə/；AmE /nɑːk ˈoʊvər/",
     "meaning": "撞倒；打翻",
     "example": "He accidentally knocked over the chair.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "luxuries",
@@ -1189,7 +1337,8 @@
     "phonetic": "BrE /ˈlʌkʃəriz/；AmE /ˈlʌkʃəriz/",
     "meaning": "奢侈品",
     "example": "We cannot afford such luxuries.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "luxurious",
@@ -1197,7 +1346,8 @@
     "phonetic": "BrE /lʌɡˈʒʊərɪəs/；AmE /lʌɡˈʒʊriəs/",
     "meaning": "奢华的",
     "example": "They stayed in a luxurious hotel.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "owing",
@@ -1205,7 +1355,8 @@
     "phonetic": "BrE /ˈəʊɪŋ/；AmE /ˈoʊɪŋ/",
     "meaning": "由于；欠着的",
     "example": "The delay was owing to bad weather.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "pricing",
@@ -1213,7 +1364,8 @@
     "phonetic": "/ˈpraɪsɪŋ/",
     "meaning": "定价",
     "example": "The company changed its pricing strategy.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "toss",
@@ -1221,7 +1373,8 @@
     "phonetic": "BrE /tɒs/；AmE /tɔːs/",
     "meaning": "扔；抛；翻动",
     "example": "He tossed the keys onto the table.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "visualize",
@@ -1229,7 +1382,8 @@
     "phonetic": "BrE /ˈvɪʒuəlaɪz/；AmE /ˈvɪʒuəlaɪz/",
     "meaning": "想象；使可视化",
     "example": "Try to visualize your success.",
-    "position": 6000
+    "position": 6000,
+    "extra": {}
   },
   {
     "word": "bundle",
@@ -1237,7 +1391,8 @@
     "phonetic": "BrE /ˈbʌndl/；AmE /ˈbʌndl/",
     "meaning": "捆；捆绑；一包",
     "example": "She carried a bundle of clothes.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "certify",
@@ -1245,7 +1400,8 @@
     "phonetic": "BrE /ˈsɜːtɪfaɪ/；AmE /ˈsɜːrtəfaɪ/",
     "meaning": "证明；认证",
     "example": "Only trained staff are certified to operate the machine.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "confer",
@@ -1253,7 +1409,8 @@
     "phonetic": "/kənˈfɜːr/",
     "meaning": "商议；授予（学位/荣誉）",
     "example": "The committee will confer with experts.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "dedication",
@@ -1261,7 +1418,8 @@
     "phonetic": "/ˌdedɪˈkeɪʃən/",
     "meaning": "奉献；投入",
     "example": "Her dedication to work is impressive.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "embark",
@@ -1269,7 +1427,8 @@
     "phonetic": "BrE /ɪmˈbɑːk/；AmE /ɪmˈbɑːrk/",
     "meaning": "上船；开始（新事业）",
     "example": "They embarked on a long journey.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "enthusiast",
@@ -1277,7 +1436,8 @@
     "phonetic": "BrE /ɪnˈθjuːziæst/；AmE /ɪnˈθuːziæst/",
     "meaning": "爱好者",
     "example": "He is a photography enthusiast.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "foam",
@@ -1285,7 +1445,8 @@
     "phonetic": "BrE /fəʊm/；AmE /foʊm/",
     "meaning": "泡沫",
     "example": "The waves were covered with foam.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "mentor",
@@ -1293,7 +1454,8 @@
     "phonetic": "/ˈmentɔːr/",
     "meaning": "导师；指导",
     "example": "She mentors new employees.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "portrait",
@@ -1301,7 +1463,8 @@
     "phonetic": "BrE /ˈpɔːtrɪt/；AmE /ˈpɔːrtrɪt/",
     "meaning": "肖像；画像",
     "example": "The portrait hangs in the gallery.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "pottery",
@@ -1309,7 +1472,8 @@
     "phonetic": "BrE /ˈpɒtəri/；AmE /ˈpɑːtəri/",
     "meaning": "陶器",
     "example": "She makes pottery as a hobby.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "quarterly",
@@ -1317,7 +1481,8 @@
     "phonetic": "BrE /ˈkwɔːtəli/；AmE /ˈkwɔːrtərli/",
     "meaning": "季度的；按季度",
     "example": "We publish a quarterly report.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "ranger",
@@ -1325,7 +1490,8 @@
     "phonetic": "/ˈreɪndʒər/",
     "meaning": "护林员；巡逻员",
     "example": "The ranger guided us through the forest.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "renovation",
@@ -1333,7 +1499,8 @@
     "phonetic": "BrE /ˌrenəˈveɪʃən/；AmE /ˌrenəˈveɪʃən/",
     "meaning": "翻新；装修",
     "example": "The hotel is closed for renovation.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "right to your in-box",
@@ -1341,7 +1508,8 @@
     "phonetic": "—",
     "meaning": "直接送达你的收件箱",
     "example": "The newsletter comes right to your in-box.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "suspiciously",
@@ -1349,7 +1517,8 @@
     "phonetic": "BrE /səˈspɪʃəsli/；AmE /səˈspɪʃəsli/",
     "meaning": "怀疑地",
     "example": "She looked at him suspiciously.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "thrive",
@@ -1357,7 +1526,8 @@
     "phonetic": "BrE /θraɪv/；AmE /θraɪv/",
     "meaning": "兴旺；繁荣",
     "example": "Small businesses can thrive online.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "warranty",
@@ -1365,7 +1535,8 @@
     "phonetic": "/ˈwɒrənti/",
     "meaning": "保修，保证书",
     "example": "The product comes with a one-year warranty.",
-    "position": 7000
+    "position": 7000,
+    "extra": {}
   },
   {
     "word": "advert",
@@ -1373,7 +1544,8 @@
     "phonetic": "/ˈædvɜːt/ (UK)",
     "meaning": "广告",
     "example": "I saw an advert for a new phone.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "apron",
@@ -1381,7 +1553,8 @@
     "phonetic": "BrE /ˈeɪprən/；AmE /ˈeɪprən/",
     "meaning": "围裙",
     "example": "She put on an apron before cooking.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "banquet",
@@ -1389,7 +1562,8 @@
     "phonetic": "BrE /ˈbæŋkwɪt/；AmE /ˈbæŋkwɪt/",
     "meaning": "宴会",
     "example": "The annual banquet will be held tonight.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "durable",
@@ -1397,7 +1571,8 @@
     "phonetic": "/ˈdʊrəbl/",
     "meaning": "耐用的",
     "example": "The material is very durable.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "hourly",
@@ -1405,7 +1580,8 @@
     "phonetic": "/ˈaʊərli/",
     "meaning": "每小时的；频繁的",
     "example": "The bus runs hourly.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "meadow",
@@ -1413,7 +1589,8 @@
     "phonetic": "BrE /ˈmedəʊ/；AmE /ˈmɛdoʊ/",
     "meaning": "草地；牧场",
     "example": "Cows are grazing in the meadow.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "refreshment",
@@ -1421,7 +1598,8 @@
     "phonetic": "/rɪˈfreʃmənt/",
     "meaning": "茶点；恢复精力",
     "example": "Light refreshments will be served.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "reluctance",
@@ -1429,7 +1607,8 @@
     "phonetic": "BrE /rɪˈlʌktəns/；AmE /rɪˈlʌktəns/",
     "meaning": "勉强；不情愿",
     "example": "He agreed with some reluctance.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "renovate",
@@ -1437,7 +1616,8 @@
     "phonetic": "BrE /ˈrenəveɪt/；AmE /ˈrenəveɪt/",
     "meaning": "翻新；修复",
     "example": "They renovated the old building.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "spacious",
@@ -1445,7 +1625,8 @@
     "phonetic": "BrE /ˈspeɪʃəs/；AmE /ˈspeɪʃəs/",
     "meaning": "宽敞的",
     "example": "The living room is bright and spacious.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "watering",
@@ -1453,7 +1634,8 @@
     "phonetic": "/ˈwɔːtərɪŋ/",
     "meaning": "浇水",
     "example": "Watering the plants is important.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "woven",
@@ -1461,7 +1643,8 @@
     "phonetic": "BrE /ˈwəʊvən/；AmE /ˈwoʊvən/",
     "meaning": "编织的",
     "example": "She bought a woven basket.",
-    "position": 8000
+    "position": 8000,
+    "extra": {}
   },
   {
     "word": "caterer",
@@ -1469,7 +1652,8 @@
     "phonetic": "/ˈkeɪtərər/",
     "meaning": "餐饮供应者",
     "example": "The caterer prepared food for the event.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "consolidate",
@@ -1477,7 +1661,8 @@
     "phonetic": "BrE /kənˈsɒlɪdeɪt/；AmE /kənˈsɑːlɪdeɪt/",
     "meaning": "合并；巩固",
     "example": "The company consolidated its branches.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "fern",
@@ -1485,7 +1670,8 @@
     "phonetic": "BrE /fɜːn/；AmE /fɜːrn/",
     "meaning": "蕨类植物",
     "example": "A fern grows well in shady areas.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "fixture",
@@ -1493,7 +1679,8 @@
     "phonetic": "BrE /ˈfɪkstʃə/；AmE /ˈfɪkstʃər/",
     "meaning": "固定装置；固定物",
     "example": "The ceiling fixture needs repair.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "podium",
@@ -1501,7 +1688,8 @@
     "phonetic": "BrE /ˈpəʊdiəm/；AmE /ˈpoʊdiəm/",
     "meaning": "讲台；领奖台",
     "example": "She spoke confidently from the podium.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "rave",
@@ -1509,7 +1697,8 @@
     "phonetic": "BrE /reɪv/；AmE /reɪv/",
     "meaning": "热烈称赞；极好的",
     "example": "The restaurant received rave reviews.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "reimburse",
@@ -1517,7 +1706,8 @@
     "phonetic": "BrE /ˌriːɪmˈbɜːs/；AmE /ˌriːɪmˈbɜːrs/",
     "meaning": "报销；偿还",
     "example": "The company will reimburse your travel expenses.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "stairway",
@@ -1525,7 +1715,8 @@
     "phonetic": "BrE /ˈsteəweɪ/；AmE /ˈsterweɪ/",
     "meaning": "楼梯",
     "example": "They walked up the stairway quietly.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "televise",
@@ -1533,7 +1724,8 @@
     "phonetic": "/ˈtelɪvaɪz/",
     "meaning": "电视播出",
     "example": "The match was televised live.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "waive",
@@ -1541,7 +1733,8 @@
     "phonetic": "BrE /weɪv/；AmE /weɪv/",
     "meaning": "放弃；免除（权利/费用）",
     "example": "The bank waived the service fee.",
-    "position": 9000
+    "position": 9000,
+    "extra": {}
   },
   {
     "word": "Emporium",
@@ -1549,7 +1742,8 @@
     "phonetic": "/ɛmˈpɔːriəm/",
     "meaning": "大百货商店；商场",
     "example": "The old emporium sells antiques.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "forklift",
@@ -1557,7 +1751,8 @@
     "phonetic": "BrE /ˈfɔːklɪft/；AmE /ˈfɔːrklɪft/",
     "meaning": "叉车",
     "example": "He operates a forklift at the warehouse.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "Greyrock",
@@ -1565,7 +1760,8 @@
     "phonetic": "/ˈɡreɪ.rɒk/",
     "meaning": "灰岩（公司/地名）",
     "example": "Greyrock announced a new project.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "Grove",
@@ -1573,7 +1769,8 @@
     "phonetic": "/ɡroʊv/",
     "meaning": "小树林；街区名",
     "example": "He lives in Maple Grove.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "headquarter",
@@ -1581,7 +1778,8 @@
     "phonetic": "/ˈhedˌkwɔːrtər/",
     "meaning": "设总部于（注意：n. 形式为 headquarters）",
     "example": "The company is headquartered in Tokyo.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "Herald",
@@ -1589,7 +1787,8 @@
     "phonetic": "BrE /ˈherəld/；AmE /ˈhɛrəld/",
     "meaning": "先驱；《先驱报》（常用作报纸名）",
     "example": "The Herald reported the incident yesterday.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "luxuriate",
@@ -1597,7 +1796,8 @@
     "phonetic": "BrE /lʌɡˈʒʊərɪeɪt/；AmE /lʌɡˈʒʊrieɪt/",
     "meaning": "沉溺于享乐",
     "example": "They luxuriated in comfort.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "luxuriously",
@@ -1605,7 +1805,8 @@
     "phonetic": "BrE /lʌɡˈʒʊərɪəsli/；AmE /lʌɡˈʒʊriəsli/",
     "meaning": "奢华地",
     "example": "The room is luxuriously furnished.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "repave",
@@ -1613,7 +1814,8 @@
     "phonetic": "BrE /ˌriːˈpeɪv/；AmE /ˌriːˈpeɪv/",
     "meaning": "重新铺路",
     "example": "The road will be repaved next month.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "scape",
@@ -1621,7 +1823,8 @@
     "phonetic": "/skeɪp/",
     "meaning": "景色；茎柄（较罕见）",
     "example": "The mountain scape was beautiful.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "Stelco",
@@ -1629,7 +1832,8 @@
     "phonetic": "/ˈstelkoʊ/",
     "meaning": "斯泰尔科（公司名）",
     "example": "Stelco is a major steel manufacturer.",
-    "position": null
+    "position": null,
+    "extra": {}
   },
   {
     "word": "worksite",
@@ -1637,6 +1841,7 @@
     "phonetic": "/ˈwɜːrk.saɪt/",
     "meaning": "工地；工作场所",
     "example": "Hard hats are required on the worksite.",
-    "position": null
+    "position": null,
+    "extra": {}
   }
 ]
