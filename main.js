@@ -2,11 +2,7 @@
 // 設定
 // =====================
 const PROGRESS_KEY = 'vocabProgress_v3';
-
-// レベル→次回までの日数
 const INTERVALS = { 0: 1, 1: 3, 2: 7, 3: 14, 4: 30 };
-
-// 覚えた判定：レベル3以上（2週間以上）
 const LEARNED_LEVEL_THRESHOLD = 3;
 
 // =====================
@@ -29,8 +25,6 @@ const answerPhonetic = document.getElementById('answerPhonetic');
 const answerMeaning = document.getElementById('answerMeaning');
 const answerExample = document.getElementById('answerExample');
 const answerPosition = document.getElementById('answerPosition');
-
-// ★追加：増えた情報（extra）表示先
 const answerExtra = document.getElementById('answerExtra');
 
 const okBtn = document.getElementById('okBtn');
@@ -53,12 +47,10 @@ let idx = -1;
 // 日付（ローカル/JST）
 // =====================
 function pad2(n) { return String(n).padStart(2, '0'); }
-
 function todayStr() {
   const d = new Date();
   return `${d.getFullYear()}-${pad2(d.getMonth() + 1)}-${pad2(d.getDate())}`;
 }
-
 function addDays(dateStr, days) {
   const [y, m, d] = dateStr.split('-').map(Number);
   const dt = new Date(y, m - 1, d);
@@ -89,13 +81,12 @@ function loadProgress() {
     progress = {};
   }
 }
-
 function saveProgress() {
   localStorage.setItem(PROGRESS_KEY, JSON.stringify(progress));
 }
 
 // =====================
-// words 正規化
+// words 正規化（新フィールド対応）
 // =====================
 function normalizeWords(raw) {
   const out = [];
@@ -104,8 +95,6 @@ function normalizeWords(raw) {
     const word = String(w.word ?? '').trim();
     if (!word) continue;
 
-    const extraObj = (w.extra && typeof w.extra === 'object') ? w.extra : {};
-
     out.push({
       word,
       pos: String(w.pos ?? '').trim(),
@@ -113,17 +102,20 @@ function normalizeWords(raw) {
       meaning: String(w.meaning ?? '').trim(),
       example: String(w.example ?? '').trim(),
       position: (w.position === null || w.position === undefined || w.position === '') ? null : Number(w.position),
-      // ★追加情報（増えた列）
-      extra: extraObj
+
+      // ★追加フィールド（今回のヘッダ）
+      collocation: String(w.collocation ?? '').trim(),
+      roots: String(w.roots ?? '').trim(),
+      inflection: String(w.inflection ?? '').trim(),
+      related: String(w.related ?? '').trim(),
+
+      // 将来の拡張
+      extra: (w.extra && typeof w.extra === 'object') ? w.extra : {}
     });
   }
   return out;
 }
 
-/**
- * progress を words と整合させる
- * - streakForgot: 連続で「忘れてた」が押された回数（覚えてたで0）
- */
 function mergeProgress() {
   const t = todayStr();
   for (const w of words) {
@@ -144,20 +136,18 @@ function mergeProgress() {
 function updateStats() {
   const total = words.length;
   let learned = 0;
-
   for (const w of words) {
     const p = progress[w.word];
     const lv = (p && typeof p.level === 'number') ? p.level : 0;
     if (lv >= LEARNED_LEVEL_THRESHOLD) learned += 1;
   }
-
   learnedCountEl.textContent = String(learned);
   totalCountEl.textContent = String(total);
   learnedPctEl.textContent = String(total > 0 ? Math.round((learned / total) * 100) : 0);
 }
 
 // =====================
-// データロード（words.json）
+// データロード
 // =====================
 async function loadWordsJson() {
   setupStatus.textContent = 'words.json 読み込み中...';
@@ -175,19 +165,16 @@ async function loadWordsJson() {
 }
 
 // =====================
-// 出題キュー構築（優先＋同順位ランダム）
+// 出題キュー（優先＋同順位ランダム）
 // =====================
 function buildQueue() {
   const t = todayStr();
-
-  // due（nextDue<=今日）のみ
   const due = words.filter(w => {
     const p = progress[w.word];
     if (!p || !p.nextDue) return true;
     return p.nextDue <= t;
   });
 
-  // 優先度：streakForgot DESC / 同点ランダム
   const withRand = due.map(w => {
     const p = progress[w.word] || {};
     const streak = (typeof p.streakForgot === 'number') ? p.streakForgot : 0;
@@ -241,22 +228,38 @@ function showQuestion() {
   enableQuestionButtons();
 }
 
-// extraをHTMLにする（キー:値を一覧表示）
-function renderExtra(extra) {
+function escapeHtml(s) {
+  return String(s)
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#39;');
+}
+
+// ★新フィールド＋extraを「順番固定」で表示
+function renderAllExtra(q) {
   if (!answerExtra) return;
-  const keys = extra && typeof extra === 'object' ? Object.keys(extra) : [];
-  if (keys.length === 0) {
-    answerExtra.style.display = 'none';
-    answerExtra.innerHTML = '';
-    return;
+
+  const items = [];
+
+  function addKV(label, value) {
+    const v = String(value ?? '').trim();
+    if (!v) return;
+    items.push(`<div class="kv-item"><span class="kv-key">${escapeHtml(label)}:</span> ${escapeHtml(v)}</div>`);
   }
-  // 表示順はキー順（必要ならここで並び替えルールを追加可能）
-  keys.sort((a, b) => a.localeCompare(b, 'ja'));
-  const items = keys.map(k => {
-    const v = String(extra[k] ?? '').trim();
-    if (!v) return '';
-    return `<div class="kv-item"><span class="kv-key">${escapeHtml(k)}:</span> ${escapeHtml(v)}</div>`;
-  }).filter(Boolean);
+
+  // 新ヘッダの順で表示
+  addKV("常见搭配", q.collocation);
+  addKV("词根词缀/词尾", q.roots);
+  addKV("单词变形", q.inflection);
+  addKV("相关词", q.related);
+
+  // 既知以外の extra（将来増えた列）
+  if (q.extra && typeof q.extra === 'object') {
+    const keys = Object.keys(q.extra).sort((a, b) => a.localeCompare(b, 'zh'));
+    for (const k of keys) addKV(k, q.extra[k]);
+  }
 
   if (items.length === 0) {
     answerExtra.style.display = 'none';
@@ -268,17 +271,7 @@ function renderExtra(extra) {
   answerExtra.innerHTML = items.join('');
 }
 
-// XSS対策（最低限）
-function escapeHtml(s) {
-  return String(s)
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-    .replaceAll("'", '&#39;');
-}
-
-// ★答え表示と同時に自動発音（ボタン発音も残す）
+// 答え表示＋自動発音（ボタン発音も残す）
 function showAnswer() {
   if (idx < 0 || idx >= queue.length) return;
   const q = queue[idx];
@@ -287,8 +280,8 @@ function showAnswer() {
   answerPos.textContent = q.pos ? `词性: ${q.pos}` : '';
   answerPhonetic.textContent = q.phonetic ? `音标: ${q.phonetic}` : '';
   answerMeaning.textContent = q.meaning ? `词义: ${q.meaning}` : '';
-  answerExample.textContent = q.example ? `例句: ${q.example}` : '';
-  answerPosition.textContent = (q.position !== null && !Number.isNaN(q.position)) ? `单词量位置: ${q.position}` : '';
+  answerExample.textContent = q.example ? `例句或情景: ${q.example}` : '';
+  answerPosition.textContent = (q.position !== null && !Number.isNaN(q.position)) ? `单词量: ${q.position}` : '';
 
   answerPos.style.display = q.pos ? '' : 'none';
   answerPhonetic.style.display = q.phonetic ? '' : 'none';
@@ -296,8 +289,7 @@ function showAnswer() {
   answerExample.style.display = q.example ? '' : 'none';
   answerPosition.style.display = (q.position !== null && !Number.isNaN(q.position)) ? '' : 'none';
 
-  // ★追加：増えた情報（extra）
-  renderExtra(q.extra);
+  renderAllExtra(q);
 
   answerBox.style.display = 'block';
 
@@ -311,7 +303,6 @@ function showAnswer() {
   okBtn.disabled = false;
   ngBtn.disabled = false;
 
-  // 自動発音
   speakWord(q.word);
 }
 
@@ -330,8 +321,6 @@ function markOK() {
   p.level = nextLevel;
   p.lastReviewed = t;
   p.nextDue = addDays(t, INTERVALS[nextLevel]);
-
-  // 覚えてた→連続忘れリセット
   p.streakForgot = 0;
 
   progress[q.word] = p;
@@ -350,21 +339,19 @@ function markNG() {
   const t = todayStr();
   const p = progress[q.word] || { level: 0, nextDue: t, lastReviewed: null, streakForgot: 0 };
 
-  // 忘れた→レベル0
   p.level = 0;
   p.lastReviewed = t;
 
-  // ★要求：レベル0は同日中でも due
+  // レベル0は同日中でも due
   p.nextDue = t;
 
-  // 連続忘れ回数 +1
   const cur = (typeof p.streakForgot === 'number') ? p.streakForgot : 0;
   p.streakForgot = cur + 1;
 
   progress[q.word] = p;
   saveProgress();
 
-  messageEl.textContent = `NG：レベル 0（同日中も再出題対象） / 連続忘れ: ${p.streakForgot}`;
+  messageEl.textContent = `NG：レベル 0（同日中も再出題対象） / 连続忘れ: ${p.streakForgot}`;
   updateStats();
 
   idx += 1;
@@ -379,7 +366,6 @@ function startSession() {
     setupStatus.textContent = '単語データがありません。data/words.xlsx をアップしてActionsで words.json を生成してください。';
     return;
   }
-
   mergeProgress();
   updateStats();
 
@@ -399,7 +385,7 @@ function startSession() {
 // 進捗リセット
 // =====================
 function resetProgress() {
-  if (!confirm('この端末の復習履歴（level/次回日付/連続忘れ）をすべて削除します。よろしいですか？')) return;
+  if (!confirm('この端末の復習履歴（level/次回日付/连続忘れ）をすべて削除します。よろしいですか？')) return;
   localStorage.removeItem(PROGRESS_KEY);
   loadProgress();
   mergeProgress();
