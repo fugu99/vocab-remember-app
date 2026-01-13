@@ -255,21 +255,6 @@
     }
   },
   {
-    "word": "arrange",
-    "pos": "v.",
-    "phonetic": "BrE /əˈreɪndʒ/；AmE /əˈreɪndʒ/",
-    "meaning": "安排；布置；整理",
-    "example": "I arranged a meeting with the client. / A: When can we meet? B: I’ll arrange it.",
-    "collocation": "arrange for；arrange to do；arrange a meeting；arrange with（与…协调）",
-    "roots": "",
-    "inflection": "动词：3rd arranges / past arranged / pp arranged / ing arranging",
-    "related": "arrangement：安排；布置｜arranged：安排好的；（婚姻）包办的",
-    "position": 2000,
-    "extra": {
-      "词根词缀,词头词尾": "arrangement 名词高频；-ment 常见名词后缀"
-    }
-  },
-  {
     "word": "attend",
     "pos": "v.",
     "phonetic": "BrE /əˈtend/；AmE /əˈtend/",
@@ -342,21 +327,6 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "company（公司）→ Co.（缩写）"
-    }
-  },
-  {
-    "word": "commit",
-    "pos": "v.",
-    "phonetic": "/kəˈmɪt/",
-    "meaning": "承诺；投入；犯（错/罪）；提交",
-    "example": "He committed to the plan.\nA: Did you update the code? B: I committed the changes.",
-    "collocation": "commit to; commit a crime; commit resources; commit changes",
-    "roots": "",
-    "inflection": "3rd commits; past committed; pp committed; ing committing",
-    "related": "commitment（承诺）；committed（坚定投入的）",
-    "position": 2000,
-    "extra": {
-      "词根词缀,词头词尾": "com-（一起）+ mit（送/放）"
     }
   },
   {
@@ -492,21 +462,6 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "direct + -or（人/职业后缀）"
-    }
-  },
-  {
-    "word": "equipment",
-    "pos": "n.（不可数）",
-    "phonetic": "BrE /ɪˈkwɪpmənt/；AmE /ɪˈkwɪpmənt/",
-    "meaning": "设备；器材",
-    "example": "Safety equipment is required. / A: Tools ready? B: Equipment is ready.",
-    "collocation": "equipment for；protective equipment；office/lab equipment",
-    "roots": "",
-    "inflection": "名词：不可数（无 plural 形式）",
-    "related": "equip：装备｜equipped：配备齐全的｜equipment：设备",
-    "position": 2000,
-    "extra": {
-      "词根词缀,词头词尾": "equip + -ment（名词后缀：结果/事物）"
     }
   },
   {
@@ -1215,21 +1170,6 @@
     }
   },
   {
-    "word": "committed",
-    "pos": "adj./pp.",
-    "phonetic": "/kəˈmɪtɪd/",
-    "meaning": "坚定投入的；已承诺的；（pp）commit 的过去分词",
-    "example": "She is committed to improving quality.\nA: Are you joining the project? B: Yes, I'm committed.",
-    "collocation": "committed to; committed member; fully committed; be committed",
-    "roots": "",
-    "inflection": "commit: 3rd commits; past committed; pp committed; ing committing",
-    "related": "commit（承诺/投入）；commitment（承诺）；uncommitted（未承诺的）",
-    "position": 3000,
-    "extra": {
-      "词根词缀,词头词尾": "commit + -ed（过去分词/形容词化；常用于形容词）"
-    }
-  },
-  {
     "word": "complain",
     "pos": "v.",
     "phonetic": "BrE /kəmˈpleɪn/；AmE /kəmˈpleɪn/",
@@ -1287,21 +1227,6 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "drafting 常见为名词“起草/制图”"
-    }
-  },
-  {
-    "word": "efficient",
-    "pos": "adj.",
-    "phonetic": "BrE /ɪˈfɪʃənt/；AmE /ɪˈfɪʃənt/",
-    "meaning": "高效的；效率高的",
-    "example": "The new system is efficient. / A: How’s the workflow? B: Much more efficient now.",
-    "collocation": "efficient use of；energy-efficient；efficient at（做…高效）",
-    "roots": "",
-    "inflection": "形容词：comparative more efficient / superlative most efficient",
-    "related": "efficiency：效率｜efficiently：高效地",
-    "position": 3000,
-    "extra": {
-      "词根词缀,词头词尾": "ef-/ex-（向外）+ fic（做）+ -ient（形容词后缀）"
     }
   },
   {
@@ -1980,21 +1905,6 @@
     }
   },
   {
-    "word": "inspect",
-    "pos": "v.",
-    "phonetic": "BrE /ɪnˈspekt/；AmE /ɪnˈspɛkt/",
-    "meaning": "检查；视察",
-    "example": "Inspect the equipment before use. / A: Is it safe? B: It has been inspected.",
-    "collocation": "inspect for；inspect a site/building",
-    "roots": "",
-    "inflection": "3rd inspects / past inspected / pp inspected / ing inspecting",
-    "related": "inspection：检查｜inspector：检查员",
-    "position": 4000,
-    "extra": {
-      "词根词缀,词头词尾": "in-（向内）+ spect（看）"
-    }
-  },
-  {
     "word": "inspection",
     "pos": "n.",
     "phonetic": "BrE /ɪnˈspekʃən/；AmE /ɪnˈspekʃən/",
@@ -2157,21 +2067,6 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "per-（通过/完全）+ mit（送/放，见 submit/permit）"
-    }
-  },
-  {
-    "word": "profitable",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈprɒfɪtəbl/；AmE /ˈprɑːfɪtəbl/",
-    "meaning": "有利润的；盈利的",
-    "example": "The business is profitable. / A: Worth it? B: Yes, it’s profitable.",
-    "collocation": "profitable business；highly profitable；profitable to do",
-    "roots": "",
-    "inflection": "comparative more profitable / superlative most profitable",
-    "related": "profit：利润｜profitability：盈利能力",
-    "position": 4000,
-    "extra": {
-      "词根词缀,词头词尾": "profit（利润）+ -able（可…的，形容词后缀）"
     }
   },
   {
@@ -3732,6 +3627,822 @@
     "position": 12000,
     "extra": {
       "词根词缀,词头词尾": "represent + -able（形容词后缀：可…的）"
+    }
+  },
+  {
+    "word": "apply",
+    "pos": "v.",
+    "phonetic": "/əˈplaɪ/",
+    "meaning": "/əˈplaɪ/",
+    "example": "申请；应用；涂抹；适用",
+    "collocation": "You can apply online.\nA: Does this rule apply to me? B: Yes, it applies to everyone.",
+    "roots": "",
+    "inflection": "ap-（向）+ ply（折叠/用力）语源；动词常用",
+    "related": "3rd applies; past applied; pp applied; ing applying",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "apply for; apply to; apply sth to; apply pressure; apply for a job",
+      "Unnamed: 10": "1000.0"
+    }
+  },
+  {
+    "word": "appropriately",
+    "pos": "adv.",
+    "phonetic": "/əˈprəʊpriətli/",
+    "meaning": "/əˈproʊpriətli/",
+    "example": "适当地；得体地",
+    "collocation": "Please dress appropriately.\nA: Is this okay? B: Yes, appropriately formal.",
+    "roots": "",
+    "inflection": "appropriate + -ly（副词后缀）",
+    "related": "—",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "appropriately dressed; respond appropriately; behave appropriately",
+      "Unnamed: 10": "7000.0"
+    }
+  },
+  {
+    "word": "arrange",
+    "pos": "v.",
+    "phonetic": "/əˈreɪndʒ/",
+    "meaning": "/əˈreɪndʒ/",
+    "example": "安排；筹备；整理；布置",
+    "collocation": "I’ll arrange a meeting for next week.\nA: Seats? B: We arranged them in a circle.",
+    "roots": "",
+    "inflection": "a-（加强）+ range（排列/范围语源相关）",
+    "related": "3rd arranges; past arranged; pp arranged; ing arranging",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "arrange for; arrange to do; arrange a meeting; arrange in/into; make arrangements",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "arranged for",
+    "pos": "verb phrase",
+    "phonetic": "/əˈreɪndʒd fɔː/",
+    "meaning": "/əˈreɪndʒd fɔːr/",
+    "example": "安排好（某事发生/某人得到…）",
+    "collocation": "I arranged for a taxi to pick you up.\nA: Hotel? B: I’ve arranged for a room.",
+    "roots": "",
+    "inflection": "arrange + for（介词搭配：为…安排）",
+    "related": "arrange: 3rd arranges; past arranged; pp arranged; ing arranging",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "arrange for someone to do; arrange for something to happen; arranged for + noun",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "assign",
+    "pos": "v.",
+    "phonetic": "/əˈsaɪn/",
+    "meaning": "/əˈsaɪn/",
+    "example": "分配；指派；布置（任务）",
+    "collocation": "The manager assigned me a new task.\nA: Who handles it? B: I’ll assign someone.",
+    "roots": "",
+    "inflection": "as-（向）+ sign（标记/签）→“指定”",
+    "related": "3rd assigns; past assigned; pp assigned; ing assigning",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "assign to; assign a task; assign responsibility; assign someone to do",
+      "Unnamed: 10": "3000.0"
+    }
+  },
+  {
+    "word": "clerk",
+    "pos": "n.",
+    "phonetic": "/klɑːk/",
+    "meaning": "/klɝːk/",
+    "example": "店员；职员；文员；书记员",
+    "collocation": "The clerk helped me fill out the form.\nA: Where do I pay? B: Ask the clerk at the counter.",
+    "roots": "",
+    "inflection": "职业名词；词缀不典型",
+    "related": "plural clerks",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "store/shop clerk; desk clerk; clerk of court; clerk at/in",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "commit",
+    "pos": "v.",
+    "phonetic": "/kəˈmɪt/",
+    "meaning": "/kəˈmɪt/",
+    "example": "承诺；投入；犯（错/罪）；提交",
+    "collocation": "He committed to the plan.\nA: Version control? B: I committed the changes.",
+    "roots": "",
+    "inflection": "com-（一起）+ mit（送/放）",
+    "related": "3rd commits; past committed; pp committed; ing committing",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "commit to; commit a crime; commit resources; commit changes",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "committed",
+    "pos": "adj./pp.",
+    "phonetic": "/kəˈmɪtɪd/",
+    "meaning": "/kəˈmɪtɪd/",
+    "example": "坚定投入的；已承诺的；（pp）commit 的过去分词",
+    "collocation": "She is committed to improving quality.\nA: Joining? B: Yes, I’m committed.",
+    "roots": "",
+    "inflection": "commit + -ed（过去分词/形容词化）",
+    "related": "commit: 3rd commits; past committed; pp committed; ing committing",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "committed to; fully committed; committed member; be committed",
+      "Unnamed: 10": "3000.0"
+    }
+  },
+  {
+    "word": "committee",
+    "pos": "n.",
+    "phonetic": "/kəˈmɪti/",
+    "meaning": "/kəˈmɪti/",
+    "example": "委员会",
+    "collocation": "A committee reviewed the proposal.\nA: Who decides? B: The committee will vote.",
+    "roots": "",
+    "inflection": "commit + -ee（名词后缀：人/机构）",
+    "related": "plural committees",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "committee meeting; committee member; on the committee; committee chair",
+      "Unnamed: 10": "3000.0"
+    }
+  },
+  {
+    "word": "comprehend",
+    "pos": "v.",
+    "phonetic": "/ˌkɒmprɪˈhend/",
+    "meaning": "/ˌkɑːmprɪˈhend/",
+    "example": "理解；领会（较正式）",
+    "collocation": "I can’t comprehend why he left.\nA: Do you understand? B: I comprehend the main idea.",
+    "roots": "",
+    "inflection": "com-（完全）+ prehend（抓住）",
+    "related": "3rd comprehends; past comprehended; pp comprehended; ing comprehending",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "comprehend why/how; comprehend the meaning; fully comprehend",
+      "Unnamed: 10": "9000.0"
+    }
+  },
+  {
+    "word": "comprehension",
+    "pos": "n.",
+    "phonetic": "/ˌkɒmprɪˈhenʃən/",
+    "meaning": "/ˌkɑːmprɪˈhenʃən/",
+    "example": "理解；理解力；（考试）阅读理解",
+    "collocation": "Listening comprehension takes practice.\nA: How is his comprehension? B: Very good.",
+    "roots": "",
+    "inflection": "comprehend + -sion（名词后缀）",
+    "related": "plural comprehensions（少用）",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "reading/listening comprehension; comprehension of; comprehension skills",
+      "Unnamed: 10": "6000.0"
+    }
+  },
+  {
+    "word": "comprehensive",
+    "pos": "adj.",
+    "phonetic": "/ˌkɒmprɪˈhensɪv/",
+    "meaning": "/ˌkɑːmprɪˈhensɪv/",
+    "example": "全面的；综合的",
+    "collocation": "We need a comprehensive plan.\nA: Quick summary? B: I’ll provide a comprehensive review.",
+    "roots": "",
+    "inflection": "comprehend（理解）+ -ive（形容词后缀）",
+    "related": "comparative more comprehensive; superlative most comprehensive",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "comprehensive plan; comprehensive analysis; comprehensive coverage",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "comprehensiveness",
+    "pos": "n.",
+    "phonetic": "/ˌkɒmprɪˈhensɪvnəs/",
+    "meaning": "/ˌkɑːmprɪˈhensɪvnəs/",
+    "example": "全面性；综合性",
+    "collocation": "The report’s comprehensiveness impressed the client.\nA: Anything missing? B: No—the comprehensiveness is high.",
+    "roots": "",
+    "inflection": "comprehensive + -ness（名词后缀：性质/状态）",
+    "related": "—（一般不可数）",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "comprehensiveness of; ensure comprehensiveness; comprehensiveness and accuracy",
+      "Unnamed: 10": "12000.0"
+    }
+  },
+  {
+    "word": "consider",
+    "pos": "v.",
+    "phonetic": "/kənˈsɪdə/",
+    "meaning": "/kənˈsɪdər/",
+    "example": "考虑；认为；把…看作",
+    "collocation": "Please consider my application.\nA: Priority? B: We consider it urgent.",
+    "roots": "",
+    "inflection": "con-（共同）+ sider（看）",
+    "related": "3rd considers; past considered; pp considered; ing considering",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "consider doing; consider + wh-; consider it + adj/n; consider as",
+      "Unnamed: 10": "1000.0"
+    }
+  },
+  {
+    "word": "considerable",
+    "pos": "adj.",
+    "phonetic": "/kənˈsɪdərəbl/",
+    "meaning": "/kənˈsɪdərəbl/",
+    "example": "相当大的；可观的",
+    "collocation": "It took a considerable amount of time.\nA: Big cost? B: Yes, a considerable expense.",
+    "roots": "",
+    "inflection": "consider + -able（形容词后缀）",
+    "related": "comparative more considerable; superlative most considerable",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "considerable amount/time; considerable interest; a considerable number of",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "considerate",
+    "pos": "adj.",
+    "phonetic": "/kənˈsɪdərət/",
+    "meaning": "/kənˈsɪdərət/",
+    "example": "体贴的；考虑周到的",
+    "collocation": "That was very considerate of you.\nA: Late-night noise? B: Be considerate of neighbors.",
+    "roots": "",
+    "inflection": "consider + -ate（形容词化后缀）",
+    "related": "comparative more considerate; superlative most considerate",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "considerate of; considerate towards; be considerate",
+      "Unnamed: 10": "6000.0"
+    }
+  },
+  {
+    "word": "consideration",
+    "pos": "n.",
+    "phonetic": "/kənˌsɪdəˈreɪʃən/",
+    "meaning": "/kənˌsɪdəˈreɪʃən/",
+    "example": "考虑；体谅；（法律）对价",
+    "collocation": "Thank you for your consideration.\nA: Decision? B: After careful consideration.",
+    "roots": "",
+    "inflection": "consider + -ation（名词后缀）",
+    "related": "plural considerations",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "take into consideration; under consideration; for your consideration; subject to consideration",
+      "Unnamed: 10": "3000.0"
+    }
+  },
+  {
+    "word": "deflation",
+    "pos": "n.",
+    "phonetic": "/dɪˈfleɪʃən/",
+    "meaning": "/dɪˈfleɪʃən/",
+    "example": "通货紧缩；（经济）物价下降；（气）放气",
+    "collocation": "The country slipped into deflation.\nA: Prices falling? B: Deflation is a risk.",
+    "roots": "",
+    "inflection": "de-（向下/去除）+ -flation（与 inflate 同源）+ -ion（名词后缀）",
+    "related": "—（通常不可数）",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "deflationary pressure; deflation risk; in deflation; avoid deflation",
+      "Unnamed: 10": "8000.0"
+    }
+  },
+  {
+    "word": "district",
+    "pos": "n.",
+    "phonetic": "/ˈdɪstrɪkt/",
+    "meaning": "/ˈdɪstrɪkt/",
+    "example": "地区；行政区；（美）学区；选区",
+    "collocation": "The school is in a quiet district.\nA: Which area? B: The business district downtown.",
+    "roots": "",
+    "inflection": "dis-（分开）+ strict（拉紧/束缚语源）→“划分区域”语源",
+    "related": "plural districts",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "business district; school district; district court; electoral district",
+      "Unnamed: 10": "3000.0"
+    }
+  },
+  {
+    "word": "drop in",
+    "pos": "phrasal v./n.",
+    "phonetic": "/ˌdrɒp ˈɪn/",
+    "meaning": "/ˌdrɑːp ˈɪn/",
+    "example": "v. 顺道拜访；突然来访；（数量）下降一点；n. 小幅下降",
+    "collocation": "Feel free to drop in any time.\nA: Sales? B: There was a drop in demand.",
+    "roots": "",
+    "inflection": "drop（落下/下降）+ in（进入）构成短语动词",
+    "related": "drop: 3rd drops; past dropped; pp dropped; ing dropping",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "drop in on; drop in to; drop in by; a drop in prices; a drop in attendance",
+      "Unnamed: 10": "3000.0"
+    }
+  },
+  {
+    "word": "efficacy",
+    "pos": "n.",
+    "phonetic": "/ˈefɪkəsi/",
+    "meaning": "/ˈefɪkəsi/",
+    "example": "功效；效力（尤指药效/措施效果，正式语域）",
+    "collocation": "The study measured the efficacy of the drug.\nA: Does it work? B: Clinical efficacy looks strong.",
+    "roots": "",
+    "inflection": "effic-（有效）+ -acy（名词后缀：性质/状态）",
+    "related": "plural efficacies（较少）",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "efficacy of; demonstrate efficacy; clinical efficacy; proven efficacy",
+      "Unnamed: 10": "9000.0"
+    }
+  },
+  {
+    "word": "efficiency",
+    "pos": "n.",
+    "phonetic": "/ɪˈfɪʃənsi/",
+    "meaning": "/ɪˈfɪʃənsi/",
+    "example": "效率；效能（做事快且耗费少）",
+    "collocation": "We need to improve efficiency.\nA: Any bottlenecks? B: Yes—efficiency is low in this step.",
+    "roots": "",
+    "inflection": "efficient（有效率的）+ -cy（名词后缀：性质/状态）",
+    "related": "plural efficiencies",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "improve efficiency; efficiency gains; energy efficiency; operational efficiency",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "efficient",
+    "pos": "adj.",
+    "phonetic": "/ɪˈfɪʃənt/",
+    "meaning": "/ɪˈfɪʃənt/",
+    "example": "高效的；效率高的",
+    "collocation": "This machine is very efficient.\nA: Can we reduce costs? B: Use a more efficient process.",
+    "roots": "",
+    "inflection": "effic-（起作用）+ -ient（形容词后缀：…的/倾向于…）",
+    "related": "comparative more efficient; superlative most efficient",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "efficient at; efficient in; energy-efficient; highly efficient",
+      "Unnamed: 10": "3000.0"
+    }
+  },
+  {
+    "word": "efficiently",
+    "pos": "adv.",
+    "phonetic": "/ɪˈfɪʃəntli/",
+    "meaning": "/ɪˈfɪʃəntli/",
+    "example": "高效地；有效率地",
+    "collocation": "The team worked efficiently.\nA: Why so fast? B: We planned efficiently.",
+    "roots": "",
+    "inflection": "efficient + -ly（副词后缀）",
+    "related": "—",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "work efficiently; operate efficiently; run efficiently",
+      "Unnamed: 10": "5000.0"
+    }
+  },
+  {
+    "word": "equip",
+    "pos": "v.",
+    "phonetic": "/ɪˈkwɪp/",
+    "meaning": "/ɪˈkwɪp/",
+    "example": "装备；配备；使具备（能力/知识）",
+    "collocation": "The lab is equipped with modern tools.\nA: Ready? B: Training will equip you.",
+    "roots": "",
+    "inflection": "equ-（同等）+ -ip（装备语源）",
+    "related": "3rd equips; past equipped; pp equipped; ing equipping",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "equip with; equip someone to do; well-equipped",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "equipment",
+    "pos": "n. (uncount.)",
+    "phonetic": "/ɪˈkwɪpmənt/",
+    "meaning": "/ɪˈkwɪpmənt/",
+    "example": "设备；器材（不可数）",
+    "collocation": "Safety equipment is required.\nA: Need tools? B: The equipment is here.",
+    "roots": "",
+    "inflection": "equip + -ment（名词后缀）",
+    "related": "不可数；数量表达：a piece of equipment / two pieces of equipment",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "office equipment; safety equipment; a piece of equipment",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "equipped",
+    "pos": "adj./pp.",
+    "phonetic": "/ɪˈkwɪpt/",
+    "meaning": "/ɪˈkwɪpt/",
+    "example": "装备齐全的；具备…能力的；（pp）equip 的过去分词",
+    "collocation": "The room is equipped with a projector.\nA: Can she do it? B: She’s well equipped.",
+    "roots": "",
+    "inflection": "equip + -ed（过去分词/形容词化）",
+    "related": "equip: 3rd equips; past equipped; pp equipped; ing equipping",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "equipped with; well equipped; fully equipped; equipped for",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "grip",
+    "pos": "n./v.",
+    "phonetic": "/ɡrɪp/",
+    "meaning": "/ɡrɪp/",
+    "example": "n. 握；把手；控制；紧张感；v. 抓牢；牢牢影响/吸引",
+    "collocation": "Hold the rail with a firm grip.\nA: Why frozen? B: Fear gripped me.",
+    "roots": "",
+    "inflection": "词缀不典型；多义核心词",
+    "related": "n. plural grips; v. 3rd grips; past gripped; pp gripped; ing gripping",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "grip on; get/lose a grip; firm grip; grip someone’s attention",
+      "Unnamed: 10": "3000.0"
+    }
+  },
+  {
+    "word": "in time",
+    "pos": "phrase (adv./idiom)",
+    "phonetic": "/ɪn ˈtaɪm/",
+    "meaning": "/ɪn ˈtaɪm/",
+    "example": "及时；最终（过一段时间后）",
+    "collocation": "We arrived just in time.\nA: Will it improve? B: Yes, in time.",
+    "roots": "",
+    "inflection": "固定短语：in + time",
+    "related": "—",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "in time for; just in time; in time to do; on time（对比）",
+      "Unnamed: 10": "1000.0"
+    }
+  },
+  {
+    "word": "inspect",
+    "pos": "v.",
+    "phonetic": "/ɪnˈspekt/",
+    "meaning": "/ɪnˈspekt/",
+    "example": "检查；视察",
+    "collocation": "Inspect the equipment before use.\nA: Is it safe? B: It has been inspected.",
+    "roots": "",
+    "inflection": "in-（向内）+ spect（看）",
+    "related": "3rd inspects; past inspected; pp inspected; ing inspecting",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "inspect for; inspect a site/building; inspect closely",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "lighted",
+    "pos": "adj./v.(past/pp)",
+    "phonetic": "/ˈlaɪtɪd/",
+    "meaning": "/ˈlaɪtɪd/",
+    "example": "点亮的；（v）light 的过去式/过去分词（lighted；lit 也常用）",
+    "collocation": "A lighted sign guided us.\nA: Did you light the candle? B: Yes, I lighted it. (also: I lit it.)",
+    "roots": "",
+    "inflection": "light + -ed（过去分词/形容词化）",
+    "related": "light: 3rd lights; past lit/lighted; pp lit/lighted; ing lighting",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "lighted sign/candle; light a candle; lighted path",
+      "Unnamed: 10": "7000.0"
+    }
+  },
+  {
+    "word": "lighting",
+    "pos": "n.",
+    "phonetic": "/ˈlaɪtɪŋ/",
+    "meaning": "/ˈlaɪtɪŋ/",
+    "example": "照明；灯光（系统/整体）",
+    "collocation": "The lighting in this room is excellent.\nA: Too dark? B: We need better lighting.",
+    "roots": "",
+    "inflection": "light + -ing（动名词名词化）",
+    "related": "通常不可数",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "lighting design; lighting system; ambient lighting; stage lighting",
+      "Unnamed: 10": "5000.0"
+    }
+  },
+  {
+    "word": "lightly",
+    "pos": "adv.",
+    "phonetic": "/ˈlaɪtli/",
+    "meaning": "/ˈlaɪtli/",
+    "example": "轻轻地；轻微地；不严肃地",
+    "collocation": "Knock lightly before entering.\nA: Serious? B: Don’t take it lightly.",
+    "roots": "",
+    "inflection": "light + -ly（副词后缀）",
+    "related": "—",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "touch lightly; lightly fried; take something lightly; tread lightly",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "manufacturing",
+    "pos": "n./adj.",
+    "phonetic": "/ˌmænjuˈfæktʃərɪŋ/",
+    "meaning": "/ˌmænjuˈfæktʃərɪŋ/",
+    "example": "制造业；制造；（adj.）制造的；生产的",
+    "collocation": "Manufacturing is a major sector.\nA: Which team? B: Manufacturing.",
+    "roots": "",
+    "inflection": "manufacture（制造）+ -ing（动名词/形容词化）",
+    "related": "—（多作不可数名词；也可作形容词）",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "manufacturing process; manufacturing plant; manufacturing sector",
+      "Unnamed: 10": "5000.0"
+    }
+  },
+  {
+    "word": "profitable",
+    "pos": "adj.",
+    "phonetic": "/ˈprɒfɪtəbl/",
+    "meaning": "/ˈprɑːfɪtəbl/",
+    "example": "盈利的；有利可图的；有益的",
+    "collocation": "The business became profitable within a year.\nA: Worth doing? B: It could be profitable.",
+    "roots": "",
+    "inflection": "profit（利润）+ -able（形容词后缀：可…的）",
+    "related": "comparative more profitable; superlative most profitable",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "profitable business; highly profitable; profitable to do; profitable for",
+      "Unnamed: 10": "5000.0"
+    }
+  },
+  {
+    "word": "report on",
+    "pos": "phrasal v.",
+    "phonetic": "/rɪˈpɔːt ɒn/",
+    "meaning": "/rɪˈpɔːrt ɑːn/",
+    "example": "就……报道/汇报",
+    "collocation": "The journalist reported on the incident.\nA: Any updates? B: I’ll report on progress tomorrow.",
+    "roots": "",
+    "inflection": "report（报告/报道）+ on（关于）",
+    "related": "report: 3rd reports; past reported; pp reported; ing reporting",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "report on progress; report on findings; report on an event; report back",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "rose",
+    "pos": "n./v.(past)",
+    "phonetic": "/rəʊz/",
+    "meaning": "/roʊz/",
+    "example": "n. 玫瑰；v. rise 的过去式：上升；起身；兴起",
+    "collocation": "Prices rose sharply last month.\nA: Did he stand up? B: Yes, he rose.",
+    "roots": "",
+    "inflection": "rose（名词：花）与 rise→rose（动词过去式）同形",
+    "related": "rise: 3rd rises; past rose; pp risen; ing rising\nrose(n.): plural roses",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "rose to; rose from; rose sharply/steadily; a rose garden",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "roster",
+    "pos": "n./v.",
+    "phonetic": "/ˈrɒstə/",
+    "meaning": "/ˈrɑːstər/",
+    "example": "n. 名单；值班表；花名册；v. 排班/列入名单",
+    "collocation": "The roster is posted on the wall.\nA: Who’s on duty? B: Check the roster.",
+    "roots": "",
+    "inflection": "词缀不典型；职场/体育语域常用",
+    "related": "n. plural rosters; v. 3rd rosters / past rostered / pp rostered / ing rostering",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "on the roster; duty roster; staff roster; roster someone for",
+      "Unnamed: 10": "8000.0"
+    }
+  },
+  {
+    "word": "standpoint",
+    "pos": "n.",
+    "phonetic": "/ˈstændpɔɪnt/",
+    "meaning": "/ˈstændpɔɪnt/",
+    "example": "立场；观点",
+    "collocation": "From a legal standpoint, it’s risky.\nA: Your view? B: From my standpoint, it’s fair.",
+    "roots": "",
+    "inflection": "stand + point（复合名词）",
+    "related": "plural standpoints",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "from a standpoint; from the standpoint of; moral/legal standpoint",
+      "Unnamed: 10": "7000.0"
+    }
+  },
+  {
+    "word": "struggle",
+    "pos": "v./n.",
+    "phonetic": "/ˈstrʌɡl/",
+    "meaning": "/ˈstrʌɡl/",
+    "example": "v. 奋斗；挣扎；努力；n. 斗争；挣扎",
+    "collocation": "He struggled to stay awake.\nA: Is it easy? B: No, it’s a struggle.",
+    "roots": "",
+    "inflection": "词缀不典型；常用核心词",
+    "related": "v. 3rd struggles; past struggled; pp struggled; ing struggling\nn. plural struggles",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "struggle to do; struggle with; struggle against; power struggle",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "struggling",
+    "pos": "adj./v.(ing)",
+    "phonetic": "/ˈstrʌɡlɪŋ/",
+    "meaning": "/ˈstrʌɡlɪŋ/",
+    "example": "adj. 苦苦挣扎的；艰难维持的；v. struggle 的现在分词",
+    "collocation": "Many small firms are struggling.\nA: Deadline? B: We’re struggling to meet it.",
+    "roots": "",
+    "inflection": "struggle + -ing（现在分词/形容词化）",
+    "related": "struggle: 3rd struggles; past struggled; pp struggled; ing struggling",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "struggling with; struggling to do; struggling business; struggling economy",
+      "Unnamed: 10": "5000.0"
+    }
+  },
+  {
+    "word": "succession",
+    "pos": "n.",
+    "phonetic": "/səkˈseʃən/",
+    "meaning": "/səkˈseʃən/",
+    "example": "连续；一连串；继任；继承",
+    "collocation": "A succession of storms hit the coast.\nA: Who’s next? B: There’s a succession plan.",
+    "roots": "",
+    "inflection": "succeed + -sion（名词后缀）",
+    "related": "plural successions",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "a succession of; in quick succession; line of succession; succession plan",
+      "Unnamed: 10": "6000.0"
+    }
+  },
+  {
+    "word": "successive",
+    "pos": "adj.",
+    "phonetic": "/səkˈsesɪv/",
+    "meaning": "/səkˈsesɪv/",
+    "example": "连续的；接连的（逐个发生）",
+    "collocation": "He won three successive titles.\nA: Again? B: Yes—successive failures.",
+    "roots": "",
+    "inflection": "success + -ive（形容词后缀）",
+    "related": "comparative more successive; superlative most successive（少用）",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "successive days/years; successive steps; in successive order",
+      "Unnamed: 10": "8000.0"
+    }
+  },
+  {
+    "word": "termination",
+    "pos": "n.",
+    "phonetic": "/ˌtɜːmɪˈneɪʃən/",
+    "meaning": "/ˌtɝːmɪˈneɪʃən/",
+    "example": "终止；结束；解雇（合同/雇佣关系）；（电）端接",
+    "collocation": "The contract allows early termination.\nA: Why did he leave? B: His termination was unexpected.",
+    "roots": "",
+    "inflection": "terminate（终止）+ -ion（名词后缀：过程/结果；常用于名词）",
+    "related": "plural terminations",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "termination of; contract termination; employment termination; termination notice; termination fee",
+      "Unnamed: 10": "7000.0"
+    }
+  },
+  {
+    "word": "timed",
+    "pos": "adj./pp.",
+    "phonetic": "/taɪmd/",
+    "meaning": "/taɪmd/",
+    "example": "定时的；计时的；（pp）time 的过去分词",
+    "collocation": "This is a timed test.\nA: Why the clock? B: It’s timed.",
+    "roots": "",
+    "inflection": "time + -ed（过去分词/形容词化）",
+    "related": "time: 3rd times; past timed; pp timed; ing timing",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "timed test; timed entry; timed event; well-timed",
+      "Unnamed: 10": "6000.0"
+    }
+  },
+  {
+    "word": "timely",
+    "pos": "adj.",
+    "phonetic": "/ˈtaɪmli/",
+    "meaning": "/ˈtaɪmli/",
+    "example": "及时的；适时的",
+    "collocation": "A timely warning prevented an accident.\nA: Helpful? B: Yes, a timely reminder.",
+    "roots": "",
+    "inflection": "time + -ly（形容词后缀：…的；此处非副词）",
+    "related": "comparative more timely; superlative most timely",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "timely manner; timely response; timely warning",
+      "Unnamed: 10": "6000.0"
+    }
+  },
+  {
+    "word": "up to",
+    "pos": "phrase (prep./idiom)",
+    "phonetic": "/ˈʌp tuː/",
+    "meaning": "/ˈʌp tuː/",
+    "example": "最多到；直到；由…决定；在忙于（做…）",
+    "collocation": "You can take up to two bags.\nA: Who decides? B: It’s up to you.",
+    "roots": "",
+    "inflection": "固定短语：up（至/向上）+ to（到）",
+    "related": "—",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "up to + number; up to now; up to date; be up to someone; be up to something",
+      "Unnamed: 10": "1000.0"
+    }
+  },
+  {
+    "word": "variable",
+    "pos": "n./adj.",
+    "phonetic": "/ˈveəriəbl/",
+    "meaning": "/ˈveriəbl/",
+    "example": "n. 变量；可变因素；adj. 可变的；多变的",
+    "collocation": "In statistics, a variable can be continuous.\nA: Why inconsistent? B: The results are variable.",
+    "roots": "",
+    "inflection": "vary（变化）+ -able（形容词后缀：可…的）",
+    "related": "n. plural variables; adj. comparative more variable; superlative most variable",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "independent/dependent variable; variable costs; highly variable; variable rate",
+      "Unnamed: 10": "4000.0"
+    }
+  },
+  {
+    "word": "variety",
+    "pos": "n.",
+    "phonetic": "/vəˈraɪəti/",
+    "meaning": "/vəˈraɪəti/",
+    "example": "多样性；种类；品种",
+    "collocation": "The store offers a wide variety of products.\nA: Bored? B: Try it for variety.",
+    "roots": "",
+    "inflection": "vary + -ety（名词后缀：性质/状态）",
+    "related": "plural varieties",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "a variety of; wide variety; variety show; for variety",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "various",
+    "pos": "adj.",
+    "phonetic": "/ˈveəriəs/",
+    "meaning": "/ˈveriəs/",
+    "example": "各种各样的；多种的",
+    "collocation": "We discussed various options.\nA: Any reasons? B: For various reasons.",
+    "roots": "",
+    "inflection": "vary + -ous（形容词后缀：充满…的）",
+    "related": "—",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "various kinds of; various reasons; at various times",
+      "Unnamed: 10": "2000.0"
+    }
+  },
+  {
+    "word": "vary",
+    "pos": "v.",
+    "phonetic": "/ˈveəri/",
+    "meaning": "/ˈveri/",
+    "example": "变化；不同；使变化",
+    "collocation": "Prices vary by region.\nA: Same for everyone? B: No, it varies.",
+    "roots": "",
+    "inflection": "词根 var（变化）",
+    "related": "3rd varies; past varied; pp varied; ing varying",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "vary from...to...; vary by; vary with; vary widely",
+      "Unnamed: 10": "2000.0"
     }
   }
 ]
