@@ -154,14 +154,14 @@
     "pos": "v.",
     "phonetic": "BrE /prəˈvaɪd/；AmE /prəˈvaɪd/",
     "meaning": "提供；供给；（正式）规定",
-    "example": "The hotel provides free breakfast. / A: Any support? B: They provide it.",
-    "collocation": "provide with；provide for；provide that",
+    "example": "The hotel provides free breakfast. / A: Do we get support? B: They provide it.",
+    "collocation": "provide with；provide for；provide that（正式：规定）",
     "roots": "",
-    "inflection": "3rd provides / past provided / pp provided / ing providing",
-    "related": "provider：供应者｜provision：供应；条款｜provided that：倘若",
+    "inflection": "动词：3rd provides / past provided / pp provided / ing providing",
+    "related": "provider：供应者；服务提供商｜provision：供应；条款｜provided that：倘若；条件是",
     "position": 1000,
     "extra": {
-      "词根词缀,词头词尾": "pro-（向前）+ vide（看，见 video）"
+      "词根词缀,词头词尾": "pro-（向前）+ vide（看，见 video）→“预备/提供”"
     }
   },
   {
@@ -317,16 +317,16 @@
   {
     "word": "arrange",
     "pos": "v.",
-    "phonetic": "BrE /əˈreɪndʒ/; AmE /əˈreɪndʒ/",
-    "meaning": "安排；筹备；整理；布置",
-    "example": "I’ll arrange a meeting for next week.\nA: Seats? B: We arranged them in a circle.",
-    "collocation": "arrange for; arrange to do; arrange a meeting; arrange in/into; make arrangements",
+    "phonetic": "BrE /əˈreɪndʒ/；AmE /əˈreɪndʒ/",
+    "meaning": "安排；布置；整理",
+    "example": "I arranged a meeting with the client. / A: When can we meet? B: I’ll arrange it.",
+    "collocation": "arrange for；arrange to do；arrange a meeting；arrange with（与…协调）",
     "roots": "",
-    "inflection": "3rd arranges; past arranged; pp arranged; ing arranging",
-    "related": "arrangement（安排/布置）；arranged（安排好的）；rearrange（重新安排）",
+    "inflection": "动词：3rd arranges / past arranged / pp arranged / ing arranging",
+    "related": "arrangement：安排；布置｜arranged：安排好的；（婚姻）包办的",
     "position": 2000,
     "extra": {
-      "词根词缀,词头词尾": "a-（加强）+ range（排列/范围语源相关）"
+      "词根词缀,词头词尾": "arrangement 名词高频；-ment 常见名词后缀"
     }
   },
   {
@@ -422,16 +422,16 @@
   {
     "word": "commit",
     "pos": "v.",
-    "phonetic": "BrE /kəˈmɪt/; AmE /kəˈmɪt/",
-    "meaning": "承诺；投入；犯（错/罪）；提交",
-    "example": "He committed to the plan.\nA: Version control? B: I committed the changes.",
-    "collocation": "commit to; commit a crime; commit resources; commit changes",
+    "phonetic": "BrE /kəˈmɪt/；AmE /kəˈmɪt/",
+    "meaning": "承诺；投入；犯（错/罪）；提交（文件）",
+    "example": "He committed to the project. / A: Did you upload it? B: I committed the changes.",
+    "collocation": "commit to；commit a crime/mistake；commit resources；commit changes",
     "roots": "",
-    "inflection": "3rd commits; past committed; pp committed; ing committing",
-    "related": "commitment（承诺）；committed（坚定投入的）；commission（委任/委员会，相关但义不同）",
+    "inflection": "3rd commits / past committed / pp committed / ing committing",
+    "related": "commitment：承诺；投入｜commission：委任；委员会（词源相关）",
     "position": 2000,
     "extra": {
-      "词根词缀,词头词尾": "com-（一起）+ mit（送/放）"
+      "词根词缀,词头词尾": "com-（一起）+ mit（送/放，见 submit）"
     }
   },
   {
@@ -447,6 +447,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "con-（一起）+ cern（分辨/筛选语源）"
+    }
+  },
+  {
+    "word": "conduct",
+    "pos": "v./n.",
+    "phonetic": "BrE /kənˈdʌkt/（v.）, /ˈkɒndʌkt/（n.）；AmE /kənˈdʌkt/（v.）, /ˈkɑːndʌkt/（n.）",
+    "meaning": "v. 进行；实施；n. 行为；举止",
+    "example": "They conducted an experiment. / A: Who ran the interview? B: I conducted it.",
+    "collocation": "conduct a survey/interview；conduct research；code of conduct",
+    "roots": "",
+    "inflection": "名词：plural conducts（少用）；动词：3rd conducts / past conducted / pp conducted / ing conducting",
+    "related": "conductor：指挥；导体｜conductive：导电的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "con-（一起）+ duct（引导，见 product）"
     }
   },
   {
@@ -543,30 +558,30 @@
     "word": "director",
     "pos": "n.",
     "phonetic": "BrE /dɪˈrektə/；AmE /dɪˈrektər/",
-    "meaning": "主管；负责人；董事；导演",
+    "meaning": "主管；负责人；导演",
     "example": "She is a director at the firm. / A: Who approved? B: The director.",
-    "collocation": "director of；board of directors；executive/managing director",
+    "collocation": "director of；board of directors；executive director",
     "roots": "",
-    "inflection": "plural directors",
-    "related": "direct：指导；直接的｜direction：方向；指导",
+    "inflection": "名词：plural directors",
+    "related": "direct：指导；直接的｜direction：方向；指导｜directly：直接地",
     "position": 2000,
     "extra": {
-      "词根词缀,词头词尾": "direct + -or（人/职业后缀）"
+      "词根词缀,词头词尾": "-or：职业名词后缀“做……的人”"
     }
   },
   {
     "word": "equipment",
-    "pos": "n. (uncount.)",
-    "phonetic": "BrE /ɪˈkwɪpmənt/; AmE /ɪˈkwɪpmənt/",
-    "meaning": "设备；器材（不可数）",
-    "example": "Safety equipment is required.\nA: Need tools? B: The equipment is here.",
-    "collocation": "office equipment; safety equipment; a piece of equipment",
+    "pos": "n.（不可数）",
+    "phonetic": "BrE /ɪˈkwɪpmənt/；AmE /ɪˈkwɪpmənt/",
+    "meaning": "设备；器材",
+    "example": "Safety equipment is required. / A: Tools ready? B: Equipment is ready.",
+    "collocation": "equipment for；protective equipment；office/lab equipment",
     "roots": "",
-    "inflection": "不可数；数量表达：a piece of equipment / two pieces of equipment",
-    "related": "equip（配备）；gear（装备，口语）",
+    "inflection": "名词：不可数（无 plural 形式）",
+    "related": "equip：装备｜equipped：配备齐全的｜equipment：设备",
     "position": 2000,
     "extra": {
-      "词根词缀,词头词尾": "equip + -ment（名词后缀）"
+      "词根词缀,词头词尾": "equip + -ment（名词后缀：结果/事物）"
     }
   },
   {
@@ -1127,13 +1142,13 @@
   {
     "word": "suppose",
     "pos": "v.",
-    "phonetic": "BrE /səˈpəʊz/; AmE /səˈpoʊz/",
-    "meaning": "认为；推测；假设",
-    "example": "I suppose he’s busy.\nA: Are we late? B: I suppose so.",
-    "collocation": "suppose that; suppose so; suppose you...; be supposed to",
+    "phonetic": "BrE /səˈpəʊz/；AmE /səˈpoʊz/",
+    "meaning": "认为；假设",
+    "example": "I suppose you’re right. / A: Where is he? B: I suppose he’s at home.",
+    "collocation": "suppose that；suppose so；be supposed to（见下）",
     "roots": "",
-    "inflection": "3rd supposes; past supposed; pp supposed; ing supposing",
-    "related": "supposedly（据说）；supposition（假设）；supposed to（应该）",
+    "inflection": "3rd supposes / past supposed / pp supposed / ing supposing",
+    "related": "assume：假定；认为｜supposition：假设；推测",
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "sup-（在下）+ pose（放置/假定）"
@@ -1278,15 +1293,15 @@
     "word": "advertise",
     "pos": "v.",
     "phonetic": "BrE /ˈædvətaɪz/；AmE /ˈædvərtaɪz/",
-    "meaning": "做广告；登广告；宣传",
-    "example": "They advertise on social media. / A: How to attract customers? B: Advertise locally.",
-    "collocation": "advertise for（登广告招…）；advertise on（平台）；advertise a product",
+    "meaning": "做广告；宣传",
+    "example": "The company advertises online. / A: How know? B: Advertised on TV.",
+    "collocation": "advertise on TV/online；advertise for staff；advertise a product",
     "roots": "",
-    "inflection": "3rd advertises / past advertised / pp advertised / ing advertising",
-    "related": "advertisement/ad：广告｜advertising：广告业；广告活动｜advertiser：广告主",
+    "inflection": "动词：3rd advertises / past advertised / pp advertised / ing advertising",
+    "related": "advertisement/ad：广告｜advertiser：广告主｜advertising：广告业",
     "position": 3000,
     "extra": {
-      "词根词缀,词头词尾": "ad-（向…）+ vert（转向）+ -ise/-ize（动词后缀）"
+      "词根词缀,词头词尾": "ad- + vert（转向）+ -ise/-ize（动词后缀）"
     }
   },
   {
@@ -1388,25 +1403,25 @@
     "collocation": "colleague at/from；close colleague",
     "roots": "",
     "inflection": "plural colleagues",
-    "related": "coworker：同事（口语）｜peer：同行；同辈",
+    "related": "coworker：同事（更口语）｜peer：同辈；同行",
     "position": 3000,
     "extra": {
-      "词根词缀,词头词尾": "co-（共同）+ league（团体/联盟）"
+      "词根词缀,词头词尾": "co-（共同）+ league（联盟/团体）"
     }
   },
   {
     "word": "commitment",
     "pos": "n.",
-    "phonetic": "BrE /kəˈmɪtmənt/; AmE /kəˈmɪtmənt/",
-    "meaning": "承诺；投入；义务",
-    "example": "Thank you for your commitment.\nA: Weekly meetings? B: That’s a big commitment.",
-    "collocation": "commitment to; make a commitment; long-term commitment; commitment level",
+    "phonetic": "BrE /kəˈmɪtmənt/；AmE /kəˈmɪtmənt/",
+    "meaning": "承诺；投入；（固定）义务",
+    "example": "Thank you for your commitment. / A: Can you do it weekly? B: That’s a big commitment.",
+    "collocation": "commitment to；make a commitment；long-term commitment",
     "roots": "",
     "inflection": "plural commitments",
-    "related": "commit（承诺）；uncommitted（未承诺的）",
+    "related": "commit：承诺；投入｜dedication：奉献；投入",
     "position": 3000,
     "extra": {
-      "词根词缀,词头词尾": "commit + -ment（名词后缀）"
+      "词根词缀,词头词尾": "commit + -ment（名词后缀：结果/状态）"
     }
   },
   {
@@ -1414,14 +1429,14 @@
     "pos": "adj./pp.",
     "phonetic": "BrE /kəˈmɪtɪd/; AmE /kəˈmɪtɪd/",
     "meaning": "坚定投入的；已承诺的；（pp）commit 的过去分词",
-    "example": "She is committed to improving quality.\nA: Joining? B: Yes, I’m committed.",
-    "collocation": "committed to; fully committed; committed member; be committed",
+    "example": "She is committed to improving quality.\nA: Are you joining the project? B: Yes, I'm committed.",
+    "collocation": "committed to; committed member; fully committed; be committed",
     "roots": "",
     "inflection": "commit: 3rd commits; past committed; pp committed; ing committing",
-    "related": "commit（承诺）；commitment（承诺）；uncommitted（未承诺的）",
+    "related": "commit（承诺/投入）；commitment（承诺）；uncommitted（未承诺的）",
     "position": 3000,
     "extra": {
-      "词根词缀,词头词尾": "commit + -ed（过去分词/形容词化）"
+      "词根词缀,词头词尾": "commit + -ed（过去分词/形容词化；常用于形容词）"
     }
   },
   {
@@ -1452,21 +1467,6 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "com-（一起）+ plain（喊/诉说语源）"
-    }
-  },
-  {
-    "word": "conduct",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈkɒndʌkt/ (n.), /kənˈdʌkt/ (v.); AmE /ˈkɑːndʌkt/ (n.), /kənˈdʌkt/ (v.)",
-    "meaning": "n. 行为；举止；实施方式；v. 进行；实施；指挥（调查/实验/业务等）（备注：名词与动词重音不同：CONduct（n）/ conDUCT（v）。）",
-    "example": "The report examines professional conduct.\nA: What did you do? B: We conducted an audit.",
-    "collocation": "conduct an interview/survey/audit; code of conduct; conduct research; conduct oneself",
-    "roots": "",
-    "inflection": "n. plural conducts（少用）；v. 3rd conducts; past conducted; pp conducted; ing conducting",
-    "related": "conductor（指挥/导体）；conductive（导电的）；misconduct（不当行为）",
-    "position": 3000,
-    "extra": {
-      "词根词缀,词头词尾": "con-（一起）+ duct（引导/带领，见 produce/deduce）"
     }
   },
   {
@@ -1512,21 +1512,6 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "constant + -ly（副词后缀）"
-    }
-  },
-  {
-    "word": "customs",
-    "pos": "n./adj.",
-    "phonetic": "BrE /ˈkʌstəm/; AmE /ˈkʌstəm/",
-    "meaning": "adj.定制/n.习俗",
-    "example": "A: Which do you mean? B: Usually 'custom' or 'customs'.\nWe offer custom furniture.",
-    "collocation": "custom order; custom-made; by custom; go through customs",
-    "roots": "",
-    "inflection": "custom: plural customs; adj. —",
-    "related": "customize（定制）；customary（惯常的）；customization（定制化）",
-    "position": 3000,
-    "extra": {
-      "词根词缀,词头词尾": "custom（习俗/定制）"
     }
   },
   {
@@ -1592,16 +1577,16 @@
   {
     "word": "efficient",
     "pos": "adj.",
-    "phonetic": "BrE /ɪˈfɪʃənt/; AmE /ɪˈfɪʃənt/",
+    "phonetic": "BrE /ɪˈfɪʃənt/；AmE /ɪˈfɪʃənt/",
     "meaning": "高效的；效率高的",
-    "example": "This machine is very efficient.\nA: Can we reduce costs? B: Use a more efficient process.",
-    "collocation": "efficient at; efficient in; energy-efficient; highly efficient",
+    "example": "The new system is efficient. / A: How’s the workflow? B: Much more efficient now.",
+    "collocation": "efficient use of；energy-efficient；efficient at（做…高效）",
     "roots": "",
-    "inflection": "comparative more efficient; superlative most efficient",
-    "related": "efficiency（效率）；efficiently（高效地）；inefficient（低效的）",
+    "inflection": "形容词：comparative more efficient / superlative most efficient",
+    "related": "efficiency：效率｜efficiently：高效地",
     "position": 3000,
     "extra": {
-      "词根词缀,词头词尾": "effic-（起作用）+ -ient（形容词后缀：…的/倾向于…）"
+      "词根词缀,词头词尾": "ef-/ex-（向外）+ fic（做）+ -ient（形容词后缀）"
     }
   },
   {
@@ -1623,15 +1608,15 @@
     "word": "estimate",
     "pos": "n./v.",
     "phonetic": "BrE /ˈestɪmeɪt/；AmE /ˈestɪmeɪt/",
-    "meaning": "估算；估计；报价",
+    "meaning": "估计；估算；报价",
     "example": "Can you estimate the cost? / A: How much? B: That’s my estimate.",
-    "collocation": "estimate at；estimate of；rough estimate；cost estimate",
+    "collocation": "estimate at（估计为）；estimate of；cost estimate；rough estimate",
     "roots": "",
     "inflection": "名词：plural estimates；动词：3rd estimates / past estimated / pp estimated / ing estimating",
-    "related": "estimation：估计；评价｜overestimate：高估",
+    "related": "estimation：估计；评价｜estimated：估计的｜overestimate：高估",
     "position": 3000,
     "extra": {
-      "词根词缀,词头词尾": "-ate 动词；-ion（estimation）派生"
+      "词根词缀,词头词尾": "-ate 常见于动词；estimate/estimation 语源同“评估”"
     }
   },
   {
@@ -2162,13 +2147,13 @@
   {
     "word": "construct",
     "pos": "v./n.",
-    "phonetic": "BrE /kənˈstrʌkt/；AmE /kənˈstrʌkt/",
-    "meaning": "建造；构建；（n.）概念/构想",
-    "example": "They constructed a bridge. / A: Is it a real thing? B: It’s a social construct.",
-    "collocation": "construct a building；construct from/of；social construct",
+    "phonetic": "BrE /kənˈstrʌkt/（v.）；AmE /kənˈstrʌkt/（v.）",
+    "meaning": "建造；构建；（n.）构想/概念",
+    "example": "They constructed a bridge. / A: How is the model built? B: It’s constructed from blocks.",
+    "collocation": "construct a building/road；construct from/of；social construct",
     "roots": "",
     "inflection": "名词：plural constructs；动词：3rd constructs / past constructed / pp constructed / ing constructing",
-    "related": "construction：施工｜structure：结构",
+    "related": "structure：结构｜construction：建造；施工",
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "con-（一起）+ struct（建造，见 structure）"
@@ -2190,6 +2175,21 @@
     }
   },
   {
+    "word": "customs",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkʌstəmz/; AmE /ˈkʌstəmz/",
+    "meaning": "海关，关税",
+    "example": "A: Is 'costoms' correct? B: It should be 'customs'.\nThe parcel is held by customs.",
+    "collocation": "customs officer; go through customs; customs clearance; customs duty",
+    "roots": "",
+    "inflection": "—（customs 通常以复数形式出现）",
+    "related": "custom（习俗/定制）；customary（惯常的）；customer（顾客，词形相近）",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "custom + -s（固定复数形式：customs）"
+    }
+  },
+  {
     "word": "demonstrate",
     "pos": "v.",
     "phonetic": "BrE /ˈdemənstreɪt/; AmE /ˈdemənstreɪt/",
@@ -2207,16 +2207,16 @@
   {
     "word": "distribute",
     "pos": "v.",
-    "phonetic": "BrE /dɪˈstrɪbjuːt/; AmE /dɪˈstrɪbjuːt/",
-    "meaning": "分发；分配；散布；配送",
-    "example": "They distribute food to families in need.\nA: Can you distribute the handouts? B: Sure.",
-    "collocation": "distribute to; distribute among; distribute evenly; distribute copies",
+    "phonetic": "BrE /dɪˈstrɪbjuːt/；AmE /dɪˈstrɪbjuːt/",
+    "meaning": "分发；分配；配送",
+    "example": "They distribute food to families. / A: How share? B: Distribute by email.",
+    "collocation": "distribute to；distribute among；distribution of；distributor",
     "roots": "",
-    "inflection": "3rd distributes; past distributed; pp distributed; ing distributing",
-    "related": "distribution（分配/分布）；distributor（经销商）；redistribute（再分配）",
+    "inflection": "动词：3rd distributes / past distributed / pp distributed / ing distributing",
+    "related": "distribution：分配；分销｜distributor：经销商；分销商",
     "position": 4000,
     "extra": {
-      "词根词缀,词头词尾": "dis-（分开）+ tribute（给予/贡献语源）"
+      "词根词缀,词头词尾": "dis-：分开/向四处 + tribute（分配）"
     }
   },
   {
@@ -2387,16 +2387,16 @@
   {
     "word": "inspect",
     "pos": "v.",
-    "phonetic": "BrE /ɪnˈspekt/; AmE /ɪnˈspekt/",
+    "phonetic": "BrE /ɪnˈspekt/；AmE /ɪnˈspekt/",
     "meaning": "检查；视察",
-    "example": "Inspect the equipment before use.\nA: Is it safe? B: It has been inspected.",
-    "collocation": "inspect for; inspect a site/building; inspect closely",
+    "example": "Inspect the equipment before use. / A: Is it safe? B: It’s been inspected.",
+    "collocation": "inspect for（检查是否有…）；inspect a site/building",
     "roots": "",
-    "inflection": "3rd inspects; past inspected; pp inspected; ing inspecting",
-    "related": "inspection（检查）；inspector（检查员）",
+    "inflection": "3rd inspects / past inspected / pp inspected / ing inspecting",
+    "related": "inspection：检查｜inspector：检查员｜spect：看（词根提示）",
     "position": 4000,
     "extra": {
-      "词根词缀,词头词尾": "in-（向内）+ spect（看）"
+      "词根词缀,词头词尾": "in-（向内）+ spect（看，见 spectator）"
     }
   },
   {
@@ -2580,18 +2580,33 @@
     }
   },
   {
+    "word": "profitable",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈprɒfɪtəbl/；AmE /ˈprɑːfɪtəbl/",
+    "meaning": "有利润的；盈利的",
+    "example": "The business is profitable. / A: Worth it? B: Yes, it’s profitable.",
+    "collocation": "profitable business；highly profitable；profitable to do",
+    "roots": "",
+    "inflection": "comparative more profitable / superlative most profitable",
+    "related": "profit：利润｜profitability：盈利能力",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "profit（利润）+ -able（可…的，形容词后缀）"
+    }
+  },
+  {
     "word": "purchase",
     "pos": "n./v.",
     "phonetic": "BrE /ˈpɜːtʃəs/；AmE /ˈpɝːtʃəs/",
     "meaning": "购买；采购",
-    "example": "Proof of purchase is required. / A: Did you buy it? B: I purchased it online.",
+    "example": "Proof of purchase is required. / A: Did you buy it? B: I purchased it.",
     "collocation": "purchase from；make a purchase；purchase order (PO)；purchase price",
     "roots": "",
     "inflection": "名词：plural purchases；动词：3rd purchases / past purchased / pp purchased / ing purchasing",
     "related": "purchaser：买方；采购方｜purchasing：采购（活动/部门）",
     "position": 4000,
     "extra": {
-      "词根词缀,词头词尾": "purchaser/purchasing 派生常见"
+      "词根词缀,词头词尾": "purchaser/purchasing 常见派生"
     }
   },
   {
@@ -3000,21 +3015,6 @@
     }
   },
   {
-    "word": "profitable",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈprɒfɪtəbl/; AmE /ˈprɑːfɪtəbl/",
-    "meaning": "盈利的；有利可图的；有益的",
-    "example": "The business became profitable within a year.\nA: Worth doing? B: It could be profitable.",
-    "collocation": "profitable business; highly profitable; profitable to do; profitable for",
-    "roots": "",
-    "inflection": "comparative more profitable; superlative most profitable",
-    "related": "profit（利润）；profitability（盈利能力）；unprofitable（不盈利的）",
-    "position": 5000,
-    "extra": {
-      "词根词缀,词头词尾": "profit（利润）+ -able（形容词后缀：可…的）"
-    }
-  },
-  {
     "word": "prospect",
     "pos": "n./v.",
     "phonetic": "BrE /ˈprɒspekt/（n.）/prəˈspekt/（v.）；AmE /ˈprɑːspɛkt/（n.）/prəˈspɛkt/（v.）",
@@ -3064,14 +3064,14 @@
     "pos": "n./v.",
     "phonetic": "BrE /ˈriːfʌnd/；AmE /ˈriːfʌnd/",
     "meaning": "退款；退还",
-    "example": "You can request a refund within 30 days. / A: It’s broken. B: We’ll issue a refund.",
-    "collocation": "refund for；get/request a refund；full/partial refund；refund policy",
+    "example": "Request a refund within 30 days. / A: Broken. B: Full refund.",
+    "collocation": "refund for；get/request a refund；refund policy",
     "roots": "",
     "inflection": "名词：plural refunds；动词：3rd refunds / past refunded / pp refunded / ing refunding",
-    "related": "refundable：可退款的｜reimburse：报销/偿还",
+    "related": "refundable：可退款的｜refund policy：退款政策",
     "position": 5000,
     "extra": {
-      "词根词缀,词头词尾": "re-（回/再）+ fund（资金）"
+      "词根词缀,词头词尾": "re-：再/回 + fund：资金"
     }
   },
   {
@@ -3124,14 +3124,14 @@
     "pos": "n.",
     "phonetic": "BrE /ˈʃɔːtɪdʒ/；AmE /ˈʃɔːrtɪdʒ/",
     "meaning": "短缺；不足",
-    "example": "There is a shortage of staff. / A: Why no stock? B: A supply shortage.",
-    "collocation": "shortage of；severe shortage；water/staff shortage",
+    "example": "There is a shortage of housing. / A: Why delayed? B: A parts shortage.",
+    "collocation": "shortage of；a severe shortage；staff/supply shortage",
     "roots": "",
-    "inflection": "plural shortages",
-    "related": "lack：缺乏｜scarcity：稀缺",
+    "inflection": "名词：plural shortages",
+    "related": "short：短的；不足的｜shorten：缩短",
     "position": 5000,
     "extra": {
-      "词根词缀,词头词尾": "short + -age（名词后缀：状态/总称）"
+      "词根词缀,词头词尾": "-age：名词后缀“状态/总称”（常 n.）"
     }
   },
   {
@@ -3949,14 +3949,14 @@
     "pos": "n. (UK)",
     "phonetic": "BrE /ˈædvɜːt/；AmE /ˈædvɝːt/（较少）",
     "meaning": "广告（英式）",
-    "example": "I saw an advert for a new phone. / A: Where? B: In a TV advert.",
-    "collocation": "an advert for；place/put an advert；online/TV advert",
+    "example": "I saw an advert for a new phone. / A: Where? B: In an online advert.",
+    "collocation": "an advert for；place/put an advert；TV/online advert",
     "roots": "",
-    "inflection": "plural adverts",
+    "inflection": "名词：plural adverts",
     "related": "advertise：做广告｜advertising：广告活动/行业",
     "position": 8000,
     "extra": {
-      "词根词缀,词头词尾": "同 advertise（ad- + vert）"
+      "词根词缀,词头词尾": "同 advertise；ad- + vert"
     }
   },
   {
@@ -4024,11 +4024,11 @@
     "pos": "n.",
     "phonetic": "BrE /ˈmedəʊ/；AmE /ˈmedoʊ/",
     "meaning": "草地；牧场",
-    "example": "Wildflowers grow in the meadow. / A: Where are they? B: In the meadow.",
-    "collocation": "in a meadow；flower meadow",
+    "example": "Wildflowers grow in the meadow. / A: Where are they? B: In the meadow behind the house.",
+    "collocation": "in a meadow；mountain meadow；flower meadow",
     "roots": "",
-    "inflection": "plural meadows",
-    "related": "pasture：牧场｜grassland：草地/草原",
+    "inflection": "名词：plural meadows",
+    "related": "pasture：牧场（近义）｜grassland：草原",
     "position": 8000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型"
@@ -4069,14 +4069,14 @@
     "pos": "v.",
     "phonetic": "BrE /ˈrenəveɪt/；AmE /ˈrenəveɪt/",
     "meaning": "翻新；整修",
-    "example": "They renovated the lobby. / A: Why closed? B: It’s being renovated.",
-    "collocation": "renovate a building/room；under renovation；renovation of",
+    "example": "They renovated the kitchen. / A: Why closed? B: Renovating.",
+    "collocation": "renovate a house/building；under renovation；renovation of",
     "roots": "",
-    "inflection": "3rd renovates / past renovated / pp renovated / ing renovating",
-    "related": "renovation：翻新；装修｜remodel：改造",
+    "inflection": "动词：3rd renovates / past renovated / pp renovated / ing renovating",
+    "related": "renovation：翻新；装修｜renovated：翻新过的",
     "position": 8000,
     "extra": {
-      "词根词缀,词头词尾": "re-（再）+ nov（新）+ -ate（动词后缀）"
+      "词根词缀,词头词尾": "re-：再 + nov：新 + -ate：动词后缀"
     }
   },
   {
