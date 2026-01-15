@@ -75,6 +75,19 @@
     }
   },
   {
+    "word": "current",
+    "pos": "adj.",
+    "phonetic": "BrE /kɝʌnt/; AmE /kɝʌnt/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed current in the meeting.\nA: Any update? B: We will review current tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 1000,
+    "extra": {}
+  },
+  {
     "word": "each of",
     "pos": "phrase",
     "phonetic": "BrE /iːtʃ əv/; AmE /iːtʃ əv/",
@@ -87,6 +100,34 @@
     "position": 1000,
     "extra": {
       "词根词缀,词头词尾": "固定结构：each（限定词）+ of（介词）"
+    }
+  },
+  {
+    "word": "further",
+    "pos": "adj.",
+    "phonetic": "BrE /fɝðɝ/; AmE /fɝðɝ/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed further in the meeting.\nA: Any update? B: We will review further tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 1000,
+    "extra": {}
+  },
+  {
+    "word": "general",
+    "pos": "n.",
+    "phonetic": "BrE /dʒɛnɝʌl/; AmE /dʒɛnɝʌl/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed general in the meeting.\nA: Any update? B: We will review general tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural generals",
+    "related": "nan",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -al（形容词/名词后缀）"
     }
   },
   {
@@ -150,6 +191,32 @@
     }
   },
   {
+    "word": "mean",
+    "pos": "v.",
+    "phonetic": "BrE /min/; AmE /min/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed mean in the meeting.\nA: Any update? B: We will review mean tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd means; past meant; pp meant; ing meaning",
+    "related": "nan",
+    "position": 1000,
+    "extra": {}
+  },
+  {
+    "word": "means",
+    "pos": "n.",
+    "phonetic": "BrE /minz/; AmE /minz/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed means in the meeting.\nA: Any update? B: We will review means tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural meanses",
+    "related": "nan",
+    "position": 1000,
+    "extra": {}
+  },
+  {
     "word": "provide",
     "pos": "v.",
     "phonetic": "BrE /prəˈvaɪd/；AmE /prəˈvaɪd/",
@@ -195,6 +262,34 @@
     }
   },
   {
+    "word": "since",
+    "pos": "phrase",
+    "phonetic": "BrE /sɪns/; AmE /sɪns/",
+    "meaning": "自从；因为；既然",
+    "example": "I’ve lived here since 2020.\nA: Why now? B: Since you ask, I’ll explain.",
+    "collocation": "since + time; since + clause（因为）",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1000,
+    "extra": {}
+  },
+  {
+    "word": "unless",
+    "pos": "phrase",
+    "phonetic": "BrE /ʌnlɛs/; AmE /ʌnlɛs/",
+    "meaning": "除非；如果不",
+    "example": "Don’t call me unless it’s urgent.\nA: Can I leave early? B: Not unless you finish.",
+    "collocation": "unless + clause; unless otherwise stated",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "un-（否定）+ 词根"
+    }
+  },
+  {
     "word": "up to",
     "pos": "phrase (prep./idiom)",
     "phonetic": "BrE /ˈʌp tuː/; AmE /ˈʌp tuː/",
@@ -208,6 +303,123 @@
     "extra": {
       "词根词缀,词头词尾": "固定短语：up（至/向上）+ to（到）"
     }
+  },
+  {
+    "word": "within",
+    "pos": "phrase",
+    "phonetic": "BrE /wɪðɪn/; AmE /wɪðɪn/",
+    "meaning": "在…之内；不超过",
+    "example": "Please reply within two days.\nA: How long? B: Within a week.",
+    "collocation": "within + time/area; within reach; within limits",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1000,
+    "extra": {}
+  },
+  {
+    "word": "be considerate of",
+    "pos": "phrase",
+    "phonetic": "BrE /bi/ /kʌnsɪdɝʌt/ /ʌv/; AmE /bi/ /kʌnsɪdɝʌt/ /ʌv/",
+    "meaning": "体谅…；为…着想",
+    "example": "Please be considerate of your neighbors.\nA: Loud music? B: Be considerate of others.",
+    "collocation": "be considerate of sb; considerate of others",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
+  },
+  {
+    "word": "change to",
+    "pos": "phrase",
+    "phonetic": "BrE /tʃeɪndʒ/ /tu/; AmE /tʃeɪndʒ/ /tu/",
+    "meaning": "改成；转换为",
+    "example": "Please change to a different seat.\nA: Same plan? B: No, we changed to Plan B.",
+    "collocation": "change to + n.; change A to B",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
+  },
+  {
+    "word": "due to",
+    "pos": "phrase",
+    "phonetic": "BrE /du/ /tu/; AmE /du/ /tu/",
+    "meaning": "由于；因为（正式）",
+    "example": "The flight was delayed due to bad weather.\nA: Why late? B: Due to traffic.",
+    "collocation": "due to + n./V-ing; due to the fact that（正式）",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
+  },
+  {
+    "word": "field trip",
+    "pos": "phrase",
+    "phonetic": "BrE /fild/ /trɪp/; AmE /fild/ /trɪp/",
+    "meaning": "实地考察；校外参观",
+    "example": "We went on a field trip to the museum.\nA: Class today? B: No—field trip.",
+    "collocation": "go on a field trip; field trip to + place",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
+  },
+  {
+    "word": "get into",
+    "pos": "phrase",
+    "phonetic": "BrE /ɡɛt/ /ɪntu/; AmE /ɡɛt/ /ɪntu/",
+    "meaning": "进入；开始从事；陷入",
+    "example": "He got into trouble at school.\nA: New hobby? B: I got into photography.",
+    "collocation": "get into trouble; get into a habit; get into a field",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
+  },
+  {
+    "word": "need doing",
+    "pos": "phrase",
+    "phonetic": "BrE /nid/ /duɪŋ/; AmE /nid/ /duɪŋ/",
+    "meaning": "需要被…（= need to be done）",
+    "example": "The car needs repairing.\nA: Is the report ready? B: It still needs editing.",
+    "collocation": "need doing; need + V-ing",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
+  },
+  {
+    "word": "need to do",
+    "pos": "phrase",
+    "phonetic": "BrE /nid/ /tu/ /du/; AmE /nid/ /tu/ /du/",
+    "meaning": "需要做…（强调动作）",
+    "example": "We need to do more research.\nA: What next? B: We need to do a quick check.",
+    "collocation": "need to do sth; need to + V",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
+  },
+  {
+    "word": "nevertheless",
+    "pos": "phrase",
+    "phonetic": "BrE /nɛvɝðʌlɛs/; AmE /nɛvɝðʌlɛs/",
+    "meaning": "然而；尽管如此（正式）",
+    "example": "It was raining; nevertheless, we went out.\nA: Any risks? B: Nevertheless, we’ll proceed.",
+    "collocation": "nevertheless, ...; nevertheless + clause",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
   },
   {
     "word": "sent over",
@@ -238,6 +450,19 @@
     "extra": {
       "词根词缀,词头词尾": "suppose 的过去分词作形容词用法"
     }
+  },
+  {
+    "word": "therefore",
+    "pos": "phrase",
+    "phonetic": "BrE /ðɛrfɔr/; AmE /ðɛrfɔr/",
+    "meaning": "因此；所以（正式）",
+    "example": "The data is incomplete; therefore, the result is uncertain.\nA: So what? B: Therefore we should rerun it.",
+    "collocation": "and therefore; therefore + clause",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 1500,
+    "extra": {}
   },
   {
     "word": "under somebody’s name",
@@ -1980,6 +2205,84 @@
     }
   },
   {
+    "word": "accountant",
+    "pos": "adj.",
+    "phonetic": "BrE /ʌkaʊntʌnt/; AmE /ʌkaʊntʌnt/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed accountant in the meeting.\nA: Any update? B: We will review accountant tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "affair",
+    "pos": "n.",
+    "phonetic": "BrE /ʌfɛr/; AmE /ʌfɛr/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed affair in the meeting.\nA: Any update? B: We will review affair tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural affairs",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "affiliate",
+    "pos": "v.",
+    "phonetic": "BrE /ʌfɪlieɪt/; AmE /ʌfɪlieɪt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed affiliate in the meeting.\nA: Any update? B: We will review affiliate tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd affiliates; past affiliated; pp affiliated; ing affiliating",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "afford",
+    "pos": "v.",
+    "phonetic": "BrE /ʌfɔrd/; AmE /ʌfɔrd/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed afford in the meeting.\nA: Any update? B: We will review afford tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd affords; past afforded; pp afforded; ing affording",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "airfare",
+    "pos": "n.",
+    "phonetic": "BrE /ɛrfɛr/; AmE /ɛrfɛr/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed airfare in the meeting.\nA: Any update? B: We will review airfare tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural airfares",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "alma",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /ɑlmʌ/; AmE /ɑlmʌ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed alma in the meeting.\nA: Any update? B: We will review alma tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural almas",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "analysis",
     "pos": "n.",
     "phonetic": "BrE /əˈnæləsɪs/; AmE /əˈnæləsɪs/",
@@ -2010,6 +2313,34 @@
     }
   },
   {
+    "word": "appraisal",
+    "pos": "n.",
+    "phonetic": "BrE /ʌpreɪzʌl/; AmE /ʌpreɪzʌl/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed appraisal in the meeting.\nA: Any update? B: We will review appraisal tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural appraisals",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -al（形容词/名词后缀）"
+    }
+  },
+  {
+    "word": "aspect",
+    "pos": "n.",
+    "phonetic": "BrE /æspɛkt/; AmE /æspɛkt/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed aspect in the meeting.\nA: Any update? B: We will review aspect tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural aspects",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "assembly",
     "pos": "n.",
     "phonetic": "BrE /əˈsembli/；AmE /əˈsɛmbli/",
@@ -2023,6 +2354,45 @@
     "extra": {
       "词根词缀,词头词尾": "assemble（集合/装配）+ -y（名词后缀）"
     }
+  },
+  {
+    "word": "asset",
+    "pos": "n.",
+    "phonetic": "BrE /æsɛt/; AmE /æsɛt/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed asset in the meeting.\nA: Any update? B: We will review asset tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural assets",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "attitude",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /ætʌtud/; AmE /ætʌtud/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed attitude in the meeting.\nA: Any update? B: We will review attitude tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural attitudes",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "attribute",
+    "pos": "v.",
+    "phonetic": "BrE /ætrʌbjut/; AmE /ætrʌbjut/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed attribute in the meeting.\nA: Any update? B: We will review attribute tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd attributes; past attributed; pp attributed; ing attributing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "audit",
@@ -2040,6 +2410,19 @@
     }
   },
   {
+    "word": "auditor",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /ɔdɪtɝ/; AmE /ɔdɪtɝ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed auditor in the meeting.\nA: Any update? B: We will review auditor tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural auditors",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "avenue",
     "pos": "n.",
     "phonetic": "BrE /ˈævənjuː/；AmE /ˈævənuː/",
@@ -2053,6 +2436,19 @@
     "extra": {
       "词根词缀,词头词尾": "借词；抽象义“途径”常见于学术/商务"
     }
+  },
+  {
+    "word": "basis",
+    "pos": "n.",
+    "phonetic": "BrE /beɪsʌs/; AmE /beɪsʌs/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed basis in the meeting.\nA: Any update? B: We will review basis tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural basises",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "bend down",
@@ -2100,6 +2496,58 @@
     }
   },
   {
+    "word": "calculate",
+    "pos": "v.",
+    "phonetic": "BrE /kælkjʌleɪt/; AmE /kælkjʌleɪt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed calculate in the meeting.\nA: Any update? B: We will review calculate tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd calculates; past calculated; pp calculated; ing calculating",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "cancer",
+    "pos": "n.",
+    "phonetic": "BrE /kænsɝ/; AmE /kænsɝ/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed cancer in the meeting.\nA: Any update? B: We will review cancer tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural cancers",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "cellular",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /sɛljʌlɝ/; AmE /sɛljʌlɝ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed cellular in the meeting.\nA: Any update? B: We will review cellular tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural cellulars",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "claim",
+    "pos": "n.",
+    "phonetic": "BrE /kleɪm/; AmE /kleɪm/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed claim in the meeting.\nA: Any update? B: We will review claim tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural claims",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "clerk",
     "pos": "n.",
     "phonetic": "BrE /klɑːk/; AmE /klɝːk/",
@@ -2113,6 +2561,47 @@
     "extra": {
       "词根词缀,词头词尾": "职业名词；词缀不典型"
     }
+  },
+  {
+    "word": "commercial",
+    "pos": "n.",
+    "phonetic": "BrE /kʌmɝʃʌl/; AmE /kʌmɝʃʌl/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed commercial in the meeting.\nA: Any update? B: We will review commercial tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural commercials",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -al（形容词/名词后缀）"
+    }
+  },
+  {
+    "word": "commute",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /kʌmjut/; AmE /kʌmjut/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed commute in the meeting.\nA: Any update? B: We will review commute tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural commutes",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "commuting",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /kʌmjutɪŋ/; AmE /kʌmjutɪŋ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed commuting in the meeting.\nA: Any update? B: We will review commuting tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural commutings",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "comprehensive",
@@ -2160,6 +2649,60 @@
     }
   },
   {
+    "word": "container",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /kʌnteɪnɝ/; AmE /kʌnteɪnɝ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed container in the meeting.\nA: Any update? B: We will review container tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural containers",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "contribute",
+    "pos": "v.",
+    "phonetic": "BrE /kʌntrɪbjut/; AmE /kʌntrɪbjut/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed contribute in the meeting.\nA: Any update? B: We will review contribute tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd contributes; past contributed; pp contributed; ing contributing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "controversial",
+    "pos": "n.",
+    "phonetic": "BrE /kɑntrʌvɝʃʌl/; AmE /kɑntrʌvɝʃʌl/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed controversial in the meeting.\nA: Any update? B: We will review controversial tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural controversials",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -al（形容词/名词后缀）"
+    }
+  },
+  {
+    "word": "convey",
+    "pos": "v.",
+    "phonetic": "BrE /kʌnveɪ/; AmE /kʌnveɪ/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed convey in the meeting.\nA: Any update? B: We will review convey tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd conveys; past conveyed; pp conveyed; ing conveying",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "corporate",
     "pos": "adj.",
     "phonetic": "BrE /ˈkɔːpərət/；AmE /ˈkɔːrpərət/",
@@ -2173,6 +2716,32 @@
     "extra": {
       "词根词缀,词头词尾": "corpor（身体/团体）语源 + -ate（形容词化）"
     }
+  },
+  {
+    "word": "cosmetic",
+    "pos": "adj.",
+    "phonetic": "BrE /kɑzmɛtɪk/; AmE /kɑzmɛtɪk/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed cosmetic in the meeting.\nA: Any update? B: We will review cosmetic tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "critic",
+    "pos": "adj.",
+    "phonetic": "BrE /krɪtɪk/; AmE /krɪtɪk/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed critic in the meeting.\nA: Any update? B: We will review critic tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "customs",
@@ -2190,6 +2759,71 @@
     }
   },
   {
+    "word": "declare",
+    "pos": "v.",
+    "phonetic": "BrE /dɪklɛr/; AmE /dɪklɛr/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed declare in the meeting.\nA: Any update? B: We will review declare tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd declares; past declared; pp declared; ing declaring",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "decrease",
+    "pos": "v.",
+    "phonetic": "BrE /dɪkris/; AmE /dɪkris/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed decrease in the meeting.\nA: Any update? B: We will review decrease tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd decreases; past decreased; pp decreased; ing decreasing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "dedicate",
+    "pos": "v.",
+    "phonetic": "BrE /dɛdʌkeɪt/; AmE /dɛdʌkeɪt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed dedicate in the meeting.\nA: Any update? B: We will review dedicate tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd dedicates; past dedicated; pp dedicated; ing dedicating",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "deduct",
+    "pos": "v.",
+    "phonetic": "BrE /dɪdʌkt/; AmE /dɪdʌkt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed deduct in the meeting.\nA: Any update? B: We will review deduct tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd deducts; past deducted; pp deducted; ing deducting",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "defect",
+    "pos": "n.",
+    "phonetic": "BrE /difɛkt/; AmE /difɛkt/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed defect in the meeting.\nA: Any update? B: We will review defect tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural defects",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "demonstrate",
     "pos": "v.",
     "phonetic": "BrE /ˈdemənstreɪt/; AmE /ˈdemənstreɪt/",
@@ -2205,6 +2839,32 @@
     }
   },
   {
+    "word": "deposit",
+    "pos": "v.",
+    "phonetic": "BrE /dʌpɑzɪt/; AmE /dʌpɑzɪt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed deposit in the meeting.\nA: Any update? B: We will review deposit tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd deposits; past deposited; pp deposited; ing depositing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "distinguish",
+    "pos": "v.",
+    "phonetic": "BrE /dɪstɪŋɡwɪʃ/; AmE /dɪstɪŋɡwɪʃ/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed distinguish in the meeting.\nA: Any update? B: We will review distinguish tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd distinguishes; past distinguished; pp distinguished; ing distinguishing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "distribute",
     "pos": "v.",
     "phonetic": "BrE /dɪˈstrɪbjuːt/；AmE /dɪˈstrɪbjuːt/",
@@ -2218,6 +2878,71 @@
     "extra": {
       "词根词缀,词头词尾": "dis-：分开/向四处 + tribute（分配）"
     }
+  },
+  {
+    "word": "drill",
+    "pos": "v.",
+    "phonetic": "BrE /drɪl/; AmE /drɪl/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed drill in the meeting.\nA: Any update? B: We will review drill tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd drills; past drilled; pp drilled; ing drilling",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "duplicate",
+    "pos": "v.",
+    "phonetic": "BrE /duplʌkʌt/; AmE /duplʌkʌt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed duplicate in the meeting.\nA: Any update? B: We will review duplicate tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd duplicates; past duplicated; pp duplicated; ing duplicating",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "eager",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /iɡɝ/; AmE /iɡɝ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed eager in the meeting.\nA: Any update? B: We will review eager tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural eagers",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "effect",
+    "pos": "n.",
+    "phonetic": "BrE /ɪfɛkt/; AmE /ɪfɛkt/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed effect in the meeting.\nA: Any update? B: We will review effect tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural effects",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "effectuate",
+    "pos": "v.",
+    "phonetic": "BrE /ɪfɛktʃueɪt/; AmE /ɪfɛktʃueɪt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed effectuate in the meeting.\nA: Any update? B: We will review effectuate tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd effectuates; past effectuated; pp effectuated; ing effectuating",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "efficiency",
@@ -2310,6 +3035,32 @@
     }
   },
   {
+    "word": "faded",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /feɪdʌd/; AmE /feɪdʌd/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed faded in the meeting.\nA: Any update? B: We will review faded tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural fadeds",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "failure",
+    "pos": "n.",
+    "phonetic": "BrE /feɪljɝ/; AmE /feɪljɝ/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed failure in the meeting.\nA: Any update? B: We will review failure tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural failures",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "founder",
     "pos": "n./v.",
     "phonetic": "BrE /ˈfaʊndə/; AmE /ˈfaʊndər/",
@@ -2325,6 +3076,32 @@
     }
   },
   {
+    "word": "grant",
+    "pos": "adj.",
+    "phonetic": "BrE /ɡrænt/; AmE /ɡrænt/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed grant in the meeting.\nA: Any update? B: We will review grant tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "granted（已给予的）；granting（授予/给予）；grantor（授予方，法律）",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "granted",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /ɡræntʌd/; AmE /ɡræntʌd/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed granted in the meeting.\nA: Any update? B: We will review granted tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural granteds",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "grocery",
     "pos": "n.",
     "phonetic": "BrE /ˈɡrəʊsəri/；AmE /ˈɡroʊsəri/",
@@ -2338,6 +3115,47 @@
     "extra": {
       "词根词缀,词头词尾": "-y：名词后缀“……相关的事物/集合”（常 n.）"
     }
+  },
+  {
+    "word": "guarantee",
+    "pos": "v.",
+    "phonetic": "BrE /ɡɛrʌnti/; AmE /ɡɛrʌnti/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed guarantee in the meeting.\nA: Any update? B: We will review guarantee tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd guarantees; past guaranteed; pp guaranteed; ing guaranteing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "habitual",
+    "pos": "n.",
+    "phonetic": "BrE /hʌbɪtʃuʌl/; AmE /hʌbɪtʃuʌl/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed habitual in the meeting.\nA: Any update? B: We will review habitual tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural habituals",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -al（形容词/名词后缀）"
+    }
+  },
+  {
+    "word": "harsh",
+    "pos": "adj.",
+    "phonetic": "BrE /hɑrʃ/; AmE /hɑrʃ/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed harsh in the meeting.\nA: Any update? B: We will review harsh tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "hourly",
@@ -2368,6 +3186,58 @@
     "extra": {
       "词根词缀,词头词尾": "im-（向内/加强）+ ply（折叠/编织语源，延伸为“含在里面”）"
     }
+  },
+  {
+    "word": "improve",
+    "pos": "v.",
+    "phonetic": "BrE /ɪmpruv/; AmE /ɪmpruv/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed improve in the meeting.\nA: Any update? B: We will review improve tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd improves; past improved; pp improved; ing improving",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "indicator",
+    "pos": "n.",
+    "phonetic": "BrE /ɪndʌkeɪtɝ/; AmE /ɪndʌkeɪtɝ/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed indicator in the meeting.\nA: Any update? B: We will review indicator tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural indicators",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "inflict",
+    "pos": "v.",
+    "phonetic": "BrE /ɪnflɪkt/; AmE /ɪnflɪkt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed inflict in the meeting.\nA: Any update? B: We will review inflict tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd inflicts; past inflicted; pp inflicted; ing inflicting",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "inform",
+    "pos": "v.",
+    "phonetic": "BrE /ɪnfɔrm/; AmE /ɪnfɔrm/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed inform in the meeting.\nA: Any update? B: We will review inform tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd informs; past informed; pp informed; ing informing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "insight",
@@ -2413,6 +3283,19 @@
     "extra": {
       "词根词缀,词头词尾": "inspect（检查）+ -ion（名词后缀：过程/结果）"
     }
+  },
+  {
+    "word": "insure",
+    "pos": "n.",
+    "phonetic": "BrE /ɪnʃʊr/; AmE /ɪnʃʊr/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed insure in the meeting.\nA: Any update? B: We will review insure tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural insures",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "interior",
@@ -2490,6 +3373,19 @@
     }
   },
   {
+    "word": "maintain",
+    "pos": "v.",
+    "phonetic": "BrE /meɪnteɪn/; AmE /meɪnteɪn/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed maintain in the meeting.\nA: Any update? B: We will review maintain tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd maintains; past maintained; pp maintained; ing maintaining",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "manufacture",
     "pos": "v./n.",
     "phonetic": "BrE /ˌmænjuˈfæktʃə/；AmE /ˌmænjuˈfæktʃər/",
@@ -2503,6 +3399,45 @@
     "extra": {
       "词根词缀,词头词尾": "manu（手）+ fact（做）→“手工制作”语源；-ure 常见名词后缀"
     }
+  },
+  {
+    "word": "mater",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /mɑtɝ/; AmE /mɑtɝ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed mater in the meeting.\nA: Any update? B: We will review mater tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural maters",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "merge",
+    "pos": "v.",
+    "phonetic": "BrE /mɝdʒ/; AmE /mɝdʒ/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed merge in the meeting.\nA: Any update? B: We will review merge tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd merges; past merged; pp merged; ing merging",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "minimize",
+    "pos": "v.",
+    "phonetic": "BrE /mɪnʌmaɪz/; AmE /mɪnʌmaɪz/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed minimize in the meeting.\nA: Any update? B: We will review minimize tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd minimizes; past minimized; pp minimized; ing minimizing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "modify",
@@ -2533,6 +3468,32 @@
     "extra": {
       "词根词缀,词头词尾": "ob-（向/朝）+ tain（握住，见 retain/contain）"
     }
+  },
+  {
+    "word": "occupancy",
+    "pos": "n.",
+    "phonetic": "BrE /ɑkjʌpʌnsi/; AmE /ɑkjʌpʌnsi/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed occupancy in the meeting.\nA: Any update? B: We will review occupancy tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural occupancies",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "orangutans",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /ɔræŋʌtænz/; AmE /ɔræŋʌtænz/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed orangutans in the meeting.\nA: Any update? B: We will review orangutans tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural orangutanses",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "overlook",
@@ -2580,6 +3541,32 @@
     }
   },
   {
+    "word": "prefer",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /prʌfɝ/; AmE /prʌfɝ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed prefer in the meeting.\nA: Any update? B: We will review prefer tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural prefers",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "prevent",
+    "pos": "adj.",
+    "phonetic": "BrE /prɪvɛnt/; AmE /prɪvɛnt/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed prevent in the meeting.\nA: Any update? B: We will review prevent tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "profitable",
     "pos": "adj.",
     "phonetic": "BrE /ˈprɒfɪtəbl/；AmE /ˈprɑːfɪtəbl/",
@@ -2593,6 +3580,19 @@
     "extra": {
       "词根词缀,词头词尾": "profit（利润）+ -able（可…的，形容词后缀）"
     }
+  },
+  {
+    "word": "prominent",
+    "pos": "adj.",
+    "phonetic": "BrE /prɑmʌnʌnt/; AmE /prɑmʌnʌnt/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed prominent in the meeting.\nA: Any update? B: We will review prominent tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "purchase",
@@ -2640,6 +3640,21 @@
     }
   },
   {
+    "word": "recall",
+    "pos": "v.",
+    "phonetic": "BrE /rikɔl/; AmE /rikɔl/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed recall in the meeting.\nA: Any update? B: We will review recall tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd recalls; past recalled; pp recalled; ing recalling",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
     "word": "reception",
     "pos": "n.",
     "phonetic": "BrE /rɪˈsepʃən/; AmE /rɪˈsepʃən/",
@@ -2652,6 +3667,81 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "receive（接收）+ -tion（名词后缀：行为/结果）"
+    }
+  },
+  {
+    "word": "recreational",
+    "pos": "n.",
+    "phonetic": "BrE /rɛkrieɪʃʌnʌl/; AmE /rɛkrieɪʃʌnʌl/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed recreational in the meeting.\nA: Any update? B: We will review recreational tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural recreationals",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
+    "word": "remind",
+    "pos": "v.",
+    "phonetic": "BrE /rimaɪnd/; AmE /rimaɪnd/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed remind in the meeting.\nA: Any update? B: We will review remind tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd reminds; past reminded; pp reminded; ing reminding",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
+    "word": "residential",
+    "pos": "n.",
+    "phonetic": "BrE /rɛzɪdɛnʃʌl/; AmE /rɛzɪdɛnʃʌl/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed residential in the meeting.\nA: Any update? B: We will review residential tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural residentials",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
+    "word": "restructure",
+    "pos": "n.",
+    "phonetic": "BrE /ristrʌktʃɝ/; AmE /ristrʌktʃɝ/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed restructure in the meeting.\nA: Any update? B: We will review restructure tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural restructures",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
+    "word": "restructuring",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /ristrʌktʃɝɪŋ/; AmE /ristrʌktʃɝɪŋ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed restructuring in the meeting.\nA: Any update? B: We will review restructuring tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural restructurings",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
     }
   },
   {
@@ -2670,6 +3760,45 @@
     }
   },
   {
+    "word": "scratch",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /skrætʃ/; AmE /skrætʃ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed scratch in the meeting.\nA: Any update? B: We will review scratch tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural scratches",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "separate",
+    "pos": "v.",
+    "phonetic": "BrE /sɛpɝeɪt/; AmE /sɛpɝeɪt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed separate in the meeting.\nA: Any update? B: We will review separate tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd separates; past separated; pp separated; ing separating",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "shallow",
+    "pos": "adj.",
+    "phonetic": "BrE /ʃæloʊ/; AmE /ʃæloʊ/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed shallow in the meeting.\nA: Any update? B: We will review shallow tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "shelf",
     "pos": "n.",
     "phonetic": "BrE /ʃelf/；AmE /ʃelf/",
@@ -2685,6 +3814,19 @@
     }
   },
   {
+    "word": "shrink",
+    "pos": "v.",
+    "phonetic": "BrE /ʃrɪŋk/; AmE /ʃrɪŋk/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed shrink in the meeting.\nA: Any update? B: We will review shrink tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd shrinks; past shrank; pp shrunk; ing shrinking",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
     "word": "spacious",
     "pos": "adj.",
     "phonetic": "BrE /ˈspeɪʃəs/；AmE /ˈspeɪʃəs/",
@@ -2698,6 +3840,166 @@
     "extra": {
       "词根词缀,词头词尾": "space（空间）+ -ious（形容词后缀：充满…的）"
     }
+  },
+  {
+    "word": "submit",
+    "pos": "v.",
+    "phonetic": "BrE /sʌbmɪt/; AmE /sʌbmɪt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed submit in the meeting.\nA: Any update? B: We will review submit tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd submits; past submitted; pp submitted; ing submitting",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "subsidy",
+    "pos": "n.",
+    "phonetic": "BrE /sʌbsɪdi/; AmE /sʌbsɪdi/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed subsidy in the meeting.\nA: Any update? B: We will review subsidy tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural subsidies",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "subtract",
+    "pos": "v.",
+    "phonetic": "BrE /sʌbtrækt/; AmE /sʌbtrækt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed subtract in the meeting.\nA: Any update? B: We will review subtract tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd subtracts; past subtracted; pp subtracted; ing subtracting",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "superior",
+    "pos": "adj.",
+    "phonetic": "BrE /supɪriɝ/; AmE /supɪriɝ/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed superior in the meeting.\nA: Any update? B: We will review superior tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "transcribe",
+    "pos": "v.",
+    "phonetic": "BrE /trænskraɪb/; AmE /trænskraɪb/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed transcribe in the meeting.\nA: Any update? B: We will review transcribe tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd transcribes; past transcribed; pp transcribed; ing transcribing",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "triple",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /trɪpʌl/; AmE /trɪpʌl/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed triple in the meeting.\nA: Any update? B: We will review triple tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural triples",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "unauthorized",
+    "pos": "adj.",
+    "phonetic": "BrE /ʌnɔθɝaɪzd/; AmE /ʌnɔθɝaɪzd/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed unauthorized in the meeting.\nA: Any update? B: We will review unauthorized tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "un-（否定）+ 词根"
+    }
+  },
+  {
+    "word": "unpermitted",
+    "pos": "adj.",
+    "phonetic": "BrE ; AmE",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed unpermitted in the meeting.\nA: Any update? B: We will review unpermitted tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "un-（否定）+ 词根"
+    }
+  },
+  {
+    "word": "urban",
+    "pos": "adj.",
+    "phonetic": "BrE /ɝbʌn/; AmE /ɝbʌn/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed urban in the meeting.\nA: Any update? B: We will review urban tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "urgency",
+    "pos": "n.",
+    "phonetic": "BrE /ɝdʒʌnsi/; AmE /ɝdʒʌnsi/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed urgency in the meeting.\nA: Any update? B: We will review urgency tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural urgencies",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "valid",
+    "pos": "adj.",
+    "phonetic": "BrE /vælɪd/; AmE /vælɪd/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed valid in the meeting.\nA: Any update? B: We will review valid tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 4000,
+    "extra": {}
+  },
+  {
+    "word": "validate",
+    "pos": "v.",
+    "phonetic": "BrE /vælʌdeɪt/; AmE /vælʌdeɪt/",
+    "meaning": "动词：执行/进行（需结合语境）",
+    "example": "We discussed validate in the meeting.\nA: Any update? B: We will review validate tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "3rd validates; past validated; pp validated; ing validating",
+    "related": "valid（有效的）；validation（验证）；invalid（无效的）",
+    "position": 4000,
+    "extra": {}
   },
   {
     "word": "variable",
@@ -2730,6 +4032,21 @@
     }
   },
   {
+    "word": "accurately",
+    "pos": "adv.",
+    "phonetic": "BrE /ækjɝʌtli/; AmE /ækjɝʌtli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed accurately in the meeting.\nA: Any update? B: We will review accurately tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
     "word": "acknowledge",
     "pos": "v.",
     "phonetic": "BrE /əkˈnɒlɪdʒ/；AmE /əkˈnɑːlɪdʒ/",
@@ -2745,6 +4062,36 @@
     }
   },
   {
+    "word": "actually",
+    "pos": "adv.",
+    "phonetic": "BrE /æktʃuʌli/; AmE /æktʃuʌli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed actually in the meeting.\nA: Any update? B: We will review actually tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "apparently",
+    "pos": "adv.",
+    "phonetic": "BrE /ʌpɛrʌntli/; AmE /ʌpɛrʌntli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed apparently in the meeting.\nA: Any update? B: We will review apparently tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
     "word": "architect",
     "pos": "n.",
     "phonetic": "BrE /ˈɑːkɪtekt/；AmE /ˈɑːrkɪtekt/",
@@ -2757,6 +4104,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "archi-（主要）+ tect（建造）"
+    }
+  },
+  {
+    "word": "bilaterally",
+    "pos": "adv.",
+    "phonetic": "BrE /baɪlætɝʌli/; AmE /baɪlætɝʌli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed bilaterally in the meeting.\nA: Any update? B: We will review bilaterally tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
     }
   },
   {
@@ -2865,6 +4227,36 @@
     }
   },
   {
+    "word": "diligently",
+    "pos": "adv.",
+    "phonetic": "BrE /dɪlʌdʒʌntli/; AmE /dɪlʌdʒʌntli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed diligently in the meeting.\nA: Any update? B: We will review diligently tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "distinguishable",
+    "pos": "adj.",
+    "phonetic": "BrE /dɪstɪŋɡwɪʃʌbʌl/; AmE /dɪstɪŋɡwɪʃʌbʌl/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed distinguishable in the meeting.\nA: Any update? B: We will review distinguishable tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -able/-ible（形容词后缀：可…的）"
+    }
+  },
+  {
     "word": "distribution",
     "pos": "n.",
     "phonetic": "BrE /ˌdɪstrɪˈbjuːʃən/; AmE /ˌdɪstrəˈbjuːʃən/",
@@ -2877,6 +4269,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "distribute + -ion（名词后缀：过程/结果；常用于名词）"
+    }
+  },
+  {
+    "word": "drastically",
+    "pos": "adv.",
+    "phonetic": "BrE /dræstɪkli/; AmE /dræstɪkli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed drastically in the meeting.\nA: Any update? B: We will review drastically tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
     }
   },
   {
@@ -2910,6 +4317,36 @@
     }
   },
   {
+    "word": "eventually",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪvɛntʃʌwʌli/; AmE /ɪvɛntʃʌwʌli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed eventually in the meeting.\nA: Any update? B: We will review eventually tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "fairly",
+    "pos": "adv.",
+    "phonetic": "BrE /fɛrli/; AmE /fɛrli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed fairly in the meeting.\nA: Any update? B: We will review fairly tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
     "word": "fountain",
     "pos": "n.",
     "phonetic": "BrE /ˈfaʊntɪn/；AmE /ˈfaʊntən/",
@@ -2940,6 +4377,36 @@
     }
   },
   {
+    "word": "gradually",
+    "pos": "adv.",
+    "phonetic": "BrE /ɡrædʒuʌli/; AmE /ɡrædʒuʌli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed gradually in the meeting.\nA: Any update? B: We will review gradually tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "hardly",
+    "pos": "adv.",
+    "phonetic": "BrE /hɑrdli/; AmE /hɑrdli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed hardly in the meeting.\nA: Any update? B: We will review hardly tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
     "word": "headquarter(s)",
     "pos": "n.（常用 headquarters）",
     "phonetic": "BrE /ˈhedˌkwɔːtəz/；AmE /ˈhedˌkwɔːrtərz/",
@@ -2952,6 +4419,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "head + quarter（驻扎处）+ -s（固定形式）"
+    }
+  },
+  {
+    "word": "inevitably",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪnɛvʌtʌbli/; AmE /ɪnɛvʌtʌbli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed inevitably in the meeting.\nA: Any update? B: We will review inevitably tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
     }
   },
   {
@@ -3000,6 +4482,66 @@
     }
   },
   {
+    "word": "objective",
+    "pos": "adj.",
+    "phonetic": "BrE /ʌbdʒɛktɪv/; AmE /ʌbdʒɛktɪv/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed objective in the meeting.\nA: Any update? B: We will review objective tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ive（形容词后缀）"
+    }
+  },
+  {
+    "word": "observable",
+    "pos": "adj.",
+    "phonetic": "BrE /ʌbzɝvʌbʌl/; AmE /ʌbzɝvʌbʌl/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed observable in the meeting.\nA: Any update? B: We will review observable tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -able/-ible（形容词后缀：可…的）"
+    }
+  },
+  {
+    "word": "occasionally",
+    "pos": "adv.",
+    "phonetic": "BrE /ʌkeɪʒʌnʌli/; AmE /ʌkeɪʒʌnʌli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed occasionally in the meeting.\nA: Any update? B: We will review occasionally tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "passionately",
+    "pos": "adv.",
+    "phonetic": "BrE /pæʃʌnʌtli/; AmE /pæʃʌnʌtli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed passionately in the meeting.\nA: Any update? B: We will review passionately tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
     "word": "portrait",
     "pos": "n.",
     "phonetic": "BrE /ˈpɔːtrɪt/；AmE /ˈpɔːrtrɪt/",
@@ -3012,6 +4554,36 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "借词；-trait（特征）语源相关"
+    }
+  },
+  {
+    "word": "practically",
+    "pos": "adv.",
+    "phonetic": "BrE /præktɪkli/; AmE /præktɪkli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed practically in the meeting.\nA: Any update? B: We will review practically tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "preferable",
+    "pos": "adj.",
+    "phonetic": "BrE /prɛfɝʌbʌl/; AmE /prɛfɝʌbʌl/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed preferable in the meeting.\nA: Any update? B: We will review preferable tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -able/-ible（形容词后缀：可…的）"
     }
   },
   {
@@ -3075,6 +4647,21 @@
     }
   },
   {
+    "word": "reimbursable",
+    "pos": "adj.",
+    "phonetic": "BrE ; AmE",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed reimbursable in the meeting.\nA: Any update? B: We will review reimbursable tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
     "word": "representation",
     "pos": "n.",
     "phonetic": "BrE /ˌreprɪzenˈteɪʃən/; AmE /ˌreprɪzenˈteɪʃən/",
@@ -3105,6 +4692,66 @@
     }
   },
   {
+    "word": "respectably",
+    "pos": "adv.",
+    "phonetic": "BrE /rispɛktʌbli/; AmE /rispɛktʌbli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed respectably in the meeting.\nA: Any update? B: We will review respectably tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
+    "word": "respectfully",
+    "pos": "adv.",
+    "phonetic": "BrE /rɪspɛktfʌli/; AmE /rɪspɛktfʌli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed respectfully in the meeting.\nA: Any update? B: We will review respectfully tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
+    "word": "respectively",
+    "pos": "adv.",
+    "phonetic": "BrE /rɪspɛktɪvli/; AmE /rɪspɛktɪvli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed respectively in the meeting.\nA: Any update? B: We will review respectively tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
+    "word": "reversible",
+    "pos": "adj.",
+    "phonetic": "BrE /rɪvɝsʌbʌl/; AmE /rɪvɝsʌbʌl/",
+    "meaning": "形容词：性质/特征（需结合语境）",
+    "example": "We discussed reversible in the meeting.\nA: Any update? B: We will review reversible tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "comparative more ...; superlative most ...",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
+    }
+  },
+  {
     "word": "right to your in-box",
     "pos": "phrase",
     "phonetic": "BrE /raɪt tuː jɔː ˈɪnbɒks/；AmE /raɪt tuː jʊr ˈɪnbɑːks/",
@@ -3120,6 +4767,36 @@
     }
   },
   {
+    "word": "separately",
+    "pos": "adv.",
+    "phonetic": "BrE /sɛpɝʌtli/; AmE /sɛpɝʌtli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed separately in the meeting.\nA: Any update? B: We will review separately tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "shallowly",
+    "pos": "adv.",
+    "phonetic": "BrE ; AmE",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed shallowly in the meeting.\nA: Any update? B: We will review shallowly tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
     "word": "shortage",
     "pos": "n.",
     "phonetic": "BrE /ˈʃɔːtɪdʒ/；AmE /ˈʃɔːrtɪdʒ/",
@@ -3132,6 +4809,51 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "-age：名词后缀“状态/总称”（常 n.）"
+    }
+  },
+  {
+    "word": "slimly",
+    "pos": "adv.",
+    "phonetic": "BrE ; AmE",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed slimly in the meeting.\nA: Any update? B: We will review slimly tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "specifically",
+    "pos": "adv.",
+    "phonetic": "BrE /spʌsɪfɪkli/; AmE /spʌsɪfɪkli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed specifically in the meeting.\nA: Any update? B: We will review specifically tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "sporadically",
+    "pos": "adv.",
+    "phonetic": "BrE /spɝædɪkli/; AmE /spɝædɪkli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed sporadically in the meeting.\nA: Any update? B: We will review sporadically tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
     }
   },
   {
@@ -3165,6 +4887,36 @@
     }
   },
   {
+    "word": "thoroughly",
+    "pos": "adv.",
+    "phonetic": "BrE /θɝoʊli/; AmE /θɝoʊli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed thoroughly in the meeting.\nA: Any update? B: We will review thoroughly tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
+    }
+  },
+  {
+    "word": "unanimously",
+    "pos": "adv.",
+    "phonetic": "BrE /junænʌmʌsli/; AmE /junænʌmʌsli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed unanimously in the meeting.\nA: Any update? B: We will review unanimously tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "un-（否定）+ 词根"
+    }
+  },
+  {
     "word": "underwent",
     "pos": "v.（undergo 的过去式）",
     "phonetic": "BrE /ˌʌndəˈɡəʊ/；AmE /ˌʌndərˈɡoʊ/",
@@ -3177,6 +4929,36 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "under + go（经历/经受）"
+    }
+  },
+  {
+    "word": "unilaterally",
+    "pos": "adv.",
+    "phonetic": "BrE /junʌlætɝʌli/; AmE /junʌlætɝʌli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed unilaterally in the meeting.\nA: Any update? B: We will review unilaterally tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "un-（否定）+ 词根"
+    }
+  },
+  {
+    "word": "voluntarily",
+    "pos": "adv.",
+    "phonetic": "BrE /vɑlʌntɛrʌli/; AmE /vɑlʌntɛrʌli/",
+    "meaning": "以…方式；…地（副词）",
+    "example": "We discussed voluntarily in the meeting.\nA: Any update? B: We will review voluntarily tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "—",
+    "related": "nan",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ly（副词后缀）"
     }
   },
   {
@@ -3207,6 +4989,66 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型；法律/商业高频"
+    }
+  },
+  {
+    "word": "administration",
+    "pos": "n.",
+    "phonetic": "BrE /ædmɪnɪstreɪʃʌn/; AmE /ædmɪnɪstreɪʃʌn/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed administration in the meeting.\nA: Any update? B: We will review administration tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural administrations",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -tion/-sion（名词后缀：过程/结果）"
+    }
+  },
+  {
+    "word": "advertisement",
+    "pos": "n.",
+    "phonetic": "BrE /ædvɝtʌzmʌnt/; AmE /ædvɝtʌzmʌnt/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed advertisement in the meeting.\nA: Any update? B: We will review advertisement tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural advertisements",
+    "related": "advertise（做广告）；advertising（广告业）；publicity（宣传）",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ment（名词后缀：结果/状态）"
+    }
+  },
+  {
+    "word": "alteration",
+    "pos": "n.",
+    "phonetic": "BrE /ɔltɝeɪʃʌn/; AmE /ɔltɝeɪʃʌn/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed alteration in the meeting.\nA: Any update? B: We will review alteration tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural alterations",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -tion/-sion（名词后缀：过程/结果）"
+    }
+  },
+  {
+    "word": "appointment",
+    "pos": "n.",
+    "phonetic": "BrE /ʌpɔɪntmʌnt/; AmE /ʌpɔɪntmʌnt/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed appointment in the meeting.\nA: Any update? B: We will review appointment tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural appointments",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ment（名词后缀：结果/状态）"
     }
   },
   {
@@ -3252,6 +5094,21 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "借词；商业宣传语域常见"
+    }
+  },
+  {
+    "word": "celebrity",
+    "pos": "n.",
+    "phonetic": "BrE /sʌlɛbrɪti/; AmE /sʌlɛbrɪti/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed celebrity in the meeting.\nA: Any update? B: We will review celebrity tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural celebrities",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ity（名词后缀：性质/状态）"
     }
   },
   {
@@ -3327,6 +5184,36 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "con-（一起）+ solid（坚固）+ -ate（动词后缀）"
+    }
+  },
+  {
+    "word": "convention",
+    "pos": "n.",
+    "phonetic": "BrE /kʌnvɛnʃʌn/; AmE /kʌnvɛnʃʌn/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed convention in the meeting.\nA: Any update? B: We will review convention tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural conventions",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -tion/-sion（名词后缀：过程/结果）"
+    }
+  },
+  {
+    "word": "designation",
+    "pos": "n.",
+    "phonetic": "BrE /dɛzʌɡneɪʃʌn/; AmE /dɛzʌɡneɪʃʌn/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed designation in the meeting.\nA: Any update? B: We will review designation tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural designations",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -tion/-sion（名词后缀：过程/结果）"
     }
   },
   {
@@ -3465,6 +5352,21 @@
     }
   },
   {
+    "word": "liability",
+    "pos": "n.",
+    "phonetic": "BrE /laɪʌbɪlɪti/; AmE /laɪʌbɪlɪti/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed liability in the meeting.\nA: Any update? B: We will review liability tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural liabilities",
+    "related": "liable（有责任的）；reliability（可靠性，概念不同）",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ity（名词后缀：性质/状态）"
+    }
+  },
+  {
     "word": "luxurious",
     "pos": "adj.",
     "phonetic": "BrE /lʌɡˈʒʊəriəs/；AmE /lʌɡˈʒʊriəs/",
@@ -3480,6 +5382,36 @@
     }
   },
   {
+    "word": "mission",
+    "pos": "n.",
+    "phonetic": "BrE /mɪʃʌn/; AmE /mɪʃʌn/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed mission in the meeting.\nA: Any update? B: We will review mission tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural missions",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -tion/-sion（名词后缀：过程/结果）"
+    }
+  },
+  {
+    "word": "prescription",
+    "pos": "n.",
+    "phonetic": "BrE /prʌskrɪpʃʌn/; AmE /prʌskrɪpʃʌn/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed prescription in the meeting.\nA: Any update? B: We will review prescription tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural prescriptions",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -tion/-sion（名词后缀：过程/结果）"
+    }
+  },
+  {
     "word": "pricing",
     "pos": "n.",
     "phonetic": "BrE /ˈpraɪsɪŋ/；AmE /ˈpraɪsɪŋ/",
@@ -3492,6 +5424,36 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "price + -ing（名词化：活动/体系）"
+    }
+  },
+  {
+    "word": "publicity",
+    "pos": "n.",
+    "phonetic": "BrE /pʌblɪsʌti/; AmE /pʌblɪsʌti/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed publicity in the meeting.\nA: Any update? B: We will review publicity tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural publicities",
+    "related": "nan",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -ity（名词后缀：性质/状态）"
+    }
+  },
+  {
+    "word": "reliability",
+    "pos": "n.",
+    "phonetic": "BrE /rilaɪʌbɪlʌti/; AmE /rilaɪʌbɪlʌti/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed reliability in the meeting.\nA: Any update? B: We will review reliability tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural reliabilities",
+    "related": "reliable（可靠的）；reliably（可靠地）；liability（责任）",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "re-（再/重新）+ 词根"
     }
   },
   {
@@ -3690,6 +5652,19 @@
     }
   },
   {
+    "word": "entrepreneur",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /ɑntrʌprʌnɝ/; AmE /ɑntrʌprʌnɝ/",
+    "meaning": "常用表达（需结合语境）",
+    "example": "We discussed entrepreneur in the meeting.\nA: Any update? B: We will review entrepreneur tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural entrepreneurs",
+    "related": "nan",
+    "position": 7000,
+    "extra": {}
+  },
+  {
     "word": "etiquette",
     "pos": "n.",
     "phonetic": "BrE /ˈetɪket/; AmE /ˈetɪket/",
@@ -3762,6 +5737,21 @@
     "position": 7000,
     "extra": {
       "词根词缀,词头词尾": "词源专名 Mentor；现代多作名词/动词"
+    }
+  },
+  {
+    "word": "multilingual",
+    "pos": "n.",
+    "phonetic": "BrE /mʌltilɪŋwʌl/; AmE /mʌltilɪŋwʌl/",
+    "meaning": "名词：概念/事物（需结合语境）",
+    "example": "We discussed multilingual in the meeting.\nA: Any update? B: We will review multilingual tomorrow.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "plural multilinguals",
+    "related": "nan",
+    "position": 7000,
+    "extra": {
+      "词根词缀,词头词尾": "词根 + -al（形容词/名词后缀）"
     }
   },
   {
