@@ -45,6 +45,36 @@
     }
   },
   {
+    "word": "actually",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈæktʃuəli/；AmE /ˈæktʃuəli/",
+    "meaning": "实际上；事实上",
+    "example": "Actually, I don’t agree. / It’s actually cheaper online.",
+    "collocation": "nan",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "in fact：事实上｜really：其实",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "actual：实际的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "affair",
+    "pos": "n.",
+    "phonetic": "BrE /əˈfeə/；AmE /əˈfer/",
+    "meaning": "事务；事件；（私密）恋情",
+    "example": "It’s a private affair.",
+    "collocation": "current affairs；foreign affairs",
+    "roots": "",
+    "inflection": "复数：affairs",
+    "related": "matter：事情｜incident：事件",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "apply",
     "pos": "v.",
     "phonetic": "BrE /əˈplaɪ/; AmE /əˈplaɪ/",
@@ -57,6 +87,36 @@
     "position": 1000,
     "extra": {
       "词根词缀,词头词尾": "ap-（向）+ ply（折叠/用力）语源；动词常用"
+    }
+  },
+  {
+    "word": "attach",
+    "pos": "v.",
+    "phonetic": "BrE /əˈtætʃ/；AmE /əˈtætʃ/",
+    "meaning": "附上；连接；使依恋",
+    "example": "Please attach the file to the email.",
+    "collocation": "attach a file；attach to",
+    "roots": "",
+    "inflection": "三单：attaches；过去：attached；-ing：attaching",
+    "related": "attachment：附件｜enclose：随信附上",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "at-：向；tach（固定词源）"
+    }
+  },
+  {
+    "word": "capital",
+    "pos": "n./adj.",
+    "phonetic": "BrE /ˈkæpɪtl/；AmE /ˈkæpɪtl/",
+    "meaning": "首都；资本；大写字母；极重要的",
+    "example": "Tokyo is the capital of Japan. / We need more capital.",
+    "collocation": "raise capital；capital market",
+    "roots": "",
+    "inflection": "复数：capitals",
+    "related": "capitalism：资本主义｜capitol（美：国会大厦）",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "capit-：头/主要；-al：后缀"
     }
   },
   {
@@ -75,6 +135,36 @@
     }
   },
   {
+    "word": "current",
+    "pos": "adj./n.",
+    "phonetic": "BrE /ˈkʌrənt/；AmE /ˈkɜːrənt/",
+    "meaning": "当前的；（电）电流",
+    "example": "What’s your current address? / The current is too strong.",
+    "collocation": "current situation；current address；electric current",
+    "roots": "",
+    "inflection": "—",
+    "related": "currently：目前｜currency：货币（同源）",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "curr-：流；-ent：形容词后缀"
+    }
+  },
+  {
+    "word": "decrease",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈdiːkriːs/（n.）；BrE /dɪˈkriːs/（v.）；AmE /ˈdiːkriːs/（n.）；AmE /dɪˈkriːs/（v.）",
+    "meaning": "减少；降低",
+    "example": "There was a decrease in sales. / Sales decreased last month.",
+    "collocation": "decrease in/by；decrease from...to...",
+    "roots": "",
+    "inflection": "复数：decreases；动词：decreases/decreased/decreasing",
+    "related": "reduce：减少｜decline：下降",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "de-：下（减少）"
+    }
+  },
+  {
     "word": "each of",
     "pos": "phrase",
     "phonetic": "BrE /iːtʃ əv/; AmE /iːtʃ əv/",
@@ -90,6 +180,111 @@
     }
   },
   {
+    "word": "eventually",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪˈventʃuəli/；AmE /ɪˈventʃuəli/",
+    "meaning": "最终；终于",
+    "example": "Eventually, we found a solution.",
+    "collocation": "eventually lead to",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "finally：终于｜in the end：最后",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "eventual：最终的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "failure",
+    "pos": "n.",
+    "phonetic": "BrE /ˈfeɪljə/；AmE /ˈfeɪljər/",
+    "meaning": "失败；故障",
+    "example": "Failure is part of learning. / A system failure caused the outage.",
+    "collocation": "system failure；failure to do",
+    "roots": "",
+    "inflection": "复数：failures",
+    "related": "fail：失败｜breakdown：故障｜fault：过失/故障",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "fail：失败；-ure：名词后缀"
+    }
+  },
+  {
+    "word": "fairly",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈfeəli/；AmE /ˈferli/",
+    "meaning": "相当地；公平地",
+    "example": "It’s fairly easy to understand. / Treat everyone fairly.",
+    "collocation": "fairly common；fairly simple",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "rather：相当｜quite：相当｜fair：公平的",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "fair：公平的/相当的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "further",
+    "pos": "adv./adj.",
+    "phonetic": "BrE /ˈfɜːðə/；AmE /ˈfɜːrðər/",
+    "meaning": "进一步（的）；更多（的）",
+    "example": "For further information, contact us. / We need to discuss this further.",
+    "collocation": "further information；further develop",
+    "roots": "",
+    "inflection": "—",
+    "related": "furthermore：此外｜additional：额外的",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "general",
+    "pos": "adj./n.",
+    "phonetic": "BrE /ˈdʒenrəl/；AmE /ˈdʒenrəl/",
+    "meaning": "一般的；总体的；将军",
+    "example": "In general, it’s safe.",
+    "collocation": "general public；general idea",
+    "roots": "",
+    "inflection": "复数：generals",
+    "related": "generally：通常｜overall：总体的",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "gener-：种类/产生；-al：形容词后缀"
+    }
+  },
+  {
+    "word": "gradually",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈɡrædʒuəli/；AmE /ˈɡrædʒuəli/",
+    "meaning": "逐渐地",
+    "example": "Her condition gradually improved.",
+    "collocation": "gradually increase/decrease",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "gradual：逐渐的｜slowly：慢慢地",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "gradual：逐渐的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "hardly",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈhɑːdli/；AmE /ˈhɑːrdli/",
+    "meaning": "几乎不；几乎没有",
+    "example": "I could hardly hear you.",
+    "collocation": "hardly any；hardly ever",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "barely：勉强/几乎不｜scarcely：几乎不",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "hard：硬/难；-ly：副词后缀"
+    }
+  },
+  {
     "word": "hold on",
     "pos": "phr.v.",
     "phonetic": "BrE /həʊld ɒn/；AmE /hoʊld ɑːn/",
@@ -102,6 +297,21 @@
     "position": 1000,
     "extra": {
       "词根词缀,词头词尾": "hold + on 固定搭配"
+    }
+  },
+  {
+    "word": "improve",
+    "pos": "v.",
+    "phonetic": "BrE /ɪmˈpruːv/；AmE /ɪmˈpruːv/",
+    "meaning": "改善；提高",
+    "example": "We need to improve efficiency.",
+    "collocation": "improve performance；improve on",
+    "roots": "",
+    "inflection": "三单：improves；过去：improved；-ing：improving",
+    "related": "improvement：改进｜enhance：提高（更书面）",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -150,6 +360,81 @@
     }
   },
   {
+    "word": "mean",
+    "pos": "v./adj.",
+    "phonetic": "BrE /miːn/；AmE /miːn/",
+    "meaning": "意思是；平均数（的）；吝啬的",
+    "example": "What do you mean? / The mean score was 80.",
+    "collocation": "the mean；mean that...",
+    "roots": "",
+    "inflection": "动词：means/meant/meaning；形：meaner/meanest（吝啬义）",
+    "related": "meaning：含义｜average：平均值",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "means",
+    "pos": "n.",
+    "phonetic": "BrE /miːnz/；AmE /miːnz/",
+    "meaning": "手段；方法；财力（复数形式常用）",
+    "example": "We have no means to pay. / Use any means necessary.",
+    "collocation": "by means of；a means to an end",
+    "roots": "",
+    "inflection": "—",
+    "related": "method：方法｜way：方式｜resource：资源",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "固定复数形（单复同形常见）"
+    }
+  },
+  {
+    "word": "occasionally",
+    "pos": "adv.",
+    "phonetic": "BrE /əˈkeɪʒənəli/；AmE /əˈkeɪʒənəli/",
+    "meaning": "偶尔",
+    "example": "We meet occasionally.",
+    "collocation": "occasionally + 动词",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "sometimes：有时｜now and then：偶尔",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "occasion：场合；-ally：副词后缀"
+    }
+  },
+  {
+    "word": "prevent",
+    "pos": "v.",
+    "phonetic": "BrE /prɪˈvent/；AmE /prɪˈvent/",
+    "meaning": "预防；阻止",
+    "example": "Wearing a seat belt can prevent injury.",
+    "collocation": "prevent A from B；prevent problems",
+    "roots": "",
+    "inflection": "三单：prevents；过去：prevented；-ing：preventing",
+    "related": "prevention：预防｜avoid：避免",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "pre-：前；vent（来/走，词源）"
+    }
+  },
+  {
+    "word": "prove",
+    "pos": "v.",
+    "phonetic": "BrE /pruːv/；AmE /pruːv/",
+    "meaning": "证明；证实；结果是",
+    "example": "The data prove that the method works.",
+    "collocation": "prove that...；prove to be",
+    "roots": "",
+    "inflection": "三单：proves；过去：proved；分词：proved/proven；-ing：proving",
+    "related": "proof：证据｜proven：已被证明的",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "provide",
     "pos": "v.",
     "phonetic": "BrE /prəˈvaɪd/；AmE /prəˈvaɪd/",
@@ -195,6 +480,96 @@
     }
   },
   {
+    "word": "remain",
+    "pos": "v.",
+    "phonetic": "BrE /rɪˈmeɪn/；AmE /rɪˈmeɪn/",
+    "meaning": "仍然；剩余",
+    "example": "Please remain seated.",
+    "collocation": "remain calm；remain to be done",
+    "roots": "",
+    "inflection": "三单：remains；过去：remained；-ing：remaining",
+    "related": "remaining：剩余的｜stay：停留",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "scratch",
+    "pos": "n./v.",
+    "phonetic": "BrE /skrætʃ/；AmE /skrætʃ/",
+    "meaning": "划痕；抓；从零开始",
+    "example": "He built the app from scratch.",
+    "collocation": "from scratch；scratch the surface",
+    "roots": "",
+    "inflection": "复数：scratches；动词：scratches/scratched/scratching",
+    "related": "scrape：刮｜mark：痕迹",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "served",
+    "pos": "v.",
+    "phonetic": "BrE /sɜːvd/；AmE /sɜːrvd/",
+    "meaning": "服务；端上；任职（serve 的过去式/分词）",
+    "example": "Dinner was served at 7. / He served as team leader.",
+    "collocation": "be served with；serve as",
+    "roots": "",
+    "inflection": "原形：serve；三单：serves；过去：served；-ing：serving",
+    "related": "service：服务｜server：服务员/服务器",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "serve：服务；-ed：过去式/分词"
+    }
+  },
+  {
+    "word": "since",
+    "pos": "prep./conj./adv.",
+    "phonetic": "BrE /sɪns/；AmE /sɪns/",
+    "meaning": "自从；因为；从那以后",
+    "example": "Since last week, it has improved. / I’ve lived here since 2020.",
+    "collocation": "ever since；since then；since + 从句",
+    "roots": "",
+    "inflection": "—",
+    "related": "because：因为｜from then on：从那时起",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "though",
+    "pos": "conj./adv.",
+    "phonetic": "BrE /ðəʊ/；AmE /ðoʊ/",
+    "meaning": "虽然；不过；然而",
+    "example": "Though it’s late, we’ll go.",
+    "collocation": "even though；as though",
+    "roots": "",
+    "inflection": "—",
+    "related": "although：虽然｜however：然而",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "unless",
+    "pos": "conj.",
+    "phonetic": "BrE /ʌnˈles/；AmE /ʌnˈles/",
+    "meaning": "除非；如果不",
+    "example": "We won’t start unless everyone agrees.",
+    "collocation": "unless + 从句",
+    "roots": "",
+    "inflection": "—",
+    "related": "if not：如果不｜provided that：如果（条件）",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "un-：不；less：更少"
+    }
+  },
+  {
     "word": "up to",
     "pos": "phrase (prep./idiom)",
     "phonetic": "BrE /ˈʌp tuː/; AmE /ˈʌp tuː/",
@@ -207,6 +582,21 @@
     "position": 1000,
     "extra": {
       "词根词缀,词头词尾": "固定短语：up（至/向上）+ to（到）"
+    }
+  },
+  {
+    "word": "within",
+    "pos": "prep./adv.",
+    "phonetic": "BrE /wɪˈðɪn/；AmE /wɪˈðɪn/",
+    "meaning": "在…之内；不超过；在内部",
+    "example": "Finish it within two days. / Keep it within the team.",
+    "collocation": "within limits；within reach；within a week",
+    "roots": "",
+    "inflection": "—",
+    "related": "inside：在里面｜inside of（口语）",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "with + in（在内）"
     }
   },
   {
@@ -307,6 +697,36 @@
     }
   },
   {
+    "word": "accountant",
+    "pos": "n.",
+    "phonetic": "BrE /əˈkaʊntənt/；AmE /əˈkaʊntənt/",
+    "meaning": "会计；会计师",
+    "example": "The accountant prepared the tax documents.",
+    "collocation": "certified accountant；accounting firm",
+    "roots": "",
+    "inflection": "复数：accountants",
+    "related": "accounting：会计学｜bookkeeper：簿记员",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "account：账目；-ant：人/者"
+    }
+  },
+  {
+    "word": "accurately",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈækjərətli/；AmE /ˈækjərətli/",
+    "meaning": "准确地",
+    "example": "Measure it accurately.",
+    "collocation": "accurately predict/measure",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "accuracy：准确性｜precisely：精确地",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "accurate：准确的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "additional",
     "pos": "adj.",
     "phonetic": "BrE /əˈdɪʃənl/；AmE /əˈdɪʃənl/",
@@ -319,6 +739,51 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "add（加）+ -ition（名词化语源）+ -al（形容词后缀）"
+    }
+  },
+  {
+    "word": "address",
+    "pos": "n./v.",
+    "phonetic": "BrE /əˈdres/；AmE /əˈdres/",
+    "meaning": "地址；演讲；处理（问题）",
+    "example": "We must address the issue quickly. / What’s your email address?",
+    "collocation": "address a problem；address the audience",
+    "roots": "",
+    "inflection": "复数：addresses；动词：addresses/addressed/addressing",
+    "related": "speech：演讲｜deal with：处理",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "ad-：向；dress（指向/处理词源）"
+    }
+  },
+  {
+    "word": "advertisement",
+    "pos": "n.",
+    "phonetic": "BrE /ədˈvɜːtɪsmənt/；AmE /ˌædvərˈtaɪzmənt/",
+    "meaning": "广告",
+    "example": "We saw an advertisement on the train.",
+    "collocation": "job advertisement；place an advertisement",
+    "roots": "",
+    "inflection": "复数：advertisements",
+    "related": "advertise：做广告｜advertising：广告业",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "ad-：向；vert：转；-ment：名词"
+    }
+  },
+  {
+    "word": "afford",
+    "pos": "v.",
+    "phonetic": "BrE /əˈfɔːd/；AmE /əˈfɔːrd/",
+    "meaning": "负担得起；抽得出（时间）；提供",
+    "example": "We can’t afford a new car. / I can’t afford to wait.",
+    "collocation": "afford to do；afford something",
+    "roots": "",
+    "inflection": "三单：affords；过去：afforded；-ing：affording",
+    "related": "affordable：负担得起的｜allow：允许/让",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -349,6 +814,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "ann（年，见 anniversary）+ -ual（形容词后缀）"
+    }
+  },
+  {
+    "word": "apparently",
+    "pos": "adv.",
+    "phonetic": "BrE /əˈpærəntli/；AmE /əˈpærəntli/",
+    "meaning": "显然；据说",
+    "example": "Apparently, the meeting was canceled.",
+    "collocation": "apparently + 句子",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "seemingly：看似｜reportedly：据报道",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "apparent：明显的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "appointment",
+    "pos": "n.",
+    "phonetic": "BrE /əˈpɔɪntmənt/；AmE /əˈpɔɪntmənt/",
+    "meaning": "预约；约会；任命",
+    "example": "I have a doctor’s appointment at 3.",
+    "collocation": "make an appointment；appointment with",
+    "roots": "",
+    "inflection": "复数：appointments",
+    "related": "appoint：任命｜schedule：日程",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "appoint：任命/指定；-ment：名词后缀"
     }
   },
   {
@@ -397,6 +892,21 @@
     }
   },
   {
+    "word": "aspect",
+    "pos": "n.",
+    "phonetic": "BrE /ˈæspekt/；AmE /ˈæspekt/",
+    "meaning": "方面；层面；（事物的）特征",
+    "example": "We considered every aspect of the plan. / From this aspect, it makes sense.",
+    "collocation": "aspect of；in this aspect；key aspect",
+    "roots": "",
+    "inflection": "复数：aspects",
+    "related": "feature：特征｜perspective：视角｜dimension：维度",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "asp-：看（词源相关）"
+    }
+  },
+  {
     "word": "attend",
     "pos": "v.",
     "phonetic": "BrE /əˈtend/；AmE /əˈtend/",
@@ -409,6 +919,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "tend 语源“趋向/照料”；attendance 高频派生"
+    }
+  },
+  {
+    "word": "attitude",
+    "pos": "n.",
+    "phonetic": "BrE /ˈætɪtjuːd/；AmE /ˈætɪtuːd/",
+    "meaning": "态度；看法",
+    "example": "Your attitude matters. / He has a positive attitude.",
+    "collocation": "attitude toward/to；positive attitude",
+    "roots": "",
+    "inflection": "复数：attitudes",
+    "related": "mindset：心态｜stance：立场",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "basis",
+    "pos": "n.",
+    "phonetic": "BrE /ˈbeɪsɪs/；AmE /ˈbeɪsɪs/",
+    "meaning": "基础；根据；基准",
+    "example": "On what basis was the decision made? / We have no basis for that claim.",
+    "collocation": "on the basis of；basis for；scientific basis",
+    "roots": "",
+    "inflection": "复数：bases",
+    "related": "base：基础｜basic：基本的｜baseline：基线",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "base：基础；-is：名词词形"
     }
   },
   {
@@ -454,6 +994,66 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型；商务高频"
+    }
+  },
+  {
+    "word": "calculate",
+    "pos": "v.",
+    "phonetic": "BrE /ˈkælkjuleɪt/；AmE /ˈkælkjuleɪt/",
+    "meaning": "计算；估算",
+    "example": "Calculate the total cost, please. / I calculated that it would take two hours.",
+    "collocation": "calculate costs/risk；calculate that...",
+    "roots": "",
+    "inflection": "三单：calculates；过去：calculated；-ing：calculating",
+    "related": "calculation：计算｜compute：计算（更书面/技术）｜calculator：计算器",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "calc-：石灰石（词源）→“计算”；-ate：动词"
+    }
+  },
+  {
+    "word": "cancer",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkænsə/；AmE /ˈkænsər/",
+    "meaning": "癌症；癌",
+    "example": "The doctor said it was early-stage cancer.",
+    "collocation": "cancer treatment；cancer screening",
+    "roots": "",
+    "inflection": "复数：cancers",
+    "related": "cancerous：癌性的｜oncology：肿瘤学",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "词源 cancer（蟹→肿瘤形象）"
+    }
+  },
+  {
+    "word": "chart",
+    "pos": "n./v.",
+    "phonetic": "BrE /tʃɑːt/；AmE /tʃɑːrt/",
+    "meaning": "图表；绘制图表",
+    "example": "The chart shows a clear trend.",
+    "collocation": "bar chart；flow chart",
+    "roots": "",
+    "inflection": "复数：charts；动词：charts/charted/charting",
+    "related": "graph：图表｜diagram：示意图",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "claim",
+    "pos": "n./v.",
+    "phonetic": "BrE /kleɪm/；AmE /kleɪm/",
+    "meaning": "索赔；主张；声称",
+    "example": "He claimed he was innocent. / File a claim within 30 days.",
+    "collocation": "file a claim；claim that...；insurance claim",
+    "roots": "",
+    "inflection": "复数：claims；动词：claims/claimed/claiming",
+    "related": "claimant：索赔人｜assert：断言｜allege：声称（法律/新闻）",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -532,6 +1132,21 @@
     }
   },
   {
+    "word": "container",
+    "pos": "n.",
+    "phonetic": "BrE /kənˈteɪnə/；AmE /kənˈteɪnər/",
+    "meaning": "容器；集装箱",
+    "example": "Put the food in a sealed container.",
+    "collocation": "shipping container；storage container",
+    "roots": "",
+    "inflection": "复数：containers",
+    "related": "contain：容纳｜box：箱子｜package：包装",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "contain：包含；-er：名词后缀"
+    }
+  },
+  {
     "word": "contract",
     "pos": "n./v.",
     "phonetic": "BrE /ˈkɒntrækt/（n.）, /kənˈtrækt/（v.）；AmE /ˈkɑːntrækt/（n.）, /kənˈtrækt/（v.）",
@@ -544,6 +1159,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "con-（一起）+ tract（拉，见 traction）"
+    }
+  },
+  {
+    "word": "contribute",
+    "pos": "v.",
+    "phonetic": "BrE /kənˈtrɪbjuːt/；AmE /kənˈtrɪbjuːt/",
+    "meaning": "贡献；捐助；投稿；促成",
+    "example": "He contributed to the project. / She contributed an article.",
+    "collocation": "contribute to；contribute money/time",
+    "roots": "",
+    "inflection": "三单：contributes；过去：contributed；-ing：contributing",
+    "related": "contribution：贡献｜donate：捐赠",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "con-：一起；trib：给；-ute：动词"
+    }
+  },
+  {
+    "word": "critic",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkrɪtɪk/；AmE /ˈkrɪtɪk/",
+    "meaning": "批评家；评论家",
+    "example": "The film critic praised the acting.",
+    "collocation": "art/film critic；music critic",
+    "roots": "",
+    "inflection": "复数：critics",
+    "related": "criticize：批评｜critical：批判的/关键的｜criticism：批评",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "critic-：评判；-ic：人/者"
     }
   },
   {
@@ -592,6 +1237,21 @@
     }
   },
   {
+    "word": "deposit",
+    "pos": "n./v.",
+    "phonetic": "BrE /dɪˈpɒzɪt/；AmE /dɪˈpɑːzɪt/",
+    "meaning": "存款；押金；存放",
+    "example": "You need to pay a deposit. / I deposited the money yesterday.",
+    "collocation": "security deposit；make a deposit；deposit money",
+    "roots": "",
+    "inflection": "复数：deposits；动词：deposits/deposited/depositing",
+    "related": "withdraw：取款｜down payment：定金",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "de-：下；posit：放"
+    }
+  },
+  {
     "word": "direct",
     "pos": "v./adj./adv.",
     "phonetic": "BrE /dɪˈrekt/（v./adj.）；AmE /dɪˈrɛkt/（常见）",
@@ -619,6 +1279,66 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "-or：职业名词后缀“做……的人”"
+    }
+  },
+  {
+    "word": "drill",
+    "pos": "n./v.",
+    "phonetic": "BrE /drɪl/；AmE /drɪl/",
+    "meaning": "演练；钻孔；钻头",
+    "example": "We had a fire drill today. / Drill a hole here.",
+    "collocation": "fire drill；drill into；drill a hole",
+    "roots": "",
+    "inflection": "复数：drills；动词：drills/drilled/drilling",
+    "related": "practice：练习｜exercise：演练",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "eager",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈiːɡə/；AmE /ˈiːɡər/",
+    "meaning": "渴望的；热切的",
+    "example": "I’m eager to get started. / She’s eager for feedback.",
+    "collocation": "eager to do；eager for",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most eager（也可用 eagerer/eagerest，较少）",
+    "related": "eagerly：急切地｜keen：渴望的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "effect",
+    "pos": "n.",
+    "phonetic": "BrE /ɪˈfekt/；AmE /ɪˈfekt/",
+    "meaning": "效果；影响",
+    "example": "The medicine had no effect. / The new rule takes effect tomorrow.",
+    "collocation": "have an effect on；take effect；side effect",
+    "roots": "",
+    "inflection": "复数：effects",
+    "related": "affect：影响（动词）｜effective：有效的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "e-：出；fect：做（词源相关）"
+    }
+  },
+  {
+    "word": "environment",
+    "pos": "n.",
+    "phonetic": "BrE /ɪnˈvaɪrənmənt/；AmE /ɪnˈvaɪrənmənt/",
+    "meaning": "环境；周围状况",
+    "example": "This is a safe working environment.",
+    "collocation": "protect the environment；business environment",
+    "roots": "",
+    "inflection": "复数：environments",
+    "related": "environmental：环境的｜surroundings：周围环境",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "environ：围绕；-ment：名词后缀"
     }
   },
   {
@@ -682,6 +1402,21 @@
     }
   },
   {
+    "word": "expense",
+    "pos": "n.",
+    "phonetic": "BrE /ɪkˈspens/；AmE /ɪkˈspens/",
+    "meaning": "费用；开支",
+    "example": "Travel expenses will be reimbursed.",
+    "collocation": "at the expense of；business expenses",
+    "roots": "",
+    "inflection": "复数：expenses",
+    "related": "expensive：昂贵的｜expenditure：支出",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "ex-：向外；pens（花费，词源相关）"
+    }
+  },
+  {
     "word": "extend",
     "pos": "v.",
     "phonetic": "BrE /ɪkˈstend/；AmE /ɪkˈstend/",
@@ -724,6 +1459,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "facil（容易，见 facile）+ -ity（名词后缀：性质/状态）"
+    }
+  },
+  {
+    "word": "faded",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈfeɪdɪd/；AmE /ˈfeɪdɪd/",
+    "meaning": "褪色的；变淡的",
+    "example": "The photo is old and faded. / The sound faded away.",
+    "collocation": "faded color；faded jeans",
+    "roots": "",
+    "inflection": "原形：fade；动词：fades/faded/fading",
+    "related": "fade：褪色｜faint：微弱的｜dim：昏暗的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "fade：褪色/变弱；-ed：形容词化"
     }
   },
   {
@@ -772,6 +1522,51 @@
     }
   },
   {
+    "word": "grant",
+    "pos": "n./v.",
+    "phonetic": "BrE /ɡrɑːnt/；AmE /ɡrænt/",
+    "meaning": "拨款；补助金；授予；准许",
+    "example": "They granted her a scholarship. / He applied for a grant.",
+    "collocation": "research grant；grant permission；grant A to B",
+    "roots": "",
+    "inflection": "复数：grants；动词：grants/granted/granting",
+    "related": "subsidy：补贴｜fund：基金/资助｜award：授予",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "granted",
+    "pos": "adv./adj.",
+    "phonetic": "BrE /ˈɡrɑːntɪd/；AmE /ˈɡræntɪd/",
+    "meaning": "诚然；（被）准许的",
+    "example": "Granted, it’s difficult, but it’s possible. / Permission was granted.",
+    "collocation": "take ... for granted；granted that...",
+    "roots": "",
+    "inflection": "原形：grant；动词：grants/granted/granting",
+    "related": "grant：授予｜admittedly：诚然｜permission：许可",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "grant：授予；-ed：过去分词/形容词化"
+    }
+  },
+  {
+    "word": "guarantee",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˌɡærənˈtiː/；AmE /ˌɡærənˈtiː/",
+    "meaning": "保证；担保；保修（单）",
+    "example": "I can’t guarantee it will work. / This phone comes with a one-year guarantee.",
+    "collocation": "guarantee that...；money-back guarantee；under guarantee",
+    "roots": "",
+    "inflection": "复数：guarantees；动词：guarantees/guaranteed/guaranteeing",
+    "related": "warranty：保修｜assure：保证｜guarantor：担保人",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "guarant-：保证（词源）"
+    }
+  },
+  {
     "word": "hang",
     "pos": "v.",
     "phonetic": "BrE /hæŋ/；AmE /hæŋ/",
@@ -784,6 +1579,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "非规则动词；注意“绞死”用 hanged"
+    }
+  },
+  {
+    "word": "harsh",
+    "pos": "adj.",
+    "phonetic": "BrE /hɑːʃ/；AmE /hɑːrʃ/",
+    "meaning": "严厉的；刺耳的；恶劣的",
+    "example": "Harsh weather delayed the flight. / That was a harsh comment.",
+    "collocation": "harsh conditions；harsh criticism",
+    "roots": "",
+    "inflection": "比较级/最高级：harsher/harshest",
+    "related": "severe：严酷的｜tough：艰难的｜criticize：批评",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "ideal",
+    "pos": "adj./n.",
+    "phonetic": "BrE /aɪˈdɪəl/；AmE /aɪˈdiːəl/",
+    "meaning": "理想的；理想（目标/标准）",
+    "example": "This is an ideal solution.",
+    "collocation": "ideal for；ideal situation",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most ideal",
+    "related": "ideally：理想地｜perfect：完美的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "idea：想法；-al：形容词后缀"
     }
   },
   {
@@ -814,6 +1639,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "im-（向内）+ ple（填满）语源；-ment 名词后缀"
+    }
+  },
+  {
+    "word": "industry",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɪndəstri/；AmE /ˈɪndəstri/",
+    "meaning": "工业；行业；勤奋",
+    "example": "The tech industry is growing fast.",
+    "collocation": "heavy industry；industry leader",
+    "roots": "",
+    "inflection": "复数：industries",
+    "related": "industrial：工业的｜sector：行业",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "industr-：勤奋/工业；-y：名词后缀"
+    }
+  },
+  {
+    "word": "inform",
+    "pos": "v.",
+    "phonetic": "BrE /ɪnˈfɔːm/；AmE /ɪnˈfɔːrm/",
+    "meaning": "通知；告知；使了解",
+    "example": "We will inform you of the result.",
+    "collocation": "inform A of B；inform A that...",
+    "roots": "",
+    "inflection": "三单：informs；过去：informed；-ing：informing",
+    "related": "information：信息｜notify：通知",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：使；form：形成（词源相关）"
     }
   },
   {
@@ -892,6 +1747,36 @@
     }
   },
   {
+    "word": "maintain",
+    "pos": "v.",
+    "phonetic": "BrE /meɪnˈteɪn/；AmE /meɪnˈteɪn/",
+    "meaning": "维持；维护；坚持（说法）",
+    "example": "We must maintain high standards. / He maintained that he was innocent.",
+    "collocation": "maintain quality；maintain that...；maintain equipment",
+    "roots": "",
+    "inflection": "三单：maintains；过去：maintained；-ing：maintaining",
+    "related": "maintenance：维护｜sustain：维持｜uphold：坚持/维护",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "main/mani（握持词源）+ tain（持）"
+    }
+  },
+  {
+    "word": "mission",
+    "pos": "n.",
+    "phonetic": "BrE /ˈmɪʃən/；AmE /ˈmɪʃən/",
+    "meaning": "任务；使命；（组织）宗旨",
+    "example": "Our mission is to help patients. / He was sent on a mission.",
+    "collocation": "mission statement；on a mission",
+    "roots": "",
+    "inflection": "复数：missions",
+    "related": "objective：目标｜purpose：目的｜missionary：传教士",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "mit（送，词源）→“派遣/使命”；-ion：名词"
+    }
+  },
+  {
     "word": "perform",
     "pos": "v.",
     "phonetic": "BrE /pəˈfɔːm/; AmE /pərˈfɔːrm/",
@@ -934,6 +1819,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "permit（允许）+ -sion（名词后缀）"
+    }
+  },
+  {
+    "word": "practically",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈpræktɪkli/；AmE /ˈpræktɪkli/",
+    "meaning": "几乎；实际上；实用地",
+    "example": "It’s practically impossible. / Practically speaking, we need more time.",
+    "collocation": "practically speaking；practically impossible",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "virtually：几乎｜in practice：实际上",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "practical：实际的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "prefer",
+    "pos": "v.",
+    "phonetic": "BrE /prɪˈfɜː/；AmE /prɪˈfɜːr/",
+    "meaning": "更喜欢；宁愿",
+    "example": "I prefer tea to coffee.",
+    "collocation": "prefer A to B；prefer to do",
+    "roots": "",
+    "inflection": "三单：prefers；过去：preferred；-ing：preferring",
+    "related": "preference：偏好｜rather：宁愿（搭配 would rather）",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "pre-：在前；fer：带/拿（词源）"
     }
   },
   {
@@ -1012,6 +1927,21 @@
     }
   },
   {
+    "word": "recall",
+    "pos": "v./n.",
+    "phonetic": "BrE /rɪˈkɔːl/；AmE /rɪˈkɔːl/",
+    "meaning": "回忆；召回（产品）",
+    "example": "I can’t recall his name. / The company issued a recall.",
+    "collocation": "product recall；recall that...",
+    "roots": "",
+    "inflection": "动词：recalls/recalled/recalling；名词复数：recalls（少用）",
+    "related": "recollection：回忆｜remember：记得",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：回；call：叫/召"
+    }
+  },
+  {
     "word": "recommend",
     "pos": "v.",
     "phonetic": "BrE /ˌrekəˈmend/；AmE /ˌrekəˈmend/",
@@ -1039,6 +1969,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "re-（回/再）+ fer（带来/携带）"
+    }
+  },
+  {
+    "word": "remind",
+    "pos": "v.",
+    "phonetic": "BrE /rɪˈmaɪnd/；AmE /rɪˈmaɪnd/",
+    "meaning": "提醒；使想起",
+    "example": "Remind me to email him. / That song reminds me of home.",
+    "collocation": "remind A to do；remind A of B",
+    "roots": "",
+    "inflection": "三单：reminds；过去：reminded；-ing：reminding",
+    "related": "reminder：提醒物｜recall：回忆",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：再；mind：记忆/心智"
     }
   },
   {
@@ -1102,6 +2047,51 @@
     }
   },
   {
+    "word": "rumor",
+    "pos": "n.",
+    "phonetic": "BrE /ˈruːmə/；AmE /ˈruːmər/",
+    "meaning": "谣言；传闻",
+    "example": "There was a rumor about layoffs.",
+    "collocation": "spread a rumor；rumor has it that...",
+    "roots": "",
+    "inflection": "复数：rumors",
+    "related": "gossip：八卦｜hearsay：传闻",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "拉丁 rumor（传闻）"
+    }
+  },
+  {
+    "word": "separate",
+    "pos": "adj./v.",
+    "phonetic": "BrE /ˈsepərət/（adj.）；BrE /ˈsepəreɪt/（v.）；AmE /ˈsepərət/（adj.）；AmE /ˈsepəreɪt/（v.）",
+    "meaning": "分开的；分开；区分",
+    "example": "Keep the files separate. / Separate the whites from the colors.",
+    "collocation": "separate from；separate into",
+    "roots": "",
+    "inflection": "形：separate/separater（少用）/separatest（少用）；动词：separates/separated/separating",
+    "related": "separation：分离｜distinct：不同的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "separ-：分开"
+    }
+  },
+  {
+    "word": "separately",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈsepərətli/；AmE /ˈsepərətli/",
+    "meaning": "分别地；单独地",
+    "example": "Please pay separately.",
+    "collocation": "treated separately",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "individually：分别地｜independently：独立地",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "separate：分开；-ly：副词后缀"
+    }
+  },
+  {
     "word": "session",
     "pos": "n.",
     "phonetic": "BrE /ˈseʃən/；AmE /ˈseʃən/",
@@ -1114,6 +2104,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "sess（坐，见 session/sit）+ -ion（名词后缀）"
+    }
+  },
+  {
+    "word": "shallow",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈʃæləʊ/；AmE /ˈʃæloʊ/",
+    "meaning": "浅的；肤浅的",
+    "example": "The water is shallow here.",
+    "collocation": "shallow water；shallow breathing",
+    "roots": "",
+    "inflection": "比较级/最高级：shallower/shallowest",
+    "related": "superficial：肤浅的｜depth：深度",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "shrink",
+    "pos": "v.",
+    "phonetic": "BrE /ʃrɪŋk/；AmE /ʃrɪŋk/",
+    "meaning": "收缩；缩小；缩水",
+    "example": "The sweater shrank in the wash.",
+    "collocation": "shrink by/to；shrink from（退缩）",
+    "roots": "",
+    "inflection": "三单：shrinks；过去：shrank；分词：shrunk；-ing：shrinking",
+    "related": "shrinkage：收缩｜reduce：减少",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -1147,6 +2167,21 @@
     }
   },
   {
+    "word": "specifically",
+    "pos": "adv.",
+    "phonetic": "BrE /spəˈsɪfɪkli/；AmE /spəˈsɪfɪkli/",
+    "meaning": "具体地；特意地",
+    "example": "Specifically, we need more data on this point.",
+    "collocation": "specifically mention；specifically designed",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "specify：具体说明｜particularly：尤其",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "specific：具体的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "statement",
     "pos": "n.",
     "phonetic": "BrE /ˈsteɪtmənt/；AmE /ˈsteɪtmənt/",
@@ -1159,6 +2194,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "-ment：名词后缀“行为/结果”（常 v.→n.）"
+    }
+  },
+  {
+    "word": "strength",
+    "pos": "n.",
+    "phonetic": "BrE /streŋθ/；AmE /streŋθ/",
+    "meaning": "力量；强度；优势",
+    "example": "Honesty is his greatest strength.",
+    "collocation": "physical strength；signal strength",
+    "roots": "",
+    "inflection": "复数：strengths",
+    "related": "strong：强壮的｜strengthen：加强",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "strong：强；-th：名词后缀"
+    }
+  },
+  {
+    "word": "strengthen",
+    "pos": "v.",
+    "phonetic": "BrE /ˈstreŋθən/；AmE /ˈstreŋθən/",
+    "meaning": "加强；巩固",
+    "example": "We must strengthen security.",
+    "collocation": "strengthen ties；strengthen the system",
+    "roots": "",
+    "inflection": "三单：strengthens；过去：strengthened；-ing：strengthening",
+    "related": "reinforce：强化｜enhance：提升",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "strength：力量；-en：使…"
     }
   },
   {
@@ -1192,6 +2257,36 @@
     }
   },
   {
+    "word": "submit",
+    "pos": "v.",
+    "phonetic": "BrE /səbˈmɪt/；AmE /səbˈmɪt/",
+    "meaning": "提交；呈交；屈服",
+    "example": "Please submit the form by Friday. / He refused to submit to pressure.",
+    "collocation": "submit an application；submit to；submit a report",
+    "roots": "",
+    "inflection": "三单：submits；过去：submitted；-ing：submitting",
+    "related": "submission：提交物/屈服｜hand in：提交（口语）",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "sub-：下；mit：送"
+    }
+  },
+  {
+    "word": "subtract",
+    "pos": "v.",
+    "phonetic": "BrE /səbˈtrækt/；AmE /səbˈtrækt/",
+    "meaning": "减去",
+    "example": "Subtract 5 from 20.",
+    "collocation": "subtract A from B",
+    "roots": "",
+    "inflection": "三单：subtracts；过去：subtracted；-ing：subtracting",
+    "related": "subtraction：减法｜deduct：扣除",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "sub-：下；tract：拉"
+    }
+  },
+  {
     "word": "suppose",
     "pos": "v.",
     "phonetic": "BrE /səˈpəʊz/；AmE /səˈpoʊz/",
@@ -1207,6 +2302,21 @@
     }
   },
   {
+    "word": "temporary",
+    "pos": "adj./n.",
+    "phonetic": "BrE /ˈtemprəri/；AmE /ˈtempəreri/",
+    "meaning": "暂时的；临时的（人/物）",
+    "example": "This is only a temporary solution.",
+    "collocation": "temporary job；temporary staff",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most temporary",
+    "related": "temporarily：暂时地｜short-term：短期的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "temp-：时间；-ary：形容词后缀"
+    }
+  },
+  {
     "word": "tend",
     "pos": "v.",
     "phonetic": "BrE /tend/；AmE /tend/",
@@ -1219,6 +2329,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "词根 tend（趋向/伸展）"
+    }
+  },
+  {
+    "word": "therefore",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈðeəfɔː/；AmE /ˈðerfɔːr/",
+    "meaning": "因此；所以",
+    "example": "It’s raining; therefore, we’ll stay home.",
+    "collocation": "and therefore；therefore + 句子",
+    "roots": "",
+    "inflection": "—",
+    "related": "thus：因此｜hence：因此",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "there + fore（因此）"
+    }
+  },
+  {
+    "word": "thoroughly",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈθʌrəli/；AmE /ˈθɜːrəli/",
+    "meaning": "彻底地；完全地",
+    "example": "Please check the data thoroughly.",
+    "collocation": "thoroughly understand",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "completely：完全地｜fully：充分地",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "through（贯穿词源）→thorough；-ly：副词后缀"
     }
   },
   {
@@ -1249,6 +2389,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "与 tired（疲倦的）同源；注意拼写：tire/tired"
+    }
+  },
+  {
+    "word": "triple",
+    "pos": "adj./v./n.",
+    "phonetic": "BrE /ˈtrɪpəl/；AmE /ˈtrɪpəl/",
+    "meaning": "三倍（的）；使变三倍；三倍数量",
+    "example": "Sales tripled in a year.",
+    "collocation": "triple the output；a triple increase",
+    "roots": "",
+    "inflection": "动词：triples/tripled/tripling",
+    "related": "double：两倍｜triplet：三胞胎/三联",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "tri-：三；-ple：倍数词尾"
+    }
+  },
+  {
+    "word": "urban",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈɜːbən/；AmE /ˈɜːrbən/",
+    "meaning": "城市的；都市的",
+    "example": "Urban areas are expanding rapidly.",
+    "collocation": "urban planning；urban development",
+    "roots": "",
+    "inflection": "—",
+    "related": "urbanize：城市化｜rural：农村的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "urb-：城；-an：形容词后缀"
     }
   },
   {
@@ -1342,6 +2512,21 @@
     }
   },
   {
+    "word": "administration",
+    "pos": "n.",
+    "phonetic": "BrE /ədˌmɪnɪˈstreɪʃən/；AmE /ədˌmɪnɪˈstreɪʃən/",
+    "meaning": "管理；行政；政府（当局）",
+    "example": "The administration announced new rules.",
+    "collocation": "school administration；public administration",
+    "roots": "",
+    "inflection": "复数：administrations",
+    "related": "administrator：管理员｜admin：管理（口语缩写）",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "administer：管理；-ation：名词后缀"
+    }
+  },
+  {
     "word": "advertise",
     "pos": "v.",
     "phonetic": "BrE /ˈædvətaɪz/；AmE /ˈædvərtaɪz/",
@@ -1387,6 +2572,51 @@
     }
   },
   {
+    "word": "alteration",
+    "pos": "n.",
+    "phonetic": "BrE /ˌɔːltəˈreɪʃən/；AmE /ˌɔːltəˈreɪʃən/",
+    "meaning": "改变；修改；（衣服）改动",
+    "example": "The tailor made an alteration to the suit.",
+    "collocation": "make alterations；minor alteration",
+    "roots": "",
+    "inflection": "复数：alterations",
+    "related": "alter：改变｜modification：修改",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "alter：改变；-ation：名词后缀"
+    }
+  },
+  {
+    "word": "appraisal",
+    "pos": "n.",
+    "phonetic": "BrE /əˈpreɪzəl/；AmE /əˈpreɪzəl/",
+    "meaning": "评估；（绩效）考核；估价",
+    "example": "He has his annual appraisal next week.",
+    "collocation": "performance appraisal；appraisal of；property appraisal",
+    "roots": "",
+    "inflection": "复数：appraisals",
+    "related": "appraise：评估｜evaluation：评价｜valuation：估价",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "appraise：评估；-al：名词后缀"
+    }
+  },
+  {
+    "word": "appropriate",
+    "pos": "adj./v.",
+    "phonetic": "BrE /əˈprəʊpriət/（adj.）；BrE /əˈprəʊprieɪt/（v.）；AmE /əˈproʊpriət/（adj.）；AmE /əˈproʊprieɪt/（v.）",
+    "meaning": "合适的；恰当的；拨款/挪用",
+    "example": "This is not appropriate behavior.",
+    "collocation": "appropriate for；appropriate action",
+    "roots": "",
+    "inflection": "形：more/most appropriate；动词：appropriates/appropriated/appropriating",
+    "related": "appropriately：恰当地｜inappropriate：不合适的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "approval",
     "pos": "n.",
     "phonetic": "BrE /əˈpruːvəl/; AmE /əˈpruːvəl/",
@@ -1399,6 +2629,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "approve + -al（名词后缀：行为/结果）"
+    }
+  },
+  {
+    "word": "approximate",
+    "pos": "adj./v.",
+    "phonetic": "BrE /əˈprɒksɪmət/（adj.）；BrE /əˈprɒksɪmeɪt/（v.）；AmE /əˈprɑːksɪmət/（adj.）；AmE /əˈprɑːksɪmeɪt/（v.）",
+    "meaning": "近似的；大约的；使接近",
+    "example": "The figures are approximate. / We approximated the curve with a line.",
+    "collocation": "approximate value；approximate to；approximate by",
+    "roots": "",
+    "inflection": "形：more/most approximate；动词：approximates/approximated/approximating",
+    "related": "approximation：近似值｜approximately：大约",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "-ate：动词后缀（v.）；词源与 approach 接近相关"
     }
   },
   {
@@ -1417,6 +2662,21 @@
     }
   },
   {
+    "word": "asset",
+    "pos": "n.",
+    "phonetic": "BrE /ˈæset/；AmE /ˈæset/",
+    "meaning": "资产；优点；有用的人/物",
+    "example": "Data is a valuable asset.",
+    "collocation": "fixed assets；valuable asset",
+    "roots": "",
+    "inflection": "复数：assets",
+    "related": "liability：负债/责任｜resource：资源",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "assign",
     "pos": "v.",
     "phonetic": "BrE /əˈsaɪn/; AmE /əˈsaɪn/",
@@ -1429,6 +2689,36 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "as-（向）+ sign（标记/签）→“指定”"
+    }
+  },
+  {
+    "word": "attribute",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈætrɪbjuːt/（n.）；BrE /əˈtrɪbjuːt/（v.）；AmE /ˈætrɪbjuːt/（n.）；AmE /əˈtrɪbjuːt/（v.）",
+    "meaning": "属性；特征；把…归因于",
+    "example": "We attribute the delay to traffic.",
+    "collocation": "attribute A to B；key attribute",
+    "roots": "",
+    "inflection": "复数：attributes；动词：attributes/attributed/attributing",
+    "related": "attribution：归因｜factor：因素｜characteristic：特征",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "at-：向；trib：给；-ute：动词/名词词形"
+    }
+  },
+  {
+    "word": "celebrity",
+    "pos": "n.",
+    "phonetic": "BrE /səˈlebrəti/；AmE /səˈlebrəti/",
+    "meaning": "名人；明星",
+    "example": "A celebrity showed up at the event.",
+    "collocation": "celebrity status；celebrity couple",
+    "roots": "",
+    "inflection": "复数：celebrities",
+    "related": "famous：著名的｜star：明星｜public figure：公众人物",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "celebr-：著名；-ity：名词后缀"
     }
   },
   {
@@ -1459,6 +2749,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "co-（共同）+ league（联盟/团体）"
+    }
+  },
+  {
+    "word": "commercial",
+    "pos": "adj./n.",
+    "phonetic": "BrE /kəˈmɜːʃəl/；AmE /kəˈmɜːrʃəl/",
+    "meaning": "商业的；营利的；（电视/广播）广告",
+    "example": "This is for commercial use only. / They aired a commercial during the game.",
+    "collocation": "commercial use；commercial bank；TV commercial",
+    "roots": "",
+    "inflection": "复数：commercials（广告）",
+    "related": "commerce：商业｜advertisement：广告｜trade：贸易",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "commerce（商）→commercial；-ial：形容词后缀"
     }
   },
   {
@@ -1504,6 +2809,36 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "commit + -ee（名词后缀：人/机构）"
+    }
+  },
+  {
+    "word": "commute",
+    "pos": "v./n.",
+    "phonetic": "BrE /kəˈmjuːt/；AmE /kəˈmjuːt/",
+    "meaning": "通勤；（法律）减刑",
+    "example": "He commutes by train.",
+    "collocation": "commute to work；commute between",
+    "roots": "",
+    "inflection": "动词：commutes/commuted/commuting；名词复数：commutes（少用）",
+    "related": "commuter：通勤者｜commutation：折算/减刑（法律）",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "commuting",
+    "pos": "n.",
+    "phonetic": "BrE /kəˈmjuːtɪŋ/；AmE /kəˈmjuːtɪŋ/",
+    "meaning": "通勤（名词/动名词）",
+    "example": "Commuting takes me an hour each day.",
+    "collocation": "daily commuting；commuting time",
+    "roots": "",
+    "inflection": "—",
+    "related": "commute：通勤｜commuter：通勤者",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "commute：通勤；-ing：名词化"
     }
   },
   {
@@ -1567,6 +2902,96 @@
     }
   },
   {
+    "word": "convention",
+    "pos": "n.",
+    "phonetic": "BrE /kənˈvenʃən/；AmE /kənˈvenʃən/",
+    "meaning": "大会；惯例；公约",
+    "example": "By convention, we start at 9. / They met at a tech convention.",
+    "collocation": "by convention；social convention；international convention",
+    "roots": "",
+    "inflection": "复数：conventions",
+    "related": "conventional：传统的｜convene：召集",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "con-：一起；vene：来；-tion：名词后缀"
+    }
+  },
+  {
+    "word": "convey",
+    "pos": "v.",
+    "phonetic": "BrE /kənˈveɪ/；AmE /kənˈveɪ/",
+    "meaning": "传达；表达；运送",
+    "example": "Please convey my apologies.",
+    "collocation": "convey a message；convey that...",
+    "roots": "",
+    "inflection": "三单：conveys；过去：conveyed；-ing：conveying",
+    "related": "communicate：沟通｜transfer：转移/传送",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "con-：一起；vey（运送词源）"
+    }
+  },
+  {
+    "word": "currency",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkʌrənsi/；AmE /ˈkɜːrənsi/",
+    "meaning": "货币；通行；流行",
+    "example": "The local currency is the yen.",
+    "collocation": "foreign currency；currency exchange",
+    "roots": "",
+    "inflection": "复数：currencies",
+    "related": "exchange rate：汇率｜current：当前的（同源）",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "curr-：流动；-ency：名词后缀"
+    }
+  },
+  {
+    "word": "declare",
+    "pos": "v.",
+    "phonetic": "BrE /dɪˈkleə/；AmE /dɪˈkler/",
+    "meaning": "宣布；声明；申报",
+    "example": "He declared the meeting open. / You must declare this income.",
+    "collocation": "declare that...；declare war；declare income",
+    "roots": "",
+    "inflection": "三单：declares；过去：declared；-ing：declaring",
+    "related": "declaration：声明｜announce：宣布",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "de-：使清楚；clar：清楚"
+    }
+  },
+  {
+    "word": "dedicate",
+    "pos": "v.",
+    "phonetic": "BrE /ˈdedɪkeɪt/；AmE /ˈdedɪkeɪt/",
+    "meaning": "致力于；献给",
+    "example": "He dedicated himself to research.",
+    "collocation": "dedicate to；dedicate oneself to",
+    "roots": "",
+    "inflection": "三单：dedicates；过去：dedicated；-ing：dedicating",
+    "related": "dedication：奉献｜devote：致力于",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "dic/dict：说（词源）→题献；-ate：动词"
+    }
+  },
+  {
+    "word": "defect",
+    "pos": "n.",
+    "phonetic": "BrE /ˈdiːfekt/；AmE /ˈdiːfekt/",
+    "meaning": "缺陷；缺点",
+    "example": "The device has a serious defect.",
+    "collocation": "manufacturing defect；defect rate",
+    "roots": "",
+    "inflection": "复数：defects",
+    "related": "defective：有缺陷的｜flaw：瑕疵",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "de-：离；fect：做（词源相关）"
+    }
+  },
+  {
     "word": "destination",
     "pos": "n.",
     "phonetic": "BrE /ˌdestɪˈneɪʃən/；AmE /ˌdɛstɪˈneɪʃən/",
@@ -1579,6 +3004,36 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "destin（目的/命运）+ -ation（名词后缀）"
+    }
+  },
+  {
+    "word": "diligently",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈdɪlɪdʒəntli/；AmE /ˈdɪlɪdʒəntli/",
+    "meaning": "勤勉地；认真地",
+    "example": "She worked diligently to meet the deadline.",
+    "collocation": "work diligently",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "diligent：勤勉的｜carefully：认真地",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "diligent：勤勉的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "distinguish",
+    "pos": "v.",
+    "phonetic": "BrE /dɪˈstɪŋɡwɪʃ/；AmE /dɪˈstɪŋɡwɪʃ/",
+    "meaning": "区分；辨别；使出众",
+    "example": "Can you distinguish A from B?",
+    "collocation": "distinguish between；distinguish A from B",
+    "roots": "",
+    "inflection": "三单：distinguishes；过去：distinguished；-ing：distinguishing",
+    "related": "distinction：区别｜distinct：不同的｜differentiate：区分",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "dis-：分开；（词源相关）"
     }
   },
   {
@@ -1612,6 +3067,21 @@
     }
   },
   {
+    "word": "drastically",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈdræstɪkli/；AmE /ˈdræstɪkli/",
+    "meaning": "大幅度地；剧烈地",
+    "example": "Costs dropped drastically.",
+    "collocation": "drastically reduce/increase",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "drastic：剧烈的｜sharply：急剧地",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "drastic：剧烈的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "drop in",
     "pos": "phrasal v./n.",
     "phonetic": "BrE /ˌdrɒp ˈɪn/; AmE /ˌdrɑːp ˈɪn/",
@@ -1627,6 +3097,21 @@
     }
   },
   {
+    "word": "duplicate",
+    "pos": "n./v./adj.",
+    "phonetic": "BrE /ˈdjuːplɪkət/（n./adj.）；/ˈdjuːplɪkeɪt/（v.）；AmE /ˈduːplɪkət/（n./adj.）；/ˈduːplɪkeɪt/（v.）",
+    "meaning": "副本；复制；重复的/复制的",
+    "example": "Please duplicate this form. / This is a duplicate copy.",
+    "collocation": "duplicate copy；duplicate entry；duplicate file",
+    "roots": "",
+    "inflection": "动词：duplicates/duplicated/duplicating；名词复数：duplicates",
+    "related": "duplication：复制｜copy：复制/副本｜redundant：冗余的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "du-：二；plic：折/重（词源）"
+    }
+  },
+  {
     "word": "efficient",
     "pos": "adj.",
     "phonetic": "BrE /ɪˈfɪʃənt/；AmE /ɪˈfɪʃənt/",
@@ -1639,6 +3124,36 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "ef-/ex-（向外）+ fic（做）+ -ient（形容词后缀）"
+    }
+  },
+  {
+    "word": "emphasis",
+    "pos": "n.",
+    "phonetic": "BrE /ˈemfəsɪs/；AmE /ˈemfəsɪs/",
+    "meaning": "强调；重点",
+    "example": "The course places emphasis on practice.",
+    "collocation": "place emphasis on；with emphasis",
+    "roots": "",
+    "inflection": "复数：emphases /ˈemfəsiːz/",
+    "related": "emphasize：强调｜stress：强调",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "emphasize",
+    "pos": "v.",
+    "phonetic": "BrE /ˈemfəsaɪz/；AmE /ˈemfəsaɪz/",
+    "meaning": "强调",
+    "example": "Let me emphasize one point.",
+    "collocation": "emphasize that...；emphasize the importance",
+    "roots": "",
+    "inflection": "三单：emphasizes；过去：emphasized；-ing：emphasizing",
+    "related": "emphasis：重点｜highlight：突出",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "emphasis：强调；-ize：动词后缀"
     }
   },
   {
@@ -1687,6 +3202,36 @@
     }
   },
   {
+    "word": "exhibited",
+    "pos": "v./adj.",
+    "phonetic": "BrE /ɪɡˈzɪbɪtɪd/；AmE /ɪɡˈzɪbɪtɪd/",
+    "meaning": "展出（过去式/分词）；表现出的",
+    "example": "The painting was exhibited last year.",
+    "collocation": "exhibited at/in",
+    "roots": "",
+    "inflection": "原形：exhibit；-ing：exhibiting",
+    "related": "exhibition：展览｜shown：展出的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "exhibit：展出；-ed：过去式/分词"
+    }
+  },
+  {
+    "word": "exhibition",
+    "pos": "n.",
+    "phonetic": "BrE /ˌeksɪˈbɪʃən/；AmE /ˌeksɪˈbɪʃən/",
+    "meaning": "展览；展出",
+    "example": "The exhibition runs until Sunday.",
+    "collocation": "art exhibition；hold an exhibition",
+    "roots": "",
+    "inflection": "复数：exhibitions",
+    "related": "exhibit：展出｜gallery：画廊",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "exhibit：展出；-ion：名词后缀"
+    }
+  },
+  {
     "word": "existing",
     "pos": "adj./v.(ing)",
     "phonetic": "BrE /ɪɡˈzɪstɪŋ/; AmE /ɪɡˈzɪstɪŋ/",
@@ -1699,6 +3244,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "exist + -ing（现在分词/形容词化）"
+    }
+  },
+  {
+    "word": "foster",
+    "pos": "v.",
+    "phonetic": "BrE /ˈfɒstə/；AmE /ˈfɑːstər/",
+    "meaning": "促进；培养；（少）寄养",
+    "example": "Good leaders foster trust.",
+    "collocation": "foster growth；foster a culture",
+    "roots": "",
+    "inflection": "三单：fosters；过去：fostered；-ing：fostering",
+    "related": "nurture：培养｜promote：促进",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -1807,6 +3367,51 @@
     }
   },
   {
+    "word": "indicator",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɪndɪkeɪtə/；AmE /ˈɪndɪkeɪtər/",
+    "meaning": "指标；指示器",
+    "example": "Inflation is an economic indicator.",
+    "collocation": "key indicator；performance indicator",
+    "roots": "",
+    "inflection": "复数：indicators",
+    "related": "indication：迹象｜index：指数",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "indicate：指示；-or：人/物后缀"
+    }
+  },
+  {
+    "word": "industrial",
+    "pos": "adj.",
+    "phonetic": "BrE /ɪnˈdʌstriəl/；AmE /ɪnˈdʌstriəl/",
+    "meaning": "工业的；产业的",
+    "example": "Industrial output increased this year.",
+    "collocation": "industrial policy；industrial area",
+    "roots": "",
+    "inflection": "—",
+    "related": "industrialize：工业化｜manufacturing：制造业",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "industry：工业；-al：形容词后缀"
+    }
+  },
+  {
+    "word": "inevitably",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪˈnevɪtəbli/；AmE /ɪˈnevɪtəbli/",
+    "meaning": "不可避免地；必然地",
+    "example": "Prices will inevitably rise. / It inevitably leads to conflict.",
+    "collocation": "inevitably lead to；almost inevitably",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "inevitable：不可避免的｜unavoidable：不可避免的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：不；evit（避免）+ -ably（副词化）"
+    }
+  },
+  {
     "word": "instruction",
     "pos": "n.",
     "phonetic": "BrE /ɪnˈstrʌkʃən/；AmE /ɪnˈstrʌkʃən/",
@@ -1819,6 +3424,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "instruct（教/指示）+ -ion（名词后缀）"
+    }
+  },
+  {
+    "word": "insure",
+    "pos": "v.",
+    "phonetic": "BrE /ɪnˈʃʊə/；AmE /ɪnˈʃʊr/",
+    "meaning": "投保；确保",
+    "example": "You should insure your car. / Please insure that the data is backed up.",
+    "collocation": "insure against；insure that...；insure a house",
+    "roots": "",
+    "inflection": "三单：insures；过去：insured；-ing：insuring",
+    "related": "insurance：保险｜ensure：确保（更常用）｜assure：使放心",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：使…；sure：确定（词源相关）"
     }
   },
   {
@@ -1852,6 +3472,96 @@
     }
   },
   {
+    "word": "mayor",
+    "pos": "n.",
+    "phonetic": "BrE /meə/；AmE /ˈmeɪər/",
+    "meaning": "市长",
+    "example": "The mayor opened the new library.",
+    "collocation": "mayor of；city mayor",
+    "roots": "",
+    "inflection": "复数：mayors",
+    "related": "mayoral：市长的｜municipal：市政的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "词源“更大/主要”相关"
+    }
+  },
+  {
+    "word": "merge",
+    "pos": "v.",
+    "phonetic": "BrE /mɜːdʒ/；AmE /mɜːrdʒ/",
+    "meaning": "合并；融合",
+    "example": "The two companies merged last year.",
+    "collocation": "merge with；merge into",
+    "roots": "",
+    "inflection": "三单：merges；过去：merged；-ing：merging",
+    "related": "merger：合并｜combine：结合",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "minimize",
+    "pos": "v.",
+    "phonetic": "BrE /ˈmɪnɪmaɪz/；AmE /ˈmɪnɪmaɪz/",
+    "meaning": "最小化；尽量减少",
+    "example": "We must minimize risk.",
+    "collocation": "minimize cost/risk；minimize impact",
+    "roots": "",
+    "inflection": "三单：minimizes；过去：minimized；-ing：minimizing",
+    "related": "minimal：最小的｜reduce：减少",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "minim-：最小；-ize：动词后缀"
+    }
+  },
+  {
+    "word": "moderate",
+    "pos": "adj./v.",
+    "phonetic": "BrE /ˈmɒdərət/（adj.）；BrE /ˈmɒdəreɪt/（v.）；AmE /ˈmɑːdərət/（adj.）；AmE /ˈmɑːdəreɪt/（v.）",
+    "meaning": "适度的；温和的；调节",
+    "example": "Keep a moderate pace. / He moderated the debate.",
+    "collocation": "moderate risk；moderate a meeting",
+    "roots": "",
+    "inflection": "形：more/most moderate；动词：moderates/moderated/moderating",
+    "related": "moderation：适度｜mild：温和的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "mod-：尺度；-ate：动词后缀"
+    }
+  },
+  {
+    "word": "nevertheless",
+    "pos": "adv.",
+    "phonetic": "BrE /ˌnevəðəˈles/；AmE /ˌnevərðəˈles/",
+    "meaning": "然而；尽管如此",
+    "example": "It was expensive; nevertheless, I bought it.",
+    "collocation": "nevertheless + 句子",
+    "roots": "",
+    "inflection": "—",
+    "related": "nonetheless：尽管如此｜however：然而",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "never + the + less"
+    }
+  },
+  {
+    "word": "objective",
+    "pos": "n./adj.",
+    "phonetic": "BrE /əbˈdʒektɪv/；AmE /əbˈdʒektɪv/",
+    "meaning": "目标；客观的",
+    "example": "Our objective is to cut costs. / Try to be objective.",
+    "collocation": "set an objective；objective evidence；objective measurement",
+    "roots": "",
+    "inflection": "复数：objectives",
+    "related": "objectivity：客观性｜goal：目标",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "ob-：向；ject：投；-ive：形容词/名词后缀"
+    }
+  },
+  {
     "word": "performer",
     "pos": "n.",
     "phonetic": "BrE /pəˈfɔːmə/; AmE /pərˈfɔːrmər/",
@@ -1882,6 +3592,21 @@
     }
   },
   {
+    "word": "preferable",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈprefrəbəl/；AmE /ˈprefrəbəl/",
+    "meaning": "更可取的；更合适的",
+    "example": "It’s preferable to leave early.",
+    "collocation": "preferable to；preferable option",
+    "roots": "",
+    "inflection": "—",
+    "related": "preference：偏好｜better：更好的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "prefer：更喜欢；-able：可…的"
+    }
+  },
+  {
     "word": "preference",
     "pos": "n.",
     "phonetic": "BrE /ˈprefərəns/；AmE /ˈprefərəns/",
@@ -1894,6 +3619,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "prefer（更喜欢）+ -ence（名词后缀：状态）"
+    }
+  },
+  {
+    "word": "prescription",
+    "pos": "n.",
+    "phonetic": "BrE /prɪˈskrɪpʃən/；AmE /prɪˈskrɪpʃən/",
+    "meaning": "处方；处方药",
+    "example": "You need a prescription for this medicine.",
+    "collocation": "fill a prescription；prescription drug",
+    "roots": "",
+    "inflection": "复数：prescriptions",
+    "related": "prescribe：开处方｜over-the-counter：非处方的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "pre-：先；script：写；-ion：名词后缀"
     }
   },
   {
@@ -1912,6 +3652,21 @@
     }
   },
   {
+    "word": "prominent",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈprɒmɪnənt/；AmE /ˈprɑːmɪnənt/",
+    "meaning": "著名的；突出的",
+    "example": "A prominent scientist spoke at the conference.",
+    "collocation": "prominent figure；prominent in",
+    "roots": "",
+    "inflection": "—",
+    "related": "prominence：显著｜notable：著名的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "promin-：突出；-ent：形容词后缀"
+    }
+  },
+  {
     "word": "propose",
     "pos": "v.",
     "phonetic": "BrE /prəˈpəʊz/；AmE /prəˈpoʊz/",
@@ -1924,6 +3679,36 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "pro-（向前）+ pose（放置）→“提出”"
+    }
+  },
+  {
+    "word": "publicity",
+    "pos": "n.",
+    "phonetic": "BrE /pʌbˈlɪsɪti/；AmE /pʌbˈlɪsɪti/",
+    "meaning": "宣传；公众关注",
+    "example": "The event got a lot of publicity.",
+    "collocation": "negative publicity；gain publicity",
+    "roots": "",
+    "inflection": "—",
+    "related": "publicize：宣传｜public：公众",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "public + -ity：名词后缀"
+    }
+  },
+  {
+    "word": "pursue",
+    "pos": "v.",
+    "phonetic": "BrE /pəˈsjuː/；AmE /pərˈsuː/",
+    "meaning": "追求；追赶；继续进行",
+    "example": "She pursued a career in finance.",
+    "collocation": "pursue a goal；pursue a degree",
+    "roots": "",
+    "inflection": "三单：pursues；过去：pursued；-ing：pursuing",
+    "related": "pursuit：追求｜chase：追赶",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "词源“追逐”"
     }
   },
   {
@@ -1972,6 +3757,81 @@
     }
   },
   {
+    "word": "residential",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌrezɪˈdenʃəl/；AmE /ˌrezɪˈdenʃəl/",
+    "meaning": "住宅的；居住的",
+    "example": "This is a quiet residential area.",
+    "collocation": "residential district/area；residential building",
+    "roots": "",
+    "inflection": "—",
+    "related": "resident：居民｜residence：住所｜reside：居住",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "reside：居住；-ential：形容词后缀"
+    }
+  },
+  {
+    "word": "resign",
+    "pos": "v.",
+    "phonetic": "BrE /rɪˈzaɪn/；AmE /rɪˈzaɪn/",
+    "meaning": "辞职；放弃",
+    "example": "He decided to resign from the company.",
+    "collocation": "resign from；resign as；resign oneself to",
+    "roots": "",
+    "inflection": "三单：resigns；过去：resigned；-ing：resigning",
+    "related": "resignation：辞职｜quit：辞职（口语）",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：再；sign：签（引申“签署放弃”）"
+    }
+  },
+  {
+    "word": "respectfully",
+    "pos": "adv.",
+    "phonetic": "BrE /rɪˈspektfəli/；AmE /rɪˈspektfəli/",
+    "meaning": "恭敬地；谨慎地（用于礼貌表达）",
+    "example": "Respectfully, I disagree. / Respectfully yours, ...",
+    "collocation": "respectfully disagree；Respectfully yours",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "politely：礼貌地｜with respect：恭敬地",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "respectful：尊敬的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "respectively",
+    "pos": "adv.",
+    "phonetic": "BrE /rɪˈspektɪvli/；AmE /rɪˈspektɪvli/",
+    "meaning": "分别；各自",
+    "example": "The two groups scored 90 and 80, respectively.",
+    "collocation": "A and B, respectively",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "in that order：按此顺序｜each：各自",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "respective：各自的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "resume",
+    "pos": "v./n.",
+    "phonetic": "BrE /rɪˈzjuːm/（v.）；BrE /ˈrezjʊmeɪ/（n.）；AmE /rɪˈzuːm/（v.）；AmE /ˈrezəmeɪ/（n.）",
+    "meaning": "继续；（美）简历",
+    "example": "We will resume the meeting at 2. / Please send your resume.",
+    "collocation": "resume work；submit a resume",
+    "roots": "",
+    "inflection": "动词：resumes/resumed/resuming；名词：resumes",
+    "related": "CV：简历｜restart：重新开始",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：再；sum（取/拿，词源）"
+    }
+  },
+  {
     "word": "revise",
     "pos": "v.",
     "phonetic": "BrE /rɪˈvaɪz/；AmE /rɪˈvaɪz/",
@@ -2002,6 +3862,36 @@
     }
   },
   {
+    "word": "superior",
+    "pos": "adj./n.",
+    "phonetic": "BrE /suːˈpɪəriə/；AmE /suːˈpɪriər/",
+    "meaning": "更好的；更高级的；上级",
+    "example": "This model is superior to the old one. / Report it to your superior.",
+    "collocation": "superior to；superior performance；a superior officer",
+    "roots": "",
+    "inflection": "—",
+    "related": "superiority：优越性｜inferior：较差的｜senior：资深的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "super-：上；-ior：比较级后缀"
+    }
+  },
+  {
+    "word": "temporarily",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈtemprərəli/；AmE /ˌtempəˈrerəli/",
+    "meaning": "暂时地；临时地",
+    "example": "The office is temporarily closed.",
+    "collocation": "temporarily suspend",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "for a while：一段时间｜briefly：短暂地",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "temporary：暂时的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "toss",
     "pos": "v./n.",
     "phonetic": "BrE /tɒs/；AmE /tɔːs/",
@@ -2017,6 +3907,36 @@
     }
   },
   {
+    "word": "urgency",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɜːdʒənsi/；AmE /ˈɜːrdʒənsi/",
+    "meaning": "紧迫性；紧急",
+    "example": "There’s a sense of urgency to act now.",
+    "collocation": "a sense of urgency；urgent need",
+    "roots": "",
+    "inflection": "复数：urgencies",
+    "related": "urgent：紧急的｜pressing：紧迫的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "urge：催促；-ency：名词后缀"
+    }
+  },
+  {
+    "word": "valid",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈvælɪd/；AmE /ˈvælɪd/",
+    "meaning": "有效的；有根据的",
+    "example": "Is this ticket still valid?",
+    "collocation": "valid until；valid reason",
+    "roots": "",
+    "inflection": "—",
+    "related": "validity：有效性｜legitimate：合法的/正当的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "val-：强/值（词源相关）；-id：形容词词尾"
+    }
+  },
+  {
     "word": "garage",
     "pos": "n.",
     "phonetic": "BrE /ˈɡærɑːʒ/；AmE /ɡəˈrɑːʒ/",
@@ -2029,6 +3949,66 @@
     "position": 3500,
     "extra": {
       "词根词缀,词头词尾": "借词（不常拆）；相关：garaged"
+    }
+  },
+  {
+    "word": "accommodate",
+    "pos": "v.",
+    "phonetic": "BrE /əˈkɒmədeɪt/；AmE /əˈkɑːmədeɪt/",
+    "meaning": "容纳；提供住宿；照顾（需求）",
+    "example": "The hotel can accommodate 300 guests.",
+    "collocation": "accommodate guests；accommodate needs",
+    "roots": "",
+    "inflection": "三单：accommodates；过去：accommodated；-ing：accommodating",
+    "related": "accommodation：住宿｜adapt：适应",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "ac-：向；commod：合适/便利；-ate：动词"
+    }
+  },
+  {
+    "word": "acquisition",
+    "pos": "n.",
+    "phonetic": "BrE /ˌækwɪˈzɪʃən/；AmE /ˌækwɪˈzɪʃən/",
+    "meaning": "获得；收购；习得",
+    "example": "The company announced an acquisition.",
+    "collocation": "asset acquisition；acquisition of",
+    "roots": "",
+    "inflection": "复数：acquisitions",
+    "related": "acquire：获得｜merger：合并",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "acquire：获得；-ition：名词后缀"
+    }
+  },
+  {
+    "word": "affiliate",
+    "pos": "n./v.",
+    "phonetic": "BrE /əˈfɪliət/（n.）；BrE /əˈfɪlieɪt/（v.）；AmE /əˈfɪliət/（n.）；AmE /əˈfɪlieɪt/（v.）",
+    "meaning": "附属机构；使隶属；加入（组织）",
+    "example": "Our firm is an affiliate of a larger group.",
+    "collocation": "affiliate with；affiliate company",
+    "roots": "",
+    "inflection": "复数：affiliates；动词：affiliates/affiliated/affiliating",
+    "related": "affiliation：隶属关系｜subsidiary：子公司",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "affili-：子系/联系；-ate：动词后缀"
+    }
+  },
+  {
+    "word": "airfare",
+    "pos": "n.",
+    "phonetic": "BrE /ˈeəfeə/；AmE /ˈerfer/",
+    "meaning": "机票价格；航空票价",
+    "example": "Airfare is higher during holidays.",
+    "collocation": "round-trip airfare；airfare deal",
+    "roots": "",
+    "inflection": "—",
+    "related": "fare：票价｜ticket price：票价",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "air + fare（票价）"
     }
   },
   {
@@ -2062,6 +4042,36 @@
     }
   },
   {
+    "word": "approximated",
+    "pos": "v./adj.",
+    "phonetic": "BrE /əˈprɒksɪmeɪtɪd/；AmE /əˈprɑːksɪmeɪtɪd/",
+    "meaning": "（被）近似；（数值）近似的",
+    "example": "The curve was approximated by a line.",
+    "collocation": "approximated by；approximated to",
+    "roots": "",
+    "inflection": "原形：approximate；过去：approximated；-ing：approximating",
+    "related": "approximation：近似｜estimated：估算的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "approximate：近似；-ed：过去式/过去分词"
+    }
+  },
+  {
+    "word": "approximation",
+    "pos": "n.",
+    "phonetic": "BrE /əˌprɒksɪˈmeɪʃən/；AmE /əˌprɑːksɪˈmeɪʃən/",
+    "meaning": "近似值；估算；大致",
+    "example": "This is a rough approximation.",
+    "collocation": "close approximation；approximation of",
+    "roots": "",
+    "inflection": "复数：approximations",
+    "related": "approximate：近似的/使接近｜estimate：估计",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "approximate：近似；-ion：名词后缀"
+    }
+  },
+  {
     "word": "assembly",
     "pos": "n.",
     "phonetic": "BrE /əˈsembli/；AmE /əˈsɛmbli/",
@@ -2089,6 +4099,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "aud（听，见 audience）→“听取/审查”"
+    }
+  },
+  {
+    "word": "auditor",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɔːdɪtər/；AmE /ˈɔːdɪtər/",
+    "meaning": "审计员；稽核员",
+    "example": "The auditor reviewed the company’s accounts.",
+    "collocation": "internal auditor；external auditor；audit report",
+    "roots": "",
+    "inflection": "复数：auditors",
+    "related": "audit：审计｜auditing：审计工作｜audit trail：审计追踪",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "audit：审计；-or：人/者后缀"
     }
   },
   {
@@ -2152,6 +4177,21 @@
     }
   },
   {
+    "word": "cellular",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈseljʊlə/；AmE /ˈseljələr/",
+    "meaning": "细胞的；蜂窝状的；手机/移动网络的",
+    "example": "Cellular data is unavailable here.",
+    "collocation": "cellular level；cellular network",
+    "roots": "",
+    "inflection": "—",
+    "related": "cell：细胞｜cellphone：手机",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "cell：细胞；-ular：形容词后缀"
+    }
+  },
+  {
     "word": "clerk",
     "pos": "n.",
     "phonetic": "BrE /klɑːk/; AmE /klɝːk/",
@@ -2164,6 +4204,51 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "职业名词；词缀不典型"
+    }
+  },
+  {
+    "word": "collaborated",
+    "pos": "v.",
+    "phonetic": "BrE /kəˈlæbəreɪtɪd/；AmE /kəˈlæbəreɪtɪd/",
+    "meaning": "合作（collaborate 过去式/过去分词）",
+    "example": "They collaborated on a research paper.",
+    "collocation": "collaborate with；collaborate on",
+    "roots": "",
+    "inflection": "原形：collaborate；-ing：collaborating",
+    "related": "collaboration：合作｜coauthor：合著",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "collaborate：合作；-ed：过去式/分词"
+    }
+  },
+  {
+    "word": "collaboration",
+    "pos": "n.",
+    "phonetic": "BrE /kəˌlæbəˈreɪʃən/；AmE /kəˌlæbəˈreɪʃən/",
+    "meaning": "合作；协作",
+    "example": "Our project is a collaboration with a university.",
+    "collocation": "in collaboration with；close collaboration",
+    "roots": "",
+    "inflection": "复数：collaborations",
+    "related": "collaborate：合作｜partnership：伙伴关系",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "col-：一起；labor：劳动；-ation：名词后缀"
+    }
+  },
+  {
+    "word": "collaborative",
+    "pos": "adj.",
+    "phonetic": "BrE /kəˈlæbərətɪv/；AmE /kəˈlæbərətɪv/",
+    "meaning": "协作的；合作的",
+    "example": "A collaborative approach works best.",
+    "collocation": "collaborative project；collaborative work",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most collaborative",
+    "related": "collaboratively：协作地｜cooperative：合作的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "col-：一起；labor：劳动；-ative：形容词后缀"
     }
   },
   {
@@ -2212,6 +4297,21 @@
     }
   },
   {
+    "word": "controversial",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌkɒntrəˈvɜːʃəl/；AmE /ˌkɑːntrəˈvɜːrʃəl/",
+    "meaning": "有争议的",
+    "example": "It's a controversial decision.",
+    "collocation": "highly controversial；controversial topic",
+    "roots": "",
+    "inflection": "—",
+    "related": "controversy：争议｜debatable：可争论的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "controversy：争议；-al：形容词后缀"
+    }
+  },
+  {
     "word": "corporate",
     "pos": "adj.",
     "phonetic": "BrE /ˈkɔːpərət/；AmE /ˈkɔːrpərət/",
@@ -2224,6 +4324,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "corpor（身体/团体）语源 + -ate（形容词化）"
+    }
+  },
+  {
+    "word": "cosmetic",
+    "pos": "adj./n.",
+    "phonetic": "BrE /kɒzˈmetɪk/；AmE /kɑːzˈmetɪk/",
+    "meaning": "化妆的；表面的；化妆品",
+    "example": "The changes are cosmetic, not real. / She bought cosmetics.",
+    "collocation": "cosmetic surgery；cosmetic changes",
+    "roots": "",
+    "inflection": "复数：cosmetics",
+    "related": "makeup：化妆品｜superficial：表面的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "cosmet-：装饰/美容；-ic：形容词后缀"
     }
   },
   {
@@ -2242,6 +4357,21 @@
     }
   },
   {
+    "word": "deduct",
+    "pos": "v.",
+    "phonetic": "BrE /dɪˈdʌkt/；AmE /dɪˈdʌkt/",
+    "meaning": "扣除",
+    "example": "They deduct tax from salaries.",
+    "collocation": "deduct from；tax-deductible",
+    "roots": "",
+    "inflection": "三单：deducts；过去：deducted；-ing：deducting",
+    "related": "deduction：扣除额｜subtract：减去",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "de-：下；duct：引导"
+    }
+  },
+  {
     "word": "demonstrate",
     "pos": "v.",
     "phonetic": "BrE /ˈdemənstreɪt/; AmE /ˈdemənstreɪt/",
@@ -2254,6 +4384,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "de- + monstr（展示）+ -ate（动词后缀）"
+    }
+  },
+  {
+    "word": "designation",
+    "pos": "n.",
+    "phonetic": "BrE /ˌdezɪɡˈneɪʃən/；AmE /ˌdezɪɡˈneɪʃən/",
+    "meaning": "指定；名称；职位/称号",
+    "example": "“VIP” is a special designation.",
+    "collocation": "official designation；job designation",
+    "roots": "",
+    "inflection": "复数：designations",
+    "related": "designate：指定｜title：头衔",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "designate：指定；-ation：名词后缀"
     }
   },
   {
@@ -2287,6 +4432,36 @@
     }
   },
   {
+    "word": "emphatic",
+    "pos": "adj.",
+    "phonetic": "BrE /ɪmˈfætɪk/；AmE /ɪmˈfætɪk/",
+    "meaning": "强调的；坚决的",
+    "example": "He gave an emphatic “no”.",
+    "collocation": "emphatic statement",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most emphatic",
+    "related": "emphatically：强调地｜firm：坚定的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "emphasis：强调；-ic：形容词后缀"
+    }
+  },
+  {
+    "word": "entrepreneur",
+    "pos": "n.",
+    "phonetic": "BrE /ˌɒntrəprəˈnɜː/；AmE /ˌɑːntrəprəˈnɜːr/",
+    "meaning": "企业家；创业者",
+    "example": "She became an entrepreneur after graduation.",
+    "collocation": "tech entrepreneur；serial entrepreneur",
+    "roots": "",
+    "inflection": "复数：entrepreneurs",
+    "related": "entrepreneurship：创业精神｜startup：初创公司",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "法语词源；-eur：人/者后缀"
+    }
+  },
+  {
     "word": "equip",
     "pos": "v.",
     "phonetic": "BrE /ɪˈkwɪp/; AmE /ɪˈkwɪp/",
@@ -2317,6 +4492,21 @@
     }
   },
   {
+    "word": "esteem",
+    "pos": "n./v.",
+    "phonetic": "BrE /ɪˈstiːm/；AmE /ɪˈstiːm/",
+    "meaning": "尊重；尊敬；自尊",
+    "example": "She is held in high esteem.",
+    "collocation": "in high esteem",
+    "roots": "",
+    "inflection": "动词：esteems/esteemed/esteeming",
+    "related": "self-esteem：自尊｜respect：尊重",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "execute",
     "pos": "v.",
     "phonetic": "BrE /ˈeksɪkjuːt/；AmE /ˈeksɪkjuːt/",
@@ -2329,6 +4519,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "ex-（向外）+ secu（跟随）语源；-e 动词固定"
+    }
+  },
+  {
+    "word": "exhibit",
+    "pos": "n./v.",
+    "phonetic": "BrE /ɪɡˈzɪbɪt/；AmE /ɪɡˈzɪbɪt/",
+    "meaning": "展品；展览；表现（特征）",
+    "example": "The museum will exhibit modern art.",
+    "collocation": "exhibit at；exhibit evidence",
+    "roots": "",
+    "inflection": "复数：exhibits；动词：exhibits/exhibited/exhibiting",
+    "related": "exhibition：展览｜display：展示",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "ex-：向外；hibit（持/握，词源）"
     }
   },
   {
@@ -2377,6 +4582,21 @@
     }
   },
   {
+    "word": "genetic",
+    "pos": "adj.",
+    "phonetic": "BrE /dʒəˈnetɪk/；AmE /dʒəˈnetɪk/",
+    "meaning": "遗传的；基因的",
+    "example": "Genetic factors play a role.",
+    "collocation": "genetic testing；genetic disorder",
+    "roots": "",
+    "inflection": "—",
+    "related": "genetics：遗传学｜hereditary：遗传的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "gene：基因；-tic/-ic：形容词后缀"
+    }
+  },
+  {
     "word": "grocery",
     "pos": "n.",
     "phonetic": "BrE /ˈɡrəʊsəri/；AmE /ˈɡroʊsəri/",
@@ -2389,6 +4609,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "-y：名词后缀“……相关的事物/集合”（常 n.）"
+    }
+  },
+  {
+    "word": "habitual",
+    "pos": "adj.",
+    "phonetic": "BrE /həˈbɪtʃuəl/；AmE /həˈbɪtʃuəl/",
+    "meaning": "习惯性的；惯常的",
+    "example": "He’s a habitual latecomer. / Habitual exercise improves health.",
+    "collocation": "habitual behavior；habitual offender",
+    "roots": "",
+    "inflection": "—",
+    "related": "habit：习惯｜routine：惯例｜customary：习惯的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "habit：习惯；-ual：形容词后缀"
     }
   },
   {
@@ -2407,6 +4642,21 @@
     }
   },
   {
+    "word": "implementation",
+    "pos": "n.",
+    "phonetic": "BrE /ˌɪmplɪmenˈteɪʃən/；AmE /ˌɪmplɪmenˈteɪʃən/",
+    "meaning": "实施；执行",
+    "example": "The implementation will take six months.",
+    "collocation": "implementation plan；successful implementation",
+    "roots": "",
+    "inflection": "复数：implementations",
+    "related": "rollout：推广上线｜deployment：部署",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "implement：实施；-ation：名词后缀"
+    }
+  },
+  {
     "word": "imply",
     "pos": "v.",
     "phonetic": "BrE /ɪmˈplaɪ/；AmE /ɪmˈplaɪ/",
@@ -2419,6 +4669,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "im-（向内/加强）+ ply（折叠/编织语源，延伸为“含在里面”）"
+    }
+  },
+  {
+    "word": "industrious",
+    "pos": "adj.",
+    "phonetic": "BrE /ɪnˈdʌstriəs/；AmE /ɪnˈdʌstriəs/",
+    "meaning": "勤奋的；刻苦的",
+    "example": "She is an industrious student.",
+    "collocation": "industrious worker",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most industrious",
+    "related": "diligent：勤勉的｜hardworking：勤劳的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "industry：勤奋；-ous：形容词后缀"
     }
   },
   {
@@ -2497,6 +4762,21 @@
     }
   },
   {
+    "word": "keynote",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkiːnəʊt/；AmE /ˈkiːnoʊt/",
+    "meaning": "主旨演讲；基调",
+    "example": "She delivered the keynote at the symposium.",
+    "collocation": "keynote speech；keynote address",
+    "roots": "",
+    "inflection": "复数：keynotes",
+    "related": "keynote speaker：主讲人｜theme：主题",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "key：关键 + note：要点"
+    }
+  },
+  {
     "word": "knock over",
     "pos": "phr.v.",
     "phonetic": "BrE /nɒk ˈəʊvə/；AmE /nɑːk ˈoʊvər/",
@@ -2509,6 +4789,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "knock（敲/撞）+ over（向倒下）"
+    }
+  },
+  {
+    "word": "liability",
+    "pos": "n.",
+    "phonetic": "BrE /ˌlaɪəˈbɪləti/；AmE /ˌlaɪəˈbɪləti/",
+    "meaning": "责任；法律责任；负债；不利因素",
+    "example": "The company accepts no liability for loss.",
+    "collocation": "legal liability；tax liability；liability insurance",
+    "roots": "",
+    "inflection": "复数：liabilities",
+    "related": "liable：有责任的｜obligation：义务｜asset：资产（对比）",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "liable：有责任的；-ity：名词后缀"
     }
   },
   {
@@ -2572,6 +4867,36 @@
     }
   },
   {
+    "word": "multilingual",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌmʌltiˈlɪŋɡwəl/；AmE /ˌmʌltiˈlɪŋɡwəl/",
+    "meaning": "多语言的；会多种语言的",
+    "example": "We need a multilingual support team.",
+    "collocation": "multilingual education；multilingual website",
+    "roots": "",
+    "inflection": "—",
+    "related": "bilingual：双语的｜language：语言｜polyglot：多语者",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "multi-：多；lingu-：语言"
+    }
+  },
+  {
+    "word": "observable",
+    "pos": "adj.",
+    "phonetic": "BrE /əbˈzɜːvəbəl/；AmE /əbˈzɜːrvəbəl/",
+    "meaning": "可观察到的",
+    "example": "There was no observable difference.",
+    "collocation": "observable effect；observable data",
+    "roots": "",
+    "inflection": "—",
+    "related": "observation：观察｜detectable：可检测的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "observe：观察；-able：可…的"
+    }
+  },
+  {
     "word": "obtain",
     "pos": "v.",
     "phonetic": "BrE /əbˈteɪn/；AmE /əbˈteɪn/",
@@ -2584,6 +4909,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "ob-（向/朝）+ tain（握住，见 retain/contain）"
+    }
+  },
+  {
+    "word": "occupancy",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɒkjʊpənsi/；AmE /ˈɑːkjəpənsi/",
+    "meaning": "入住率；占用；占用人数",
+    "example": "Hotel occupancy reached 90% last weekend.",
+    "collocation": "occupancy rate；maximum occupancy",
+    "roots": "",
+    "inflection": "复数：occupancies（较少用）",
+    "related": "occupy：占用｜occupation：职业/占领",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "occupy：占用；-ancy：名词后缀"
     }
   },
   {
@@ -2617,6 +4957,21 @@
     }
   },
   {
+    "word": "passionately",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈpæʃənətli/；AmE /ˈpæʃənətli/",
+    "meaning": "热情地；强烈地",
+    "example": "She spoke passionately about education.",
+    "collocation": "argue/speak passionately",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "passion：激情｜strongly：强烈地",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "passionate：热情的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "permit",
     "pos": "n./v.",
     "phonetic": "BrE /ˈpɜːmɪt/（n.）, /pəˈmɪt/（v.）；AmE /ˈpɝːmɪt/（n.）, /pərˈmɪt/（v.）",
@@ -2629,6 +4984,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "per-（通过/完全）+ mit（送/放，见 submit/permit）"
+    }
+  },
+  {
+    "word": "personnel",
+    "pos": "n.",
+    "phonetic": "BrE /ˌpɜːsəˈnel/；AmE /ˌpɜːrsəˈnel/",
+    "meaning": "人员；职员（总称）",
+    "example": "All personnel must wear badges.",
+    "collocation": "personnel department；military personnel",
+    "roots": "",
+    "inflection": "通常不可数（也可作复数同形）",
+    "related": "staff：员工｜human resources：人力资源",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "法语词源"
     }
   },
   {
@@ -2707,6 +5077,51 @@
     }
   },
   {
+    "word": "recreational",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌrekrɪˈeɪʃənl/；AmE /ˌrekrɪˈeɪʃənl/",
+    "meaning": "娱乐的；休闲的",
+    "example": "Recreational activities are available here.",
+    "collocation": "recreational facility；recreational use",
+    "roots": "",
+    "inflection": "—",
+    "related": "recreation：休闲｜leisure：闲暇｜entertainment：娱乐",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "recreation：娱乐；-al：形容词后缀"
+    }
+  },
+  {
+    "word": "reliability",
+    "pos": "n.",
+    "phonetic": "BrE /rɪˌlaɪəˈbɪləti/；AmE /rɪˌlaɪəˈbɪləti/",
+    "meaning": "可靠性；可信度",
+    "example": "This test shows high reliability.",
+    "collocation": "system reliability；reliability of data",
+    "roots": "",
+    "inflection": "复数：reliabilities（少用）",
+    "related": "reliable：可靠的｜validity：有效性（统计常搭）",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "rely + -able + -ity"
+    }
+  },
+  {
+    "word": "respectably",
+    "pos": "adv.",
+    "phonetic": "BrE /rɪˈspektəbli/；AmE /rɪˈspektəbli/",
+    "meaning": "体面地；得体地",
+    "example": "He dressed respectably for the interview.",
+    "collocation": "respectably dressed",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "decently：得体地｜respectable：体面的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "respectable：体面的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "revenue",
     "pos": "n.（不可数）",
     "phonetic": "BrE /ˈrevənjuː/；AmE /ˈrevənuː/",
@@ -2719,6 +5134,51 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "re-（回）+ ven（来，见 convene）语源"
+    }
+  },
+  {
+    "word": "reversible",
+    "pos": "adj.",
+    "phonetic": "BrE /rɪˈvɜːsəbəl/；AmE /rɪˈvɜːrsəbəl/",
+    "meaning": "可逆的；可恢复的",
+    "example": "The reaction is reversible.",
+    "collocation": "reversible change；reversible process",
+    "roots": "",
+    "inflection": "—",
+    "related": "irreversible：不可逆的｜reverse：逆转",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：回；vers：转；-ible：可…的"
+    }
+  },
+  {
+    "word": "self-esteem",
+    "pos": "n.",
+    "phonetic": "BrE /ˌself ɪˈstiːm/；AmE /ˌself ɪˈstiːm/",
+    "meaning": "自尊；自信",
+    "example": "Supportive feedback builds self-esteem.",
+    "collocation": "low/high self-esteem",
+    "roots": "",
+    "inflection": "—",
+    "related": "confidence：自信｜self-worth：自我价值感",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "复合词：self + esteem"
+    }
+  },
+  {
+    "word": "shallowly",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈʃæləʊli/；AmE /ˈʃæloʊli/",
+    "meaning": "浅浅地；（呼吸）浅地",
+    "example": "He was breathing shallowly.",
+    "collocation": "breathe shallowly",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "shallow：浅的｜lightly：轻轻地",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "shallow：浅的；-ly：副词后缀"
     }
   },
   {
@@ -2752,6 +5212,81 @@
     }
   },
   {
+    "word": "tempo",
+    "pos": "n.",
+    "phonetic": "BrE /ˈtempəʊ/；AmE /ˈtempoʊ/",
+    "meaning": "节奏；（进展）速度",
+    "example": "The music has a fast tempo.",
+    "collocation": "at this tempo；pick up the tempo",
+    "roots": "",
+    "inflection": "复数：tempos/tempi",
+    "related": "rhythm：节奏｜pace：节奏/速度",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "意大利语词源"
+    }
+  },
+  {
+    "word": "transcribe",
+    "pos": "v.",
+    "phonetic": "BrE /trænˈskraɪb/；AmE /trænˈskraɪb/",
+    "meaning": "转录；抄写",
+    "example": "She transcribed the interview audio.",
+    "collocation": "transcribe audio；transcribe into text",
+    "roots": "",
+    "inflection": "三单：transcribes；过去：transcribed；-ing：transcribing",
+    "related": "transcript：文字稿｜transcription：转录",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "trans-：转；scrib：写"
+    }
+  },
+  {
+    "word": "unanimously",
+    "pos": "adv.",
+    "phonetic": "BrE /juːˈnænɪməsli/；AmE /juːˈnænɪməsli/",
+    "meaning": "一致地",
+    "example": "They voted unanimously.",
+    "collocation": "vote unanimously",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "unanimous：一致的｜unanimity：一致同意",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "unanimous：一致的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "unauthorized",
+    "pos": "adj.",
+    "phonetic": "BrE /ʌnˈɔːθəraɪzd/；AmE /ʌnˈɔːθəraɪzd/",
+    "meaning": "未经授权的",
+    "example": "Unauthorized access is prohibited.",
+    "collocation": "unauthorized use/access；unauthorized payment",
+    "roots": "",
+    "inflection": "—",
+    "related": "authorized：获授权的｜permission：许可",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "un-：不；authorize：授权；-ed：形容词化"
+    }
+  },
+  {
+    "word": "validate",
+    "pos": "v.",
+    "phonetic": "BrE /ˈvælɪdeɪt/；AmE /ˈvælɪdeɪt/",
+    "meaning": "验证；确认有效",
+    "example": "Validate your email address.",
+    "collocation": "validate data/input",
+    "roots": "",
+    "inflection": "三单：validates；过去：validated；-ing：validating",
+    "related": "validation：验证｜verify：核实",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "valid：有效；-ate：动词后缀"
+    }
+  },
+  {
     "word": "variable",
     "pos": "n./adj.",
     "phonetic": "BrE /ˈveəriəbl/; AmE /ˈveriəbl/",
@@ -2764,6 +5299,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "vary（变化）+ -able（形容词后缀：可…的）"
+    }
+  },
+  {
+    "word": "voluntarily",
+    "pos": "adv.",
+    "phonetic": "BrE /ˌvɒlənˈtɪərəli/；AmE /ˌvɑːlənˈterəli/",
+    "meaning": "自愿地",
+    "example": "He voluntarily resigned.",
+    "collocation": "voluntarily disclose；voluntarily agree",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "volunteer：志愿者/自愿｜willingly：乐意地",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "voluntary：自愿的；-ly：副词后缀"
     }
   },
   {
@@ -2797,6 +5347,21 @@
     }
   },
   {
+    "word": "alma mater",
+    "pos": "n.",
+    "phonetic": "BrE /ˌælmə ˈmɑːtə/；AmE /ˌælmə ˈmɑːtər/",
+    "meaning": "母校",
+    "example": "She donated to her alma mater.",
+    "collocation": "return to one’s alma mater",
+    "roots": "",
+    "inflection": "—",
+    "related": "university：大学｜graduate：毕业生",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "拉丁语固定词组"
+    }
+  },
+  {
     "word": "architect",
     "pos": "n.",
     "phonetic": "BrE /ˈɑːkɪtekt/；AmE /ˈɑːrkɪtekt/",
@@ -2809,6 +5374,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "archi-（主要）+ tect（建造）"
+    }
+  },
+  {
+    "word": "automaker",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɔːtəʊˌmeɪkə/；AmE /ˈɔːtoʊˌmeɪkər/",
+    "meaning": "汽车制造商",
+    "example": "Automakers are investing in EVs.",
+    "collocation": "major automaker；global automaker",
+    "roots": "",
+    "inflection": "复数：automakers",
+    "related": "automotive：汽车的｜manufacturer：制造商",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "auto：汽车；maker：制造者"
     }
   },
   {
@@ -2854,6 +5434,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型"
+    }
+  },
+  {
+    "word": "collaboratively",
+    "pos": "adv.",
+    "phonetic": "BrE /kəˈlæbərətɪvli/；AmE /kəˈlæbərətɪvli/",
+    "meaning": "协作地；合作地",
+    "example": "We worked collaboratively across teams.",
+    "collocation": "work collaboratively",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "collaboration：合作｜jointly：共同地",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "collaborative：协作的；-ly：副词后缀"
     }
   },
   {
@@ -2917,6 +5512,21 @@
     }
   },
   {
+    "word": "distinguishable",
+    "pos": "adj.",
+    "phonetic": "BrE /dɪˈstɪŋɡwɪʃəbəl/；AmE /dɪˈstɪŋɡwɪʃəbəl/",
+    "meaning": "可区分的；可辨别的",
+    "example": "The two signals are distinguishable.",
+    "collocation": "distinguishable from",
+    "roots": "",
+    "inflection": "—",
+    "related": "indistinguishable：不可区分的｜distinct：明显不同的",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "distinguish：区分；-able：可…的"
+    }
+  },
+  {
     "word": "distribution",
     "pos": "n.",
     "phonetic": "BrE /ˌdɪstrɪˈbjuːʃən/; AmE /ˌdɪstrəˈbjuːʃən/",
@@ -2947,6 +5557,21 @@
     }
   },
   {
+    "word": "emphatically",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪmˈfætɪkli/；AmE /ɪmˈfætɪkli/",
+    "meaning": "强调地；断然地",
+    "example": "She emphatically denied the rumor.",
+    "collocation": "emphatically deny",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "emphatic：强调的｜strongly：强烈地",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "emphatic：强调的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "enthusiasm",
     "pos": "n.（不可数）",
     "phonetic": "BrE /ɪnˈθjuːziæzəm/；AmE /ɪnˈθuːziæzəm/",
@@ -2962,6 +5587,21 @@
     }
   },
   {
+    "word": "exhibitor",
+    "pos": "n.",
+    "phonetic": "BrE /ɪɡˈzɪbɪtə/；AmE /ɪɡˈzɪbɪtər/",
+    "meaning": "参展商；展出者",
+    "example": "Over 200 exhibitors joined the trade show.",
+    "collocation": "exhibitor booth；exhibitor list",
+    "roots": "",
+    "inflection": "复数：exhibitors",
+    "related": "exhibition：展览｜vendor：供应商/参展商",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "exhibit：展出；-or：人/者后缀"
+    }
+  },
+  {
     "word": "fountain",
     "pos": "n.",
     "phonetic": "BrE /ˈfaʊntɪn/；AmE /ˈfaʊntən/",
@@ -2974,6 +5614,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型"
+    }
+  },
+  {
+    "word": "franchise",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈfræntʃaɪz/；AmE /ˈfræntʃaɪz/",
+    "meaning": "特许经营；连锁加盟；加盟权",
+    "example": "He bought a fast-food franchise.",
+    "collocation": "franchise fee；franchise agreement",
+    "roots": "",
+    "inflection": "复数：franchises；动词：franchises/franchised/franchising",
+    "related": "franchisee：加盟方｜franchisor：特许方",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "法语词源（特权/自由）"
     }
   },
   {
@@ -3004,6 +5659,36 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "head + quarter（驻扎处）+ -s（固定形式）"
+    }
+  },
+  {
+    "word": "industriously",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪnˈdʌstriəsli/；AmE /ɪnˈdʌstriəsli/",
+    "meaning": "勤奋地；刻苦地",
+    "example": "He worked industriously all day.",
+    "collocation": "work industriously",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "diligently：勤勉地｜steadily：稳定地",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "industrious：勤奋的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "inflict",
+    "pos": "v.",
+    "phonetic": "BrE /ɪnˈflɪkt/；AmE /ɪnˈflɪkt/",
+    "meaning": "使遭受；加害",
+    "example": "They inflicted serious damage.",
+    "collocation": "inflict damage/pain/loss",
+    "roots": "",
+    "inflection": "三单：inflicts；过去：inflicted；-ing：inflicting",
+    "related": "infliction：加害｜cause：造成",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：使；flict（击打/冲突词源）"
     }
   },
   {
@@ -3052,6 +5737,51 @@
     }
   },
   {
+    "word": "mayoral",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈmeərəl/；AmE /ˈmeɪərəl/",
+    "meaning": "市长的；市政首长的",
+    "example": "The mayoral election is next month.",
+    "collocation": "mayoral election；mayoral candidate",
+    "roots": "",
+    "inflection": "—",
+    "related": "mayor：市长｜municipal：市政的",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "mayor：市长；-al：形容词后缀"
+    }
+  },
+  {
+    "word": "monetary",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈmʌnɪtəri/；AmE /ˈmʌnɪteri/",
+    "meaning": "货币的；金钱的",
+    "example": "Monetary policy affects inflation.",
+    "collocation": "monetary policy；monetary value",
+    "roots": "",
+    "inflection": "—",
+    "related": "currency：货币｜financial：金融的",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "monet-：钱（源自“money/Moneta”）；-ary：形容词"
+    }
+  },
+  {
+    "word": "orangutans",
+    "pos": "n.",
+    "phonetic": "BrE /əˈræŋʊtænz/；AmE /əˈræŋʊtænz/",
+    "meaning": "红毛猩猩（复数）",
+    "example": "Orangutans live in tropical forests.",
+    "collocation": "endangered orangutans",
+    "roots": "",
+    "inflection": "单数：orangutan",
+    "related": "primate：灵长类｜ape：猿",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "外来词（马来语词源）"
+    }
+  },
+  {
     "word": "portrait",
     "pos": "n.",
     "phonetic": "BrE /ˈpɔːtrɪt/；AmE /ˈpɔːrtrɪt/",
@@ -3064,6 +5794,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "借词；-trait（特征）语源相关"
+    }
+  },
+  {
+    "word": "proficiency",
+    "pos": "n.",
+    "phonetic": "BrE /prəˈfɪʃənsi/；AmE /prəˈfɪʃənsi/",
+    "meaning": "熟练；精通",
+    "example": "She has proficiency in English.",
+    "collocation": "proficiency in；language proficiency",
+    "roots": "",
+    "inflection": "复数：proficiencies",
+    "related": "proficient：熟练的｜competence：能力",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "proficient：熟练的；-ency：名词后缀"
     }
   },
   {
@@ -3157,6 +5902,36 @@
     }
   },
   {
+    "word": "restructure",
+    "pos": "v.",
+    "phonetic": "BrE /ˌriːˈstrʌktʃə/；AmE /ˌriːˈstrʌktʃər/",
+    "meaning": "重组；调整结构",
+    "example": "They plan to restructure the department.",
+    "collocation": "restructure a company",
+    "roots": "",
+    "inflection": "三单：restructures；过去：restructured；-ing：restructuring",
+    "related": "restructuring：重组｜reorganize：重新组织",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：再；struct：建"
+    }
+  },
+  {
+    "word": "restructuring",
+    "pos": "n.",
+    "phonetic": "BrE /ˌriːˈstrʌktʃərɪŋ/；AmE /ˌriːˈstrʌktʃərɪŋ/",
+    "meaning": "重组；重整",
+    "example": "The company announced a restructuring.",
+    "collocation": "corporate restructuring；debt restructuring",
+    "roots": "",
+    "inflection": "—",
+    "related": "restructure：重组｜reorganization：重组（更常见名词）",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：再；structure：结构；-ing：名词化"
+    }
+  },
+  {
     "word": "right to your in-box",
     "pos": "phrase",
     "phonetic": "BrE /raɪt tuː jɔː ˈɪnbɒks/；AmE /raɪt tuː jʊr ˈɪnbɑːks/",
@@ -3187,6 +5962,36 @@
     }
   },
   {
+    "word": "slimly",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈslɪmli/；AmE /ˈslɪmli/",
+    "meaning": "勉强地；优势很小地",
+    "example": "She won slimly.",
+    "collocation": "win slimly",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "narrowly：勉强地｜barely：几乎不",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "slim：微小的/苗条的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "sporadically",
+    "pos": "adv.",
+    "phonetic": "BrE /spəˈrædɪkli/；AmE /spəˈrædɪkli/",
+    "meaning": "零星地；断断续续地",
+    "example": "The error occurs sporadically.",
+    "collocation": "occur sporadically",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "intermittently：间歇地｜occasionally：偶尔",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "sporadic：零星的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "struggling",
     "pos": "adj./v.(ing)",
     "phonetic": "BrE /ˈstrʌɡlɪŋ/; AmE /ˈstrʌɡlɪŋ/",
@@ -3199,6 +6004,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "struggle + -ing（现在分词/形容词化）"
+    }
+  },
+  {
+    "word": "subsidy",
+    "pos": "n.",
+    "phonetic": "BrE /ˈsʌbsɪdi/；AmE /ˈsʌbsɪdi/",
+    "meaning": "补贴；津贴",
+    "example": "The project received a government subsidy.",
+    "collocation": "government subsidy；subsidy for",
+    "roots": "",
+    "inflection": "复数：subsidies",
+    "related": "subsidize：补贴｜grant：补助金",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "sub-：下；sid（坐/安置词源）"
     }
   },
   {
@@ -3217,6 +6037,36 @@
     }
   },
   {
+    "word": "symposium",
+    "pos": "n.",
+    "phonetic": "BrE /sɪmˈpəʊziəm/；AmE /sɪmˈpoʊziəm/",
+    "meaning": "专题研讨会；座谈会",
+    "example": "They hosted a symposium on AI.",
+    "collocation": "academic symposium；international symposium",
+    "roots": "",
+    "inflection": "复数：symposia/symposiums",
+    "related": "conference：会议｜seminar：研讨会",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "sym-：一起（词源）；（希腊语词源）"
+    }
+  },
+  {
+    "word": "temporal",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈtemprəl/；AmE /ˈtempərəl/",
+    "meaning": "时间的；暂时的；（解剖）颞的",
+    "example": "Temporal patterns can be analyzed.",
+    "collocation": "temporal order；temporal lobe",
+    "roots": "",
+    "inflection": "—",
+    "related": "temporary：暂时的｜time-related：时间相关的",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "temp-：时间；-al：形容词后缀"
+    }
+  },
+  {
     "word": "underwent",
     "pos": "v.（undergo 的过去式）",
     "phonetic": "BrE /ˌʌndəˈɡəʊ/；AmE /ˌʌndərˈɡoʊ/",
@@ -3229,6 +6079,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "under + go（经历/经受）"
+    }
+  },
+  {
+    "word": "unpermitted",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌʌnpəˈmɪtɪd/；AmE /ˌʌnpərˈmɪtɪd/",
+    "meaning": "未获许可的；不允许的",
+    "example": "Unpermitted parking will be fined.",
+    "collocation": "unpermitted entry/activity",
+    "roots": "",
+    "inflection": "—",
+    "related": "illegal：非法的｜unauthorized：未授权的",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "un-：不；permit：许可；-ed：形容词化"
     }
   },
   {
@@ -3262,6 +6127,21 @@
     }
   },
   {
+    "word": "accommodatingly",
+    "pos": "adv.",
+    "phonetic": "BrE /əˈkɒmədeɪtɪŋli/；AmE /əˈkɑːmədeɪtɪŋli/",
+    "meaning": "通融地；体贴地",
+    "example": "He nodded accommodatingly and agreed.",
+    "collocation": "accommodatingly agree",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "accommodating：通融的｜flexibly：灵活地",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "accommodating：通融的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "apron",
     "pos": "n.",
     "phonetic": "BrE /ˈeɪprən/；AmE /ˈeɪprən/",
@@ -3274,6 +6154,21 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型"
+    }
+  },
+  {
+    "word": "bilaterally",
+    "pos": "adv.",
+    "phonetic": "BrE /ˌbaɪˈlætərəli/；AmE /ˌbaɪˈlætərəli/",
+    "meaning": "双边地；双方地",
+    "example": "The issue was discussed bilaterally.",
+    "collocation": "bilateral talks（常用名词短语）",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "bilateral：双边的｜multilateral：多边的",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "bi-：二；lateral：侧；-ly：副词后缀"
     }
   },
   {
@@ -3397,6 +6292,21 @@
     }
   },
   {
+    "word": "effectuate",
+    "pos": "v.",
+    "phonetic": "BrE /ɪˈfektʃueɪt/；AmE /ɪˈfektʃueɪt/",
+    "meaning": "使发生；实现（非常正式/法律）",
+    "example": "The agreement effectuates the transfer of ownership.",
+    "collocation": "effectuate a transfer/settlement",
+    "roots": "",
+    "inflection": "三单：effectuates；过去：effectuated；-ing：effectuating",
+    "related": "implement：实施｜carry out：执行｜bring about：促成",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "effect：效果；-uate：使…化"
+    }
+  },
+  {
     "word": "encyclopedia",
     "pos": "n.",
     "phonetic": "BrE /ɪnˌsaɪkləˈpiːdiə/; AmE /ɪnˌsaɪkləˈpiːdiə/",
@@ -3469,6 +6379,36 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "found + -ing（现在分词/动名词；可作名词/形容词）"
+    }
+  },
+  {
+    "word": "implemental",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌɪmplɪˈmentl/；AmE /ˌɪmplɪˈmentl/",
+    "meaning": "实施的；执行用的（较少用）",
+    "example": "We discussed implemental details.",
+    "collocation": "implemental measures；implemental stage",
+    "roots": "",
+    "inflection": "—",
+    "related": "implementation：实施｜operational：操作性的",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "implement：实施；-al：形容词后缀"
+    }
+  },
+  {
+    "word": "inclement",
+    "pos": "adj.",
+    "phonetic": "BrE /ɪnˈklemənt/；AmE /ɪnˈklemənt/",
+    "meaning": "（天气）恶劣的；严酷的",
+    "example": "The game was canceled due to inclement weather.",
+    "collocation": "inclement weather",
+    "roots": "",
+    "inflection": "—",
+    "related": "harsh：恶劣的｜severe：严酷的",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：不；clement：温和的"
     }
   },
   {
@@ -3547,6 +6487,21 @@
     }
   },
   {
+    "word": "reimbursable",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌriːɪmˈbɜːsəbəl/；AmE /ˌriːɪmˈbɜːrsəbəl/",
+    "meaning": "可报销的",
+    "example": "These travel expenses are reimbursable.",
+    "collocation": "reimbursable expenses；reimbursable cost",
+    "roots": "",
+    "inflection": "—",
+    "related": "reimburse：报销/偿还｜reimbursement：报销款",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：再；imburse（偿还）+ -able：可…的"
+    }
+  },
+  {
     "word": "reproduce",
     "pos": "v.",
     "phonetic": "BrE /ˌriːprəˈdjuːs/; AmE /ˌriːprəˈduːs/",
@@ -3604,6 +6559,21 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "time + -ly（形容词后缀：…的；此处非副词）"
+    }
+  },
+  {
+    "word": "unilaterally",
+    "pos": "adv.",
+    "phonetic": "BrE /ˌjuːnɪˈlætərəli/；AmE /ˌjuːnɪˈlætərəli/",
+    "meaning": "单方面地",
+    "example": "They acted unilaterally.",
+    "collocation": "act unilaterally",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "unilateral：单方面的｜one-sided：单方面的",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "uni-：一；lateral：侧；-ly：副词后缀"
     }
   },
   {
@@ -4582,734 +7552,33 @@
     }
   },
   {
-    "word": "accountant",
-    "pos": "n.",
-    "phonetic": "BrE /əˈkaʊntənt/；AmE /əˈkaʊntənt/",
-    "meaning": "会计；会计师",
-    "example": "My sister works as an accountant.",
-    "collocation": "chartered accountant；accounting firm",
+    "word": "by the time",
+    "pos": "conj.phr.",
+    "phonetic": "BrE /baɪ ðə taɪm/；AmE /baɪ ðə taɪm/",
+    "meaning": "到…的时候（引导从句）",
+    "example": "By the time we arrived, it had started.",
+    "collocation": "by the time + 从句",
     "roots": "",
-    "inflection": "复数：accountants",
-    "related": "accounting：会计学｜account：账户/解释",
+    "inflection": "—",
+    "related": "when：当…时｜before：在…之前",
     "position": null,
     "extra": {
-      "词根词缀,词头词尾": "account：账目；-ant：人/者后缀"
+      "词根词缀,词头词尾": "固定短语"
     }
   },
   {
-    "word": "accurately",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈækjʊrətli/；AmE /ˈækjərətli/",
-    "meaning": "准确地",
-    "example": "Please measure it accurately.",
-    "collocation": "accurately predict；accurately describe",
+    "word": "draw up",
+    "pos": "phr.v.",
+    "phonetic": "BrE /drɔː ʌp/；AmE /drɔː ʌp/",
+    "meaning": "起草；拟定；（车）停下",
+    "example": "They drew up a contract.",
+    "collocation": "draw up a plan；draw up a list",
     "roots": "",
-    "inflection": "无比较级",
-    "related": "accuracy：准确性｜precisely：精确地",
+    "inflection": "draws up/drew up/drawn up/drawing up",
+    "related": "draft：起草｜prepare：准备",
     "position": null,
     "extra": {
-      "词根词缀,词头词尾": "accurate：准确的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "actually",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈæktʃuəli/；AmE /ˈæktʃuəli/",
-    "meaning": "实际上；事实上",
-    "example": "It actually worked.",
-    "collocation": "actually + 句子；not actually",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "actual：实际的｜in fact：事实上",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "act：做；-ual：形容词后缀；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "administration",
-    "pos": "n.",
-    "phonetic": "BrE /ədˌmɪnɪˈstreɪʃən/；AmE /ədˌmɪnɪˈstreɪʃən/",
-    "meaning": "管理；行政；政府（某届）",
-    "example": "Public administration is a major field.",
-    "collocation": "administration office；the current administration",
-    "roots": "",
-    "inflection": "复数：administrations",
-    "related": "administer：执行/管理｜administrator：管理者",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "administer：管理；-ation：名词后缀"
-    }
-  },
-  {
-    "word": "advertisement",
-    "pos": "n.",
-    "phonetic": "BrE /ədˈvɜːtɪsmənt/；AmE /ˌædvərˈtaɪzmənt/",
-    "meaning": "广告",
-    "example": "We saw an advertisement for the new phone.",
-    "collocation": "place an advertisement；online advertisement",
-    "roots": "",
-    "inflection": "复数：advertisements",
-    "related": "advertise：做广告｜advertising：广告业",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "ad-：向；vert：转（引申“引起注意”）；-ment：名词后缀"
-    }
-  },
-  {
-    "word": "affair",
-    "pos": "n.",
-    "phonetic": "BrE /əˈfeə/；AmE /əˈfer/",
-    "meaning": "事务；事件；恋情",
-    "example": "It's none of your affair.",
-    "collocation": "foreign affairs；have an affair",
-    "roots": "",
-    "inflection": "复数：affairs",
-    "related": "affairs：事务/外交｜incident：事件",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "af-：向；fair（做/处理相关词源）"
-    }
-  },
-  {
-    "word": "affiliate",
-    "pos": "n./v.",
-    "phonetic": "BrE /əˈfɪlieɪt/（v.）；/əˈfɪliət/（n.）；AmE /əˈfɪlieɪt/（v.）；/əˈfɪliət/（n.）",
-    "meaning": "附属机构；使隶属",
-    "example": "Our company is affiliated with a global group.",
-    "collocation": "affiliate with；affiliate company",
-    "roots": "",
-    "inflection": "复数：affiliates；动词：affiliates/affiliated/affiliating",
-    "related": "affiliation：隶属关系｜subsidiary：子公司",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "af-：向；fili：子女/分支；-ate：动词后缀"
-    }
-  },
-  {
-    "word": "afford",
-    "pos": "v.",
-    "phonetic": "BrE /əˈfɔːd/；AmE /əˈfɔːrd/",
-    "meaning": "负担得起；提供",
-    "example": "I can't afford a new car.",
-    "collocation": "afford to do；afford someone something",
-    "roots": "",
-    "inflection": "三单：affords；过去：afforded；-ing：affording",
-    "related": "affordable：负担得起的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "af-：向；ford（词源“提供/带来”）"
-    }
-  },
-  {
-    "word": "airfare",
-    "pos": "n.",
-    "phonetic": "BrE /ˈeəfeə/；AmE /ˈerfer/",
-    "meaning": "机票价格",
-    "example": "Airfare is higher during holidays.",
-    "collocation": "round-trip airfare；airfare plus taxes",
-    "roots": "",
-    "inflection": "无复数或较少用复数",
-    "related": "flight ticket：机票｜fare：票价",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "air：空中；fare：费用"
-    }
-  },
-  {
-    "word": "alma mater",
-    "pos": "n.",
-    "phonetic": "BrE /ˌælmə ˈmɑːtə/；AmE /ˌælmə ˈmɑːtər/",
-    "meaning": "母校",
-    "example": "He donated money to his alma mater.",
-    "collocation": "return to one's alma mater",
-    "roots": "",
-    "inflection": "无变形",
-    "related": "university：大学｜graduate：毕业生",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "拉丁语：alma（慈爱的）+ mater（母亲）"
-    }
-  },
-  {
-    "word": "alteration",
-    "pos": "n.",
-    "phonetic": "BrE /ˌɔːltəˈreɪʃən/；AmE /ˌɔːltərˈeɪʃən/",
-    "meaning": "改变；修改",
-    "example": "The suit needs some alteration.",
-    "collocation": "make alterations；minor alteration",
-    "roots": "",
-    "inflection": "复数：alterations",
-    "related": "alter：改变｜alternative：替代的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "alter：改变；-ation：名词后缀"
-    }
-  },
-  {
-    "word": "apparently",
-    "pos": "adv.",
-    "phonetic": "BrE /əˈpærəntli/；AmE /əˈpærəntli/",
-    "meaning": "显然；据说",
-    "example": "Apparently, he has already left.",
-    "collocation": "apparently + 句子",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "apparent：明显的｜appearance：外表/出现",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "apparent：明显的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "appointment",
-    "pos": "n.",
-    "phonetic": "BrE /əˈpɔɪntmənt/；AmE /əˈpɔɪntmənt/",
-    "meaning": "预约；任命",
-    "example": "I have a doctor's appointment tomorrow.",
-    "collocation": "make an appointment；appointment with",
-    "roots": "",
-    "inflection": "复数：appointments",
-    "related": "appoint：任命｜appointee：被任命者",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "appoint：任命/约定；-ment：名词后缀"
-    }
-  },
-  {
-    "word": "appraisal",
-    "pos": "n.",
-    "phonetic": "BrE /əˈpreɪzəl/；AmE /əˈpreɪzəl/",
-    "meaning": "评估；鉴定；考核",
-    "example": "Your performance appraisal is next week.",
-    "collocation": "annual appraisal；appraisal of value",
-    "roots": "",
-    "inflection": "复数：appraisals",
-    "related": "appraise：评估｜appreciate：感激/欣赏",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "-als/-al：名词化；prais(e)：赞赏/评价相关"
-    }
-  },
-  {
-    "word": "aspect",
-    "pos": "n.",
-    "phonetic": "BrE /ˈæspekt/；AmE /ˈæspekt/",
-    "meaning": "方面；层面；（问题的）侧面",
-    "example": "We need to consider every aspect of the plan.",
-    "collocation": "in every aspect；an aspect of；from the aspect of",
-    "roots": "",
-    "inflection": "复数：aspects",
-    "related": "respect：尊重（同源）｜perspective：视角",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "asp-（看）相关词源；无常用可拆后缀"
-    }
-  },
-  {
-    "word": "asset",
-    "pos": "n.",
-    "phonetic": "BrE /ˈæset/；AmE /ˈæset/",
-    "meaning": "资产；优点；有用的人/物",
-    "example": "Good communication is a real asset.",
-    "collocation": "fixed assets；valuable asset",
-    "roots": "",
-    "inflection": "复数：assets",
-    "related": "liability：负债（对应概念）｜resource：资源",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "词源法语“足够/充足”引申"
-    }
-  },
-  {
-    "word": "attitude",
-    "pos": "n.",
-    "phonetic": "BrE /ˈætɪtjuːd/；AmE /ˈætɪtuːd/",
-    "meaning": "态度；看法；姿态",
-    "example": "He has a positive attitude.",
-    "collocation": "attitude toward；an attitude problem",
-    "roots": "",
-    "inflection": "复数：attitudes",
-    "related": "altitude：高度（形近）｜mindset：心态",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "attit-：姿势/态度；-ude：名词后缀"
-    }
-  },
-  {
-    "word": "attribute",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈætrɪbjuːt/（n.）；/əˈtrɪbjuːt/（v.）；AmE /ˈætrɪbjuːt/（n.）；/əˈtrɪbjuːt/（v.）",
-    "meaning": "属性；把…归因于",
-    "example": "He attributed his success to hard work.",
-    "collocation": "attribute A to B；key attribute",
-    "roots": "",
-    "inflection": "复数：attributes；动词：attributes/attributed/attributing",
-    "related": "attribution：归因｜contribute：贡献（同根-trib）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "at-：向；trib：给予；-ute：动词/名词后缀"
-    }
-  },
-  {
-    "word": "auditor",
-    "pos": "n.",
-    "phonetic": "BrE /ˈɔːdɪtə/；AmE /ˈɔːdɪtər/",
-    "meaning": "审计员；旁听生",
-    "example": "The auditor checked our financial records.",
-    "collocation": "internal auditor；external auditor；audit report",
-    "roots": "",
-    "inflection": "复数：auditors",
-    "related": "audit：审计｜auditing：审计工作",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "audit：审计；-or：表示“人/者”后缀"
-    }
-  },
-  {
-    "word": "basis",
-    "pos": "n.",
-    "phonetic": "BrE /ˈbeɪsɪs/；AmE /ˈbeɪsɪs/",
-    "meaning": "基础；根据；基准",
-    "example": "On what basis did you make that decision?",
-    "collocation": "basis for；on the basis of；a basis in fact",
-    "roots": "",
-    "inflection": "复数：bases /ˈbeɪsiːz/",
-    "related": "base：基础；basic：基本的｜basically：基本上｜basement：地下室",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "base：基础；-is：名词后缀（源自希腊/拉丁词形）"
-    }
-  },
-  {
-    "word": "bilaterally",
-    "pos": "adv.",
-    "phonetic": "BrE /ˌbaɪˈlætərəli/；AmE /ˌbaɪˈlætərəli/",
-    "meaning": "双边地；双方地",
-    "example": "The issue was resolved bilaterally.",
-    "collocation": "bilaterally agreed；bilateral talks",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "bilateral：双边的｜multilateral：多边的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "bi-：二；lateral：侧/边；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "calculate",
-    "pos": "v.",
-    "phonetic": "BrE /ˈkælkjʊleɪt/；AmE /ˈkælkjəleɪt/",
-    "meaning": "计算；估算",
-    "example": "Please calculate the total cost.",
-    "collocation": "calculate + 数值；calculate that...；calculate on",
-    "roots": "",
-    "inflection": "三单：calculates；过去：calculated；-ing：calculating",
-    "related": "calculation：计算｜calculator：计算器",
-    "position": null,
-    "extra": {}
-  },
-  {
-    "word": "cancer",
-    "pos": "n.",
-    "phonetic": "BrE /ˈkænsə/；AmE /ˈkænsər/",
-    "meaning": "癌症",
-    "example": "He is receiving treatment for cancer.",
-    "collocation": "cancer patient；cancer research",
-    "roots": "",
-    "inflection": "复数：cancers（多指种类）",
-    "related": "cancerous：癌性的｜oncology：肿瘤学",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "词源“螃蟹”（拉丁 cancer）"
-    }
-  },
-  {
-    "word": "celebrity",
-    "pos": "n.",
-    "phonetic": "BrE /səˈlebrəti/；AmE /səˈlebrəti/",
-    "meaning": "名人；明星",
-    "example": "That restaurant is popular with celebrities.",
-    "collocation": "celebrity status；celebrity chef",
-    "roots": "",
-    "inflection": "复数：celebrities",
-    "related": "celebrate：庆祝｜famous：著名的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "celebr-：著名；-ity：名词后缀"
-    }
-  },
-  {
-    "word": "cellular",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈseljʊlə/；AmE /ˈseljələr/",
-    "meaning": "细胞的；蜂窝状的；（美）移动电话的",
-    "example": "Cellular damage can be serious.",
-    "collocation": "cellular level；cellular phone",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most cellular",
-    "related": "cell：细胞｜cellphone：手机",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "cell：细胞；-ular：形容词后缀"
-    }
-  },
-  {
-    "word": "claim",
-    "pos": "n./v.",
-    "phonetic": "BrE /kleɪm/；AmE /kleɪm/",
-    "meaning": "索赔；主张；声称",
-    "example": "He filed a claim for damages.",
-    "collocation": "make a claim；claim that...",
-    "roots": "",
-    "inflection": "复数：claims；动词：claims/claimed/claiming",
-    "related": "claimant：索赔人｜acclaim：称赞（同源）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "claim：主张（词源“呼喊”）"
-    }
-  },
-  {
-    "word": "commercial",
-    "pos": "adj./n.",
-    "phonetic": "BrE /kəˈmɜːʃəl/；AmE /kəˈmɜːrʃəl/",
-    "meaning": "商业的；商业广告",
-    "example": "They bought a commercial property.",
-    "collocation": "commercial use；TV commercial",
-    "roots": "",
-    "inflection": "复数：commercials（n.广告）",
-    "related": "commerce：商业｜merchant：商人",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "com-：共同；merc：贸易；-ial：形容词后缀"
-    }
-  },
-  {
-    "word": "commute",
-    "pos": "v./n.",
-    "phonetic": "BrE /kəˈmjuːt/；AmE /kəˈmjuːt/",
-    "meaning": "通勤；（法律）减刑",
-    "example": "He commutes to Tokyo by train.",
-    "collocation": "commute to；commute between",
-    "roots": "",
-    "inflection": "三单：commutes；过去：commuted；-ing：commuting",
-    "related": "commuter：通勤者｜commutation：交换/减刑",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "commut-：交换/往返相关词源"
-    }
-  },
-  {
-    "word": "commuting",
-    "pos": "n.",
-    "phonetic": "BrE /kəˈmjuːtɪŋ/；AmE /kəˈmjuːtɪŋ/",
-    "meaning": "通勤（名词/动名词）",
-    "example": "Commuting takes me an hour each day.",
-    "collocation": "daily commuting；commuting time",
-    "roots": "",
-    "inflection": "无固定复数（作不可数更常见）",
-    "related": "commute：通勤｜commuter：通勤者",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "commute：通勤；-ing：动名词/现在分词"
-    }
-  },
-  {
-    "word": "container",
-    "pos": "n.",
-    "phonetic": "BrE /kənˈteɪnə/；AmE /kənˈteɪnər/",
-    "meaning": "容器；集装箱",
-    "example": "Put the rice in an airtight container.",
-    "collocation": "shipping container；food container",
-    "roots": "",
-    "inflection": "复数：containers",
-    "related": "contain：包含｜containment：控制/容纳",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "contain：包含；-er：物/者后缀"
-    }
-  },
-  {
-    "word": "contribute",
-    "pos": "v.",
-    "phonetic": "BrE /kənˈtrɪbjuːt/；AmE /kənˈtrɪbjuːt/",
-    "meaning": "贡献；投稿；促成",
-    "example": "Everyone should contribute to the discussion.",
-    "collocation": "contribute to；contribute money；contribute an article",
-    "roots": "",
-    "inflection": "三单：contributes；过去：contributed；-ing：contributing",
-    "related": "contribution：贡献｜contributor：投稿人",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "con-：一起；trib：给予；-ute：动词后缀"
-    }
-  },
-  {
-    "word": "controversial",
-    "pos": "adj.",
-    "phonetic": "BrE /ˌkɒntrəˈvɜːʃəl/；AmE /ˌkɑːntrəˈvɜːrʃəl/",
-    "meaning": "有争议的",
-    "example": "It's a controversial topic.",
-    "collocation": "controversial issue；highly controversial",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most controversial",
-    "related": "controversy：争议｜debate：辩论",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "controversy：争议；-al：形容词后缀"
-    }
-  },
-  {
-    "word": "convention",
-    "pos": "n.",
-    "phonetic": "BrE /kənˈvenʃən/；AmE /kənˈvenʃən/",
-    "meaning": "大会；惯例；公约",
-    "example": "We met at a business convention.",
-    "collocation": "by convention；social convention",
-    "roots": "",
-    "inflection": "复数：conventions",
-    "related": "conventional：传统的｜convene：召集",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "con-：一起；vent：来；-ion：名词后缀"
-    }
-  },
-  {
-    "word": "convey",
-    "pos": "v.",
-    "phonetic": "BrE /kənˈveɪ/；AmE /kənˈveɪ/",
-    "meaning": "传达；运送",
-    "example": "Words cannot convey how grateful I am.",
-    "collocation": "convey a message；convey to",
-    "roots": "",
-    "inflection": "三单：conveys；过去：conveyed；-ing：conveying",
-    "related": "conveyance：运输/转让｜communication：沟通",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "con-：一起；vey：走/运（词源）"
-    }
-  },
-  {
-    "word": "cosmetic",
-    "pos": "adj./n.",
-    "phonetic": "BrE /kɒzˈmetɪk/；AmE /kɑːzˈmetɪk/",
-    "meaning": "化妆的；表面的；化妆品",
-    "example": "This is only a cosmetic change.",
-    "collocation": "cosmetic surgery；cosmetic product",
-    "roots": "",
-    "inflection": "复数：cosmetics（化妆品总称）",
-    "related": "cosmetically：表面上/化妆地",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "cosmet-：装饰；-ic：形容词后缀"
-    }
-  },
-  {
-    "word": "critic",
-    "pos": "n.",
-    "phonetic": "BrE /ˈkrɪtɪk/；AmE /ˈkrɪtɪk/",
-    "meaning": "批评家；评论家",
-    "example": "A film critic reviewed the movie.",
-    "collocation": "art critic；music critic；critic of",
-    "roots": "",
-    "inflection": "复数：critics",
-    "related": "criticize：批评｜critical：批判的/关键的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "crit-：判断/批评；-ic：名词/形容词后缀"
-    }
-  },
-  {
-    "word": "current",
-    "pos": "adj./n.",
-    "phonetic": "BrE /ˈkʌrənt/；AmE /ˈkɜːrənt/",
-    "meaning": "当前的；水流；电流",
-    "example": "Please use the current version.",
-    "collocation": "current situation；electric current",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most current（形）",
-    "related": "currently：目前｜currency：货币（同源）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "curr-：跑/流（词源）"
-    }
-  },
-  {
-    "word": "declare",
-    "pos": "v.",
-    "phonetic": "BrE /dɪˈkleə/；AmE /dɪˈkler/",
-    "meaning": "宣布；申报；声明",
-    "example": "The government declared an emergency.",
-    "collocation": "declare war；declare that...；declare income",
-    "roots": "",
-    "inflection": "三单：declares；过去：declared；-ing：declaring",
-    "related": "declaration：声明｜clarify：澄清",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "de-：加强；clar：清楚；-e（动词）"
-    }
-  },
-  {
-    "word": "decrease",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈdiːkriːs/（n.）；/dɪˈkriːs/（v.）；AmE /ˈdiːkriːs/（n.）；/dɪˈkriːs/（v.）",
-    "meaning": "减少；降低",
-    "example": "Prices decreased by 5%.",
-    "collocation": "decrease in；decrease by；decrease from...to...",
-    "roots": "",
-    "inflection": "复数：decreases；动词：decreases/decreased/decreasing",
-    "related": "increase：增加（反义）｜reduction：减少",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "de-：向下；crease（增长相关词源演变）"
-    }
-  },
-  {
-    "word": "dedicate",
-    "pos": "v.",
-    "phonetic": "BrE /ˈdedɪkeɪt/；AmE /ˈdedɪkeɪt/",
-    "meaning": "献身；致力于；题献",
-    "example": "She dedicated her life to education.",
-    "collocation": "dedicate to；dedicate oneself to",
-    "roots": "",
-    "inflection": "三单：dedicates；过去：dedicated；-ing：dedicating",
-    "related": "dedication：奉献｜dedicated：专注的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "de-：加强；dic：说/宣告；-ate：动词后缀"
-    }
-  },
-  {
-    "word": "deduct",
-    "pos": "v.",
-    "phonetic": "BrE /dɪˈdʌkt/；AmE /dɪˈdʌkt/",
-    "meaning": "扣除；减去",
-    "example": "The bank will deduct a fee.",
-    "collocation": "deduct from；tax-deductible",
-    "roots": "",
-    "inflection": "三单：deducts；过去：deducted；-ing：deducting",
-    "related": "deduction：扣除额｜deductive：演绎的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "de-：向下；duct：引导/带"
-    }
-  },
-  {
-    "word": "defect",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˈdiːfekt/（n.）；/dɪˈfekt/（v.）；AmE /ˈdiːfekt/（n.）；/dɪˈfekt/（v.）",
-    "meaning": "缺陷；缺点；叛逃",
-    "example": "There is a defect in the product.",
-    "collocation": "manufacturing defect；defect rate",
-    "roots": "",
-    "inflection": "复数：defects；动词：defects/defected/defecting",
-    "related": "defective：有缺陷的｜flaw：瑕疵",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "de-：离开；fect：做（词源）"
-    }
-  },
-  {
-    "word": "deposit",
-    "pos": "n./v.",
-    "phonetic": "BrE /dɪˈpɒzɪt/；AmE /dɪˈpɑːzɪt/",
-    "meaning": "存款；押金；存放",
-    "example": "I paid a deposit for the apartment.",
-    "collocation": "make a deposit；deposit money；security deposit",
-    "roots": "",
-    "inflection": "复数：deposits；动词：deposits/deposited/depositing",
-    "related": "withdrawal：取款｜depositary：保管人/机构",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "de-：向下/离开；posit：放"
-    }
-  },
-  {
-    "word": "designation",
-    "pos": "n.",
-    "phonetic": "BrE /ˌdezɪɡˈneɪʃən/；AmE /ˌdezɪɡˈneɪʃən/",
-    "meaning": "指定；名称；职位/头衔",
-    "example": "His job designation is “Manager.”",
-    "collocation": "official designation；designation as",
-    "roots": "",
-    "inflection": "复数：designations",
-    "related": "designate：指定｜designated：指定的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "designate：指定；-ation：名词后缀"
-    }
-  },
-  {
-    "word": "diligently",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈdɪlɪdʒəntli/；AmE /ˈdɪlɪdʒəntli/",
-    "meaning": "勤勉地；认真地",
-    "example": "She works diligently every day.",
-    "collocation": "work diligently；study diligently",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "diligent：勤奋的｜diligence：勤勉",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "diligent：勤勉的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "distinguish",
-    "pos": "v.",
-    "phonetic": "BrE /dɪˈstɪŋɡwɪʃ/；AmE /dɪˈstɪŋɡwɪʃ/",
-    "meaning": "区分；辨别",
-    "example": "Can you distinguish between these two sounds?",
-    "collocation": "distinguish A from B；distinguish oneself",
-    "roots": "",
-    "inflection": "三单：distinguishes；过去：distinguished；-ing：distinguishing",
-    "related": "distinct：不同的｜distinction：区别",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "dis-：分开；sting(标记)相关；-ish：动词后缀"
-    }
-  },
-  {
-    "word": "distinguishable",
-    "pos": "adj.",
-    "phonetic": "BrE /dɪˈstɪŋɡwɪʃəbəl/；AmE /dɪˈstɪŋɡwɪʃəbəl/",
-    "meaning": "可区分的；可辨别的",
-    "example": "The two versions are distinguishable.",
-    "collocation": "distinguishable from",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most distinguishable",
-    "related": "distinguish：区分｜indistinguishable：不可区分的",
-    "position": null,
-    "extra": {}
-  },
-  {
-    "word": "drastically",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈdræstɪkli/；AmE /ˈdræstɪkli/",
-    "meaning": "剧烈地；大幅度地",
-    "example": "Sales dropped drastically.",
-    "collocation": "drastically reduce；change drastically",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "drastic：剧烈的｜dramatically：显著地（近义）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "drastic：剧烈的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "drill",
-    "pos": "n./v.",
-    "phonetic": "BrE /drɪl/；AmE /drɪl/",
-    "meaning": "钻头；训练；演练",
-    "example": "We had a fire drill today.",
-    "collocation": "fire drill；drill a hole；drill into",
-    "roots": "",
-    "inflection": "复数：drills；动词：drills/drilled/drilling",
-    "related": "practice：练习｜exercise：演练",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
+      "词根词缀,词头词尾": "短语动词：draw + up"
     }
   },
   {
@@ -5318,1348 +7587,73 @@
     "phonetic": "BrE /ˈdjuː tuː/；AmE /ˈduː tuː/",
     "meaning": "由于；因为",
     "example": "The flight was delayed due to bad weather.",
-    "collocation": "due to + 名词/动名词",
+    "collocation": "due to + 名词/动名词；due to the fact that...",
     "roots": "",
-    "inflection": "无变形",
+    "inflection": "—",
     "related": "because of：因为｜owing to：由于",
     "position": null,
     "extra": {
-      "词根词缀,词头词尾": "due：应得/到期；to：介词"
-    }
-  },
-  {
-    "word": "duplicate",
-    "pos": "n./v./adj.",
-    "phonetic": "BrE /ˈdjuːplɪkət/（n./adj.）；/ˈdjuːplɪkeɪt/（v.）；AmE /ˈduːplɪkət/（n./adj.）；/ˈduːplɪkeɪt/（v.）",
-    "meaning": "副本；复制；重复的",
-    "example": "Please keep a duplicate of the document.",
-    "collocation": "duplicate copy；duplicate entry",
-    "roots": "",
-    "inflection": "复数：duplicates；动词：duplicates/duplicated/duplicating",
-    "related": "duplication：复制｜duplicated：重复的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "du-：二；-plic：折/重；-ate：动词后缀"
-    }
-  },
-  {
-    "word": "eager",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈiːɡə/；AmE /ˈiːɡər/",
-    "meaning": "渴望的；热切的",
-    "example": "I'm eager to learn more.",
-    "collocation": "eager to do；eager for news",
-    "roots": "",
-    "inflection": "比较级/最高级：eagerer/eagerest（也常用 more/most）",
-    "related": "eagerly：急切地｜eagerness：渴望",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "effect",
-    "pos": "n.",
-    "phonetic": "BrE /ɪˈfekt/；AmE /ɪˈfekt/",
-    "meaning": "效果；影响",
-    "example": "The new law had a positive effect.",
-    "collocation": "have an effect on；take effect",
-    "roots": "",
-    "inflection": "复数：effects",
-    "related": "affect：影响（动词）｜effective：有效的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "e-（ex-）：向外；fect：做/产生"
-    }
-  },
-  {
-    "word": "effectuate",
-    "pos": "v.",
-    "phonetic": "BrE /ɪˈfektʃueɪt/；AmE /ɪˈfektʃueɪt/",
-    "meaning": "使发生；实现（正式）",
-    "example": "The policy was designed to effectuate change.",
-    "collocation": "effectuate a plan；effectuate change",
-    "roots": "",
-    "inflection": "三单：effectuates；过去：effectuated；-ing：effectuating",
-    "related": "effective：有效的｜implementation：实施",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "effect：效果；-uate：动词后缀"
-    }
-  },
-  {
-    "word": "entrepreneur",
-    "pos": "n.",
-    "phonetic": "BrE /ˌɒntrəprəˈnɜː/；AmE /ˌɑːntrəprəˈnɜːr/",
-    "meaning": "企业家；创业者",
-    "example": "She is a successful entrepreneur.",
-    "collocation": "serial entrepreneur；entrepreneurship",
-    "roots": "",
-    "inflection": "复数：entrepreneurs",
-    "related": "entrepreneurship：创业精神｜startup：初创公司",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "entre-（法语来源）；-eur：人/者后缀"
-    }
-  },
-  {
-    "word": "eventually",
-    "pos": "adv.",
-    "phonetic": "BrE /ɪˈventʃuəli/；AmE /ɪˈventʃuəli/",
-    "meaning": "最终；终于",
-    "example": "He eventually agreed.",
-    "collocation": "eventually become；eventually lead to",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "eventual：最终的｜finally：终于（近义）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "eventual：最终的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "faded",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈfeɪdɪd/；AmE /ˈfeɪdɪd/",
-    "meaning": "褪色的；变淡的",
-    "example": "The faded sign was hard to read.",
-    "collocation": "faded color；faded memory",
-    "roots": "",
-    "inflection": "原形：fade；过去：faded；-ing：fading",
-    "related": "fade：褪色｜faint：微弱的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "fade：褪色；-ed：形容词/过去分词后缀"
-    }
-  },
-  {
-    "word": "failure",
-    "pos": "n.",
-    "phonetic": "BrE /ˈfeɪljə/；AmE /ˈfeɪljər/",
-    "meaning": "失败；故障",
-    "example": "Engine failure caused the delay.",
-    "collocation": "heart failure；fail to do",
-    "roots": "",
-    "inflection": "复数：failures",
-    "related": "fail：失败｜failed：失败的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "fail：失败；-ure：名词后缀"
-    }
-  },
-  {
-    "word": "fairly",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈfeəli/；AmE /ˈferli/",
-    "meaning": "相当地；公平地",
-    "example": "The exam was fairly easy.",
-    "collocation": "fairly common；fairly quickly",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "fair：公平的｜fairness：公平",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "fair：公平/相当；-ly：副词后缀"
+      "词根词缀,词头词尾": "固定搭配"
     }
   },
   {
     "word": "field trip",
     "pos": "n.",
-    "phonetic": "BrE /ˌfiːld ˈtrɪp/；AmE /ˌfiːld ˈtrɪp/",
-    "meaning": "（学校）实地考察；郊游",
+    "phonetic": "BrE /ˈfiːld trɪp/；AmE /ˈfiːld trɪp/",
+    "meaning": "实地考察；（学校）郊游",
     "example": "The class went on a field trip to the museum.",
     "collocation": "go on a field trip；school field trip",
     "roots": "",
     "inflection": "复数：field trips",
-    "related": "excursion：短途旅行",
+    "related": "excursion：短途旅行｜visit：参观",
     "position": null,
     "extra": {
-      "词根词缀,词头词尾": "field：野外/实地；trip：旅行"
-    }
-  },
-  {
-    "word": "further",
-    "pos": "adv./adj.",
-    "phonetic": "BrE /ˈfɜːðə/；AmE /ˈfɜːrðər/",
-    "meaning": "进一步（的）；更多（的）",
-    "example": "We need to discuss this further.",
-    "collocation": "further information；further develop；farther/further",
-    "roots": "",
-    "inflection": "比较级/最高级：更远/更多（语义上已含比较）",
-    "related": "furthermore：此外｜furtherance：促进",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "由 far 演变；-ther：比较级形式"
-    }
-  },
-  {
-    "word": "general",
-    "pos": "adj./n.",
-    "phonetic": "BrE /ˈdʒenərəl/；AmE /ˈdʒenərəl/",
-    "meaning": "一般的；总的；将军",
-    "example": "In general, prices are rising.",
-    "collocation": "in general；general public",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most general",
-    "related": "generally：一般地｜generalize：概括",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "gener-：种类/产生；-al：形容词后缀"
+      "词根词缀,词头词尾": "复合名词"
     }
   },
   {
     "word": "get into",
     "pos": "phr.v.",
     "phonetic": "BrE /ɡet ˈɪntuː/；AmE /ɡet ˈɪntuː/",
-    "meaning": "进入；开始从事；对…产生兴趣",
-    "example": "She got into medical school.",
-    "collocation": "get into trouble；get into a habit",
+    "meaning": "进入；开始参与；陷入",
+    "example": "He got into trouble again. / She got into coding last year.",
+    "collocation": "get into trouble；get into a habit；get into a university",
     "roots": "",
-    "inflection": "时态随 get：gets/got/getting",
-    "related": "engage in：从事｜enter：进入",
+    "inflection": "gets into/got into/gotten into/getting into",
+    "related": "enter：进入｜become interested in：开始喜欢",
     "position": null,
     "extra": {
-      "词根词缀,词头词尾": "短语动词：get + into"
+      "词根词缀,词头词尾": "短语动词"
     }
   },
   {
-    "word": "gradually",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈɡrædʒuəli/；AmE /ˈɡrædʒuəli/",
-    "meaning": "逐渐地",
-    "example": "She gradually improved her English.",
-    "collocation": "gradually increase；gradually become",
+    "word": "hardly ever",
+    "pos": "adv.phr.",
+    "phonetic": "BrE /ˈhɑːdli ˈevə/；AmE /ˈhɑːrdli ˈevər/",
+    "meaning": "几乎从不",
+    "example": "He hardly ever checks his email.",
+    "collocation": "hardly ever + 动词",
     "roots": "",
-    "inflection": "无比较级",
-    "related": "gradual：逐渐的｜gradualness：渐进性",
+    "inflection": "—",
+    "related": "rarely：很少｜almost never：几乎从不",
     "position": null,
     "extra": {
-      "词根词缀,词头词尾": "grad-：步/级；-ual：形容词后缀；-ly：副词后缀"
+      "词根词缀,词头词尾": "固定短语"
     }
   },
   {
-    "word": "grant",
-    "pos": "n./v.",
-    "phonetic": "BrE /ɡrɑːnt/；AmE /ɡrænt/",
-    "meaning": "拨款；授予；准许",
-    "example": "The university received a research grant.",
-    "collocation": "grant permission；government grant",
-    "roots": "",
-    "inflection": "三单：grants；过去：granted；-ing：granting",
-    "related": "grantee：受赠者｜grantor：授予者",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "granted",
-    "pos": "adv./adj.",
-    "phonetic": "BrE /ˈɡrɑːntɪd/；AmE /ˈɡræntɪd/",
-    "meaning": "诚然；（被）授予的",
-    "example": "Granted, it's expensive, but it's worth it.",
-    "collocation": "(granted that...)；take ... for granted",
-    "roots": "",
-    "inflection": "原形：grant；过去：granted",
-    "related": "grant：授予｜granting：授予/准许",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "grant：授予；-ed：过去分词/形容词后缀"
-    }
-  },
-  {
-    "word": "guarantee",
-    "pos": "n./v.",
-    "phonetic": "BrE /ˌɡærənˈtiː/；AmE /ˌɡærənˈtiː/",
-    "meaning": "保证；保修；担保",
-    "example": "We guarantee delivery within 24 hours.",
-    "collocation": "money-back guarantee；guarantee that...；under guarantee",
-    "roots": "",
-    "inflection": "复数：guarantees；三单：guarantees；过去：guaranteed；-ing：guaranteeing",
-    "related": "guaranty（同义变体）｜warranty：保修",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "guarantee：保证（词根来自“保证/担保”义）；无常见可拆词缀"
-    }
-  },
-  {
-    "word": "habitual",
-    "pos": "adj.",
-    "phonetic": "BrE /həˈbɪtʃuəl/；AmE /həˈbɪtʃuəl/",
-    "meaning": "习惯性的；惯常的",
-    "example": "He is a habitual smoker.",
-    "collocation": "habitual behavior；habitual offender",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most habitual",
-    "related": "habit：习惯｜habitually：习惯性地",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "habit：习惯；-ual：形容词后缀"
-    }
-  },
-  {
-    "word": "hardly",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈhɑːdli/；AmE /ˈhɑːrdli/",
-    "meaning": "几乎不；很难",
-    "example": "He hardly ever drinks.",
-    "collocation": "hardly ever；hardly any；hardly + 动词",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "barely：几乎不｜scarcely：几乎不",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "hard：难；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "harsh",
-    "pos": "adj.",
-    "phonetic": "BrE /hɑːʃ/；AmE /hɑːrʃ/",
-    "meaning": "严厉的；刺耳的；恶劣的",
-    "example": "The judge gave a harsh sentence.",
-    "collocation": "harsh words；harsh conditions",
-    "roots": "",
-    "inflection": "比较级/最高级：harsher/harshest",
-    "related": "harshly：严厉地｜harshness：严厉；粗糙",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "improve",
-    "pos": "v.",
-    "phonetic": "BrE /ɪmˈpruːv/；AmE /ɪmˈpruːv/",
-    "meaning": "改善；提高",
-    "example": "We need to improve customer service.",
-    "collocation": "improve performance；improve on",
-    "roots": "",
-    "inflection": "三单：improves；过去：improved；-ing：improving",
-    "related": "improvement：改进｜improved：改良的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "im-：使…；prove：证明/检验（词源演变）"
-    }
-  },
-  {
-    "word": "indicator",
+    "word": "press conference",
     "pos": "n.",
-    "phonetic": "BrE /ˈɪndɪkeɪtə/；AmE /ˈɪndɪkeɪtər/",
-    "meaning": "指标；指示器",
-    "example": "Inflation is an important indicator.",
-    "collocation": "key indicator；economic indicator",
+    "phonetic": "BrE /ˈpres ˌkɒnfərəns/；AmE /ˈpres ˌkɑːnfərəns/",
+    "meaning": "记者会；新闻发布会",
+    "example": "The minister held a press conference.",
+    "collocation": "hold a press conference；at a press conference",
     "roots": "",
-    "inflection": "复数：indicators",
-    "related": "indication：迹象｜index：指数",
+    "inflection": "复数：press conferences",
+    "related": "press briefing：新闻简报｜press release：新闻稿",
     "position": null,
     "extra": {
-      "词根词缀,词头词尾": "indicate：指示；-or：人/物后缀"
-    }
-  },
-  {
-    "word": "inevitably",
-    "pos": "adv.",
-    "phonetic": "BrE /ɪnˈevɪtəbli/；AmE /ɪnˈevɪtəbli/",
-    "meaning": "不可避免地；必然地",
-    "example": "Prices will inevitably rise.",
-    "collocation": "inevitably lead to；inevitably result in",
-    "roots": "",
-    "inflection": "无比较级（一般不变形）",
-    "related": "inevitable：不可避免的｜inevitability：必然性",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "in-：不；evit(避免相关)；-able：可…的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "inflict",
-    "pos": "v.",
-    "phonetic": "BrE /ɪnˈflɪkt/；AmE /ɪnˈflɪkt/",
-    "meaning": "加害；使遭受",
-    "example": "The war inflicted great damage.",
-    "collocation": "inflict damage on；inflict pain",
-    "roots": "",
-    "inflection": "三单：inflicts；过去：inflicted；-ing：inflicting",
-    "related": "infliction：加害｜conflict：冲突（同根）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "in-：向内；flict：打/击（词源）"
-    }
-  },
-  {
-    "word": "inform",
-    "pos": "v.",
-    "phonetic": "BrE /ɪnˈfɔːm/；AmE /ɪnˈfɔːrm/",
-    "meaning": "通知；告知；使了解",
-    "example": "Please inform me of any changes.",
-    "collocation": "inform A of B；inform A that...",
-    "roots": "",
-    "inflection": "三单：informs；过去：informed；-ing：informing",
-    "related": "information：信息｜informed：知情的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "in-：使…；form：形成/形态"
-    }
-  },
-  {
-    "word": "insure",
-    "pos": "v.",
-    "phonetic": "BrE /ɪnˈʃʊə/；AmE /ɪnˈʃʊr/",
-    "meaning": "给…保险；确保",
-    "example": "Make sure to insure your car.",
-    "collocation": "insure against；insure that...",
-    "roots": "",
-    "inflection": "三单：insures；过去：insured；-ing：insuring",
-    "related": "insurance：保险｜ensure：确保（常混）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "in-：使…；sure：确定"
-    }
-  },
-  {
-    "word": "liability",
-    "pos": "n.",
-    "phonetic": "BrE /ˌlaɪəˈbɪləti/；AmE /ˌlaɪəˈbɪləti/",
-    "meaning": "责任；负债；不利因素",
-    "example": "The company has legal liability.",
-    "collocation": "legal liability；tax liability",
-    "roots": "",
-    "inflection": "复数：liabilities",
-    "related": "reliable：可靠的（不同义但形近）｜liabilities：负债",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "liable：有责任的；-ity：名词后缀"
-    }
-  },
-  {
-    "word": "maintain",
-    "pos": "v.",
-    "phonetic": "BrE /meɪnˈteɪn/；AmE /meɪnˈteɪn/",
-    "meaning": "维持；维护；坚持",
-    "example": "It's important to maintain a healthy lifestyle.",
-    "collocation": "maintain standards；maintain equipment；maintain that...",
-    "roots": "",
-    "inflection": "三单：maintains；过去：maintained；-ing：maintaining",
-    "related": "maintenance：维护｜sustain：维持",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "main-（保持/支撑相关词源）；-tain（握住/保持）"
-    }
-  },
-  {
-    "word": "mean",
-    "pos": "v./adj.",
-    "phonetic": "BrE /miːn/；AmE /miːn/",
-    "meaning": "意思是；平均值；吝啬的",
-    "example": "What do you mean by that?",
-    "collocation": "mean that...；mean to do；the mean",
-    "roots": "",
-    "inflection": "三单：means；过去：meant；-ing：meaning",
-    "related": "meaning：意义｜average：平均",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "means",
-    "pos": "n.",
-    "phonetic": "BrE /miːnz/；AmE /miːnz/",
-    "meaning": "手段；方法；收入来源",
-    "example": "We need to find a means of transport.",
-    "collocation": "by means of；a means to an end",
-    "roots": "",
-    "inflection": "常用作复数：means（单复同形）",
-    "related": "method：方法｜resource：资源",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "mean + -s（固定复数形式常用）"
-    }
-  },
-  {
-    "word": "merge",
-    "pos": "v.",
-    "phonetic": "BrE /mɜːdʒ/；AmE /mɜːrdʒ/",
-    "meaning": "合并；融合",
-    "example": "The two companies decided to merge.",
-    "collocation": "merge with；merge into",
-    "roots": "",
-    "inflection": "三单：merges；过去：merged；-ing：merging",
-    "related": "merger：合并｜mergeable：可合并的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "minimize",
-    "pos": "v.",
-    "phonetic": "BrE /ˈmɪnɪmaɪz/；AmE /ˈmɪnɪmaɪz/",
-    "meaning": "使最小化；尽量减少",
-    "example": "We must minimize risks.",
-    "collocation": "minimize damage；minimize costs",
-    "roots": "",
-    "inflection": "三单：minimizes；过去：minimized；-ing：minimizing",
-    "related": "minimum：最小值｜minimal：最小的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "minim-：最小；-ize：动词后缀"
-    }
-  },
-  {
-    "word": "mission",
-    "pos": "n.",
-    "phonetic": "BrE /ˈmɪʃən/；AmE /ˈmɪʃən/",
-    "meaning": "任务；使命；代表团",
-    "example": "Our mission is to help others.",
-    "collocation": "mission statement；on a mission",
-    "roots": "",
-    "inflection": "复数：missions",
-    "related": "missionary：传教士｜submit（不相关，注意区分）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "miss-（送出）相关词源；-ion：名词后缀"
-    }
-  },
-  {
-    "word": "multilingual",
-    "pos": "adj.",
-    "phonetic": "BrE /ˌmʌltiˈlɪŋɡwəl/；AmE /ˌmʌltiˈlɪŋɡwəl/",
-    "meaning": "多语言的；使用多种语言的",
-    "example": "A multilingual website serves users worldwide.",
-    "collocation": "multilingual speaker；multilingual support",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most multilingual",
-    "related": "bilingual：双语的｜language：语言",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "multi-：多；lingu-：语言；-al：形容词后缀"
-    }
-  },
-  {
-    "word": "nevertheless",
-    "pos": "adv.",
-    "phonetic": "BrE /ˌnevəðəˈles/；AmE /ˌnevərðəˈles/",
-    "meaning": "然而；尽管如此",
-    "example": "It was raining; nevertheless, we went out.",
-    "collocation": "nevertheless + 句子",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "nonetheless：仍然；尽管如此",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "never + the + less（构词透明）"
-    }
-  },
-  {
-    "word": "objective",
-    "pos": "adj./n.",
-    "phonetic": "BrE /əbˈdʒektɪv/；AmE /əbˈdʒektɪv/",
-    "meaning": "客观的；目标",
-    "example": "The main objective is to reduce costs.",
-    "collocation": "objective evidence；set an objective",
-    "roots": "",
-    "inflection": "复数：objectives",
-    "related": "objectivity：客观性｜goal：目标",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "ob-：向；ject：投；-ive：形容词/名词后缀"
-    }
-  },
-  {
-    "word": "observable",
-    "pos": "adj.",
-    "phonetic": "BrE /əbˈzɜːvəbəl/；AmE /əbˈzɜːrvəbəl/",
-    "meaning": "可观察到的",
-    "example": "The difference is clearly observable.",
-    "collocation": "observable behavior；observable effects",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most observable",
-    "related": "observe：观察｜observation：观察",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "ob-：向；serv：看/守；-able：可…的"
-    }
-  },
-  {
-    "word": "occasionally",
-    "pos": "adv.",
-    "phonetic": "BrE /əˈkeɪʒənəli/；AmE /əˈkeɪʒənəli/",
-    "meaning": "偶尔；有时",
-    "example": "We occasionally eat out.",
-    "collocation": "occasionally + 动词；occasionally used",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "occasion：场合｜sometimes：有时",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "occasion：场合；-al：形容词后缀；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "occupancy",
-    "pos": "n.",
-    "phonetic": "BrE /ˈɒkjʊpənsi/；AmE /ˈɑːkjəpənsi/",
-    "meaning": "入住率；占用",
-    "example": "Hotel occupancy is high in summer.",
-    "collocation": "occupancy rate；maximum occupancy",
-    "roots": "",
-    "inflection": "复数：occupancies（少用）",
-    "related": "occupy：占用｜occupation：职业/占用",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "occupy：占用；-ancy：名词后缀"
-    }
-  },
-  {
-    "word": "orangutans",
-    "pos": "n.",
-    "phonetic": "BrE /əˈræŋʊtænz/；AmE /əˈræŋʊtænz/",
-    "meaning": "红毛猩猩（复数）",
-    "example": "Orangutans live in the rainforests of Borneo.",
-    "collocation": "endangered orangutans",
-    "roots": "",
-    "inflection": "单数：orangutan；复数：orangutans",
-    "related": "primate：灵长类",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "马来语来源（orang hutan）"
-    }
-  },
-  {
-    "word": "passionately",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈpæʃənətli/；AmE /ˈpæʃənətli/",
-    "meaning": "热情地；强烈地",
-    "example": "She spoke passionately about education.",
-    "collocation": "feel passionately；argue passionately",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "passion：热情｜passionate：热情的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "passionate：热情的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "practically",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈpræktɪkli/；AmE /ˈpræktɪkli/",
-    "meaning": "实际上；几乎；实用地",
-    "example": "It's practically impossible.",
-    "collocation": "practically speaking；practically all",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "practical：实用的｜practice：练习/实践",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "practical：实际的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "prefer",
-    "pos": "v.",
-    "phonetic": "BrE /prɪˈfɜː/；AmE /prɪˈfɜːr/",
-    "meaning": "更喜欢；宁愿",
-    "example": "I prefer tea to coffee.",
-    "collocation": "prefer A to B；prefer to do",
-    "roots": "",
-    "inflection": "三单：prefers；过去：preferred；-ing：preferring",
-    "related": "preference：偏好｜preferable：更可取的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "pre-：在前；fer：带/搬（词源）"
-    }
-  },
-  {
-    "word": "preferable",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈprefrəbəl/；AmE /ˈprefrəbəl/",
-    "meaning": "更可取的；更合适的",
-    "example": "It's preferable to book in advance.",
-    "collocation": "preferable to；preferable option",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most preferable",
-    "related": "prefer：更喜欢｜preference：偏好",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "prefer：更喜欢；-able：可…的"
-    }
-  },
-  {
-    "word": "prescription",
-    "pos": "n.",
-    "phonetic": "BrE /prɪˈskrɪpʃən/；AmE /prɪˈskrɪpʃən/",
-    "meaning": "处方；（规定的）药方",
-    "example": "The doctor wrote a prescription.",
-    "collocation": "fill a prescription；prescription drug",
-    "roots": "",
-    "inflection": "复数：prescriptions",
-    "related": "prescribe：开处方/规定｜description：描述（同根-script）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "pre-：先；script：写；-ion：名词后缀"
-    }
-  },
-  {
-    "word": "prevent",
-    "pos": "v.",
-    "phonetic": "BrE /prɪˈvent/；AmE /prɪˈvent/",
-    "meaning": "阻止；预防",
-    "example": "Wearing a mask can prevent infection.",
-    "collocation": "prevent A from B；prevent accidents",
-    "roots": "",
-    "inflection": "三单：prevents；过去：prevented；-ing：preventing",
-    "related": "prevention：预防｜preventive：预防性的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "pre-：在前；-vent：来（词源“come”）"
-    }
-  },
-  {
-    "word": "prominent",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈprɒmɪnənt/；AmE /ˈprɑːmɪnənt/",
-    "meaning": "著名的；突出的；显眼的",
-    "example": "She is a prominent scientist.",
-    "collocation": "prominent figure；prominent role",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most prominent",
-    "related": "prominence：显著｜prominently：显著地",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "-promin-：突出；-ent：形容词后缀"
-    }
-  },
-  {
-    "word": "publicity",
-    "pos": "n.",
-    "phonetic": "BrE /pʌbˈlɪsɪti/；AmE /pʌbˈlɪsɪti/",
-    "meaning": "宣传；公众关注",
-    "example": "This event received wide publicity.",
-    "collocation": "gain publicity；negative publicity",
-    "roots": "",
-    "inflection": "复数：publicities（较少用）",
-    "related": "public：公众的｜publicize：宣传",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "public：公众；-ity：名词后缀"
-    }
-  },
-  {
-    "word": "recall",
-    "pos": "v./n.",
-    "phonetic": "BrE /rɪˈkɔːl/；AmE /rɪˈkɔːl/",
-    "meaning": "回忆；召回（产品）",
-    "example": "I can't recall his name.",
-    "collocation": "product recall；recall that...",
-    "roots": "",
-    "inflection": "三单：recalls；过去：recalled；-ing：recalling",
-    "related": "recollection：回忆｜remember：记得",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "re-：再；call：叫/呼唤"
-    }
-  },
-  {
-    "word": "recreational",
-    "pos": "adj.",
-    "phonetic": "BrE /ˌrekrɪˈeɪʃənəl/；AmE /ˌrekrɪˈeɪʃənəl/",
-    "meaning": "娱乐的；消遣的；休闲的",
-    "example": "Swimming is a recreational activity.",
-    "collocation": "recreational facilities；recreational use",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most recreational",
-    "related": "recreation：娱乐｜recreationally：休闲地",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "recreate：消遣；-tional：形容词后缀"
-    }
-  },
-  {
-    "word": "reimbursable",
-    "pos": "adj.",
-    "phonetic": "BrE /ˌriːɪmˈbɜːsəbəl/；AmE /ˌriːɪmˈbɜːrsəbəl/",
-    "meaning": "可报销的；可偿还的",
-    "example": "This expense is reimbursable.",
-    "collocation": "reimbursable expenses；reimbursable amount",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most reimbursable",
-    "related": "reimburse：报销/偿还｜reimbursement：报销",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "re-：再；imburse（偿还相关词源）；-able：可…的"
-    }
-  },
-  {
-    "word": "reliability",
-    "pos": "n.",
-    "phonetic": "BrE /rɪˌlaɪəˈbɪləti/；AmE /rɪˌlaɪəˈbɪləti/",
-    "meaning": "可靠性；可信度",
-    "example": "The reliability of the data is questionable.",
-    "collocation": "system reliability；high reliability",
-    "roots": "",
-    "inflection": "复数：reliabilities",
-    "related": "reliable：可靠的｜reliably：可靠地",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "rely：依赖；-able：可…的；-ity：名词后缀"
-    }
-  },
-  {
-    "word": "remind",
-    "pos": "v.",
-    "phonetic": "BrE /rɪˈmaɪnd/；AmE /rɪˈmaɪnd/",
-    "meaning": "提醒；使想起",
-    "example": "Please remind me to call her.",
-    "collocation": "remind A of B；remind A to do",
-    "roots": "",
-    "inflection": "三单：reminds；过去：reminded；-ing：reminding",
-    "related": "reminder：提醒物｜memory：记忆",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "re-：再；mind：记/想"
-    }
-  },
-  {
-    "word": "residential",
-    "pos": "adj.",
-    "phonetic": "BrE /ˌrezɪˈdenʃəl/；AmE /ˌrezɪˈdenʃəl/",
-    "meaning": "住宅的；居住的",
-    "example": "It's a quiet residential area.",
-    "collocation": "residential area；residential building",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most residential",
-    "related": "residence：住所｜resident：居民",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "reside：居住；-ential：形容词后缀"
-    }
-  },
-  {
-    "word": "respectably",
-    "pos": "adv.",
-    "phonetic": "BrE /rɪˈspektəbli/；AmE /rɪˈspektəbli/",
-    "meaning": "体面地；得体地；相当（程度）",
-    "example": "He is dressed respectably.",
-    "collocation": "respectably dressed；earn respectably",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "respectable：体面的｜respectability：体面",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "respectable：体面的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "respectfully",
-    "pos": "adv.",
-    "phonetic": "BrE /rɪˈspektfəli/；AmE /rɪˈspektfəli/",
-    "meaning": "恭敬地；谨致（用于信件）",
-    "example": "Respectfully, I disagree.",
-    "collocation": "with all due respect；respectfully yours",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "respectful：恭敬的｜respect：尊重",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "respectful：恭敬的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "respectively",
-    "pos": "adv.",
-    "phonetic": "BrE /rɪˈspektɪvli/；AmE /rɪˈspektɪvli/",
-    "meaning": "分别；各自",
-    "example": "The scores were 3 and 5, respectively.",
-    "collocation": "A and B, respectively",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "respective：各自的｜respect：尊重（不同义）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "respective：各自的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "restructure",
-    "pos": "v.",
-    "phonetic": "BrE /ˌriːˈstrʌktʃə/；AmE /ˌriːˈstrʌktʃər/",
-    "meaning": "重组；调整结构",
-    "example": "They plan to restructure the department.",
-    "collocation": "restructure a company；restructure debt",
-    "roots": "",
-    "inflection": "三单：restructures；过去：restructured；-ing：restructuring",
-    "related": "restructuring：重组（名词）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "re-：再；struct：建造/结构"
-    }
-  },
-  {
-    "word": "restructuring",
-    "pos": "n.",
-    "phonetic": "BrE /ˌriːˈstrʌktʃərɪŋ/；AmE /ˌriːˈstrʌktʃərɪŋ/",
-    "meaning": "重组；重整",
-    "example": "The company announced a restructuring plan.",
-    "collocation": "corporate restructuring；restructuring costs",
-    "roots": "",
-    "inflection": "无固定复数（作不可数更常见）",
-    "related": "restructure：重组｜structure：结构",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "re-：再；structure：结构；-ing：名词后缀"
-    }
-  },
-  {
-    "word": "reversible",
-    "pos": "adj.",
-    "phonetic": "BrE /rɪˈvɜːsəbəl/；AmE /rɪˈvɜːrsəbəl/",
-    "meaning": "可逆的；可恢复的",
-    "example": "The process is reversible.",
-    "collocation": "reversible change；reversible jacket",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most reversible",
-    "related": "reverse：逆转｜irreversible：不可逆的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "re-：再；vers：转；-ible：可…的"
-    }
-  },
-  {
-    "word": "scratch",
-    "pos": "n./v.",
-    "phonetic": "BrE /skrætʃ/；AmE /skrætʃ/",
-    "meaning": "刮痕；抓；从零开始",
-    "example": "I scratched my arm on a branch.",
-    "collocation": "scratch the surface；from scratch",
-    "roots": "",
-    "inflection": "复数：scratches；动词：scratches/scratched/scratching",
-    "related": "scratched：有划痕的｜scrape：刮擦",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "separate",
-    "pos": "adj./v.",
-    "phonetic": "BrE /ˈsepərət/（adj.）；/ˈsepəreɪt/（v.）；AmE /ˈsepərət/（adj.）；/ˈsepəreɪt/（v.）",
-    "meaning": "分开的；分开；隔离",
-    "example": "Please separate the waste.",
-    "collocation": "separate from；separate into",
-    "roots": "",
-    "inflection": "复数：separates（作名词较少）；动词：separates/separated/separating",
-    "related": "separation：分离｜separately：分别地",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "-separ-：分开；-ate：动词后缀"
-    }
-  },
-  {
-    "word": "separately",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈsepərətli/；AmE /ˈsepərətli/",
-    "meaning": "分别地；单独地",
-    "example": "The items are sold separately.",
-    "collocation": "treat separately；paid separately",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "separate：分开｜independently：独立地",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "separate：分开；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "shallow",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈʃæləʊ/；AmE /ˈʃæloʊ/",
-    "meaning": "浅的；肤浅的",
-    "example": "The river is shallow here.",
-    "collocation": "shallow water；shallow breathing",
-    "roots": "",
-    "inflection": "比较级/最高级：shallower/shallowest",
-    "related": "shallowly：浅浅地｜shallowness：浅薄",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "shallowly",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈʃæləʊli/；AmE /ˈʃæloʊli/",
-    "meaning": "浅浅地；肤浅地",
-    "example": "He was breathing shallowly.",
-    "collocation": "breathe shallowly",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "shallow：浅的｜shallow breathing：浅呼吸",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "shallow：浅的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "shrink",
-    "pos": "v./n.",
-    "phonetic": "BrE /ʃrɪŋk/；AmE /ʃrɪŋk/",
-    "meaning": "收缩；缩小",
-    "example": "Clothes may shrink in hot water.",
-    "collocation": "shrink by；shrink to；shrinkage",
-    "roots": "",
-    "inflection": "三单：shrinks；过去：shrank；过去分词：shrunk；-ing：shrinking",
-    "related": "shrinkage：缩水/收缩｜reduce：减少",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "since",
-    "pos": "prep./conj./adv.",
-    "phonetic": "BrE /sɪns/；AmE /sɪns/",
-    "meaning": "自从；因为；从那以后",
-    "example": "I have lived here since 2020.",
-    "collocation": "since then；ever since",
-    "roots": "",
-    "inflection": "无变形",
-    "related": "because：因为（近义用法之一）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "无常见可拆词缀"
-    }
-  },
-  {
-    "word": "slimly",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈslɪmli/；AmE /ˈslɪmli/",
-    "meaning": "纤细地；勉强地（概率很小地）",
-    "example": "He slimly won the election.",
-    "collocation": "slimly win；slimly avoid",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "slim：苗条的｜slim chance：渺茫机会",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "slim：苗条/微小；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "specifically",
-    "pos": "adv.",
-    "phonetic": "BrE /spəˈsɪfɪkli/；AmE /spəˈsɪfɪkli/",
-    "meaning": "具体地；特意地",
-    "example": "I'm specifically asking about costs.",
-    "collocation": "specifically mention；specifically designed",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "specific：具体的｜specify：明确说明",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "specific：具体的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "sporadically",
-    "pos": "adv.",
-    "phonetic": "BrE /spəˈrædɪkli/；AmE /spəˈrædɪkli/",
-    "meaning": "零星地；断断续续地",
-    "example": "It rains sporadically in this season.",
-    "collocation": "sporadically occur；sporadically reported",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "sporadic：零星的｜intermittently：间歇地",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "sporadic：零星的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "submit",
-    "pos": "v.",
-    "phonetic": "BrE /səbˈmɪt/；AmE /səbˈmɪt/",
-    "meaning": "提交；屈服",
-    "example": "Please submit your application by Friday.",
-    "collocation": "submit an application；submit to",
-    "roots": "",
-    "inflection": "三单：submits；过去：submitted；-ing：submitting",
-    "related": "submission：提交/屈服｜permit：允许（同根-mit）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "sub-：下；-mit：送/放（词源“send”）"
-    }
-  },
-  {
-    "word": "subsidy",
-    "pos": "n.",
-    "phonetic": "BrE /ˈsʌbsɪdi/；AmE /ˈsʌbsɪdi/",
-    "meaning": "补贴；津贴",
-    "example": "The government provides a subsidy for farmers.",
-    "collocation": "housing subsidy；grant and subsidy",
-    "roots": "",
-    "inflection": "复数：subsidies",
-    "related": "subsidize：补贴｜grant：拨款（相关）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "sub-：在下；sid（坐/安置相关词源）；-y：名词后缀"
-    }
-  },
-  {
-    "word": "subtract",
-    "pos": "v.",
-    "phonetic": "BrE /səbˈtrækt/；AmE /səbˈtrækt/",
-    "meaning": "减去；扣除",
-    "example": "Subtract 5 from 12.",
-    "collocation": "subtract A from B",
-    "roots": "",
-    "inflection": "三单：subtracts；过去：subtracted；-ing：subtracting",
-    "related": "subtraction：减法｜subtractable：可减的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "sub-：下；tract：拉/拖"
-    }
-  },
-  {
-    "word": "superior",
-    "pos": "adj./n.",
-    "phonetic": "BrE /suːˈpɪəriə/；AmE /suːˈpɪriər/",
-    "meaning": "更好的；上级（的）",
-    "example": "This model is superior to the old one.",
-    "collocation": "superior to；a superior officer",
-    "roots": "",
-    "inflection": "形：more/most superior（也常用“superior”直接表达）",
-    "related": "superiority：优越性｜inferior：较差的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "super-：在上；-ior：比较级后缀（拉丁来源）"
-    }
-  },
-  {
-    "word": "therefore",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈðeəfɔː/；AmE /ˈðerfɔːr/",
-    "meaning": "因此；所以",
-    "example": "The evidence is weak; therefore, we cannot conclude.",
-    "collocation": "and therefore；therefore + 句子",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "thus：因此｜hence：因此",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "there-：那里/因此；-fore：前（引申“因此”）"
-    }
-  },
-  {
-    "word": "thoroughly",
-    "pos": "adv.",
-    "phonetic": "BrE /ˈθʌrəli/；AmE /ˈθɜːrəli/",
-    "meaning": "彻底地；完全地",
-    "example": "Please read the instructions thoroughly.",
-    "collocation": "thoroughly understand；thoroughly clean",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "thorough：彻底的｜thoroughness：周密",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "thorough：彻底的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "transcribe",
-    "pos": "v.",
-    "phonetic": "BrE /trænˈskraɪb/；AmE /trænˈskraɪb/",
-    "meaning": "转录；抄写",
-    "example": "Please transcribe the interview.",
-    "collocation": "transcribe audio；transcribe into",
-    "roots": "",
-    "inflection": "三单：transcribes；过去：transcribed；-ing：transcribing",
-    "related": "transcript：文字稿｜scribe：抄写员（同根）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "pre-：转；scrib：写"
-    }
-  },
-  {
-    "word": "triple",
-    "pos": "adj./v./n.",
-    "phonetic": "BrE /ˈtrɪpəl/；AmE /ˈtrɪpəl/",
-    "meaning": "三倍的；使增至三倍；三倍",
-    "example": "They tripled production in a year.",
-    "collocation": "triple the amount；a triple victory",
-    "roots": "",
-    "inflection": "复数：triples；动词：triples/tripled/tripling",
-    "related": "double：两倍｜triplet：三胞胎/三件套",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "tri-：三；-ple：数量后缀"
-    }
-  },
-  {
-    "word": "unanimously",
-    "pos": "adv.",
-    "phonetic": "BrE /juːˈnænɪməsli/；AmE /juːˈnænɪməsli/",
-    "meaning": "一致地；全体同意地",
-    "example": "The proposal was unanimously approved.",
-    "collocation": "vote unanimously；unanimously agree",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "unanimous：一致的｜unanimity：一致",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "unanimous：一致的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "unauthorized",
-    "pos": "adj.",
-    "phonetic": "BrE /ʌnˈɔːθəraɪzd/；AmE /ʌnˈɔːθəraɪzd/",
-    "meaning": "未经授权的",
-    "example": "Unauthorized access is prohibited.",
-    "collocation": "unauthorized use；unauthorized entry",
-    "roots": "",
-    "inflection": "无比较级（一般不变形）",
-    "related": "authorize：授权｜authorization：授权",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "un-：不；authorize：授权；-ed：形容词后缀"
-    }
-  },
-  {
-    "word": "unilaterally",
-    "pos": "adv.",
-    "phonetic": "BrE /ˌjuːnɪˈlætərəli/；AmE /ˌjuːnɪˈlætərəli/",
-    "meaning": "单方面地",
-    "example": "The decision was made unilaterally.",
-    "collocation": "act unilaterally；unilaterally withdraw",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "unilateral：单方面的｜bilateral：双边的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "uni-：一；lateral：边；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "unless",
-    "pos": "conj.",
-    "phonetic": "BrE /ʌnˈles/；AmE /ʌnˈles/",
-    "meaning": "除非；如果不",
-    "example": "I won't go unless you come with me.",
-    "collocation": "unless + 从句",
-    "roots": "",
-    "inflection": "无变形",
-    "related": "if...not（同义表达）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "un-：不；less：更少（引申“否则”）"
-    }
-  },
-  {
-    "word": "unpermitted",
-    "pos": "adj.",
-    "phonetic": "BrE /ˌʌnpəˈmɪtɪd/；AmE /ˌʌnpərˈmɪtɪd/",
-    "meaning": "不被允许的；未获许可的",
-    "example": "Unpermitted construction will be removed.",
-    "collocation": "unpermitted activity",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "permitted：被允许的｜permission：许可",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "un-：不；permit：允许；-ed：形容词后缀"
-    }
-  },
-  {
-    "word": "urban",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈɜːbən/；AmE /ˈɜːrbən/",
-    "meaning": "城市的；都市的",
-    "example": "Urban areas are becoming more crowded.",
-    "collocation": "urban area；urban development",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most urban",
-    "related": "urbanize：城市化｜suburban：郊区的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "urb-：城市；-an：形容词后缀"
-    }
-  },
-  {
-    "word": "urgency",
-    "pos": "n.",
-    "phonetic": "BrE /ˈɜːdʒənsi/；AmE /ˈɜːrdʒənsi/",
-    "meaning": "紧迫性；紧急",
-    "example": "We must act with urgency.",
-    "collocation": "a sense of urgency；urgent need",
-    "roots": "",
-    "inflection": "复数：urgencies",
-    "related": "urgent：紧急的｜urge：敦促",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "urge：催促；-ency：名词后缀"
-    }
-  },
-  {
-    "word": "valid",
-    "pos": "adj.",
-    "phonetic": "BrE /ˈvælɪd/；AmE /ˈvælɪd/",
-    "meaning": "有效的；有根据的",
-    "example": "Your ticket is valid for one day.",
-    "collocation": "valid reason；valid until",
-    "roots": "",
-    "inflection": "比较级/最高级：more/most valid",
-    "related": "validate：验证｜validity：有效性",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "val-：强/值（词源）；-id：形容词后缀"
-    }
-  },
-  {
-    "word": "validate",
-    "pos": "v.",
-    "phonetic": "BrE /ˈvælɪdeɪt/；AmE /ˈvælɪdeɪt/",
-    "meaning": "验证；确认有效",
-    "example": "The system validates your password.",
-    "collocation": "validate data；validate a claim",
-    "roots": "",
-    "inflection": "三单：validates；过去：validated；-ing：validating",
-    "related": "validation：验证｜validity：有效性",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "valid：有效的；-ate：动词后缀"
-    }
-  },
-  {
-    "word": "voluntarily",
-    "pos": "adv.",
-    "phonetic": "BrE /ˌvɒlənˈtɛərɪli/；AmE /ˌvɑːlənˈterəli/",
-    "meaning": "自愿地；主动地",
-    "example": "He voluntarily offered to help.",
-    "collocation": "voluntarily resign；voluntarily disclose",
-    "roots": "",
-    "inflection": "无比较级",
-    "related": "volunteer：志愿者/自愿做｜voluntary：自愿的",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "voluntary：自愿的；-ly：副词后缀"
-    }
-  },
-  {
-    "word": "within",
-    "pos": "prep./adv.",
-    "phonetic": "BrE /wɪˈðɪn/；AmE /wɪˈðɪn/",
-    "meaning": "在…之内；不超过；在内部",
-    "example": "Please reply within 24 hours.",
-    "collocation": "within reach；within limits；within walking distance",
-    "roots": "",
-    "inflection": "无变形",
-    "related": "without：在外；没有（反义形式）",
-    "position": null,
-    "extra": {
-      "词根词缀,词头词尾": "with-：在一起/向内；in：在内"
+      "词根词缀,词头词尾": "复合短语：press + conference"
     }
   }
 ]
