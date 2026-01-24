@@ -165,6 +165,36 @@
     }
   },
   {
+    "word": "definitely",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈdefɪnətli/；AmE /ˈdefɪnətli/",
+    "meaning": "肯定；确实",
+    "example": "I’ll definitely be there.",
+    "collocation": "definitely + 动词/句子",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "definite：明确的｜certainly：当然/肯定",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "definite：明确的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "draw",
+    "pos": "v.",
+    "phonetic": "BrE /drɔː/；AmE /drɔː/",
+    "meaning": "画；拉；抽（签）；吸引",
+    "example": "Draw a line here. / The game ended in a draw.",
+    "collocation": "draw up；draw a picture；draw attention",
+    "roots": "",
+    "inflection": "三单：draws；过去：drew；分词：drawn；-ing：drawing",
+    "related": "drawing：绘画｜attract：吸引",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "each of",
     "pos": "phrase",
     "phonetic": "BrE /iːtʃ əv/; AmE /iːtʃ əv/",
@@ -207,6 +237,21 @@
     "position": 1000,
     "extra": {
       "词根词缀,词头词尾": "fail：失败；-ure：名词后缀"
+    }
+  },
+  {
+    "word": "fair",
+    "pos": "adj./n.",
+    "phonetic": "BrE /feə/；AmE /fer/",
+    "meaning": "公平的；合理的；（集市）展会",
+    "example": "That’s a fair price. / We went to a job fair.",
+    "collocation": "fair enough；fair deal；trade fair",
+    "roots": "",
+    "inflection": "比较级/最高级：fairer/fairiest",
+    "related": "fairly：相当地/公平地｜justice：正义",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -405,6 +450,51 @@
     }
   },
   {
+    "word": "piece",
+    "pos": "n.",
+    "phonetic": "BrE /piːs/；AmE /piːs/",
+    "meaning": "一块；一件；（文章/音乐）作品",
+    "example": "Give me a piece of paper. / It’s a beautiful piece of music.",
+    "collocation": "a piece of；piece together",
+    "roots": "",
+    "inflection": "复数：pieces",
+    "related": "part：部分｜item：物品",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "plant",
+    "pos": "n./v.",
+    "phonetic": "BrE /plɑːnt/；AmE /plænt/",
+    "meaning": "植物；工厂；种植",
+    "example": "They built a new power plant.",
+    "collocation": "industrial plant；plant a tree",
+    "roots": "",
+    "inflection": "复数：plants；动词：plants/planted/planting",
+    "related": "factory：工厂｜seed：种子",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "popular",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈpɒpjələ/；AmE /ˈpɑːpjələr/",
+    "meaning": "受欢迎的；流行的",
+    "example": "This app is popular among students.",
+    "collocation": "popular with/among；popular culture",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most popular",
+    "related": "popularity：受欢迎程度｜common：常见的",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "prevent",
     "pos": "v.",
     "phonetic": "BrE /prɪˈvent/；AmE /prɪˈvent/",
@@ -495,6 +585,21 @@
     }
   },
   {
+    "word": "ring",
+    "pos": "n./v.",
+    "phonetic": "BrE /rɪŋ/；AmE /rɪŋ/",
+    "meaning": "戒指；铃声；环；打电话",
+    "example": "The phone rang twice. / She wears a gold ring.",
+    "collocation": "ring up；wedding ring",
+    "roots": "",
+    "inflection": "复数：rings；动词：rings/rang/rung/ringing",
+    "related": "call：打电话｜circle：圆圈",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "scratch",
     "pos": "n./v.",
     "phonetic": "BrE /skrætʃ/；AmE /skrætʃ/",
@@ -540,6 +645,51 @@
     }
   },
   {
+    "word": "slightly",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈslaɪtli/；AmE /ˈslaɪtli/",
+    "meaning": "稍微；略微",
+    "example": "The price is slightly higher.",
+    "collocation": "slightly different；slightly increase",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "a little：一点点｜somewhat：有点",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "slight：轻微的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "strange",
+    "pos": "adj.",
+    "phonetic": "BrE /streɪndʒ/；AmE /streɪndʒ/",
+    "meaning": "奇怪的；陌生的",
+    "example": "That’s a strange noise.",
+    "collocation": "strange to；feel strange",
+    "roots": "",
+    "inflection": "比较级/最高级：stranger/strangest",
+    "related": "strangely：奇怪地｜odd：奇怪的",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "stranger",
+    "pos": "n.",
+    "phonetic": "BrE /ˈstreɪndʒə/；AmE /ˈstreɪndʒər/",
+    "meaning": "陌生人；外人",
+    "example": "Don’t talk to strangers.",
+    "collocation": "stranger to；complete stranger",
+    "roots": "",
+    "inflection": "复数：strangers",
+    "related": "strange：奇怪的/陌生的｜unknown：未知的",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "strange：陌生的；-er：人/者"
+    }
+  },
+  {
     "word": "though",
     "pos": "conj./adv.",
     "phonetic": "BrE /ðəʊ/；AmE /ðoʊ/",
@@ -582,6 +732,21 @@
     "position": 1000,
     "extra": {
       "词根词缀,词头词尾": "固定短语：up（至/向上）+ to（到）"
+    }
+  },
+  {
+    "word": "wheel",
+    "pos": "n./v.",
+    "phonetic": "BrE /wiːl/；AmE /wiːl/",
+    "meaning": "轮子；车轮；推（带轮物）",
+    "example": "The bike has a flat wheel. / He wheeled the cart inside.",
+    "collocation": "wheelchair；steering wheel；wheel in/out",
+    "roots": "",
+    "inflection": "复数：wheels；动词：wheels/wheeled/wheeling",
+    "related": "roll：滚动｜tire：轮胎",
+    "position": 1000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -937,6 +1102,21 @@
     }
   },
   {
+    "word": "badge",
+    "pos": "n.",
+    "phonetic": "BrE /bædʒ/；AmE /bædʒ/",
+    "meaning": "徽章；工作牌",
+    "example": "Please wear your badge at all times.",
+    "collocation": "name badge；ID badge",
+    "roots": "",
+    "inflection": "复数：badges",
+    "related": "ID：身份识别｜pass：通行证",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "basis",
     "pos": "n.",
     "phonetic": "BrE /ˈbeɪsɪs/；AmE /ˈbeɪsɪs/",
@@ -949,6 +1129,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "base：基础；-is：名词词形"
+    }
+  },
+  {
+    "word": "battery",
+    "pos": "n.",
+    "phonetic": "BrE /ˈbætəri/；AmE /ˈbætəri/",
+    "meaning": "电池；一组；（法律）殴打",
+    "example": "The battery is low. / Charge the battery.",
+    "collocation": "rechargeable battery；battery life",
+    "roots": "",
+    "inflection": "复数：batteries",
+    "related": "charge：充电｜power：电源",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -1024,6 +1219,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "词源 cancer（蟹→肿瘤形象）"
+    }
+  },
+  {
+    "word": "celebrate",
+    "pos": "v.",
+    "phonetic": "BrE /ˈselɪbreɪt/；AmE /ˈselɪbreɪt/",
+    "meaning": "庆祝；赞颂",
+    "example": "Let’s celebrate your success.",
+    "collocation": "celebrate a birthday；celebrate with",
+    "roots": "",
+    "inflection": "三单：celebrates；过去：celebrated；-ing：celebrating",
+    "related": "celebration：庆祝｜celebrity：名人",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "celebr-：著名/庆祝；-ate：动词后缀"
     }
   },
   {
@@ -1117,6 +1327,21 @@
     }
   },
   {
+    "word": "confirm",
+    "pos": "v.",
+    "phonetic": "BrE /kənˈfɜːm/；AmE /kənˈfɜːrm/",
+    "meaning": "确认；证实；批准",
+    "example": "Please confirm the date.",
+    "collocation": "confirm that...；confirm a booking",
+    "roots": "",
+    "inflection": "三单：confirms；过去：confirmed；-ing：confirming",
+    "related": "confirmation：确认｜verify：核实",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "con-：一起；firm：坚定"
+    }
+  },
+  {
     "word": "construction",
     "pos": "n.",
     "phonetic": "BrE /kənˈstrʌkʃən/；AmE /kənˈstrʌkʃən/",
@@ -1177,6 +1402,21 @@
     }
   },
   {
+    "word": "craft",
+    "pos": "n./v.",
+    "phonetic": "BrE /krɑːft/；AmE /kræft/",
+    "meaning": "手艺；工艺；精心制作",
+    "example": "He learned the craft of woodworking.",
+    "collocation": "craft skills；craft a plan",
+    "roots": "",
+    "inflection": "复数：crafts；动词：crafts/crafted/crafting",
+    "related": "artisan：工匠｜skill：技能",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "critic",
     "pos": "n.",
     "phonetic": "BrE /ˈkrɪtɪk/；AmE /ˈkrɪtɪk/",
@@ -1192,6 +1432,21 @@
     }
   },
   {
+    "word": "curious",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈkjʊəriəs/；AmE /ˈkjʊriəs/",
+    "meaning": "好奇的；奇特的",
+    "example": "I’m curious about the result.",
+    "collocation": "curious about；curious to know",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most curious",
+    "related": "curiosity：好奇心｜wonder：想知道",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "cur-：关心（词源相关）；-ious：形容词后缀"
+    }
+  },
+  {
     "word": "degree",
     "pos": "n.",
     "phonetic": "BrE /dɪˈɡriː/；AmE /dɪˈɡriː/",
@@ -1204,6 +1459,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "学术语域常见；词缀不规则"
+    }
+  },
+  {
+    "word": "delight",
+    "pos": "n./v.",
+    "phonetic": "BrE /dɪˈlaɪt/；AmE /dɪˈlaɪt/",
+    "meaning": "高兴；乐事；使高兴",
+    "example": "The kids squealed with delight.",
+    "collocation": "delight in；to one’s delight",
+    "roots": "",
+    "inflection": "复数：delights；动词：delights/delighted/delighting",
+    "related": "delighted：高兴的｜pleasure：愉快",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -1267,6 +1537,36 @@
     }
   },
   {
+    "word": "direction",
+    "pos": "n.",
+    "phonetic": "BrE /dəˈrekʃən/；AmE /dəˈrekʃən/",
+    "meaning": "方向；指导；说明",
+    "example": "Which direction is the station?",
+    "collocation": "direction to；give directions",
+    "roots": "",
+    "inflection": "复数：directions",
+    "related": "direct：直接的｜guidance：指导",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "direct：直接/引导；-ion：名词后缀"
+    }
+  },
+  {
+    "word": "directly",
+    "pos": "adv.",
+    "phonetic": "BrE /dəˈrektli/；AmE /dəˈrektli/",
+    "meaning": "直接地；立即",
+    "example": "I’ll call you directly.",
+    "collocation": "directly connected；directly after",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "immediately：立即｜straight：直接地",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "direct：直接的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "director",
     "pos": "n.",
     "phonetic": "BrE /dɪˈrektə/；AmE /dɪˈrektər/",
@@ -1279,6 +1579,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "-or：职业名词后缀“做……的人”"
+    }
+  },
+  {
+    "word": "drawing",
+    "pos": "n.",
+    "phonetic": "BrE /ˈdrɔːɪŋ/；AmE /ˈdrɔːɪŋ/",
+    "meaning": "绘画；图纸；抽签",
+    "example": "The architect showed us the drawing.",
+    "collocation": "technical drawing；drawing of",
+    "roots": "",
+    "inflection": "复数：drawings",
+    "related": "sketch：草图｜blueprint：蓝图",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "draw：画；-ing：名词后缀"
     }
   },
   {
@@ -1717,6 +2032,21 @@
     }
   },
   {
+    "word": "issue",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈɪʃuː/；AmE /ˈɪʃuː/",
+    "meaning": "问题；议题；发行；发放",
+    "example": "This is a serious issue. / They issued new IDs.",
+    "collocation": "raise an issue；issue a statement；issue a permit",
+    "roots": "",
+    "inflection": "复数：issues；动词：issues/issued/issuing",
+    "related": "problem：问题｜topic：话题｜release：发布",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "launch",
     "pos": "v./n.",
     "phonetic": "BrE /lɔːntʃ/；AmE /lɔːntʃ/",
@@ -1774,6 +2104,36 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "mit（送，词源）→“派遣/使命”；-ion：名词"
+    }
+  },
+  {
+    "word": "particular",
+    "pos": "adj./n.",
+    "phonetic": "BrE /pəˈtɪkjələ/；AmE /pərˈtɪkjələr/",
+    "meaning": "特定的；讲究的",
+    "example": "Any particular reason? / She is very particular about details.",
+    "collocation": "in particular；particular about",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most particular",
+    "related": "particularly：尤其｜specific：具体的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "particularly",
+    "pos": "adv.",
+    "phonetic": "BrE /pəˈtɪkjələli/；AmE /pərˈtɪkjələrli/",
+    "meaning": "尤其；特别",
+    "example": "I like this one particularly.",
+    "collocation": "particularly important；particularly in",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "especially：尤其｜notably：尤其是",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "particular：特定的；-ly：副词后缀"
     }
   },
   {
@@ -1864,6 +2224,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "present（在场）+ -ence（名词后缀：状态）"
+    }
+  },
+  {
+    "word": "progress",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈprəʊɡres/（n.）；BrE /prəˈɡres/（v.）；AmE /ˈprɑːɡres/（n.）；AmE /prəˈɡres/（v.）",
+    "meaning": "进步；进展；前进",
+    "example": "We’re making good progress.",
+    "collocation": "make progress；in progress",
+    "roots": "",
+    "inflection": "复数：progresses（少用）；动词：progresses/progressed/progressing",
+    "related": "progressive：渐进的｜advance：进展",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "pro-：向前；gress：走"
     }
   },
   {
@@ -2047,6 +2422,21 @@
     }
   },
   {
+    "word": "rug",
+    "pos": "n.",
+    "phonetic": "BrE /rʌɡ/；AmE /rʌɡ/",
+    "meaning": "小地毯",
+    "example": "He put a rug under the table.",
+    "collocation": "area rug；throw rug",
+    "roots": "",
+    "inflection": "复数：rugs",
+    "related": "carpet：地毯（大面积）",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "rumor",
     "pos": "n.",
     "phonetic": "BrE /ˈruːmə/；AmE /ˈruːmər/",
@@ -2197,6 +2587,21 @@
     }
   },
   {
+    "word": "strategy",
+    "pos": "n.",
+    "phonetic": "BrE /ˈstrætədʒi/；AmE /ˈstrætədʒi/",
+    "meaning": "策略；战略",
+    "example": "We need a clear strategy.",
+    "collocation": "business strategy；strategy for",
+    "roots": "",
+    "inflection": "复数：strategies",
+    "related": "tactic：战术｜plan：计划",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "strat-：军/层；-gy：名词后缀"
+    }
+  },
+  {
     "word": "strength",
     "pos": "n.",
     "phonetic": "BrE /streŋθ/；AmE /streŋθ/",
@@ -2302,6 +2707,21 @@
     }
   },
   {
+    "word": "survey",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈsɜːveɪ/；AmE /ˈsɜːrveɪ/",
+    "meaning": "调查；测量；勘察",
+    "example": "We conducted a customer survey.",
+    "collocation": "conduct a survey；survey results",
+    "roots": "",
+    "inflection": "复数：surveys；动词：surveys/surveyed/surveying",
+    "related": "questionnaire：问卷｜research：研究",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "sur-：在上；vey：看（词源）"
+    }
+  },
+  {
     "word": "temporary",
     "pos": "adj./n.",
     "phonetic": "BrE /ˈtemprəri/；AmE /ˈtempəreri/",
@@ -2404,6 +2824,21 @@
     "position": 2000,
     "extra": {
       "词根词缀,词头词尾": "tri-：三；-ple：倍数词尾"
+    }
+  },
+  {
+    "word": "unfortunate",
+    "pos": "adj.",
+    "phonetic": "BrE /ʌnˈfɔːtʃənət/；AmE /ʌnˈfɔːrtʃənət/",
+    "meaning": "不幸的；遗憾的",
+    "example": "It’s unfortunate that you can’t come.",
+    "collocation": "unfortunate event；unfortunate accident",
+    "roots": "",
+    "inflection": "—",
+    "related": "fortunately：幸运地｜unlucky：不走运的",
+    "position": 2000,
+    "extra": {
+      "词根词缀,词头词尾": "un-：不；fortune：运气；-ate：形容词词尾"
     }
   },
   {
@@ -2587,6 +3022,21 @@
     }
   },
   {
+    "word": "alternative",
+    "pos": "adj./n.",
+    "phonetic": "BrE /ɔːlˈtɜːnətɪv/；AmE /ɔːlˈtɜːrnətɪv/",
+    "meaning": "替代的；替代方案",
+    "example": "We need an alternative plan.",
+    "collocation": "alternative to；have no alternative",
+    "roots": "",
+    "inflection": "复数：alternatives",
+    "related": "option：选项｜substitute：替代品",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "alter：改变；-ive：形容词/名词后缀"
+    }
+  },
+  {
     "word": "appraisal",
     "pos": "n.",
     "phonetic": "BrE /əˈpreɪzəl/；AmE /əˈpreɪzəl/",
@@ -2707,6 +3157,36 @@
     }
   },
   {
+    "word": "beverage",
+    "pos": "n.",
+    "phonetic": "BrE /ˈbevərɪdʒ/；AmE /ˈbevərɪdʒ/",
+    "meaning": "饮料",
+    "example": "Please choose a beverage.",
+    "collocation": "alcoholic beverage；hot beverage",
+    "roots": "",
+    "inflection": "复数：beverages",
+    "related": "drink：饮料｜refreshment：饮品点心（复数）",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "celebrated",
+    "pos": "adj./v.",
+    "phonetic": "BrE /ˈselɪbreɪtɪd/；AmE /ˈselɪbreɪtɪd/",
+    "meaning": "著名的；celebrate 的过去式/分词",
+    "example": "He is a celebrated writer.",
+    "collocation": "celebrated author",
+    "roots": "",
+    "inflection": "原形：celebrate；-ing：celebrating",
+    "related": "famous：著名的｜renowned：知名的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "celebrate：庆祝；-ed：形容词化/分词"
+    }
+  },
+  {
     "word": "celebrity",
     "pos": "n.",
     "phonetic": "BrE /səˈlebrəti/；AmE /səˈlebrəti/",
@@ -2719,6 +3199,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "celebr-：著名；-ity：名词后缀"
+    }
+  },
+  {
+    "word": "certificate",
+    "pos": "n.",
+    "phonetic": "BrE /səˈtɪfɪkət/；AmE /sərˈtɪfɪkət/",
+    "meaning": "证书；证明书",
+    "example": "He received a certificate of completion.",
+    "collocation": "certificate of；birth certificate",
+    "roots": "",
+    "inflection": "复数：certificates",
+    "related": "certification：认证｜license：执照",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "cert-：确定；-fic-：做；-ate：名词词尾"
     }
   },
   {
@@ -2872,6 +3367,21 @@
     }
   },
   {
+    "word": "confirmation",
+    "pos": "n.",
+    "phonetic": "BrE /ˌkɒnfəˈmeɪʃən/；AmE /ˌkɑːnfərˈmeɪʃən/",
+    "meaning": "确认；证实；确认函",
+    "example": "We received confirmation by email.",
+    "collocation": "receive confirmation；confirmation email",
+    "roots": "",
+    "inflection": "复数：confirmations",
+    "related": "confirm：确认｜verification：核实",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "con-：一起；firm：坚定；-ation：名词后缀"
+    }
+  },
+  {
     "word": "consideration",
     "pos": "n.",
     "phonetic": "BrE /kənˌsɪdəˈreɪʃən/; AmE /kənˌsɪdəˈreɪʃən/",
@@ -2929,6 +3439,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "con-：一起；vey（运送词源）"
+    }
+  },
+  {
+    "word": "coverage",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkʌvərɪdʒ/；AmE /ˈkʌvərɪdʒ/",
+    "meaning": "覆盖范围；保险保障；报道",
+    "example": "The insurance provides full coverage.",
+    "collocation": "insurance coverage；media coverage",
+    "roots": "",
+    "inflection": "复数：coverages（少用）",
+    "related": "cover：覆盖｜benefit：保障/福利",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "cover：覆盖；-age：名词后缀"
     }
   },
   {
@@ -2992,6 +3517,21 @@
     }
   },
   {
+    "word": "depart",
+    "pos": "v.",
+    "phonetic": "BrE /dɪˈpɑːt/；AmE /dɪˈpɑːrt/",
+    "meaning": "离开；出发",
+    "example": "The train departs at 6.",
+    "collocation": "depart from；depart for",
+    "roots": "",
+    "inflection": "三单：departs；过去：departed；-ing：departing",
+    "related": "departure：离开/出发｜leave：离开",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "de-：离；part：部分/离开（词源相关）"
+    }
+  },
+  {
     "word": "destination",
     "pos": "n.",
     "phonetic": "BrE /ˌdestɪˈneɪʃən/；AmE /ˌdɛstɪˈneɪʃən/",
@@ -3019,6 +3559,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "diligent：勤勉的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "directed",
+    "pos": "adj./v.",
+    "phonetic": "BrE /dəˈrektɪd/；AmE /dəˈrektɪd/",
+    "meaning": "被指导的；有针对性的；direct 的过去式/分词",
+    "example": "The movie was directed by her.",
+    "collocation": "directed at；directed by",
+    "roots": "",
+    "inflection": "原形：direct；-ing：directing",
+    "related": "director：导演/主管｜direction：方向",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "direct：指导；-ed：分词/形容词化"
     }
   },
   {
@@ -3187,6 +3742,21 @@
     }
   },
   {
+    "word": "evaluate",
+    "pos": "v.",
+    "phonetic": "BrE /ɪˈvæljueɪt/；AmE /ɪˈvæljueɪt/",
+    "meaning": "评估；评价",
+    "example": "We need to evaluate the results.",
+    "collocation": "evaluate performance；evaluate whether...",
+    "roots": "",
+    "inflection": "三单：evaluates；过去：evaluated；-ing：evaluating",
+    "related": "evaluation：评估｜assess：评估",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "e-：出；valu：价值；-ate：动词后缀"
+    }
+  },
+  {
     "word": "executive",
     "pos": "n./adj.",
     "phonetic": "BrE /ɪɡˈzekjətɪv/；AmE /ɪɡˈzekjətɪv/",
@@ -3244,6 +3814,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "exist + -ing（现在分词/形容词化）"
+    }
+  },
+  {
+    "word": "expire",
+    "pos": "v.",
+    "phonetic": "BrE /ɪkˈspaɪə/；AmE /ɪkˈspaɪr/",
+    "meaning": "到期；失效",
+    "example": "My passport expires soon.",
+    "collocation": "expire on；expire in",
+    "roots": "",
+    "inflection": "三单：expires；过去：expired；-ing：expiring",
+    "related": "expiration：到期｜valid：有效的（对比）",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "ex-：向外；spire：呼吸（词源“呼出→终止”）"
     }
   },
   {
@@ -3382,6 +3967,21 @@
     }
   },
   {
+    "word": "indirect",
+    "pos": "adj.",
+    "phonetic": "BrE /ˌɪndəˈrekt/；AmE /ˌɪndəˈrekt/",
+    "meaning": "间接的；迂回的",
+    "example": "We took an indirect route.",
+    "collocation": "indirect effect；indirect question",
+    "roots": "",
+    "inflection": "—",
+    "related": "direct：直接的｜indirectly：间接地",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：不；direct：直接"
+    }
+  },
+  {
     "word": "industrial",
     "pos": "adj.",
     "phonetic": "BrE /ɪnˈdʌstriəl/；AmE /ɪnˈdʌstriəl/",
@@ -3409,6 +4009,51 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "in-：不；evit（避免）+ -ably（副词化）"
+    }
+  },
+  {
+    "word": "initial",
+    "pos": "adj./n.",
+    "phonetic": "BrE /ɪˈnɪʃəl/；AmE /ɪˈnɪʃəl/",
+    "meaning": "最初的；首字母",
+    "example": "We made an initial payment.",
+    "collocation": "initial stage；initial payment",
+    "roots": "",
+    "inflection": "复数：initials（首字母复数）",
+    "related": "initially：最初｜beginning：开始",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "init-：开始；-ial：形容词后缀"
+    }
+  },
+  {
+    "word": "initially",
+    "pos": "adv.",
+    "phonetic": "BrE /ɪˈnɪʃəli/；AmE /ɪˈnɪʃəli/",
+    "meaning": "起初；最初",
+    "example": "Initially, we planned to stay one week.",
+    "collocation": "initially + 句子",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "at first：起初｜originally：原本",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "initial：最初的；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "insert",
+    "pos": "v./n.",
+    "phonetic": "BrE /ɪnˈsɜːt/（v.）；BrE /ˈɪnsɜːt/（n.）；AmE /ɪnˈsɜːrt/（v.）；AmE /ˈɪnsɜːrt/（n.）",
+    "meaning": "插入；插入物",
+    "example": "Insert the card into the machine.",
+    "collocation": "insert into；insert a page",
+    "roots": "",
+    "inflection": "动词：inserts/inserted/inserting；名词复数：inserts",
+    "related": "add：添加｜embed：嵌入",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：入；sert：放置/连接"
     }
   },
   {
@@ -3469,6 +4114,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "luxury + -ies（复数变化 y→ies）"
+    }
+  },
+  {
+    "word": "mature",
+    "pos": "adj./v.",
+    "phonetic": "BrE /məˈtʃʊə/；AmE /məˈtʊr/",
+    "meaning": "成熟的；使成熟",
+    "example": "The wine has matured well.",
+    "collocation": "mature enough；mature into",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most mature；动词：matures/matured/maturing",
+    "related": "maturity：成熟｜adult：成年人",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -3577,6 +4237,36 @@
     }
   },
   {
+    "word": "pest",
+    "pos": "n.",
+    "phonetic": "BrE /pest/；AmE /pest/",
+    "meaning": "害虫；讨厌的人/事",
+    "example": "The farm has a pest problem.",
+    "collocation": "pest control",
+    "roots": "",
+    "inflection": "复数：pests",
+    "related": "insect：昆虫｜nuisance：麻烦事/讨厌的人",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "pharmacy",
+    "pos": "n.",
+    "phonetic": "BrE /ˈfɑːməsi/；AmE /ˈfɑːrməsi/",
+    "meaning": "药房；药学",
+    "example": "I picked it up at the pharmacy.",
+    "collocation": "at the pharmacy；pharmacy department",
+    "roots": "",
+    "inflection": "复数：pharmacies",
+    "related": "pharmacist：药剂师｜drugstore：药店（美）",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "pharm-：药；-acy：名词后缀"
+    }
+  },
+  {
     "word": "plenty",
     "pos": "pron./n.",
     "phonetic": "BrE /ˈplenti/；AmE /ˈplɛnti/",
@@ -3589,6 +4279,66 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型"
+    }
+  },
+  {
+    "word": "plum",
+    "pos": "n./adj.",
+    "phonetic": "BrE /plʌm/；AmE /plʌm/",
+    "meaning": "李子；紫红色；（非正式）很好的",
+    "example": "She bought some plums. / He got a plum job.",
+    "collocation": "plum tree；plum job",
+    "roots": "",
+    "inflection": "复数：plums",
+    "related": "prune：梅干｜purple：紫色",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "plumber",
+    "pos": "n.",
+    "phonetic": "BrE /ˈplʌmə/；AmE /ˈplʌmər/",
+    "meaning": "水管工",
+    "example": "Call a plumber to fix the leak.",
+    "collocation": "emergency plumber",
+    "roots": "",
+    "inflection": "复数：plumbers",
+    "related": "plumbing：管道系统｜pipe：管子",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "plumb（铅锤/垂直）+ -er：人/者"
+    }
+  },
+  {
+    "word": "popularity",
+    "pos": "n.",
+    "phonetic": "BrE /ˌpɒpjəˈlærəti/；AmE /ˌpɑːpjəˈlærəti/",
+    "meaning": "受欢迎；人气",
+    "example": "His popularity increased quickly.",
+    "collocation": "gain popularity；rise in popularity",
+    "roots": "",
+    "inflection": "复数：popularities（少用）",
+    "related": "popular：受欢迎的｜fame：名声",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "popular：受欢迎的；-ity：名词后缀"
+    }
+  },
+  {
+    "word": "postpone",
+    "pos": "v.",
+    "phonetic": "BrE /pəˈspəʊn/；AmE /pəˈspoʊn/",
+    "meaning": "推迟；延期",
+    "example": "They postponed the meeting until Friday.",
+    "collocation": "postpone the meeting；postpone until/to",
+    "roots": "",
+    "inflection": "三单：postpones；过去：postponed；-ing：postponing",
+    "related": "delay：延迟｜put off：推迟（口语）",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "post-：后；pone（放置）"
     }
   },
   {
@@ -3847,6 +4597,66 @@
     }
   },
   {
+    "word": "revision",
+    "pos": "n.",
+    "phonetic": "BrE /rɪˈvɪʒən/；AmE /rɪˈvɪʒən/",
+    "meaning": "修订；修改；复习",
+    "example": "I made a revision to the document.",
+    "collocation": "make revisions；revision history",
+    "roots": "",
+    "inflection": "复数：revisions",
+    "related": "review：复习/审查｜revise：修订",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：再；vis：看；-ion：名词后缀"
+    }
+  },
+  {
+    "word": "scatter",
+    "pos": "v.",
+    "phonetic": "BrE /ˈskætə/；AmE /ˈskætər/",
+    "meaning": "撒；使分散",
+    "example": "Leaves were scattered on the road.",
+    "collocation": "scatter around；scatter across",
+    "roots": "",
+    "inflection": "三单：scatters；过去：scattered；-ing：scattering",
+    "related": "scattered：零散的｜disperse：驱散/分散",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "scattered",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈskætəd/；AmE /ˈskætərd/",
+    "meaning": "零散的；分散的",
+    "example": "There are scattered showers today.",
+    "collocation": "scattered across；scattered throughout",
+    "roots": "",
+    "inflection": "—",
+    "related": "scatter：分散｜sporadic：零星的",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "scatter：分散；-ed：形容词化"
+    }
+  },
+  {
+    "word": "scrub",
+    "pos": "v./n.",
+    "phonetic": "BrE /skrʌb/；AmE /skrʌb/",
+    "meaning": "用力擦洗；灌木丛；（医疗）洗手消毒",
+    "example": "Scrub the floor with a brush.",
+    "collocation": "scrub up；scrub the sink",
+    "roots": "",
+    "inflection": "三单：scrubs；过去：scrubbed；-ing：scrubbing",
+    "related": "clean：清洁｜brush：刷子",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "server",
     "pos": "n.",
     "phonetic": "BrE /ˈsɜːvə/；AmE /ˈsɝːvər/",
@@ -3907,6 +4717,36 @@
     }
   },
   {
+    "word": "tow",
+    "pos": "v./n.",
+    "phonetic": "BrE /təʊ/；AmE /toʊ/",
+    "meaning": "拖；牵引；拖车",
+    "example": "The car was towed away.",
+    "collocation": "tow truck；tow away",
+    "roots": "",
+    "inflection": "动词：tows/towed/towing；名词复数：tows",
+    "related": "towed：被拖走的｜haul：拖拉",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "towed",
+    "pos": "adj./v.",
+    "phonetic": "BrE /təʊd/；AmE /toʊd/",
+    "meaning": "被拖走的；tow 的过去式/分词",
+    "example": "My car got towed.",
+    "collocation": "get towed；towed away",
+    "roots": "",
+    "inflection": "原形：tow；-ing：towing",
+    "related": "tow truck：拖车｜impound：扣押车辆",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "tow：拖；-ed：过去式/分词"
+    }
+  },
+  {
     "word": "urgency",
     "pos": "n.",
     "phonetic": "BrE /ˈɜːdʒənsi/；AmE /ˈɜːrdʒənsi/",
@@ -3934,6 +4774,21 @@
     "position": 3000,
     "extra": {
       "词根词缀,词头词尾": "val-：强/值（词源相关）；-id：形容词词尾"
+    }
+  },
+  {
+    "word": "verify",
+    "pos": "v.",
+    "phonetic": "BrE /ˈverɪfaɪ/；AmE /ˈverɪfaɪ/",
+    "meaning": "核实；验证",
+    "example": "Please verify your identity.",
+    "collocation": "verify that...；verify information",
+    "roots": "",
+    "inflection": "三单：verifies；过去：verified；-ing：verifying",
+    "related": "verification：核实｜validate：验证",
+    "position": 3000,
+    "extra": {
+      "词根词缀,词头词尾": "ver-：真；-ify：使…"
     }
   },
   {
@@ -4009,6 +4864,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "air + fare（票价）"
+    }
+  },
+  {
+    "word": "alternate",
+    "pos": "adj./v.",
+    "phonetic": "BrE /ɔːlˈtɜːnət/（adj.）；BrE /ˈɔːltəneɪt/（v.）；AmE /ˈɔːltərnət/（adj.）；AmE /ˈɔːltərneɪt/（v.）",
+    "meaning": "交替的；替代的；轮流",
+    "example": "Use an alternate route. / They alternate shifts.",
+    "collocation": "alternate route；alternate between",
+    "roots": "",
+    "inflection": "形：more/most alternate；动词：alternates/alternated/alternating",
+    "related": "alternative：替代方案｜option：选项",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "alter：改变；-ate：动词后缀"
     }
   },
   {
@@ -4147,6 +5017,21 @@
     }
   },
   {
+    "word": "bid",
+    "pos": "n./v.",
+    "phonetic": "BrE /bɪd/；AmE /bɪd/",
+    "meaning": "出价；投标；努力尝试",
+    "example": "They made a bid for the company.",
+    "collocation": "bid for；submit a bid",
+    "roots": "",
+    "inflection": "复数：bids；动词：bids/bid/bidding",
+    "related": "offer：报价｜tender：投标",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "brake",
     "pos": "n./v.",
     "phonetic": "BrE /breɪk/；AmE /breɪk/",
@@ -4174,6 +5059,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "cabin（小室）语源 + -et（名词后缀：小/物件）"
+    }
+  },
+  {
+    "word": "cater",
+    "pos": "v.",
+    "phonetic": "BrE /ˈkeɪtə/；AmE /ˈkeɪtər/",
+    "meaning": "提供餐饮；迎合（需求）",
+    "example": "They cater for weddings. / The app caters to beginners.",
+    "collocation": "cater for；cater to",
+    "roots": "",
+    "inflection": "三单：caters；过去：catered；-ing：catering",
+    "related": "catering：餐饮服务｜serve：供应",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -4297,6 +5197,21 @@
     }
   },
   {
+    "word": "contractor",
+    "pos": "n.",
+    "phonetic": "BrE /kənˈtræktə/；AmE /kənˈtræktər/",
+    "meaning": "承包商；合同工",
+    "example": "The contractor finished the renovation.",
+    "collocation": "general contractor；independent contractor",
+    "roots": "",
+    "inflection": "复数：contractors",
+    "related": "contract：合同｜subcontractor：分包商",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "contract：合同；-or：人/者后缀"
+    }
+  },
+  {
     "word": "controversial",
     "pos": "adj.",
     "phonetic": "BrE /ˌkɒntrəˈvɜːʃəl/；AmE /ˌkɑːntrəˈvɜːrʃəl/",
@@ -4339,6 +5254,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "cosmet-：装饰/美容；-ic：形容词后缀"
+    }
+  },
+  {
+    "word": "cubicle",
+    "pos": "n.",
+    "phonetic": "BrE /ˈkjuːbɪkəl/；AmE /ˈkjuːbɪkəl/",
+    "meaning": "（办公室）小隔间",
+    "example": "She works in a small cubicle.",
+    "collocation": "office cubicle",
+    "roots": "",
+    "inflection": "复数：cubicles",
+    "related": "booth：隔间｜partition：隔板",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "cube：立方；-icle：名词后缀"
     }
   },
   {
@@ -4399,6 +5329,36 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "designate：指定；-ation：名词后缀"
+    }
+  },
+  {
+    "word": "detour",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈdiːtʊə/；AmE /ˈdiːtʊr/",
+    "meaning": "绕行；绕道",
+    "example": "We had to take a detour.",
+    "collocation": "make a detour",
+    "roots": "",
+    "inflection": "复数：detours；动词：detours/detoured/detouring",
+    "related": "diversion：改道｜bypass：绕开",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "法语词源（绕道）"
+    }
+  },
+  {
+    "word": "dispute",
+    "pos": "n./v.",
+    "phonetic": "BrE /dɪˈspjuːt/；AmE /dɪˈspjuːt/",
+    "meaning": "争议；纠纷；争辩",
+    "example": "There is a dispute over the bill.",
+    "collocation": "dispute over；settle a dispute",
+    "roots": "",
+    "inflection": "复数：disputes；动词：disputes/disputed/disputing",
+    "related": "conflict：冲突｜argument：争论",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "dis-：不/分开；pute：认为"
     }
   },
   {
@@ -4537,6 +5497,21 @@
     }
   },
   {
+    "word": "existence",
+    "pos": "n.",
+    "phonetic": "BrE /ɪɡˈzɪstəns/；AmE /ɪɡˈzɪstəns/",
+    "meaning": "存在；生存",
+    "example": "The existence of water is essential.",
+    "collocation": "in existence；come into existence",
+    "roots": "",
+    "inflection": "—",
+    "related": "exist：存在｜existing：现有的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "exist：存在；-ence：名词后缀"
+    }
+  },
+  {
     "word": "extension",
     "pos": "n.",
     "phonetic": "BrE /ɪkˈstenʃən/；AmE /ɪkˈstenʃən/",
@@ -4564,6 +5539,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "词根 fab-（制作）语源相关（如 fabricate）"
+    }
+  },
+  {
+    "word": "finalize",
+    "pos": "v.",
+    "phonetic": "BrE /ˈfaɪnəlaɪz/；AmE /ˈfaɪnəlaɪz/",
+    "meaning": "最终确定；定稿",
+    "example": "We need to finalize the contract today.",
+    "collocation": "finalize a plan；finalize details",
+    "roots": "",
+    "inflection": "三单：finalizes；过去：finalized；-ing：finalizing",
+    "related": "final：最终的｜completion：完成",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "final：最终；-ize：动词后缀"
     }
   },
   {
@@ -4672,6 +5662,21 @@
     }
   },
   {
+    "word": "indirectly",
+    "pos": "adv.",
+    "phonetic": "BrE /ˌɪndəˈrektli/；AmE /ˌɪndəˈrektli/",
+    "meaning": "间接地",
+    "example": "He indirectly hinted at the problem.",
+    "collocation": "indirectly affect",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "indirect：间接的｜implicitly：含蓄地",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "indirect：间接的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "industrious",
     "pos": "adj.",
     "phonetic": "BrE /ɪnˈdʌstriəs/；AmE /ɪnˈdʌstriəs/",
@@ -4684,6 +5689,36 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "industry：勤奋；-ous：形容词后缀"
+    }
+  },
+  {
+    "word": "inquire",
+    "pos": "v.",
+    "phonetic": "BrE /ɪnˈkwaɪə/；AmE /ɪnˈkwaɪr/",
+    "meaning": "询问；调查",
+    "example": "I called to inquire about the price.",
+    "collocation": "inquire about；inquire into",
+    "roots": "",
+    "inflection": "三单：inquires；过去：inquired；-ing：inquiring",
+    "related": "inquiry：询问/调查｜ask：问",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：向内；quire（问）"
+    }
+  },
+  {
+    "word": "inquiry",
+    "pos": "n.",
+    "phonetic": "BrE /ɪnˈkwaɪəri/；AmE /ˈɪnkwəri/",
+    "meaning": "询问；调查",
+    "example": "We made an inquiry about the service.",
+    "collocation": "inquiry into；make an inquiry",
+    "roots": "",
+    "inflection": "复数：inquiries",
+    "related": "question：问题｜investigation：调查",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "inquire：询问；-y：名词后缀"
     }
   },
   {
@@ -4762,6 +5797,21 @@
     }
   },
   {
+    "word": "invoice",
+    "pos": "n.",
+    "phonetic": "BrE /ˈɪnvɔɪs/；AmE /ˈɪnvɔɪs/",
+    "meaning": "发票；开票",
+    "example": "Please send the invoice by Friday.",
+    "collocation": "invoice number；issue an invoice",
+    "roots": "",
+    "inflection": "复数：invoices；动词：invoices/invoiced/invoicing",
+    "related": "bill：账单｜receipt：收据",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "in-：向内；voice（词源相关）"
+    }
+  },
+  {
     "word": "keynote",
     "pos": "n.",
     "phonetic": "BrE /ˈkiːnəʊt/；AmE /ˈkiːnoʊt/",
@@ -4789,6 +5839,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "knock（敲/撞）+ over（向倒下）"
+    }
+  },
+  {
+    "word": "lease",
+    "pos": "n./v.",
+    "phonetic": "BrE /liːs/；AmE /liːs/",
+    "meaning": "租约；租赁",
+    "example": "The lease expires next month.",
+    "collocation": "sign a lease；lease a car",
+    "roots": "",
+    "inflection": "复数：leases；动词：leases/leased/leasing",
+    "related": "tenant：房客｜rent：租",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
     }
   },
   {
@@ -4867,6 +5932,21 @@
     }
   },
   {
+    "word": "mortgage",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈmɔːɡɪdʒ/；AmE /ˈmɔːrɡɪdʒ/",
+    "meaning": "抵押贷款；抵押",
+    "example": "The bank approved our mortgage.",
+    "collocation": "mortgage loan；take out a mortgage",
+    "roots": "",
+    "inflection": "复数：mortgages；动词：mortgages/mortgaged/mortgaging",
+    "related": "loan：贷款｜interest rate：利率",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "法语词源（“死亡担保”）"
+    }
+  },
+  {
     "word": "multilingual",
     "pos": "adj.",
     "phonetic": "BrE /ˌmʌltiˈlɪŋɡwəl/；AmE /ˌmʌltiˈlɪŋɡwəl/",
@@ -4879,6 +5959,36 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "multi-：多；lingu-：语言"
+    }
+  },
+  {
+    "word": "negotiate",
+    "pos": "v.",
+    "phonetic": "BrE /nɪˈɡəʊʃieɪt/；AmE /nɪˈɡoʊʃieɪt/",
+    "meaning": "谈判；协商",
+    "example": "We negotiated a better price.",
+    "collocation": "negotiate with；negotiate a contract",
+    "roots": "",
+    "inflection": "三单：negotiates；过去：negotiated；-ing：negotiating",
+    "related": "negotiation：谈判｜bargain：讨价还价",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "negoti-：做买卖/谈判；-ate：动词"
+    }
+  },
+  {
+    "word": "negotiation",
+    "pos": "n.",
+    "phonetic": "BrE /nɪˌɡəʊʃiˈeɪʃən/；AmE /nɪˌɡoʊʃiˈeɪʃən/",
+    "meaning": "谈判；协商",
+    "example": "Negotiation can take weeks.",
+    "collocation": "in negotiation；contract negotiation",
+    "roots": "",
+    "inflection": "复数：negotiations",
+    "related": "negotiate：谈判｜agreement：协议",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "negotiate：谈判；-ation：名词后缀"
     }
   },
   {
@@ -4942,6 +6052,21 @@
     }
   },
   {
+    "word": "pane",
+    "pos": "n.",
+    "phonetic": "BrE /peɪn/；AmE /peɪn/",
+    "meaning": "窗格玻璃；（窗）一块玻璃",
+    "example": "The window has two panes.",
+    "collocation": "pane of glass",
+    "roots": "",
+    "inflection": "复数：panes",
+    "related": "windowpane：窗玻璃｜panel：嵌板（易混）",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "participate",
     "pos": "v.",
     "phonetic": "BrE /pɑːˈtɪsɪpeɪt/；AmE /pɑːrˈtɪsɪpeɪt/",
@@ -5002,6 +6127,21 @@
     }
   },
   {
+    "word": "popularly",
+    "pos": "adv.",
+    "phonetic": "BrE /ˈpɒpjələli/；AmE /ˈpɑːpjələrli/",
+    "meaning": "通俗地；大众地",
+    "example": "The term is popularly used in daily speech.",
+    "collocation": "popularly known as",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "popular：大众的｜commonly：通常地",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "popular：受欢迎的；-ly：副词后缀"
+    }
+  },
+  {
     "word": "profitable",
     "pos": "adj.",
     "phonetic": "BrE /ˈprɒfɪtəbl/；AmE /ˈprɑːfɪtəbl/",
@@ -5014,6 +6154,36 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "profit（利润）+ -able（可…的，形容词后缀）"
+    }
+  },
+  {
+    "word": "progressive",
+    "pos": "adj./n.",
+    "phonetic": "BrE /prəˈɡresɪv/；AmE /prəˈɡresɪv/",
+    "meaning": "渐进的；进步的；进步人士",
+    "example": "A progressive plan can reduce risk.",
+    "collocation": "progressive policy；progressive tax",
+    "roots": "",
+    "inflection": "比较级/最高级：more/most progressive",
+    "related": "progressively：逐步地｜gradual：逐渐的",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "progress：进步；-ive：形容词后缀"
+    }
+  },
+  {
+    "word": "punctual",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈpʌŋktʃuəl/；AmE /ˈpʌŋktʃuəl/",
+    "meaning": "准时的",
+    "example": "His boss expects everyone to be punctual.",
+    "collocation": "be punctual；punctual arrival",
+    "roots": "",
+    "inflection": "—",
+    "related": "punctually：准时地｜on time：准时",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "punct：点（准点）；-ual：形容词后缀"
     }
   },
   {
@@ -5059,6 +6229,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "quali-（性质）+ -fy（使…化，动词后缀）"
+    }
+  },
+  {
+    "word": "reassure",
+    "pos": "v.",
+    "phonetic": "BrE /ˌriːəˈʃʊə/；AmE /ˌriːəˈʃʊr/",
+    "meaning": "使安心；安慰",
+    "example": "He reassured me that everything was fine.",
+    "collocation": "reassure A that...；reassure A about",
+    "roots": "",
+    "inflection": "三单：reassures；过去：reassured；-ing：reassuring",
+    "related": "reassurance：安慰｜assure：保证",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "re-：再；assure：使放心"
     }
   },
   {
@@ -5272,6 +6457,21 @@
     }
   },
   {
+    "word": "utensil",
+    "pos": "n.",
+    "phonetic": "BrE /juːˈtensəl/；AmE /juːˈtensəl/",
+    "meaning": "器具；（厨房）用具",
+    "example": "Please put the utensils in the drawer.",
+    "collocation": "kitchen utensil；cooking utensil",
+    "roots": "",
+    "inflection": "复数：utensils",
+    "related": "tool：工具｜cutlery：刀叉餐具",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
     "word": "validate",
     "pos": "v.",
     "phonetic": "BrE /ˈvælɪdeɪt/；AmE /ˈvælɪdeɪt/",
@@ -5299,6 +6499,21 @@
     "position": 4000,
     "extra": {
       "词根词缀,词头词尾": "vary（变化）+ -able（形容词后缀：可…的）"
+    }
+  },
+  {
+    "word": "vendor",
+    "pos": "n.",
+    "phonetic": "BrE /ˈvendə/；AmE /ˈvendər/",
+    "meaning": "供应商；小贩",
+    "example": "We selected a new software vendor.",
+    "collocation": "vendor list；approved vendor",
+    "roots": "",
+    "inflection": "复数：vendors",
+    "related": "supplier：供应商｜vendor management：供应商管理",
+    "position": 4000,
+    "extra": {
+      "词根词缀,词头词尾": "vend：出售 + -or：人/者"
     }
   },
   {
@@ -5377,6 +6592,21 @@
     }
   },
   {
+    "word": "attire",
+    "pos": "n.",
+    "phonetic": "BrE /əˈtaɪə/；AmE /əˈtaɪr/",
+    "meaning": "服装；装束",
+    "example": "Formal attire is required.",
+    "collocation": "formal attire；business attire",
+    "roots": "",
+    "inflection": "—",
+    "related": "clothing：衣服｜outfit：穿搭",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "法语词源（装备/穿着）"
+    }
+  },
+  {
     "word": "automaker",
     "pos": "n.",
     "phonetic": "BrE /ˈɔːtəʊˌmeɪkə/；AmE /ˈɔːtoʊˌmeɪkər/",
@@ -5389,6 +6619,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "auto：汽车；maker：制造者"
+    }
+  },
+  {
+    "word": "binocular",
+    "pos": "adj./n.",
+    "phonetic": "BrE /bɪˈnɒkjʊlə/；AmE /bɪˈnɑːkjələr/",
+    "meaning": "双眼的；双筒望远镜（常复数 binoculars）",
+    "example": "I brought binoculars to watch birds.",
+    "collocation": "binocular vision",
+    "roots": "",
+    "inflection": "常用：binoculars（复数）",
+    "related": "telescope：望远镜｜lens：镜头",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "bi-：二；ocular：眼的"
     }
   },
   {
@@ -5419,6 +6664,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型；软件/通信也用“bundle”"
+    }
+  },
+  {
+    "word": "certification",
+    "pos": "n.",
+    "phonetic": "BrE /ˌsɜːtɪfɪˈkeɪʃən/；AmE /ˌsɜːrtɪfɪˈkeɪʃən/",
+    "meaning": "认证；资格证书",
+    "example": "He got professional certification.",
+    "collocation": "certification program；obtain certification",
+    "roots": "",
+    "inflection": "复数：certifications",
+    "related": "certificate：证书｜license：执照",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "certify：证明；-ation：名词后缀"
     }
   },
   {
@@ -5494,6 +6754,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "词缀不典型"
+    }
+  },
+  {
+    "word": "debtor",
+    "pos": "n.",
+    "phonetic": "BrE /ˈdetə/；AmE /ˈdetər/",
+    "meaning": "债务人",
+    "example": "The debtor failed to pay on time.",
+    "collocation": "debtor and creditor",
+    "roots": "",
+    "inflection": "复数：debtors",
+    "related": "creditor：债权人｜debt：债务",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "debt：债务；-or：人/者后缀"
     }
   },
   {
@@ -5587,6 +6862,21 @@
     }
   },
   {
+    "word": "excerpt",
+    "pos": "n.",
+    "phonetic": "BrE /ˈeksɜːpt/；AmE /ˈeksɜːrpt/",
+    "meaning": "节选；摘录",
+    "example": "I read an excerpt from the report.",
+    "collocation": "excerpt from",
+    "roots": "",
+    "inflection": "复数：excerpts",
+    "related": "extract：摘录｜quotation：引文",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "ex-：出；cerpt（摘取）"
+    }
+  },
+  {
     "word": "exhibitor",
     "pos": "n.",
     "phonetic": "BrE /ɪɡˈzɪbɪtə/；AmE /ɪɡˈzɪbɪtər/",
@@ -5632,6 +6922,21 @@
     }
   },
   {
+    "word": "fund-raiser",
+    "pos": "n.",
+    "phonetic": "BrE /ˈfʌndˌreɪzə/；AmE /ˈfʌndˌreɪzər/",
+    "meaning": "筹款人；募捐活动",
+    "example": "The fund-raiser starts at 7 p.m.",
+    "collocation": "charity fund-raiser；hold a fund-raiser",
+    "roots": "",
+    "inflection": "复数：fund-raisers",
+    "related": "fundraising：筹款｜donation：捐款",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "fund + raise + -er"
+    }
+  },
+  {
     "word": "generously",
     "pos": "adv.",
     "phonetic": "BrE /ˈdʒenərəsli/；AmE /ˈdʒenərəsli/",
@@ -5647,6 +6952,21 @@
     }
   },
   {
+    "word": "headquarter",
+    "pos": "n./v.",
+    "phonetic": "BrE /ˈhedˌkwɔːtə/；AmE /ˈhedˌkwɔːrtər/",
+    "meaning": "总部（常用复数 headquarters）",
+    "example": "Our headquarters is in Tokyo.",
+    "collocation": "corporate headquarters",
+    "roots": "",
+    "inflection": "常用：headquarters（单复同形）",
+    "related": "HQ：总部缩写｜branch：分部",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "head + quarter（驻地）"
+    }
+  },
+  {
     "word": "headquarter(s)",
     "pos": "n.（常用 headquarters）",
     "phonetic": "BrE /ˈhedˌkwɔːtəz/；AmE /ˈhedˌkwɔːrtərz/",
@@ -5659,6 +6979,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "head + quarter（驻扎处）+ -s（固定形式）"
+    }
+  },
+  {
+    "word": "imminent",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈɪmɪnənt/；AmE /ˈɪmɪnənt/",
+    "meaning": "即将发生的；迫在眉睫的",
+    "example": "A storm is imminent.",
+    "collocation": "imminent danger/arrival",
+    "roots": "",
+    "inflection": "—",
+    "related": "impending：即将来临的｜forthcoming：即将到来的",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "im-：向内；minent（突起→迫近）"
     }
   },
   {
@@ -5689,6 +7024,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "in-：使；flict（击打/冲突词源）"
+    }
+  },
+  {
+    "word": "initiate",
+    "pos": "v.",
+    "phonetic": "BrE /ɪˈnɪʃieɪt/；AmE /ɪˈnɪʃieɪt/",
+    "meaning": "开始；发起；使入门",
+    "example": "They initiated an investigation.",
+    "collocation": "initiate a process；initiate talks",
+    "roots": "",
+    "inflection": "三单：initiates；过去：initiated；-ing：initiating",
+    "related": "initiation：开始/入会仪式｜launch：发起",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "init-：开始；-ate：动词后缀"
     }
   },
   {
@@ -5782,6 +7132,21 @@
     }
   },
   {
+    "word": "popularize",
+    "pos": "v.",
+    "phonetic": "BrE /ˈpɒpjələraɪz/；AmE /ˈpɑːpjələraɪz/",
+    "meaning": "使普及；推广",
+    "example": "He helped popularize the concept.",
+    "collocation": "popularize an idea",
+    "roots": "",
+    "inflection": "三单：popularizes；过去：popularized；-ing：popularizing",
+    "related": "promote：推广｜spread：传播",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "popular：大众的；-ize：动词后缀"
+    }
+  },
+  {
     "word": "portrait",
     "pos": "n.",
     "phonetic": "BrE /ˈpɔːtrɪt/；AmE /ˈpɔːrtrɪt/",
@@ -5809,6 +7174,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "proficient：熟练的；-ency：名词后缀"
+    }
+  },
+  {
+    "word": "progressively",
+    "pos": "adv.",
+    "phonetic": "BrE /prəˈɡresɪvli/；AmE /prəˈɡresɪvli/",
+    "meaning": "逐步地；渐进地",
+    "example": "The symptoms worsened progressively.",
+    "collocation": "progressively increase/decrease",
+    "roots": "",
+    "inflection": "无比较级",
+    "related": "gradually：逐渐地｜increasingly：越来越",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "progressive：渐进的；-ly：副词后缀"
     }
   },
   {
@@ -5854,6 +7234,21 @@
     "position": 5000,
     "extra": {
       "词根词缀,词头词尾": "quarter + -ly（形/副后缀）"
+    }
+  },
+  {
+    "word": "raiser",
+    "pos": "n.",
+    "phonetic": "BrE /ˈreɪzə/；AmE /ˈreɪzər/",
+    "meaning": "饲养者/种植者；举起者（多用于复合词）",
+    "example": "He’s a fund-raiser for the charity.",
+    "collocation": "（多见）fund-raiser；money-raiser",
+    "roots": "",
+    "inflection": "复数：raisers",
+    "related": "raise：提高/筹集｜fundraising：筹款",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "raise：举起/筹集；-er：人/者"
     }
   },
   {
@@ -6127,6 +7522,21 @@
     }
   },
   {
+    "word": "windowpane",
+    "pos": "n.",
+    "phonetic": "BrE /ˈwɪndəʊpeɪn/；AmE /ˈwɪndoʊpeɪn/",
+    "meaning": "窗玻璃（单块）",
+    "example": "A bird hit the windowpane.",
+    "collocation": "windowpane glass",
+    "roots": "",
+    "inflection": "复数：windowpanes",
+    "related": "pane：窗格玻璃｜window：窗户",
+    "position": 5000,
+    "extra": {
+      "词根词缀,词头词尾": "window + pane（复合词）"
+    }
+  },
+  {
     "word": "accommodatingly",
     "pos": "adv.",
     "phonetic": "BrE /əˈkɒmədeɪtɪŋli/；AmE /əˈkɑːmədeɪtɪŋli/",
@@ -6247,6 +7657,21 @@
     }
   },
   {
+    "word": "concierge",
+    "pos": "n.",
+    "phonetic": "BrE /ˌkɒnsiˈeəʒ/；AmE /ˌkɑːnsiˈerʒ/",
+    "meaning": "（酒店）礼宾；门房",
+    "example": "Ask the concierge for restaurant recommendations.",
+    "collocation": "concierge desk；concierge service",
+    "roots": "",
+    "inflection": "复数：concierges",
+    "related": "reception：接待｜front desk：前台",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "法语词源"
+    }
+  },
+  {
     "word": "considerate",
     "pos": "adj.",
     "phonetic": "BrE /kənˈsɪdərət/; AmE /kənˈsɪdərət/",
@@ -6274,6 +7699,21 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "con-（一起）+ solid（坚固）+ -ate（动词后缀）"
+    }
+  },
+  {
+    "word": "culinary",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈkʌlɪnəri/；AmE /ˈkʌlɪneri/",
+    "meaning": "烹饪的；厨房的",
+    "example": "She studied culinary arts.",
+    "collocation": "culinary school；culinary skills",
+    "roots": "",
+    "inflection": "—",
+    "related": "cuisine：菜系｜cookery：烹饪",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "拉丁 culina（厨房）"
     }
   },
   {
@@ -6349,6 +7789,21 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "exception + -ally（副词化）"
+    }
+  },
+  {
+    "word": "existent",
+    "pos": "adj.",
+    "phonetic": "BrE /ɪɡˈzɪstənt/；AmE /ɪɡˈzɪstənt/",
+    "meaning": "现存的；存在的",
+    "example": "The policy affects existent customers.",
+    "collocation": "existent problem（少用）",
+    "roots": "",
+    "inflection": "—",
+    "related": "existing：现有的（更常用）｜existence：存在",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "exist：存在；-ent：形容词后缀"
     }
   },
   {
@@ -6472,6 +7927,21 @@
     }
   },
   {
+    "word": "plumb",
+    "pos": "adj./v./adv.",
+    "phonetic": "BrE /plʌm/；AmE /plʌm/",
+    "meaning": "垂直的；（用铅锤）测垂直；探究",
+    "example": "The wall is plumb. / They plumbed the pipe system.",
+    "collocation": "plumb line；plumb the depths",
+    "roots": "",
+    "inflection": "动词：plumbs/plumbed/plumbing",
+    "related": "plumber：管道工｜plumbing：管道系统",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "词源 plumb（铅）"
+    }
+  },
+  {
     "word": "pricing",
     "pos": "n.",
     "phonetic": "BrE /ˈpraɪsɪŋ/；AmE /ˈpraɪsɪŋ/",
@@ -6484,6 +7954,21 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "price + -ing（名词化：活动/体系）"
+    }
+  },
+  {
+    "word": "recept",
+    "pos": "n.",
+    "phonetic": "BrE /ˈriːsept/；AmE /ˈriːsept/",
+    "meaning": "（罕）处方；要点/格言（较少见）",
+    "example": "This word is rare in modern English.",
+    "collocation": "（少用）",
+    "roots": "",
+    "inflection": "复数：recepts",
+    "related": "receipt（收据，常见词形相关）｜reception（接待）",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "来自拉丁语“接受/拿取”词根"
     }
   },
   {
@@ -6574,6 +8059,36 @@
     "position": 6000,
     "extra": {
       "词根词缀,词头词尾": "uni-：一；lateral：侧；-ly：副词后缀"
+    }
+  },
+  {
+    "word": "vend",
+    "pos": "v.",
+    "phonetic": "BrE /vend/；AmE /vend/",
+    "meaning": "出售；贩卖",
+    "example": "The machines vend snacks and drinks.",
+    "collocation": "vend goods；vending machine",
+    "roots": "",
+    "inflection": "三单：vends；过去：vended；-ing：vending",
+    "related": "vendor：供应商｜sell：卖",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "—"
+    }
+  },
+  {
+    "word": "veterinary",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈvetərɪnəri/；AmE /ˈvetərɪneri/",
+    "meaning": "兽医的；动物医学的",
+    "example": "Veterinary care can be expensive.",
+    "collocation": "veterinary clinic；veterinary medicine",
+    "roots": "",
+    "inflection": "—",
+    "related": "veterinarian：兽医｜vet：兽医（口语）",
+    "position": 6000,
+    "extra": {
+      "词根词缀,词头词尾": "拉丁 veterina（牲畜）"
     }
   },
   {
@@ -7552,6 +9067,21 @@
     }
   },
   {
+    "word": "be advised that",
+    "pos": "phr.",
+    "phonetic": "BrE /bi ədˈvaɪzd ðæt/；AmE /bi ədˈvaɪzd ðæt/",
+    "meaning": "请注意/特此告知（正式通知用语）",
+    "example": "Be advised that late fees may apply.",
+    "collocation": "be advised that + 从句",
+    "roots": "",
+    "inflection": "—",
+    "related": "please note that：请注意｜be informed that：特此通知",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "固定公文表达"
+    }
+  },
+  {
     "word": "by the time",
     "pos": "conj.phr.",
     "phonetic": "BrE /baɪ ðə taɪm/；AmE /baɪ ðə taɪm/",
@@ -7564,6 +9094,22 @@
     "position": null,
     "extra": {
       "词根词缀,词头词尾": "固定短语"
+    }
+  },
+  {
+    "word": "definite",
+    "pos": "adj.",
+    "phonetic": "BrE /ˈdefɪnət/；AmE /ˈdefɪnət/",
+    "meaning": "明确的；确定的",
+    "example": "We need a definite answer.",
+    "collocation": "definite plan；definite decision",
+    "roots": "",
+    "inflection": "—",
+    "related": "definitely：肯定地｜definite article：定冠词",
+    "position": null,
+    "extra": {
+      "词根词缀,词头词尾": "de-：加强；fin：界限（词源）",
+      "Unnamed: 10": "2000.0"
     }
   },
   {
